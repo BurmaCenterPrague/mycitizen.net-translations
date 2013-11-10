@@ -1,0 +1,2801 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: mycitizen.net\n"
+"Language: wo\n"
+
+#. GroupPresenter.php:824
+#. ResourcePresenter.php:930
+#. UserPresenter.php:391
+#: 
+msgid "(error)"
+msgstr "အမွား (error)"
+
+#. GroupPresenter.php:825
+#. ResourcePresenter.php:931
+#. UserPresenter.php:392
+#: 
+msgid "(inappropriate language)"
+msgstr "မသင္႔ေလွ်ာ္ေသာဘာသာစကား (inappropriate language)"
+
+#. GroupPresenter.php:823
+#. ResourcePresenter.php:929
+#. UserPresenter.php:390
+#: 
+msgid "(spam)"
+msgstr "မေတာင္းခံသူထံအီးေမးလ္ပို႔ေသာေၾကာ္ၿငာစာ (spam)"
+
+#. detail.phtml:133
+#: 
+msgid "Accept friendship"
+msgstr "သူငယ္ခ်င္းအၿဖစ္လက္ခံပါ"
+
+#. default.phtml:126
+#. default.phtml:143
+#. detail.phtml:139
+#: 
+msgid "Accept friendship request"
+msgstr "သူငယ္ခ်င္းအၿဖစ္ေတာင္းခံမွုကိုလက္ခံပါ"
+
+#. GroupUserListerControl.phtml:16
+#: 
+msgid "Access Level"
+msgstr "အခ်က္အလက္မ်ားကိုရရွိရန္အေနအထားအဆင္႔သို႔ဝင္ေရာက္ပါ"
+
+#. ResourceGroupListerControl.php:73
+#: 
+msgid "Access level"
+msgstr "အခ်က္အလက္မ်ားကိုရရွိရန္အေနအထားအဆင္႔သို႔ဝင္ေရာက္ပါ"
+
+#. AddTagComponent_Group.phtml:59
+#. AddTagComponent_Resource.phtml:59
+#. AddTagComponent_User.phtml:58
+#. ContainerTreeSelectControl.phtml:66
+#. AdministrationPresenter.php:86
+#: 
+msgid "Add"
+msgstr "ေပါင္းထည္႔ပါ"
+
+#. edit.phtml:51
+#. edit.phtml:38
+#. edit.phtml:71
+#: 
+msgid "Add or remove tags"
+msgstr "တြဲရန္ဖိုင္မ်ားကိုေပါင္းထည္႔ပါ(သို႔မဟုတ္)ပယ္ဖ်က္ပါ"
+
+#. AdministrationPresenter.php:169
+#: 
+msgid "Add tag"
+msgstr "တြဲရန္ဖိုင္မ်ားကိုေပါင္းထည္႔ပါ"
+
+#. MapContainer.phtml:63
+#. MapControl.phtml:63
+#: 
+msgid "Address cannot be found."
+msgstr "လိပ္စာကိုမရွာေတြ႔ပါ။"
+
+#. @layout.phtml:154
+#. default.phtml:111
+#. default.phtml:121
+#. default.phtml:158
+#: 
+msgid "Administration"
+msgstr "စီမံခန္႔ခြဲၿခင္း"
+
+#. settings.phtml:0
+#: 
+msgid "Administration - Settings"
+msgstr "စီမံခန္႔ခြဲၿခင္း-ေနာက္ခံဝန္းက်င္အေနအထားမ်ား"
+
+#. setupmaintenance.phtml:0
+#: 
+msgid "Administration - Setup and Maintenance"
+msgstr "စီမံခန္႔ခြဲၿခင္း-တည္ေထာင္ၿခင္းနွင္႔ထိန္းသိမ္းၿခင္း"
+
+#. UserPresenter.php:1184
+#. UserPresenter.php:1189
+#: 
+msgid "Administrator"
+msgstr "စီမံခန္႔ခြဲသူ"
+
+#. UserPresenter.php:1224
+#: 
+msgid "Administrator with id 1 cannot be changed"
+msgstr "အိုင္ဒီနံပါတ္တစ္နွင္႔အတူစီမံခန္႔ခြဲသူကိုမေၿပာင္းလဲနိုင္ပါ။"
+
+#. login.phtml:9
+#: 
+msgid "Already have an account? Sign in below."
+msgstr "အေကာင္႔တစ္ခုရွိၿပီးၿပီလား။ေအာက္တြင္ဝင္ေရာက္ၾကည္႔ရႈပါ။"
+
+#. UserPresenter.php:433
+#: 
+msgid "An email has been sent to you with further instructions."
+msgstr "အီးေမးလ္တစ္ခုသင့္ဆီကိုေနာက္ထပ္ညႊန္ၾကားခ်က္မ်ားႏွင့္အတူပို႔သည္။"
+
+#. ExternalFilter.php:202
+#: 
+msgid "Apply Filter"
+msgstr "စီစစ္မႈကိုေလွ်ာက္ထားပါ"
+
+#. GroupUserListerControl.php:97
+#. ResourceGroupListerControl.php:80
+#. ResourceListerControl.php:76
+#. ResourceMemberListerControl.php:80
+#. UserListerControl.php:107
+#: 
+msgid "Apply filter"
+msgstr "စီစစ္မႈကိုေလွ်ာက္ထားပါ"
+
+#. edit.phtml:14
+#: 
+msgid "April"
+msgstr "ဧၿပီလ"
+
+#. edit.phtml:14
+#: 
+msgid "August"
+msgstr "ၾသဂုတ္လ"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "Automatically reload in regular intervals if something new has been posted."
+msgstr "ျပန္လည္တင္ပို႔သည္။"
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of groups."
+msgstr "အုပ္စုမ်ားစာရင္းသို႔ၿပန္သြားပါ။"
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of users."
+msgstr "အသံုးၿပဳသူမ်ားစာရင္းသို႔ၿပန္သြားပါ။"
+
+#. edit.phtml:48
+#: 
+msgid "Below you can add details: Describe the topics of this group by one or more tags. If your group is located in a particular town, you can mark it on a map. These information will help other users to find your group."
+msgstr "မ်ားကိုတစ္ခုသို႔မဟုတ္တစ္ခုထက္ပိုေသာအမွတ္အသားမ်ားျဖင့္ေပါင္းထည့္ပါ။အကယ္၍သင္၏ၿမိဳ႕သည္သီးသန႔္ေနရာတြင္တည္ရွိပါကေျမပုံေပၚတြင္အမွတ္အသားတစ္ခုျပဳလုပ္နိုင္သည္။ဤသတင္းအခ်က္အလက္မ်ားသည္အျခားေသာအသုံးျပဳသူမ်ားသင္၏အုပ္စုကိုရွာေတြ႕ရန္ကူညီပါလိမ့္မည္။"
+
+#. default.phtml:150
+#. detail.phtml:146
+#: 
+msgid "Cancel friendship"
+msgstr "သူငယ္ခ်င္းအၿဖစ္ကိုပယ္ဖ်က္ပါ"
+
+#. detail.phtml:127
+#: 
+msgid "Cancel subscription"
+msgstr "အဖြဲ႕ဝင္အၿဖစ္ကိုပယ္ဖ်က္ပါ"
+
+#. ListerControlMain_body.phtml:532
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Cannot find what you are searching?"
+msgstr "သင္ရွာေဖြေနသည္႕အရာကိုမေတြ႔ရွိပါသလား။"
+
+#. changelostpassword.phtml:0
+#: 
+msgid "Change lost password"
+msgstr "ေပ်ာက္ဆံုးခဲ႔ေသာစကားဝွက္ကိုေၿပာင္းပါ"
+
+#. UserPresenter.php:285
+#. UserPresenter.php:313
+#. changepassword.phtml:0
+#. edit.phtml:59
+#: 
+msgid "Change password"
+msgstr "စကားဝွက္ကိုေၿပာင္းပါ"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_groups.phtml:229
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#. ListerControlMain_users.phtml:205
+#: 
+msgid "Change the filter"
+msgstr "စီစစ္ယူမႈကိုေၿပာင္းပါ"
+
+#. default.phtml:4
+#: 
+msgid "Choose from the menus above."
+msgstr "အထက္ပါစာရင္းမွေရြးၿခယ္ပါ"
+
+#. ChatLister_body.phtml:4
+#. detail.phtml:339
+#. messages.phtml:13
+#: 
+msgid "Clear"
+msgstr "ရွင္းလင္းပါ"
+
+#. ExternalFilter.php:201
+#: 
+msgid "Clear Filter"
+msgstr "စီစစ္ယူၿခင္းကိရိယာကိုရွင္းလင္းပါ"
+
+#. login.phtml:22
+#: 
+msgid "Click here if you forgot your password."
+msgstr "အကယ္၍သင္၏စကားဝွက္ကိုေမ႔ေလ်ာ႔ပါကဤေနရာကိုနိွပ္ပါ။"
+
+#. edit.phtml:20
+#. edit.phtml:18
+#: 
+msgid "Click inside the image and select your avatar."
+msgstr "ပံုရိပ္အတြင္းနွိပ္ပါ၊ သင္၏ရုပ္ပံုလႊာကိုေရြးခ်ယ္ပါ။"
+
+#. edit.phtml:13
+#: 
+msgid "Close"
+msgstr "ပိတ္ပါ"
+
+#. detail.phtml:312
+#: 
+msgid "Comments"
+msgstr "သံုးသပ္ထင္ၿမင္ခ်က္မ်ား"
+
+#. detail.phtml:388
+#: 
+msgid "Comments are only visible when you are signed in."
+msgstr "သင္(စိုင္းအင္)ဝင္ရာက္ေသာအခါ သံုးသပ္ထင္ၿမင္ခ်က္မ်ားကိုၿမင္ရပါမည္။"
+
+#. ExternalFilter.php:168
+#: 
+msgid "Connect filters with"
+msgstr "စိစစ္ယူမႈကိရိယာမ်ားနွင္႔အတူဆက္သြယ္ပါ"
+
+#. detail.phtml:117
+#: 
+msgid "Copy this link and send it to people who you would like to join. This link is like a key to this group."
+msgstr "ကြင္းဆက္(လင့္ခ္)ကိုကူယူၿပီး၄င္းကိုသင္ဆက္သြယ္လိုေသာသူမ်ားသို႔ပို႔ပါ။"
+
+#. GroupPresenter.php:465
+#. create.phtml:0
+#: 
+msgid "Create new group"
+msgstr "အုပ္စုသစ္ကိုဖြဲ႕ပါ"
+
+#. ResourcePresenter.php:477
+#: 
+msgid "Create new resource"
+msgstr "ရင္းၿမစ္အသစ္ကိုဖန္တီးပါ"
+
+#. edit.phtml:14
+#: 
+msgid "December"
+msgstr "ဒီဇင္ဘာ"
+
+#. GroupPresenter.php:457
+#: 
+msgid "Describe in few sentences what this group is about."
+msgstr "အုပ္စုအေၾကာင္းကိုစာေၾကာင္းအနည္းငယ္ျဖင့္ေဖာ္ျပပါ"
+
+#. ResourcePresenter.php:410
+#: 
+msgid "Describe in few sentences what this resource is about."
+msgstr "ရင္းျမစ္အေၾကာင္းကိုစာေၾကာင္းအနည္းငယ္ျဖင့္ေဖာ္ျပပါ"
+
+#. GroupPresenter.php:457
+#. ResourcePresenter.php:410
+#. UserPresenter.php:637
+#: 
+msgid "Description:"
+msgstr "  ေဖာ္ၿပခ်က္"
+
+#. default.phtml:66
+#: 
+msgid "Discover new groups"
+msgstr "အုပ္စုအသစ္မ်ားကိုရွာေဖြပါ"
+
+#. default.phtml:73
+#: 
+msgid "Discover new resources"
+msgstr "ရင္းၿမစ္အသစ္မ်ားကိုရွာေဖြပါ"
+
+#. default.phtml:59
+#: 
+msgid "Discover new users"
+msgstr "အသံုးၿပဳသူအသစ္မ်ားကိုရွာေဖြပါ"
+
+#. UserPresenter.php:635
+#: 
+msgid "Do you want be visible to everyone (world), one to registered users (registered) or only to your friends (friends)?"
+msgstr "သင္လူတိုင္းကို(ကမၻာလုံးဆိုင္ရာ)ျမင္ေစခ်င္ပါသလား၊မွတ္ပုံတင္ထားေသာအသုံးျပဳမ်ားကိုသာလၽွင္ျမင္ေစခ်င္ပါသလား၊သင္၏သူငယ္ခ်င္းမ်ားကိုသာလၽွင္ျမင္ေစခ်င္ပါသလား။"
+
+#. @layout.phtml:128
+#: 
+msgid "Download the mobile application."
+msgstr "မိုဘိုင္းေလ်ာက္ထားၿခင္းကိုကူးယူပါ(ေဒါင္းလုပ္ဒ္ လုပ္ပါ)"
+
+#. edit.phtml:12
+#: 
+msgid "Edit the group image"
+msgstr "အုပ္စုပံုကိုတည္းၿဖတ္ၿပင္ဆင္္ပါ"
+
+#. edit.phtml:35
+#. edit.phtml:24
+#: 
+msgid "Edit the location"
+msgstr "တည္ေနရာကိုတည္းၿဖတ္ၿပင္ဆင္္ပါ"
+
+#. edit.phtml:10
+#: 
+msgid "Edit your avatar"
+msgstr "သင္၏ရုပ္ပံုကိုတည္းၿဖတ္ၿပင္ဆင္္ပါ"
+
+#. edit.phtml:32
+#: 
+msgid "Edit your location"
+msgstr "သင္၏တည္ေနရာကိုတည္းၿဖတ္ၿပင္ဆင္္ပါ"
+
+#. User.php:331
+#: 
+msgid "Email change on Mycitizen.net"
+msgstr "အီးေမးလ္ကိုmycitizen.net တြင္ေၿပာင္းပါ"
+
+#. UserPresenter.php:129
+#: 
+msgid "Email couldn't be changed!"
+msgstr "အီးေမးလ္ကိုမေၿပာင္းနိင္ခဲ႔ပါ"
+
+#. UserPresenter.php:116
+#: 
+msgid "Email couldn't be changed! Link is not active anymore"
+msgstr "အီးေမးလ္ကိုမေၿပာင္းနိင္ခဲ႔ပါ၊ ကြင္းဆက္(လင္႔ခ္)သည္ေနာက္ထပ္အလုပ္မလုပ္ေတာ႔ပါ"
+
+#. UserPresenter.php:112
+#. UserPresenter.php:125
+#: 
+msgid "Email has been succesfully changed."
+msgstr "အီးေမးလ္ကိုေအာင္ၿမင္စြာေၿပာင္းနိုင္ခဲ႔ၿပီ"
+
+#. UserPresenter.php:497
+#: 
+msgid "Email is already registered to another account."
+msgstr "အီးေမးလ္ကိုအၿခားအေကာင္႔စာရင္းသို႔မွတ္ပံုတင္ၿပီးၿပီ"
+
+#. UserPresenter.php:512
+#: 
+msgid "Email is not valid. Check it and try again."
+msgstr "အီးေမးလ္ကိုမရနိုင္ပါ၊ စစ္ေဆးၿပီး၊ေနာက္ထပ္ၾကိဳးစားၾကည္႕ပါ။"
+
+#. UserPresenter.php:470
+#. UserPresenter.php:634
+#: 
+msgid "Email:"
+msgstr "အီးေမးလ္"
+
+#. ListerControlMain.php:642
+#: 
+msgid "Empty Trash"
+msgstr "အမႈိက္ပံုးကိုအလြတ္ထားပါ"
+
+#. GroupUserListerControl.phtml:19
+#. ResourceListerControl.phtml:11
+#. default.phtml:113
+#. default.phtml:123
+#. default.phtml:165
+#: 
+msgid "Enabled"
+msgstr "မတက္နိင္ခဲ႔ပါ"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5)."
+msgstr "သေကၤတမ်ား(“-“)ပါဝင္ေသာစာ၅လုံးကိုအသုံးျပဳပါ။"
+
+#. GroupPresenter.php:454
+#: 
+msgid "Enter a name for the group."
+msgstr "အုပ္စုအတြက္နာမည္တစ္ခုဝင္ေရာက္ပါ"
+
+#. ResourcePresenter.php:405
+#: 
+msgid "Enter a name for the resource."
+msgstr "ရင္းၿမစ္အတြက္နာမည္တစ္ခုဝင္ေရာက္ပါ"
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Entered passwords are not the same."
+msgstr "ဝင္ေရာက္ေသာစကားဝွက္မ်ားမတူညီပါ"
+
+#. RestServer.php:433
+#: 
+msgid "Error"
+msgstr "အမွား"
+
+#. BasePresenter.php:211
+#: 
+msgid "Error deleting image from cache."
+msgstr "ထိန္းသိမ္းထားေသာေနရာမွပံုရိပ္ကိုပယ္ဖ်က္ၿခင္းတြင္အမွားၿပသည္"
+
+#. BasePresenter.php:236
+#: 
+msgid "Error deleting image from cache: "
+msgstr "ထိန္းသိမ္းထားေသာေနရာမွပံုရိပ္ကိုပယ္ဖ်က္ၿခင္းတြင္အမွားၿပသည္"
+
+#. ChatLister_body.phtml:95
+#. ChatLister_body.phtml:130
+#. ChatLister_body.phtml:136
+#: 
+msgid "Error loading chat. Are you logged in?"
+msgstr "စကားအၿပန္အလွန္ေၿပာဆိုၿခင္းအတြက္ေပးပို႔ၿခင္းကိုအမွားၿပသည္။ သင္ဝင္ေရာက္ၿပီး\n"
+"ၿပီလား။"
+
+#. BasePresenter.php:251
+#: 
+msgid "Error recreating image."
+msgstr "ပံုရိပ္ကိုၿပန္လည္ဖန္တီးရာတြင္အမွားၿပသည္"
+
+#. GroupListerControl.php:82
+#. GroupListerControl.php:113
+#. GroupUserListerControl.php:58
+#. GroupUserListerControl.php:98
+#. ListerControlMain.php:366
+#. ListerControlMain.php:416
+#. ListerControlMain.php:457
+#. MapControl.php:62
+#. ResourceGroupListerControl.php:45
+#. ResourceGroupListerControl.php:81
+#. ResourceListerControl.php:42
+#. ResourceListerControl.php:77
+#. ResourceMemberListerControl.php:45
+#. ResourceMemberListerControl.php:81
+#. TagListerControl.php:161
+#. UserListerControl.php:67
+#. UserListerControl.php:108
+#. AdministrationPresenter.php:87
+#. AdministrationPresenter.php:217
+#. GroupPresenter.php:226
+#. GroupPresenter.php:486
+#. GroupPresenter.php:759
+#. GroupPresenter.php:801
+#. GroupPresenter.php:885
+#. ResourcePresenter.php:193
+#. ResourcePresenter.php:242
+#. ResourcePresenter.php:482
+#. ResourcePresenter.php:867
+#. ResourcePresenter.php:907
+#. UserPresenter.php:271
+#. UserPresenter.php:286
+#. UserPresenter.php:314
+#. UserPresenter.php:346
+#. UserPresenter.php:418
+#. UserPresenter.php:476
+#. UserPresenter.php:568
+#. UserPresenter.php:640
+#. UserPresenter.php:1090
+#. UserPresenter.php:1203
+#: 
+msgid "Error submitting form."
+msgstr "ပံုစံ (ေဖာင္)ကိုပို႔ရာတြင္အမွားၿပသည္"
+
+#. BasePresenter.php:279
+#: 
+msgid "Error writing image: "
+msgstr "ပံုရိပ္ကိုေရးရာတြင္အမွားၿပသည္"
+
+#. ResourcePresenter.php:428
+#: 
+msgid "Event description:"
+msgstr "ၿဖစ္ရပ္ၿဖစ္စဥ္ကိုေဖာ္ၿပၿခင္း"
+
+#. ResourcePresenter.php:431
+#: 
+msgid "Event time:"
+msgstr "ၿဖစ္ရပ္ၿဖစ္စဥ္၏အခ်ိန္ကာလ"
+
+#. edit.phtml:14
+#: 
+msgid "February"
+msgstr "ေဖေဖာ္ဝါရီ"
+
+#. GroupListerControl.php:112
+#. MapControl.php:61
+#. TagListerControl.php:160
+#: 
+msgid "Filter"
+msgstr "စီစစ္ယူၿခင္းကိရိယာ"
+
+#. ChatLister_body.phtml:3
+#. detail.phtml:338
+#. messages.phtml:12
+#: 
+msgid "Filter by name"
+msgstr "ဝင္ထားေသာစကားလံုးမ်ားကိုပို႔ေသာသူ/အုပ္စု/ရင္းၿမစ္မ်ား၏အမည္နွင္႔အတူ\n"
+"ဤကိရိယာမွေဖာ္ၿပလိမ္႔မည္"
+
+#. ListerControlMain.php:100
+#: 
+msgid "Filter is off."
+msgstr "စီစစ္ယူၿခင္းကိရိယာကိုပိတ္သည္"
+
+#. ListerControlMain.php:100
+#: 
+msgid "Filter is on."
+msgstr "စီစစ္ယူၿခင္းကိရိယာကိုဖြင္႔သည္"
+
+#. User.php:258
+#: 
+msgid "Finish your registration at Mycitizen.net"
+msgstr "Mycitizen.net တြင္မွတ္ပံုတင္ၿပီးၿပီ"
+
+#. GroupPresenter.php:1135
+#. UserPresenter.php:1499
+#: 
+msgid "Finished cropping and resizing."
+msgstr "ရယူၿခင္းနွင္႔ (ဆိုဒ္)အရြယ္အစားပမာဏေၿပာင္းၿခင္းၿပီးၿပီ"
+
+#. ListerControlMain_body.phtml:27
+#. ListerControlMain_users.phtml:22
+#: 
+msgid "Friends"
+msgstr "သူငယ္ၿခင္း"
+
+#. StaticModel.php:44
+#: 
+msgid "Friendship accepted"
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုလက္ခံခဲ႔သည္"
+
+#. StaticModel.php:52
+#: 
+msgid "Friendship canceled"
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုပယ္ဖ်က္ခဲ႔သည္"
+
+#. StaticModel.php:40
+#: 
+msgid "Friendship request"
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုေတာင္းဆိုသည္"
+
+#. StaticModel.php:48
+#. default.phtml:110
+#: 
+msgid "Friendship request rejected"
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုေတာင္းဆိုမႈကိုၿငင္းဆန္သည္"
+
+#. detail.phtml:118
+#: 
+msgid "Friendship request rejected."
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုေတာင္းဆိုမႈကိုၿငင္းဆန္သည္"
+
+#. default.phtml:105
+#: 
+msgid "Friendship request sent"
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုေတာင္းဆိုမႈကိုပို႔သည္"
+
+#. detail.phtml:113
+#: 
+msgid "Friendship request sent."
+msgstr "သူငယ္ၿခင္းအၿဖစ္ကိုေတာင္းဆိုမႈကိုပို႔သည္"
+
+#. GroupPresenter.php:25
+#: 
+msgid "Given group does not exist."
+msgstr "သတ္မွတ္ထားၿပီးေသာအုပ္စုသည္မထြက္ပါ"
+
+#. detail.phtml:173
+#. detail.phtml:178
+#. detail.phtml:183
+#. detail.phtml:188
+#: 
+msgid "Go to resource"
+msgstr "ရင္းၿမစ္ဆီသို႔သြားပါ"
+
+#. GroupPresenter.php:956
+#: 
+msgid "Group %s has not been subscribed to resource."
+msgstr "အုပ္စု(  ) ကိုရင္းၿမစ္ၿဖစ္ရန္အဖြဲ႕မဝင္ၿပီးေသးပါ"
+
+#. ResourcePresenter.php:316
+#: 
+msgid "Group %s is already subscribed."
+msgstr "အုပ္စု(  ) သည္အဖြဲ႕ဝင္ၿပီးၿပီ"
+
+#. ResourcePresenter.php:314
+#: 
+msgid "Group %s subscribed to this resource."
+msgstr "အုပ္စု(  ) ကိုရင္းၿမစ္ၿဖစ္ရန္အဖြဲ႕ဝင္ၿပီးၿပီ"
+
+#. GroupPresenter.php:954
+#: 
+msgid "Group %s unsubscribed from resource."
+msgstr "အုပ္စု(  ) သည္အဖြဲ႕ဝင္အၿဖစ္မွနႈတ္ထြက္ခဲ႔သည္"
+
+#. ListerControlMain.php:361
+#: 
+msgid "Group Administrator"
+msgstr "အုပ္စုကိုစီမံခန္႔ခြဲသူ"
+
+#. ListerControlMain.php:360
+#: 
+msgid "Group Moderator"
+msgstr "အုပ္စုကိုထိန္းခ်ဳပ္သူ"
+
+#. detail.phtml:199
+#: 
+msgid "Group chat"
+msgstr "အုပ္စုလိုက္စကားေၿပာၿခင္း"
+
+#. edit.phtml:0
+#: 
+msgid "Group edit"
+msgstr "အုပ္စုလိုက္တည္းၿဖတ္ၿပင္ဆင္ၿခင္း"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Group key:"
+msgstr "အုပ္စု၏ေသာ႔(ကီး)/စကားဝွက္"
+
+#. detail.phtml:161
+#: 
+msgid "Group location on a map"
+msgstr "ေၿမပံုေပၚတြင္အုပ္စု၏တည္ေနရာ"
+
+#. default.phtml:126
+#. detail.phtml:172
+#: 
+msgid "Group members"
+msgstr "အုပ္စု၏အဖြဲ႕ဝင္မ်ား"
+
+#. detail.phtml:104
+#: 
+msgid "Group owner: "
+msgstr "အုပ္စု၏ပိုင္ရွင္"
+
+#. default.phtml:137
+#. detail.phtml:183
+#: 
+msgid "Group resources"
+msgstr "အုပ္စု၏ရင္းၿမစ္မ်ား"
+
+#. GroupListerControl.php:111
+#: 
+msgid "Group status"
+msgstr "အုပ္စု၏အေၿခအေန"
+
+#. GroupPresenter.php:526
+#: 
+msgid "Group updated"
+msgstr "အုပ္စု၏ေနာက္ဆံုးသတင္းကိုပို႔ခဲ႔သည္"
+
+#. BasePresenter.php:89
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Groups"
+msgstr "အုပ္စုမ်ား"
+
+#. User.php:328
+#: 
+msgid "Hello,\n"
+"You have requested email change on Mycitizen.net.\n"
+"To finish your request click on following link.\n"
+""
+msgstr "မဂၤလာပါ။သင္သည္ Mycitizen.net တြင္အီးေမးလ္ေၿပာင္းလဲရန္ေတာင္းဆိုခဲ႔သည္။\n"
+" သင္၏ေတာင္းဆိုမႈၿပီးေၿမာက္ရန္အတြက္ေအာက္ပါ(လင္႔ခ္)ကြင္းဆက္ကိုနွိပ္ပါ။"
+
+#. User.php:295
+#: 
+msgid "Hello,\n"
+"You have requested password change on Mycitizen.net.\n"
+"To finish your request click on following link.\n"
+""
+msgstr "မဂၤလာပါ။သင္သည္Mycitizen.netတြင္စကားဝွက္ေၿပာင္းလဲရန္ေတာင္းဆိုခဲ႔ၿပီးၿပီ။သင္ \n"
+"  ၏ေတာင္းဆိုမႈၿပီးေၿမာက္ရန္အတြက္ေအာက္ပါ(လင္႔ခ္)ကြင္းဆက္ကိုနွိပ္ပါ။"
+
+#. User.php:255
+#: 
+msgid "Hello,\n"
+"thank you for signing up at Mycitizen.net!\n"
+"To finish your registration click on the following link.\n"
+""
+msgstr "  မဂၤလာပါ။Mycitizen.netကို(ဆိုင္းအင္)ဝင္ေရာက္တဲ႔အတြက္ေက်းဇူးတင္ပါတယ္။\n"
+"သင္၏မွတ္ပံုတင္ၿခင္းၿပီးေၿမာက္ရန္အတြက္ေအာက္ပါ(လင္႔ခ္)ကြင္းဆက္ကိုနွိပ္ပါ။"
+
+#. detail.phtml:48
+#: 
+msgid "Here you can report the group if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "အကယ္၍ဥပေဒကိုခ်ိဳးေဖာက္သည္ဟုထင္ပါကဤေနရာတြင္သင္သည္အုပ္စုကိုတိုင္တန္းနိုင္သည္။တိုင္တန္းခ်က္ကိုကၽြန္ေတာ္တို႔၏ထိန္းခ်ဳပ္သူသည္တာဝန္ယူေဆာင္ရြက္လိမ့္မည္။"
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "လိမ့္မည္။"
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
+msgstr "အကယ္၍သူမကို(သို႔မဟုတ္)သူမသည္ဥပေဒကိုခ်ိဳးေဖာက္သည္ဟုထင္ပါဤေနရာတြင္သင္သည္အသုံးျပဳသူကိုတိုင္တန္းနိုင္သည္။တိုင္တန္းခ်က္ကိုကၽြန္ေတာ္တို႔၏ထိန္းခ်ဳပ္သူသည္တာဝန္ယူေဆာင္ရြက္လိမ့္မည္။"
+
+#. ListerControlMain_groups.phtml:69
+#: 
+msgid "Hidden group"
+msgstr "ဝွက္ထားေသာအုပ္စု"
+
+#. ListerControlMain_users.phtml:64
+#: 
+msgid "Hidden user"
+msgstr "  ဝွက္ထားေသာအသံုးၿပဳသူ"
+
+#. edit.phtml:9
+#: 
+msgid "Hours"
+msgstr "နာရီမ်ား"
+
+#. login.phtml:30
+#: 
+msgid "If you are new here, please "
+msgstr "အကယ္၍သင္သည္အသစ္ၿဖစ္ပါကေက်းဇူးၿပဳ၍"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Image must be in JPEG or PNG format."
+msgstr "ပံုရိပ္သည္ JPEG သို႔မဟုတ္ PNG format ၿဖစ္ရမည္။"
+
+#. setupmaintenance.phtml:9
+#: 
+msgid "Import resources from file"
+msgstr "ဖိုင္မွရင္းၿမစ္မ်ားကိုတင္သြင္းပါ။"
+
+#. ExternalFilter.php:179
+#: 
+msgid "Inbox"
+msgstr "စာမ်ားကိုလက္ခံထားေသာေနရာ(ေသတၱာ)"
+
+#. ResourcePresenter.php:439
+#: 
+msgid "Information:"
+msgstr "သတင္းအခ်က္အလက္မ်ား"
+
+#. ResourcePresenter.php:260
+#: 
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr "အဖြဲ႕ဝင္အုပ္စု()ကိုရင္းျမစ္သို႔မလုံေလာက္ေသာခြင့္ျပဳခ်က္မ်ား"
+
+#. ListerControlMain_body.phtml:20
+#. ListerControlMain_groups.phtml:18
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:16
+#: 
+msgid "Is active"
+msgstr "လႈပ္ရွားေဆာင္ရြက္သည္"
+
+#. edit.phtml:14
+#: 
+msgid "January"
+msgstr "ဇန္နဝါရီ"
+
+#. ResourceGroupListerControl.php:66
+#: 
+msgid "Jméno"
+msgstr "နာမည္"
+
+#. default.phtml:93
+#. detail.phtml:130
+#: 
+msgid "Join group"
+msgstr "အုပ္စုကိုဆက္သြယ္ပါ"
+
+#. edit.phtml:14
+#: 
+msgid "July"
+msgstr "ဇူလိုင္"
+
+#. edit.phtml:14
+#: 
+msgid "June"
+msgstr "ဇြန္"
+
+#. ExternalFilter.php:189
+#: 
+msgid "Language"
+msgstr "ဘာသာစကား"
+
+#. GroupPresenter.php:456
+#. ResourcePresenter.php:408
+#. UserPresenter.php:636
+#: 
+msgid "Language:"
+msgstr "ဘာသာစကား"
+
+#. detail.phtml:32
+#. detail.phtml:34
+#. detail.phtml:35
+#: 
+msgid "Last activity: "
+msgstr "ေနာက္ဆံုးလႈပ္ရွားေဆာင္ရြက္မႈ"
+
+#. default.phtml:104
+#. detail.phtml:134
+#: 
+msgid "Leave group"
+msgstr "အုပ္စုမွထြက္ပါ"
+
+#. detail.phtml:114
+#: 
+msgid "Link to invite new members"
+msgstr "အုပ္စုအဖြဲ႕ဝင္အသစ္မ်ားကိုဆက္သြယ္ပါ"
+
+#. ChatLister_body.phtml:159
+#: 
+msgid "Loading chat.."
+msgstr "စကားအၿပန္အလွန္ေၿပာဆိုၿခင္းကိုပို႕ေပးၿခင္း"
+
+#. MapControl.php:60
+#: 
+msgid "Location"
+msgstr "တည္ေနရာ"
+
+#. GroupUserListerControl.phtml:7
+#. UserListerControl.phtml:8
+#: 
+msgid "Login"
+msgstr "(ေလာ႕အင္)ဝင္ေရာက္ပါ"
+
+#. GroupPresenter.php:455
+#: 
+msgid "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
+msgstr "လူတိုင္း(ကမၻာလုံးဆိုင္ရာ)ျမင္ေစနိုင္ေသာ၊မွတ္ပုံတင္ထားေသာအသုံးျပဳသူမ်ားကိုသာလၽွင္ျမင္ေစနိုင္ေသာ၊အုပ္စုဝင္မ်ားကိုသာလၽွင္ျမင္ေစနိုင္ေသာအုပ္စုျပဳလုပ္ပါ။"
+
+#. ResourcePresenter.php:407
+#: 
+msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
+msgstr "လူတိုင္း(ကမၻာလုံးဆိုင္ရာ)ျမင္ေစနိုင္ေသာ၊မွတ္ပုံတင္ထားေသာအသုံးျပဳသူမ်ားကိုသာလၽွင္ျမင္ေစနိုင္ေသာ၊ဤရင္းျမစ္၏အဖြဲ႕ဝင္မ်ားကိုသာလၽွင္ျမင္ေစနိုင္ေသာရင္းျမစ္ျပဳလုပ္ပါ။"
+
+#. edit.phtml:85
+#: 
+msgid "Manage members of this group"
+msgstr "အုပ္စုအဖြဲဝင္မ်ားကိုစီမံခန္႔ခြဲပါ"
+
+#. edit.phtml:90
+#: 
+msgid "Manage subscribed resources"
+msgstr "အဖြဲ႕ဝင္ထားေသာရင္းၿမစ္မ်ားကိုစီမံခန္႕ခြဲပါ"
+
+#. ExternalFilter.phtml:112
+#: 
+msgid "Map"
+msgstr "ေၿမပံု"
+
+#. edit.phtml:14
+#: 
+msgid "March"
+msgstr "မတ္လ"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Maximum image size is 512kB"
+msgstr "အမ်ားဆံုးပံု(ဆိုဒ္)အရြယ္အစား ၅၁၂ kB"
+
+#. edit.phtml:14
+#: 
+msgid "May"
+msgstr "ေမလ"
+
+#. ResourcePresenter.php:474
+#: 
+msgid "Media ID:"
+msgstr "ဆက္သြယ္ေရး အိုင္ဒီ"
+
+#. ResourcePresenter.php:473
+#: 
+msgid "Media type:"
+msgstr "ဆက္သြယ္ေရးအမ်ိဳးအစား"
+
+#. default.phtml:188
+#. detail.phtml:167
+#: 
+msgid "Member of groups"
+msgstr "အုပ္စုမ်ား၏အဖြဲ႕ဝင္"
+
+#. ListerControlMain_body.phtml:29
+#. ListerControlMain_groups.phtml:23
+#: 
+msgid "Members"
+msgstr "အဖြဲ႕ဝင္မ်ား"
+
+#. ResourcePresenter.php:419
+#: 
+msgid "Message:"
+msgstr "သတင္း"
+
+#. edit.phtml:10
+#: 
+msgid "Minutes"
+msgstr "မိနစ္မ်ား"
+
+#. UserPresenter.php:1183
+#: 
+msgid "Moderator"
+msgstr "ထိန္ခ်ဳပ္သူ"
+
+#. User.php:22
+#: 
+msgid "More than one user with the same id found."
+msgstr "တစ္ေယာက္ထက္ပိုေသာအသံုးၿပဳသူကိုတူညီေသာအိုင္ဒီနွင္႔အတူေတြ႕ရွိခဲ႔သည္။"
+
+#. default.phtml:56
+#: 
+msgid "My Friends"
+msgstr "ကၽြန္ုပ္၏သူငယ္ခ်င္းမ်ား"
+
+#. default.phtml:63
+#: 
+msgid "My Groups"
+msgstr "ကၽြန္ုပ္၏အုပ္စုမ်ား"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:351
+#: 
+msgid "My Location"
+msgstr "ကၽြန္ုပ္၏တည္ေနရာ"
+
+#. default.phtml:70
+#: 
+msgid "My Resources"
+msgstr "ကၽြန္ုပ္၏ရင္းၿမစ္မ်ား"
+
+#. detail.phtml:192
+#: 
+msgid "My friends"
+msgstr "ကၽြန္ုပ္၏သူငယ္ခ်င္းမ်ား"
+
+#. MapContainer.phtml:31
+#. MapContainer.phtml:283
+#. MapControl.phtml:32
+#: 
+msgid "My real position"
+msgstr "ကၽြန္ုပ္၏စစ္မုန္ေသာရာထူး"
+
+#. ExternalFilter.php:172
+#. GroupListerControl.php:105
+#. Groupresourcewidget_body.phtml:8
+#. GroupUserListerControl.php:83
+#. GroupUserListerControl.phtml:10
+#. ListerControlMain_body.phtml:9
+#. ListerControlMain_groups.phtml:8
+#. ListerControlMain_resources.phtml:8
+#. ListerControlMain_users.phtml:8
+#. ResourceListerControl.php:68
+#. ResourceListerControl.phtml:8
+#. ResourceMemberListerControl.php:66
+#. TagListerControl.php:159
+#. UserListerControl.php:93
+#. UserListerControl.phtml:11
+#: 
+msgid "Name"
+msgstr "နာမည္"
+
+#. GroupPresenter.php:454
+#. ResourcePresenter.php:405
+#. UserPresenter.php:630
+#: 
+msgid "Name:"
+msgstr "နာမည္"
+
+#. edit.phtml:15
+#. edit.phtml:16
+#. edit.phtml:13
+#. edit.phtml:14
+#: 
+msgid "Needs to be created."
+msgstr "ဖန္တီးရန္အတြက္လိုအပ္ခ်က္မ်ား"
+
+#. BasePresenter.php:47
+#. BasePresenter.php:47
+#. BasePresenter.php:151
+#. BasePresenter.php:151
+#: 
+msgid "New messages"
+msgstr "သတင္းအသစ္မ်ား"
+
+#. detail.phtml:91
+#. detail.phtml:94
+#. detail.phtml:96
+#: 
+msgid "No tags."
+msgstr "ဖိုင္မ်ားမတြဲပါနွင္႔"
+
+#. ListerControlMain.php:359
+#. UserPresenter.php:1182
+#: 
+msgid "Normal user"
+msgstr "သာမန္အသံုးၿပဳသူ"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing found."
+msgstr "မည္သည္႕အရာကိုမွရွာမေတြ႕ပါ"
+
+#. edit.phtml:14
+#: 
+msgid "November"
+msgstr "နိုဝင္ဘာ"
+
+#. edit.phtml:12
+#: 
+msgid "Now"
+msgstr "ယခု"
+
+#. setupmaintenance.phtml:33
+#: 
+msgid "Number of groups"
+msgstr "အုပ္စုမ်ား၏အေရအတြက္"
+
+#. setupmaintenance.phtml:39
+#: 
+msgid "Number of resources"
+msgstr "ရင္းၿမစ္မ်ား၏အေရအတြက္"
+
+#. setupmaintenance.phtml:21
+#: 
+msgid "Number of users"
+msgstr "အသံုးၿပဴသူမ်ား၏အေရအတြက္"
+
+#. edit.phtml:14
+#: 
+msgid "October"
+msgstr "ေအာက္တိုဘာ"
+
+#. ChatLister_ajax.phtml:116
+#. ListerControlMain_messages.phtml:157
+#. messages.phtml:79
+#: 
+msgid "On"
+msgstr "အေပၚမွာ"
+
+#. default.phtml:91
+#: 
+msgid "On invitation only"
+msgstr "ဖိတ္ေခၚၿခင္းမွ်သာလွ်င္"
+
+#. AdministrationPresenter.php:44
+#. AdministrationPresenter.php:75
+#: 
+msgid "Only administrators can visit this section!"
+msgstr "ဤအခန္းက႑ကိုစီမံခန္႔ခြဲသူမ်ားသာလွ်င္ဝင္ေရာက္နိုင္သည္"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "အကၡရာမ်ား၊ဂဏန္းမ်ား၊သေကၤတမ်ားႏွင့္အတူစာ၅လုံးသာလၽွင္"
+
+#. Groupresourcewidget_body.phtml:35
+#. ListerControlMain_body.phtml:284
+#. ListerControlMain_body.phtml:317
+#. ListerControlMain_groups.phtml:99
+#. ListerControlMain_groups.phtml:128
+#. ListerControlMain_resources.phtml:117
+#. ListerControlMain_resources.phtml:150
+#. ListerControlMain_users.phtml:76
+#. ListerControlMain_users.phtml:105
+#: 
+msgid "Owner"
+msgstr "ပိုင္ရွင္"
+
+#. TagListerControl.php:123
+#: 
+msgid "Parent level:"
+msgstr "မိဘအေၿခအေန"
+
+#. AdministrationPresenter.php:85
+#: 
+msgid "Parent tag:"
+msgstr "မိဘ"
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Password again:"
+msgstr "စကားဝွက္ကိုတဖန္ၿပန္ေရးပါ"
+
+#. User.php:298
+#: 
+msgid "Password change on Mycitizen.net"
+msgstr "စကားဝွက္ကို Mycitizen.net တြင္ေၿပာင္းပါ"
+
+#. UserPresenter.php:302
+#. UserPresenter.php:330
+#: 
+msgid "Password couldn't be changed! Try again later."
+msgstr "စကားဝွက္ကိုမေၿပာင္းနိုင္ခဲ႔ပါ။ေနာက္တဖန္ၾကိဳးစားပါ။"
+
+#. UserPresenter.php:269
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Password:"
+msgstr "စကားဝွက္"
+
+#. UserPresenter.php:632
+#: 
+msgid "Phone:"
+msgstr "ဖုန္း"
+
+#. GroupPresenter.php:224
+#: 
+msgid "Please enter some text."
+msgstr "ေက်းဇူၿပဳ၍စာအခ်ိဳ႕ေရးပါ"
+
+#. GroupPresenter.php:799
+#. ResourcePresenter.php:905
+#. UserPresenter.php:344
+#: 
+msgid "Please give us some details."
+msgstr "ေက်းဇူၿပဳ၍ကၽြန္ေတာ္တို႔ိကိုအေသးစိတ္အခ်က္အလက္အခ်ိဳ႕ေပးပါ"
+
+#. detail.phtml:119
+#: 
+msgid "Please go to the edit screen and generate a link."
+msgstr "ေက်းဇူၿပဳ၍တည္းၿဖတ္ေသာဖန္သားၿပင္သို႔သြားပါ၊ကြင္းဆက္တစ္ခုကိုထုတ္လုပ္ပါ"
+
+#. @layout.phtml:92
+#: 
+msgid "Please select first a part of the image."
+msgstr "ေက်းဇူၿပဳ၍ပံုရိပ္၏အပိုင္းတစ္ခုကိုပထမေရြးခ်ယ္ပါ"
+
+#. ResourcePresenter.php:192
+#: 
+msgid "Post"
+msgstr "ပို႔ပါ"
+
+#. detail.phtml:322
+#: 
+msgid "Post new comment"
+msgstr "ဝဖန္သံုးသပ္မႈအသစ္ပို႔ပါ"
+
+#. detail.phtml:320
+#: 
+msgid "Post reply"
+msgstr "ၿပန္စာပို႔ပါ"
+
+#. GroupPresenter.php:798
+#. ResourcePresenter.php:904
+#. UserPresenter.php:343
+#: 
+msgid "Reason:"
+msgstr "အေၾကာင္းၿပခ်က္"
+
+#. UserPresenter.php:103
+#: 
+msgid "Registration couldn't be finished! Link is not active anymore"
+msgstr "မွတ္ပုံတင္ျခင္းကိုၿပီးေျမာက္ရန္မတက္နိုင္ပါ။ကြင္းဆက္(လင့္)သည္အလုပ္မလုပ္ေတာ့ပါ။"
+
+#. UserPresenter.php:99
+#: 
+msgid "Registration has been succesfull. You can now sign in."
+msgstr "မွတ္ပုံတင္ျခင္းၿပီးဆုံးၿပီ။ယခုသင္(ဆိုင္းအင္)ဝင္ေရာက္နိုင္ၿပီ။"
+
+#. UserPresenter.php:530
+#: 
+msgid "Registration has been successful. A message has been sent to your email with further instructions how to activate your account."
+msgstr "ညႊန္ၾကားခ်က္မ်ားႏွင့္အတူသတင္းအခ်က္အလက္ကိုသင္၏အီးေမးလ္သို႔ပို႔ၿပီးၿပီ။"
+
+#. default.phtml:144
+#. detail.phtml:140
+#: 
+msgid "Reject friendship request"
+msgstr "သူငယ္ခ်င္းအၿဖစ္ေတာင္းဆိုမႈကိုၿငင္းပယ္ပါ  "
+
+#. TagListerControl.php:125
+#: 
+msgid "Remove"
+msgstr "ပယ္ဖ်က္ပါ"
+
+#. UserPresenter.php:472
+#: 
+msgid "Repeat password:"
+msgstr "စကားဝွက္ကိုၿပန္ေၿပာပါ"
+
+#. detail.phtml:310
+#: 
+msgid "Replies"
+msgstr "ၿပန္စာမ်ား"
+
+#. GroupPresenter.php:829
+#: 
+msgid "Report about group %s, reason: %s"
+msgstr "အုပ္စု(   ) အေၾကာင္းကိုတင္ၿပပါ၊အေၾကာင္းၿပခ်က္ (    )"
+
+#. ResourcePresenter.php:935
+#: 
+msgid "Report about resource %s, reason: %s"
+msgstr "ရင္းၿမစ္(   ) အေၾကာင္းကိုတင္ၿပပါ၊အေၾကာင္းၿပခ်က္ (    )"
+
+#. UserPresenter.php:397
+#: 
+msgid "Report about user %s, reason: %s"
+msgstr "အသံုးၿပဳသူ(   ) အေၾကာင္းကိုတင္ၿပပါ၊အေၾကာင္းၿပခ်က္ (    )"
+
+#. detail.phtml:40
+#: 
+msgid "Report group"
+msgstr "အုပ္စု(   ) အေၾကာင္းကိုတင္ၿပပါ"
+
+#. detail.phtml:43
+#: 
+msgid "Report resource"
+msgstr "ရင္းၿမစ္(   ) အေၾကာင္းကိုတင္ၿပပါ"
+
+#. detail.phtml:43
+#: 
+msgid "Report user"
+msgstr "အသံုးၿပဳသူ(   ) အေၾကာင္းကိုတင္ၿပပါ"
+
+#. AdministrationPresenter.php:193
+#: 
+msgid "Reports"
+msgstr "တင္ၿပခ်က္မ်ား"
+
+#. default.phtml:99
+#. detail.phtml:108
+#: 
+msgid "Request friendship"
+msgstr "သူငယ္ခ်င္းအၿဖစ္ကို္ေတာင္းဆိုပါ"
+
+#. default.phtml:134
+#: 
+msgid "Request friendship again"
+msgstr "သူငယ္ခ်င္းအၿဖစ္ကို္တဖန္ေတာင္းဆိုပါ"
+
+#. UserPresenter.php:417
+#: 
+msgid "Request new password"
+msgstr "စကားဝွက္အသစ္ကိုေတာင္းဆိုပါ"
+
+#. detail.phtml:110
+#: 
+msgid "Resource owner: "
+msgstr "ရင္းၿမစ္ပိုင္ရွင္"
+
+#. ResourceListerControl.php:74
+#: 
+msgid "Resource status"
+msgstr "ရင္းၿမစ္အေၿခအေန"
+
+#. ResourcePresenter.php:406
+#: 
+msgid "Resource type:"
+msgstr "ရင္းၿမစ္အမ်ိဳးအစား"
+
+#. ResourcePresenter.php:531
+#: 
+msgid "Resource updated"
+msgstr "ရင္းၿမစ္၏ေနာက္ဆံုးသတင္းအၿခအေန"
+
+#. BasePresenter.php:108
+#. default.phtml:0
+#. default.phtml:35
+#: 
+msgid "Resources"
+msgstr "ရင္းၿမစ္မ်ား"
+
+#. default.phtml:105
+#. default.phtml:110
+#. detail.phtml:113
+#. detail.phtml:118
+#: 
+msgid "Revoke request"
+msgstr "တရားဝင္ရုပ္သိမ္းရန္ေတာင္းဆိုသည္"
+
+#. ListerControlMain_body.phtml:16
+#. ListerControlMain_groups.phtml:14
+#. ListerControlMain_resources.phtml:15
+#. ListerControlMain_users.phtml:13
+#: 
+msgid "Role"
+msgstr "အခန္းက႑"
+
+#. MapContainer.phtml:321
+#. MapControl.phtml:342
+#: 
+msgid "Search"
+msgstr "ရွာေဖြပါ"
+
+#. detail.phtml:335
+#: 
+msgid "Search Comments"
+msgstr "သံုးသပ္ေဝဖန္ခ်က္မ်ားကိုရွာေဖြပါ"
+
+#. edit.phtml:11
+#: 
+msgid "Seconds"
+msgstr "စကၠန္႔မ်ား"
+
+#. detail.phtml:167
+#: 
+msgid "See details about the user and respond to the request."
+msgstr "အသုံးျပဳသူအေၾကာင္းကိုအေသးစိတ္ၾကည့္ပါ၊ေတာင္းဆိုမွုကိုတုန႔္ျပန္ပါ"
+
+#. ContainerTreeSelectControl.phtml:22
+#: 
+msgid "Select Parent Level"
+msgstr "မိဘအၿခအေနကိုေရြးခ်ယ္ပါ"
+
+#. default.phtml:121
+#: 
+msgid "Select a group for more details."
+msgstr "အုပ္စုတစ္ခုကိုအေသးစိတ္အခ်က္အလက္မ်ားအတြက္ေရြးခ်ယ္ပါ"
+
+#. ResourcePresenter.php:408
+#: 
+msgid "Select a language of this resource."
+msgstr "ဤရင္းၿမစ္၏ဘာသာစကားကိုေရြးခ်ယ္ပါ"
+
+#. GroupPresenter.php:456
+#: 
+msgid "Select a language that will be used in this group for comunication."
+msgstr "ဤအုပ္စုတြင္ဆက္သြယ္ေရးအတြက္အသုံးျပဳမည့္ဘာသာစကားကိုေရြးခ်ယ္ပါ"
+
+#. default.phtml:131
+#: 
+msgid "Select a resource for more details."
+msgstr "ရင္းၿမစ္တစ္ခုကိုအေသးစိတ္အခ်က္အလက္မ်ားအတြက္ေရြးခ်ယ္ပါ"
+
+#. AddTagComponent_Group.phtml:22
+#. AddTagComponent_Resource.phtml:22
+#. AddTagComponent_User.phtml:22
+#: 
+msgid "Select a tag"
+msgstr "တြဲရန္ဖိုင္ကိုေရြးခ်ယ္ပါ"
+
+#. AddTagComponent_Group.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this group is about."
+msgstr "ဤအုပ္စု၏ေခါင္းစဥ္အေၾကာင္းကိုေဖာ္ျပမည့္ဖိုင္တြဲကိုေရြးခ်ယ္ပါ"
+
+#. AddTagComponent_Resource.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr "ဤရင္းျမစ္၏ေခါင္းစဥ္အေၾကာင္းကိုေဖာ္ျပမည့္ဖိုင္တြဲကိုေရြးခ်ယ္ပါ"
+
+#. AddTagComponent_User.phtml:23
+#: 
+msgid "Select a tag that describes one of your interests."
+msgstr "သင္၏စိတ္ဝင္စားမႈကိုေဖာ္ၿပမည္႔ဖိုင္တြဲကိုေရြးခ်ယ္ပါ"
+
+#. edit.phtml:7
+#: 
+msgid "Select a time"
+msgstr "အခ်ိန္ကိုေရြးခ်ယ္ပါ"
+
+#. default.phtml:182
+#: 
+msgid "Select a user for more details."
+msgstr "အသံုးၿပဳသူကိုအေသးစိတ္အခ်က္အလက္မ်ားအတြက္ေရြးခ်ယ္ပါ"
+
+#. detail.phtml:136
+#: 
+msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
+msgstr "အျဖစ္ခြင့္ျပဳခ်က္မ်ားရွိသည္"
+
+#. detail.phtml:143
+#: 
+msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
+msgstr "တစ္ခု(သို႔မဟုတ္)တစ္ခုထက္ပိုေသာရင္းျမစ္မ်ားပိုအဖြဲ႕မဝင္ရန္ေရြးခ်ယ္ပါ"
+
+#. MapContainer.phtml:331
+#: 
+msgid "Selected Location"
+msgstr "ေရြခ်ယ္ထားေသာတည္ေနရာ"
+
+#. AdministrationPresenter.php:216
+#. GroupPresenter.php:228
+#. GroupPresenter.php:800
+#. ResourcePresenter.php:906
+#. UserPresenter.php:345
+#. UserPresenter.php:567
+#. UserPresenter.php:1089
+#: 
+msgid "Send"
+msgstr "ပို႔ပါ"
+
+#. messages.phtml:4
+#: 
+msgid "Send message to a friend"
+msgstr "သူငယ္ခ်င္းထံသို႔သတင္းပို႔ပါ"
+
+#. edit.phtml:14
+#: 
+msgid "September"
+msgstr "စက္တင္ဘာ"
+
+#. AdministrationPresenter.php:176
+#: 
+msgid "Settings"
+msgstr "ေနာက္ခံဝင္းက်င္ပံုစံမ်ား"
+
+#. UserPresenter.php:270
+#. @layout.phtml:145
+#: 
+msgid "Sign in"
+msgstr "(ဆိုင္းအင္)ဝင္ေရာက္ပါ"
+
+#. @layout.phtml:141
+#. login.phtml:4
+#: 
+msgid "Sign out"
+msgstr "(ဆိုင္းအင္)ထြက္ပါ"
+
+#. UserPresenter.php:475
+#. @layout.phtml:146
+#: 
+msgid "Sign up"
+msgstr "(ဆိုင္းအပ္)ဝင္ေရာက္ပါ"
+
+#. settings.phtml:8
+#: 
+msgid "Software version:"
+msgstr "ေဆာ႔ဝဲလ္ ပံုစံ"
+
+#. User.php:26
+#: 
+msgid "Specified user not found."
+msgstr "တင္ၿပထားေသာအသံုးၿပဳသူကိုရွာမေတြ႕ပါ"
+
+#. ExternalFilter.php:182
+#. UserListerControl.phtml:22
+#: 
+msgid "Status"
+msgstr "အေၿခအေန"
+
+#. ResourcePresenter.php:241
+#. detail.phtml:121
+#: 
+msgid "Subscribe"
+msgstr "အဖြဲ႕ဝင္ပါ"
+
+#. detail.phtml:134
+#: 
+msgid "Subscribe as group"
+msgstr "အုပ္စုအၿဖစ္အဖြဲ႕ဝင္ပါ"
+
+#. default.phtml:104
+#: 
+msgid "Subscribe to resource"
+msgstr "ရင္းၿမစ္သို႕အဖြဲ႕ဝင္ပါ"
+
+#. default.phtml:147
+#. detail.phtml:297
+#: 
+msgid "Subscribed Groups"
+msgstr "အဖြဲ႕ဝင္ထားေသာအုပ္စုမ်ား"
+
+#. default.phtml:136
+#. detail.phtml:286
+#: 
+msgid "Subscribed Users"
+msgstr "အဖြဲ႕ဝင္ထားေသာအသံုးၿပဳသူမ်ား"
+
+#. default.phtml:199
+#. detail.phtml:178
+#: 
+msgid "Subscribed to resources"
+msgstr "အဖြဲ႕ဝင္ထားေသာရင္းၿမစ္မ်ား"
+
+#. ListerControlMain_body.phtml:31
+#. ListerControlMain_resources.phtml:25
+#: 
+msgid "Subscribers"
+msgstr "အဖြဲ႕ဝင္ထားသူမ်ား"
+
+#. detail.phtml:141
+#: 
+msgid "Subscriptions as group"
+msgstr "အုပ္စုအၿဖစ္အဖြဲ႕ဝင္ၿခင္းမ်ား"
+
+#. GroupUserListerControl.phtml:13
+#: 
+msgid "Surname"
+msgstr "မိသားစုနာမည္"
+
+#. UserPresenter.php:631
+#: 
+msgid "Surname:"
+msgstr "မိသားစုနာမည္"
+
+#. setupmaintenance.phtml:15
+#: 
+msgid "System check"
+msgstr "စစ္ေဆးမႈစနစ္"
+
+#. StaticModel.php:55
+#. StaticModel.php:59
+#. StaticModel.php:63
+#: 
+msgid "System message: Warning!!!"
+msgstr "သတင္းစနစ္-သတိေပးၿခင္း"
+
+#. AddTagComponent_Group.phtml:28
+#. AddTagComponent_Resource.phtml:28
+#: 
+msgid "Tag"
+msgstr "တြဲရန္ဖိုင္"
+
+#. TagListerControl.php:121
+#. AdministrationPresenter.php:84
+#: 
+msgid "Tag name:"
+msgstr "တြဲရန္ဖိုင္၏အမည္"
+
+#. AddTagComponent_User.phtml:27
+#. ExternalFilter.phtml:78
+#. AdministrationPresenter.php:162
+#: 
+msgid "Tags"
+msgstr "တြဲရန္ဖိုင္မ်ား"
+
+#. GroupPresenter.php:799
+#: 
+msgid "Tell us why you report this group, including examples:"
+msgstr "ကၽြန္ေတာ္တို႔ကိုေျပာျပပါ"
+
+#. ResourcePresenter.php:905
+#: 
+msgid "Tell us why you report this resource, including examples:"
+msgstr "ကၽြန္ေတာ္တို႔ကိုေျပာျပပါ"
+
+#. UserPresenter.php:344
+#: 
+msgid "Tell us why you report this user, including examples:"
+msgstr "ကၽြန္ေတာ္တို႔ကိုေျပာျပပါ"
+
+#. ResourcePresenter.php:449
+#. UserPresenter.php:1087
+#: 
+msgid "Text:"
+msgstr "စာသား"
+
+#. GroupPresenter.php:193
+#. UserPresenter.php:208
+#: 
+msgid "The image is too small. Minimum size is 80px x 100px."
+msgstr "ပုံရိပ္သည္ေသးလြန္း၏။အလယ္အလတ္အရြယ္ပမာဏ(၈၀၁၀၀)သာလၽွင္ပို႔နိုင္သည္"
+
+#. UserPresenter.php:636
+#: 
+msgid "The main language you want to use. You will still be able to see other languages."
+msgstr "မ်ားကိုလည္းျမင္နိုင္ပါလိမ့္မည္။"
+
+#. UserPresenter.php:469
+#: 
+msgid "The minimal length of your username is %s characters."
+msgstr "သင္အသုံးျပဳေသာအမည္၏အနည္းဆုံးစကားလုံးအတိုင္းအတာ()"
+
+#. UserPresenter.php:628
+#: 
+msgid "The username cannot be changed."
+msgstr "အသံုးၿပဳေသာအမည္ကိုမေၿပာင္းလဲနိုင္ပါ"
+
+#. UserPresenter.php:680
+#: 
+msgid "This email is already used for another account."
+msgstr "ဤအီးေမးလ္ကိုအၿခားေသာသူအတြက္အသံုးၿပဳၿပီးၿပီ"
+
+#. UserPresenter.php:436
+#: 
+msgid "This email is not registered in our system!"
+msgstr "    ဤအီးေမးလ္ကိုကၽြန္ေတာ္တို႔၏စနစ္တြင္မွတ္ပံုမတင္ပါ"
+
+#. UserPresenter.php:684
+#: 
+msgid "This email is not valid. Please check it and try again."
+msgstr "ဤအီးေမးလ္သည္မရနိုင္ပါ၊ေက်းဇူးျပဳ၍စစ္ေဆးၿပီးေနာက္တစ္ႀကိမ္ႀကိဳးစားၾကည့္ပါ"
+
+#. detail.phtml:115
+#: 
+msgid "This group can only be viewed by members. Users need to have the key below to become members."
+msgstr "ဤအုပ္စုကိုအုပ္စုအဖြဲ႕ဝင္မ်ားသာလၽွင္ျမင္နိုင္သည္။အသုံးျပဳသူမ်ားသည္ေအာက္တြင္ေဖာ္ျပထားေသာ(ကီး)ကိုအဖြဲ႕ဝင္ျဖစ္လာရန္အတြက္သုံးရန္လိုအပ္သည္။"
+
+#. GroupPresenter.php:1175
+#: 
+msgid "This group doesn't have a key."
+msgstr "ဤအုပ္စုတြင္(ကီး)မရွိပါ"
+
+#. GroupPresenter.php:795
+#: 
+msgid "This group violates the rules of conduct."
+msgstr "ဤအုပ္စုသည္စည္းမ်ဥ္းစည္းကမ္းမ်ားကိုခ်ိဳးေဖာက္သည္"
+
+#. GroupPresenter.php:794
+#: 
+msgid "This group was created by mistake."
+msgstr "ဤအုပ္စုကိုအမွားၿဖင္႔ဖန္တီးၿပဳလုပ္ခဲ႔၏"
+
+#. detail.phtml:10
+#: 
+msgid "This is my profile."
+msgstr "ဤအရာသည္ကၽြနိုပ္၏ကိုယ္ေရးအခ်က္အလက္ၿဖစ္သည္"
+
+#. GroupPresenter.php:793
+#: 
+msgid "This is not a real group but spam."
+msgstr "ဤအရာသည္အုပ္စုအစစ္အမွန္မဟုတ္ေပ၊ေၾကာ္ၿငာအၿဖစ္သာလွ်င္ၿဖစ္သည္"
+
+#. UserPresenter.php:338
+#: 
+msgid "This is not a real person but spam."
+msgstr "ဤအရာသည္ပုဂၢိဳလ္အစစ္အမွန္မဟုတ္ေပ၊ေၾကာ္ၿငာအၿဖစ္သာလွ်င္ၿဖစ္သည္"
+
+#. ResourcePresenter.php:899
+#: 
+msgid "This is not a real resource but spam."
+msgstr "ဤအရာသည္ရင္းၿမစ္အစစ္အမွန္မဟုတ္ေပ၊ေၾကာ္ၿငာအၿဖစ္သာလွ်င္ၿဖစ္သည္"
+
+#. default.phtml:100
+#. detail.phtml:99
+#: 
+msgid "This is your group."
+msgstr "ဤအရာသည္သင္၏အုပ္စုၿဖစ္သည္"
+
+#. default.phtml:110
+#. detail.phtml:102
+#: 
+msgid "This is your resource."
+msgstr "ဤအရာသည္သင္၏ရင္းၿမစ္ၿဖစ္သည္"
+
+#. UserPresenter.php:340
+#: 
+msgid "This person violates the rules of conduct."
+msgstr "ဤပုဂၢိဳလ္သည္စည္းမ်ဥ္းစည္းကမ္းမ်ားကိုခ်ိဳးေဖာက္သည္"
+
+#. UserPresenter.php:339
+#: 
+msgid "This person was created by mistake."
+msgstr "ဤပုဂၢိဳလ္သည္အမွားၿဖင္႔ဖန္တီးၿပဳလုပ္ခဲ႔၏"
+
+#. ResourcePresenter.php:18
+#: 
+msgid "This resource doesn't exist."
+msgstr "ဤရင္းၿမစ္သည္မရွိပါ"
+
+#. ResourcePresenter.php:901
+#: 
+msgid "This resource violates the rules of conduct."
+msgstr "ဤရင္းၿမစ္သည္စည္းမ်ဥ္းစည္းကမ္းမ်ားကိုခ်ိဳးေဖာက္သည္"
+
+#. ResourcePresenter.php:900
+#: 
+msgid "This resource was created by mistake."
+msgstr "ဤရင္းၿမစ္ကိုအမွားၿဖင္႔ဖန္တီးၿပဳလုပ္ခဲ႔၏"
+
+#. UserPresenter.php:27
+#: 
+msgid "This user doesn't exist."
+msgstr "ဤအသံုးၿပဳသူသည္မရွိပါ"
+
+#. edit.phtml:8
+#: 
+msgid "Time"
+msgstr "အခ်ိန္"
+
+#. edit.phtml:15
+#: 
+msgid "Time Zone"
+msgstr "အခ်ိန္ဇံု"
+
+#. UserPresenter.php:470
+#: 
+msgid "To this address we will send a request to confirm your registration."
+msgstr "သင္၏မွတ္ပုံတင္ျခင္းကိုအတည္ျပဳရန္ကၽြန္ေတာ္တို႔သည္ဤလိပ္စာကိုပို႔လိမ့္မည္"
+
+#. UserPresenter.php:1086
+#: 
+msgid "To:"
+msgstr "ကို/သို႔"
+
+#. default.phtml:84
+#: 
+msgid "Top Groups"
+msgstr "ထိပ္တန္းအုပ္စုမ်ား"
+
+#. default.phtml:88
+#: 
+msgid "Top Resources"
+msgstr "ထိပ္တန္းရင္းၿမစ္မ်ား"
+
+#. default.phtml:80
+#: 
+msgid "Top Users"
+msgstr "ထိပ္တန္းအသံုးၿပဳသူမ်ား"
+
+#. ExternalFilter.php:180
+#: 
+msgid "Trash"
+msgstr "အမႈိက္ပံုး"
+
+#. ListerControlMain.php:657
+#: 
+msgid "Trash emptied."
+msgstr "အလြတ္ၿဖစ္ေသာ အမႈိက္ပံုး"
+
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Try a different filter."
+msgstr "ကြဲၿပားၿခားနားေသာစီစစ္မႈကိရိယာၿဖင္႔ၾကိဳးစားၾကည္႔ပါ"
+
+#. ExternalFilter.php:191
+#. ResourceListerControl.php:75
+#: 
+msgid "Type"
+msgstr "အမ်ိဳးအစား"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL must start with http:// or https://!"
+msgstr "(URL)ကို http:// သ္ို႔မဟုတ္ https:// စတင္ရမည္"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL to external source:"
+msgstr "ၿပင္ပရင္းၿမစ္သို႔ (URL)"
+
+#. default.phtml:120
+#. detail.phtml:127
+#: 
+msgid "Unblock this user"
+msgstr "ဤအသံုးၿပဳသူကိုမပိတ္ပါ"
+
+#. GroupPresenter.php:884
+#: 
+msgid "Unsubscribe"
+msgstr "အဖြဲ႕မဝင္ပါ"
+
+#. default.phtml:114
+#: 
+msgid "Unsubscribe from resource"
+msgstr "ဤရင္းၿမစ္မွအဖြဲ႕မဝင္ပါ"
+
+#. GroupListerControl.php:81
+#. GroupUserListerControl.php:57
+#. ListerControlMain.php:365
+#. ListerControlMain.php:415
+#. ListerControlMain.php:456
+#. ResourceGroupListerControl.php:44
+#. ResourceListerControl.php:41
+#. ResourceMemberListerControl.php:44
+#. TagListerControl.php:124
+#. UserListerControl.php:66
+#. GroupPresenter.php:482
+#. GroupPresenter.php:758
+#. ResourcePresenter.php:480
+#. ResourcePresenter.php:866
+#. UserPresenter.php:654
+#. UserPresenter.php:1201
+#: 
+msgid "Update"
+msgstr "ေနာက္ဆံုးသတင္းအေၿခအေန"
+
+#. UserPresenter.php:638
+#: 
+msgid "Upload Avatar:"
+msgstr "ရုပ္ပံုကိုပို႔ပါ"
+
+#. GroupPresenter.php:458
+#: 
+msgid "Upload group image:"
+msgstr "အုပ္စုပံုကိုပို႔ပါ"
+
+#. StaticModel.php:43
+#: 
+msgid "User %s accepted your friendship."
+msgstr "အသံုးၿပဳသူ (   )သည္သင္၏သူငယ္ခ်င္းအၿဖစ္လက္ခံခဲ႔သည္"
+
+#. StaticModel.php:51
+#: 
+msgid "User %s canceled your friendship."
+msgstr "အသံုးၿပဳသူ (   )သည္သင္၏သူငယ္ခ်င္းအၿဖစ္ပယ္ဖ်က္ခဲ႔သည္"
+
+#. StaticModel.php:47
+#: 
+msgid "User %s rejected your friendship."
+msgstr "အသံုးၿပဳသူ (   )သည္သင္၏သူငယ္ခ်င္းအၿဖစ္ၿငင္းပယ္္ခဲ႔သည္"
+
+#. StaticModel.php:39
+#: 
+msgid "User %s requested your friendship."
+msgstr "အသံုးၿပဳသူ (   )သည္သင္၏သူငယ္ခ်င္းအၿဖစ္ကိုေတာင္ဆိုခဲ႔သည္"
+
+#. register.phtml:0
+#: 
+msgid "User Signup"
+msgstr "အသံုးၿပဳသူဝင္ေရာက္ၿခင္း"
+
+#. GroupUserListerControl.php:96
+#: 
+msgid "User Status"
+msgstr "အသံုးၿပဳသူအေၿခအေန"
+
+#. lostpassword.phtml:0
+#: 
+msgid "User lost password"
+msgstr "အသံုးၿပဳသူေၿပာက္ဆံုးေသာစကားဝွက္"
+
+#. GroupUserListerControl.php:90
+#. ResourceMemberListerControl.php:73
+#. UserListerControl.php:100
+#. UserListerControl.phtml:19
+#. default.phtml:161
+#: 
+msgid "User permissions"
+msgstr "အသံုးၿပဳသူခြင္႔ၿပဳခ်က္မ်ား"
+
+#. UserPresenter.php:1237
+#: 
+msgid "User permissions changed."
+msgstr "အသံုးၿပဳသူခြင္႔ၿပဳခ်က္မ်ားေၿပာင္းလဲခဲ႔သည္"
+
+#. login.phtml:0
+#: 
+msgid "User signin"
+msgstr "အသံုးၿပဳသူူ(ဆိုင္းအင္)ဝင္ေရာက္ၿခင္း"
+
+#. ResourceGroupListerControl.php:79
+#. ResourceMemberListerControl.php:79
+#. UserListerControl.php:106
+#: 
+msgid "User status"
+msgstr "အသံုးၿပဳသူအေၿခအေန"
+
+#. edit.phtml:0
+#: 
+msgid "User update"
+msgstr "အသံုးၿပဳသူေနာက္ဆံုးသတင္းအေၿခအေန"
+
+#. UserPresenter.php:720
+#: 
+msgid "User updated"
+msgstr "အသံုးၿပဳသူေနာက္ဆံုးသတင္းအေၿခအေနရွိခဲ႔သည္"
+
+#. UserPresenter.php:492
+#: 
+msgid "User with the same name already exists."
+msgstr "အသံုးၿပဳသူသည္တူညီေသာအမည္နွင္႔အတူရွိခဲ႔ၿပီးၿပီ"
+
+#. detail.phtml:156
+#: 
+msgid "User's location on a map"
+msgstr "ေၿမပံုေပၚတြင္အသံုးၿပဳသူ၏တည္ေနရာ"
+
+#. UserPresenter.php:469
+#: 
+msgid "Username cannot be empty!"
+msgstr "အသံုးၿပဳသူအမည္မရွိပါ"
+
+#. UserPresenter.php:268
+#. UserPresenter.php:469
+#. UserPresenter.php:625
+#: 
+msgid "Username:"
+msgstr "အသံုးၿပဳသူအမည္"
+
+#. BasePresenter.php:82
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Users"
+msgstr "အသံုးၿပဳသူမ်ား"
+
+#. default.phtml:72
+#. default.phtml:85
+#. default.phtml:76
+#: 
+msgid "View details"
+msgstr "အေသးစိတ္အၿမင္/သေဘာထား"
+
+#. GroupUserListerControl.phtml:48
+#: 
+msgid "View details."
+msgstr "အေသးစိတ္အၿမင္/သေဘာထား"
+
+#. detail.phtml:104
+#: 
+msgid "View group owner:"
+msgstr "အုပ္စုပိုင္ရွင္၏သေဘာထား"
+
+#. detail.phtml:110
+#: 
+msgid "View resource owner:"
+msgstr "ရင္းၿမစ္ပိုင္ရွင္၏သေဘာထား"
+
+#. GroupPresenter.php:455
+#. ResourcePresenter.php:407
+#. UserPresenter.php:635
+#: 
+msgid "Visibility:"
+msgstr "ရနိုင္ၿခင္း"
+
+#. AdministrationPresenter.php:299
+#: 
+msgid "We have received complaints about inapproprite language in your group. Please make neccessary adjustments or your group will be deactivated."
+msgstr "မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍လိုအပ္ေသာနည္းလမ္းတက်ေဆာင္ရြက္ခ်က္မ်ားျပဳလုပ္ပါ၊သို႔မဟုတ္ပါကသင္၏အုပ္စုကိုနစ္နာေစပါလိမ့္မည္"
+
+#. AdministrationPresenter.php:319
+#: 
+msgid "We have received complaints about inapproprite language in your resource. Please make necessary adjustments or your resource will be deactivated."
+msgstr "မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍လိုအပ္ေသာနည္းလမ္းတက်ေဆာင္ရြက္ခ်က္မ်ားျပဳလုပ္ပါ၊သို႔မဟုတ္ပါကသင္၏ရင္းျမစ္ကိုနစ္နာေစပါလိမ့္မည္"
+
+#. AdministrationPresenter.php:281
+#: 
+msgid "We have received complaints about you spaming other users. Please stop or your account will be deactivated."
+msgstr "ကၽြန္ေတာ္တို႔သည္သင္သည္အျခားေသာအသုံးျပဳသူမ်ားကိုသူတို႔လက္ခံျခင္းမရွိေသာစာ/ေၾကာ္ျငာစာမ်ားပို႔သည့္တိုင္ၾကားခ်က္မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍ရပ္တန႔္ပါ၊သို႔မဟုတ္ပါကသင္၏အေကာင့္ကိုနစ္နာေစပါလိမ့္မည္"
+
+#. AdministrationPresenter.php:287
+#: 
+msgid "We have received complaints that you use inappropriate language. Please stop or your account will be deactivated."
+msgstr "ကၽြန္ေတာ္တို႔သည္သင္မေလ်ာ္ညီေသာဘာသာစကားမ်ားအသုံးျပဳသည့္္တိုင္ၾကားခ်က္မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍ရပ္တန႔္ပါ၊သို႔မဟုတ္ပါကသင္၏အေကာင့္ကိုနစ္နာေစပါလိမ့္မည္"
+
+#. AdministrationPresenter.php:293
+#: 
+msgid "We have received complaints that your group contains spam. Please delete inappropriate content or your group will be deactivated."
+msgstr "ကၽြန္ေတာ္တို႔သည္သင္၏္အုပ္စုတြင္လက္ခံျခင္းမရွိေသာစာ/ေၾကာ္ျငာစာမ်ားပါဝင္သည္ဟုတိုင္ၾကားခ်က္မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍မသင့္ေလ်ာ္ေသာပါဝင္မွုမ်ားကိုဖ်က္ပစ္ပါ၊သို႔မဟုတ္ပါကသင္၏အုပ္စုကိုနစ္နာေစပါလိမ့္မည္"
+
+#. AdministrationPresenter.php:313
+#: 
+msgid "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
+msgstr "ကၽြန္ေတာ္တို႔သည္သင္၏္ရင္းျမစ္တြင္လက္ခံျခင္းမရွိေသာစာ/ေၾကာ္ျငာစာမ်ားပါဝင္သည္ဟုတိုင္ၾကားခ်က္မ်ားကိုလက္ခံရရွိၿပီးၿပီ။ေက်းဇူးျပဳ၍မသင့္ေလ်ာ္ေသာပါဝင္မွုမ်ားကိုဖ်က္ပစ္ပါ၊ု႔မဟုတ္ပါကသင္၏ရင္းျမစ္ကိုနစ္နာေစပါလိမ့္မည္"
+
+#. default.phtml:42
+#: 
+msgid "Welcome"
+msgstr "ၾကိဳဆိုပါ၏"
+
+#. UserPresenter.php:637
+#: 
+msgid "Write some lines about your life, your work and your interests."
+msgstr "သင္၏ဘဝ၊အလုပ္ႏွင့္စိတ္ဝင္စားမွုနယ္ပယ္အေၾကာင္းကိုစာေၾကာင္:အနည္းငယ္ျဖင့္ေရးပါ"
+
+#. UserPresenter.php:470
+#: 
+msgid "Wrong email format!"
+msgstr "မွားယြင္းေသာအီးေမးလ္အစီအစဥ္"
+
+#. GroupPresenter.php:1164
+#: 
+msgid "You are already a member."
+msgstr "သင္သည္အဖြဲ႕ဝင္ၿဖစ္ၿပီ"
+
+#. default.phtml:130
+#. detail.phtml:176
+#: 
+msgid "You are not allowed to see the members."
+msgstr "သင္႔ကိုအဖြဲ႕ဝင္မ်ားကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. default.phtml:192
+#. detail.phtml:171
+#: 
+msgid "You are not allowed to see the memberships."
+msgstr "  သင္႔ကိုအဖြဲ႕ဝင္မ်ားကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. default.phtml:151
+#. detail.phtml:301
+#: 
+msgid "You are not allowed to see the subscribed groups."
+msgstr "သင့္ကိုအဖြဲ႕ဝင္ထားေသာအုပ္စုမ်ားကိုျမင္ရန္ခြင့္မျပဳပါ"
+
+#. default.phtml:140
+#. detail.phtml:290
+#: 
+msgid "You are not allowed to see the subscribed users."
+msgstr "သင္႔ကိုအဖြဲ႕ဝင္ထားေသာအသံုးၿပဳသူမ်ားကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. default.phtml:141
+#. detail.phtml:187
+#. default.phtml:203
+#. detail.phtml:182
+#: 
+msgid "You are not allowed to see the subscriptions."
+msgstr "   သင္႔ကိုအဖြဲ႕ဝင္ၿခင္းမ်ားကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. GroupPresenter.php:29
+#: 
+msgid "You are not allowed to view this group."
+msgstr "သင္႔ကိုဤအုပ္စုကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. ResourcePresenter.php:22
+#: 
+msgid "You are not allowed to view this resource."
+msgstr "သင္႔ကိုဤရင္းၿမစ္ကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. UserPresenter.php:31
+#: 
+msgid "You are not allowed to view this user."
+msgstr "သင္႔ကိုဤအသံုးၿပဳသူကိုၿမင္ရန္ခြင္႔မၿပဳပါ"
+
+#. detail.phtml:210
+#: 
+msgid "You can only send messages to friends."
+msgstr "သင္သည္သတင္းအခ်က္အလက္မ်ားကိုသူငယ္ခ်င္းမ်ားသို႔ပို႔နိုင္သည္"
+
+#. default.phtml:115
+#: 
+msgid "You currently block this user"
+msgstr "သင္သည္ဤအသံုးၿပဳသူကိုလက္တေလာပိတ္သည္"
+
+#. detail.phtml:123
+#: 
+msgid "You currently block this user."
+msgstr "သင္သည္ဤအသံုးၿပဳသူကိုလက္တေလာပိတ္သည္"
+
+#. GroupPresenter.php:1181
+#: 
+msgid "You have entered a wrong key."
+msgstr "သင္သည္မွားယြင္းေသာကီးၿဖင္႔ဝင္ခဲ႔ၿပီ"
+
+#. GroupPresenter.php:1191
+#: 
+msgid "You have joined the group."
+msgstr "သင္သည္အုပ္စုကိုဆက္သြယ္ၿပီးၿပီ"
+
+#. messages.phtml:6
+#: 
+msgid "You have no friends yet. You can start sending messages only after someone has accepted your friendship request."
+msgstr "သင္မွာသူငယ္ခ်င္းမ်ားမရွိေသးပါ။ သင္၏သူငယ္ခ်င္းအၿဖစ္ေတာင္းဆိုမႈကိုတစ္စံုတစ္ေယာက္\n"
+"ကလက္ခံၿပီးေနာက္သင္သည္သတင္းပို႔ၿခင္းကိုစတင္နိုင္သည္။"
+
+#. ResourcePresenter.php:146
+#: 
+msgid "You have no permission to create a resource."
+msgstr "သင္မွာရင္းၿမစ္သစ္တစ္ခုကိုဖန္တီးရန္ခြင္႔ၿပဳခ်က္မရွိပါ"
+
+#. GroupPresenter.php:124
+#. GroupPresenter.php:506
+#: 
+msgid "You have no permission to create groups."
+msgstr "သင္မွာအုပ္စုသစ္မ်ားကိုဖန္တီးရန္ခြင္႔ၿပဳခ်က္မရွိပါ"
+
+#. ResourcePresenter.php:521
+#: 
+msgid "You have no permission to create resources."
+msgstr "သင္မွာရင္းၿမစ္သစ္မ်ားကိုဖန္တီးရန္ခြင္႔ၿပဳခ်က္မရွိပါ"
+
+#. detail.phtml:212
+#: 
+msgid "You need to log in to send messages."
+msgstr "သင္သည္သတင္းပို႔ရန္အတြက္ေလာဒ္႔အင္ဝင္ရန္လိုသည္"
+
+#. detail.phtml:326
+#: 
+msgid "You need to subscribe in order to comment."
+msgstr "သင္သည္ေဝဖန္သံုးသပ္ခ်က္ေပးရန္အဖြဲ႔ဝင္ရန္လိုသည္"
+
+#. UserPresenter.php:696
+#: 
+msgid "You requested a change of your email address. A message with a link was sent to your old address. The new address will be activated once you confirmed the change."
+msgstr "သင္သည္သင္၏အီးေမးလ္လိပ္စာကိုေၿပာင္းလဲရန္ေတာင္းဆိုခဲ႔သည။္ ကြင္းဆက္(လင္႔)တစ္ခုနွင္႔တူသတင္းကိုလိပ္စာေဟာင္းသို႔ပို႔ခဲ႔ၿပီ။လိပ္စာအသစ္ကိုသင္အတည္\n"
+"္ၿပဳၿပီးတၿပိဳင္နက္လႈပ္ရွားေဆာင္ရြက္ေစလိမ္႔မည္။"
+
+#. default.phtml:53
+#: 
+msgid "My Connections"
+msgstr "သင္၏ဆက္သြယ္ခ်က္မ်ား"
+
+#. UserPresenter.php:507
+#: 
+msgid "Your IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "သင္၏ IP ကို www.stopforumspam.com တြင္ ေၾကာ္ၿငာစာတစ္ခုအၿဖစ္သိေစခဲ႔ၿပီး ပိတ္ဆို႔\n"
+"ခံခဲ႔ရၿပီ"
+
+#. BasePresenter.php:29
+#: 
+msgid "Your account has been deactivated. If you think that this is a mistake, please contact the support at %s."
+msgstr "သင္၏အေကာင္႔ကိုနစ္နာေစခဲ႔ၿပီ။ အကယ္၍ ဤအရာသည္အမွားတစ္ခုၿဖစ္သည္ဟုသင္\n"
+"ထင္ပါကေတ်းဇူးၿပဳ၍ (  )တြင္ဆက္သြယ္ပါ"
+
+#. UserPresenter.php:502
+#: 
+msgid "Your email is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "သင္၏အီးေမးလ္ကို www.stopforumspam.com တြင္ ေၾကာ္ၿငာစာတစ္ခုအၿဖစ္သိေစခဲ႔ၿပီး \n"
+"ပိတ္ဆို႔ခံခဲ႔ရၿပီ"
+
+#. UserPresenter.php:416
+#: 
+msgid "Your email:"
+msgstr "သင္၏အီးေမးလ္"
+
+#. GroupPresenter.php:210
+#. UserPresenter.php:225
+#: 
+msgid "Your image still needs to be cropped to the right dimensions before you can continue!"
+msgstr "သင္၏ပံုကို ေရွ႕သို႔ဆက္မသြားမီ မွန္ကန္ေသာအတိုင္းအတာၿဖင္႔ၿပန္လည္ၿပဳၿပင္ရန္လိုေန\n"
+"ေသးသည္"
+
+#. GroupPresenter.php:203
+#. UserPresenter.php:218
+#: 
+msgid "Your image still needs to be resized before you can continue!"
+msgstr "သင္၏ပံုဆိုဒ္ကို ေရွ႕သို႔ဆက္မသြားမီ ၿပန္လည္ၿပဳၿပင္ရန္လိုေနေသးသည္"
+
+#. UserPresenter.php:1124
+#: 
+msgid "Your message has been sent."
+msgstr "သင္၏သတင္းကိုပို႔ၿပီးၿပီ"
+
+#. messages.phtml:0
+#. messages.phtml:10
+#: 
+msgid "Your messages"
+msgstr "သင္၏သတင္းမ်ား"
+
+#. UserPresenter.php:298
+#: 
+msgid "Your password has been successfully changed, you can now log in."
+msgstr "သင္၏စကားဝွက္ကိုေအာင္ၿမင္စြာေၿပာင္းလဲၿပီးၿပီ၊ ယခုသင္ေလာ႔အင္ဝင္နိုင္ၿပီ"
+
+#. UserPresenter.php:327
+#: 
+msgid "Your password has been successfully changed."
+msgstr "သင္၏စကားဝွက္ကိုေအာင္ၿမင္စြာေၿပာင္းလဲၿပီးၿပီ"
+
+#. UserPresenter.php:471
+#: 
+msgid "Your password must be at least 8 characters long and contain at least one small letter, one big letter and one number."
+msgstr "သင္၏စကားဝွက္သည္အနည္းဆံုးအကၡရာေသးတစ္ခု၊အကၡရာၾကီးတစ္ခု၊\n"
+"ဂဏန္းတစ္ခုအပါအဝင္စာလံုးေရ ၈ လံုးရွိရမည္"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least %s characters."
+msgstr "သင္၏စကားဝွက္သည္အနည္းဆံုး %s အကၡရာ/စာလံုးမ်ားပါဝင္ရမည္"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one big letter."
+msgstr "သင္၏စကားဝွက္သည္အနည္းဆံုးအကၡရာၾကီးတစ္ခုပါဝင္ရမည္။"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one number."
+msgstr "သင္၏စကားဝွက္သည္အနည္းဆံုးဂဏန္းတစ္ခုပါဝင္ရမည္။"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one small letter."
+msgstr "သင္၏စကားဝွက္သည္အနည္းဆံုးအကၡရာေသးတစ္ခုပါဝင္ရမည္"
+
+#. UserPresenter.php:472
+#: 
+msgid "Your passwords are different."
+msgstr "သင္၏စကားဝွက္သည္ကြဲၿပားၿခားနားေနသည္"
+
+#. GroupPresenter.php:840
+#. ResourcePresenter.php:946
+#. UserPresenter.php:409
+#: 
+msgid "Your report has been received."
+msgstr "သင္၏တိုင္တန္းစာကိုလက္ခံၿပီးၿပီ"
+
+#. UserPresenter.php:469
+#: 
+msgid "Your username can only contain letters and numbers without spaces!"
+msgstr "သင္၏အသံုးၿပဳေသာနာမည္ကိုအကၡရာမ်ားနွင္႔ဂဏန္းမ်ားနွင္႔အတူေနရာမၿခားဘဲ\n"
+"(space မသံုးဘဲ)သာလွ်င္ပါဝင္နိုင္သည္"
+
+#. ExternalFilter.php:175
+#: 
+msgid "active"
+msgstr "လႈပ္ရွားေဆာင္ရြက္ေသာ"
+
+#. GroupPresenter.php:272
+#. ResourcePresenter.php:355
+#. UserPresenter.php:552
+#. UserPresenter.php:556
+#: 
+msgid "add new tag"
+msgstr "ဖိုင္တြဲအသစ္ကိုေပါင္းထည္႕ပါ"
+
+#. setupmaintenance.phtml:24
+#: 
+msgid "administators"
+msgstr "စီမံခန္႕ခြဲသူမ်ား"
+
+#. ListerControlMain_body.phtml:247
+#. ListerControlMain_body.phtml:265
+#. ListerControlMain_groups.phtml:83
+#. ListerControlMain_resources.phtml:102
+#: 
+msgid "administrator"
+msgstr "စီမံခန္႔ခြဲသူ"
+
+#. ExternalFilter.php:174
+#. ExternalFilter.php:187
+#: 
+msgid "all"
+msgstr "အားလံုး"
+
+#. ExternalFilter.php:157
+#: 
+msgid "all resources"
+msgstr "ရင္းၿမစ္မ်ားအားလံုး"
+
+#. ExternalFilter.php:193
+#: 
+msgid "all tags"
+msgstr "ဖိုင္တြဲမ်ားအားလံုး"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "auto reload"
+msgstr "အလိုေလ်ာက္ၿပန္ပို႔သည္"
+
+#. edit.phtml:7
+#. edit.phtml:31
+#. edit.phtml:5
+#: 
+msgid "cancel and return"
+msgstr "ပယ္ဖ်က္ၿပီးၿပန္သြားပါ"
+
+#. MapContainer.phtml:324
+#. MapControl.phtml:345
+#: 
+msgid "clear map"
+msgstr "ေၿမပံုကိုရွင္းလင္းပါ"
+
+#. BasePresenter.php:100
+#. BasePresenter.php:118
+#: 
+msgid "create"
+msgstr "ဖန္တီးပါ"
+
+#. setupmaintenance.phtml:30
+#. setupmaintenance.phtml:36
+#. setupmaintenance.phtml:42
+#: 
+msgid "deactivated"
+msgstr "နစ္နာေစေသာ"
+
+#. ResourceListerControl.phtml:45
+#. UserListerControl.phtml:60
+#: 
+msgid "detail"
+msgstr "အေသးစိတ္"
+
+#. ResourceListerControl.phtml:37
+#. default.phtml:52
+#. detail.phtml:37
+#. default.phtml:63
+#. detail.phtml:40
+#. default.phtml:53
+#. detail.phtml:40
+#: 
+msgid "edit"
+msgstr "တည္းၿဖတ္ပါ"
+
+#. default.phtml:60
+#: 
+msgid "friend"
+msgstr "သူငယ္ခ်င္း"
+
+#. AdministrationPresenter.php:60
+#: 
+msgid "from_email"
+msgstr "မွ-အီးေမးလ္"
+
+#. AdministrationPresenter.php:62
+#: 
+msgid "gps_default_latitude"
+msgstr ""
+
+#. AdministrationPresenter.php:64
+#: 
+msgid "gps_default_longitude"
+msgstr ""
+
+#. ExternalFilter.php:176
+#: 
+msgid "inactive"
+msgstr "လႈပ္ရွားေဆာင္ရြက္္မႈမရိွ္ေသာ"
+
+#. UserListerControl.phtml:65
+#: 
+msgid "insert to resource"
+msgstr "ရင္းၿမစ္သို႔အစားသြင္းပါ"
+
+#. @layout.phtml:197
+#: 
+msgid "license"
+msgstr "လိုင္စင္"
+
+#. ListerControlMain_body.phtml:449
+#. ListerControlMain_messages.phtml:93
+#: 
+msgid "mark as read"
+msgstr "ဖတ္ၿပီးသားစာအၿဖစ္မွတ္သားပါ"
+
+#. ListerControlMain_body.phtml:453
+#. ListerControlMain_messages.phtml:94
+#: 
+msgid "mark as unread"
+msgstr "မဖတ္ရၿပီးေသးေသာစာအၿဖစ္မွတ္သားပါ"
+
+#. default.phtml:58
+#: 
+#, fuzzy
+msgid "I am a member."
+msgstr "အဖြဲ႕ဝင္"
+
+#. ChatLister_ajax.phtml:30
+#. ListerControlMain_body.phtml:251
+#. ListerControlMain_body.phtml:269
+#. ListerControlMain_groups.phtml:87
+#. ListerControlMain_resources.phtml:106
+#: 
+msgid "moderator"
+msgstr "အုပ္ထိန္းကြပ္ကဲသူ"
+
+#. setupmaintenance.phtml:27
+#: 
+msgid "moderators"
+msgstr "အုပ္ထိန္းကြပ္ကဲသူ"
+
+#. ListerControlMain_body.phtml:541
+#. ListerControlMain_groups.phtml:285
+#: 
+msgid "more groups"
+msgstr "ပိုမိုေသာအုပ္စုမ်ား"
+
+#. ListerControlMain_body.phtml:543
+#. ListerControlMain_resources.phtml:308
+#: 
+msgid "more resources"
+msgstr "ပိုမိုေသာရင္းၿမစ္မ်ား"
+
+#. ListerControlMain_body.phtml:539
+#. ListerControlMain_users.phtml:262
+#: 
+msgid "more users"
+msgstr "ပိုမိုေသာအသံုးၿပဳသူမ်ား"
+
+#. ListerControlMain_body.phtml:441
+#. ListerControlMain_messages.phtml:73
+#: 
+msgid "move to trash"
+msgstr "အမႈိုက္ပံုးသို႔ေရြ႕ေၿပာင္းပါ"
+
+#. detail.phtml:12
+#: 
+msgid "my friend"
+msgstr "ကၽြန္ုပ္၏သူငယ္ခ်င္း"
+
+#. default.phtml:62
+#: 
+msgid "no friend"
+msgstr "သူငယ္ခ်င္းမဟုတ္ပါ"
+
+#. default.phtml:60
+#: 
+#, fuzzy
+msgid "I am not a member."
+msgstr "အဖြဲ႕ဝင္မဟုတ္ပါ"
+
+#. detail.phtml:12
+#: 
+msgid "not my friend"
+msgstr "ကၽြန္ုပ္၏သူငယ္ခ်င္း"
+
+#. default.phtml:72
+#: 
+msgid "I am not subscribed."
+msgstr "အဖြဲ႕ဝင္မဟုတ္ခဲ့ပါ"
+
+#. AdministrationPresenter.php:66
+#: 
+msgid "object_creation_min_time"
+msgstr ""
+
+#. default.phtml:81
+#. detail.phtml:26
+#. default.phtml:72
+#. detail.phtml:22
+#: 
+msgid "only visible to friends"
+msgstr "သူငယ္ခ်င္းမ်ားသာၿမင္နိုင္ေသာ"
+
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "only visible to members"
+msgstr "အဖြဲ႕ဝင္မ်ားသာၿမင္နိုင္ေသာ"
+
+#. default.phtml:66
+#. detail.phtml:16
+#. default.phtml:79
+#. detail.phtml:24
+#. default.phtml:70
+#. detail.phtml:20
+#: 
+msgid "only visible to registered users"
+msgstr "မွတ္ပံုတင္ထားေသာအသံုးၿပဳသူမ်ားသာၿမင္နိုင္ေသာ"
+
+#. ListerControlMain_body.phtml:243
+#. ListerControlMain_body.phtml:261
+#. ListerControlMain_groups.phtml:79
+#. ListerControlMain_resources.phtml:98
+#: 
+msgid "owner"
+msgstr "ပိုင္ရွင္"
+
+#. detail.phtml:27
+#. detail.phtml:31
+#: 
+msgid "regenerate image"
+msgstr "႔ံပံုရိပ္ကိုၿပန္လည္ထုတ္လုပ္ပါ"
+
+#. UserListerControl.phtml:69
+#: 
+msgid "remove user from resource"
+msgstr "ရင္းၿမစ္မွအသံုးၿပဳသူကိုဖယ္ထုတ္ပါ"
+
+#. ChatLister_ajax.phtml:39
+#. ListerControlMain_body.phtml:198
+#. ListerControlMain_messages.phtml:113
+#: 
+msgid "reply"
+msgstr "စာၿပန္ပါ"
+
+#. ListerControlMain_body.phtml:445
+#. ListerControlMain_messages.phtml:77
+#: 
+msgid "restore from trash"
+msgstr "အမႈိက္ပံုးမွၿပန္လည္ထိန္းသိမ္းပါ"
+
+#. AdministrationPresenter.php:183
+#: 
+msgid "setup and maintenance"
+msgstr "တည္ေဆာက္ၿပီးထိန္းသိမ္းပါ"
+
+#. login.phtml:30
+#: 
+msgid "sign up"
+msgstr "(ဆိုင္းအပ္)ဝင္ေရာက္ပါ"
+
+#. default.phtml:70
+#: 
+msgid "subscribed"
+msgstr "အဖြဲ႕ဝင္ခဲ႕သည္"
+
+#. ExternalFilter.php:197
+#: 
+msgid "tag_name"
+msgstr ""
+
+#. ContainerTreeSelectControl.phtml:27
+#. ContainerTreeSelectControl.phtml:29
+#: 
+msgid "top level"
+msgstr "ပိုမိုေသာေယဘုယ်တြဲရန္ဖိုင္မ်ားအတြက္ေနရာ"
+
+#. default.phtml:64
+#. detail.phtml:14
+#. default.phtml:77
+#. detail.phtml:22
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "visible to the world"
+msgstr "တစ္ကမၻာလံုးသို႔ၿမင္နိုင္ေသာ"
+
+#. ChatLister_ajax.phtml:116
+#. ListerControlMain_messages.phtml:157
+#. messages.phtml:79
+#: 
+msgid "wrote"
+msgstr "ေရးခဲ႔သည္"
+
+#. detail.phtml:5
+#: 
+msgid "Back to the list of messages"
+msgstr "သတင္းအခ်က္အလက္စာရင္းသို႔ၿပန္ပါ"
+
+#. detail.phtml:7
+#: 
+msgid "Back to the list of reports"
+msgstr "တိုင္တန္းခ်က္မ်ားစာရင္းသို႔ၿပန္ပါ"
+
+#. detail.phtml:9
+#: 
+msgid "Back to the list of resources"
+msgstr "ရင္းၿမစ္မ်ားစာရင္းသို႔ၿပန္ပါ"
+
+#. edit.phtml:38
+#: 
+msgid "Below you can add details: Describe the topics of this resource by one or more tags. If you have created resource accessible only to selected peaople, you can insert recipients of this resource. These information will help other users to find your resource."
+msgstr "ေအာက္တြင္သင္အေသးစိတ္ေပါင္းထည္႔နိုင္သည္။ဤရင္းၿမစ္၏ေခါင္းစဥ္မ်ားကိုတစ္ခု \n"
+"သို႔မဟုတ္ တစ္ခုထက္ပိုေသာတြဲရန္ဖိုင္မ်ားၿဖင္႔ေဖာ္ၿပပါ။အကယ္၍သင္သည္ေရြးခ်ယ္ထား\n"
+"ေသာသူမ်ားသာဝင္နိုင္ေသာရင္းၿမစ္တစ္ခုကိုဖန္တီးၿပီးပါကသင္သည္လက္ခံသူမ်ားကိုဤရင္း\n"
+"ၿမစ္တြင္အစားသြင္း နိုင္သည္။ဤသတင္းအခ်က္အလက္သည္အၿခားေသာအသံုးၿပဳသူမ်ား\n"
+"သင္၏ရင္းၿမစ္ကိုရွာေတြ႕ရန္ကူညီပါလိမ္႔မည္။"
+
+#. @layout.phtml:211
+#: 
+msgid "By using this platform you accept our"
+msgstr "Mycitizen.net ကိုအသံုးၿပဳၿခင္းသည္ကၽြန္ေတာ္တို႔၏ေအာက္ပါေပၚလစီကိုသင္လက္ခံသည္"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the group"
+msgstr "အုပ္စု၏အေသးစိတ္အခ်က္အလက္"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the resource"
+msgstr "ရင္းၿမစ္၏အေသးစိတ္အခ်က္အလက္"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the user"
+msgstr "အသံုးၿပဳသူ၏အေသးစိတ္အခ်က္အလက္"
+
+#. setupmaintenance.phtml:24
+#: 
+msgid "GD (images) supported"
+msgstr "GD (ပံုရိပ္မ်ား)ေထာက္ပံ႔ခဲ႔သည္"
+
+#. setupmaintenance.phtml:21
+#: 
+msgid "Gettext supported"
+msgstr ""
+
+#. ChatLister_ajax.phtml:47
+#. ListerControlMain_messages.phtml:112
+#: 
+msgid "Message not displayed because the user has been deactivated."
+msgstr "သတင္းအခ်က္အလက္ကိုမျပနိုင္ပါအဘယ္ေၾကာင့္ဆိုေသာ္အသုံးျပဳသူကို"
+
+#. ListerControlMain_messages.phtml:119
+#: 
+msgid "No messages"
+msgstr "သတင္းအခ်က္အလက္မရွိပါ"
+
+#. setupmaintenance.phtml:18
+#: 
+msgid "PHP Version"
+msgstr "PHP မူကြဲ"
+
+#. default.phtml:169
+#. detail.phtml:173
+#: 
+msgid "Permission to create items"
+msgstr "စာရင္းတြင္ပါဝင္ေသာအရာမ်ားကိုဖန္တီးရန္ခြင္႔ၿပဳခ်က္"
+
+#. @layout.phtml:211
+#: 
+msgid "Privacy policy"
+msgstr "ကိုယ္ေရးကိုယ္တာေပၚလစီ"
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Restrict your search to a location"
+msgstr "တည္ေနရာတစ္ခုသို႔သင္၏ရွာေဖြမႈကိုၾကပ္မတ္ပါ"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:395
+#: 
+msgid "Search for a place"
+msgstr "ေနရာတစ္ခုကိုရွာေဖြပါ"
+
+#. ExternalFilter.phtml:149
+#: 
+msgid "Search for similar topics like your interests and around your location."
+msgstr "သင္၏စိတ္ဝင္စားမွုမ်ားႏွင့္တည္ေနရာကဲ့သို႔တူညီေသာေခါင္းစဥ္ကိုရွာေဖြပါ"
+
+#. ExternalFilter.php:207
+#: 
+msgid "Similar to me"
+msgstr "ပုဂၢိဳလ္/အုပ္စု/ရင္းၿမစ္မ်ား၏တူညီေသာစိတ္ဝင္စားမႈ"
+
+#. setupmaintenance.phtml:12
+#: 
+msgid "Update languages from .po files"
+msgstr ""
+
+#. ChatLister_ajax.phtml:43
+#. ListerControlMain_messages.phtml:108
+#: 
+msgid "User has been deactivated"
+msgstr "အသံုးၿပဳသူကိုနစ္နာေစခဲ႔ၿပီ"
+
+#. default.phtml:160
+#. detail.phtml:164
+#: 
+msgid "User role"
+msgstr "အသံုးၿပဳသူ၏က႑"
+
+#. setupmaintenance.phtml:27
+#: 
+msgid "Your local s supported"
+msgstr "သင္၏ေဒသ"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom in"
+msgstr "ၿမင္ကြင္းက်င္း"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom out"
+msgstr "ၿမင္ကြင္းက်ယ္"
+
+#. ExternalFilter.phtml:139
+#: 
+msgid "AND: Find only items where <i>all</i> conditions are met.<br />OR: Find items where <i>any</i> of the selected conditions are met."
+msgstr ""
+
+#. ExternalFilter.phtml:146
+#: 
+msgid "Apply the filter."
+msgstr "စီစစ္မွုကိုေလၽွာက္ထားပါ"
+
+#. GroupPresenter.php:467
+#: 
+msgid "Avatars are small images that will be visible with your name. Here you can upload an avatar for your group (upload min. 80x100px, max. 2048x2048px). In the next step you can crop it."
+msgstr "ေသးငယ္ေသာပုံရိပ္အသြင္မ်ားသည္သင္၏နာမည္ႏွင့္အတူျမင္နိူင္လိမ့္မည္။ ဤေနရာတြင္သင့္အုပ္စု၏အသြင္ပုံသ႑န္ကိုပို႔နိုင္သည္။ (အနည္းဆုံးစာရြက္ဆိုဒ္အလ်ား၈၀xအနံ၁၀၀၊အမ်ားဆုံးစာရြက္ဆိုဒ္အလ်ား ၂၀၄၈ x အနံ ၂၀၄၈) ေနာက္အဆင့္တြင္သင္ရယူနိုင္သည္။"
+
+#. UserPresenter.php:631
+#: 
+msgid "Avatars are small images that will be visible with your name. Here you can upload your avatar (upload min. 80x100px, max. 2048x2048px). In the next step you can crop it."
+msgstr "ေသးငယ္ေသာပုံရိပ္အသြင္မ်ားသည္သင္၏နာမည္ႏွင့္အတူျမင္နိူင္လိမ့္မည္။ ဤေနရာတြင္သင္၏႐ုပ္ပုံကိုပို႔နိုင္သည္။ (အနည္းဆုံးစာရြက္ဆိုဒ္အလ်ား၈၀xအနံ၁၀၀၊အမ်ားဆုံးစာရြက္ဆိုဒ္အလ်ား၂၀၄၈ x အနံ ၂၀၄၈) ေနာက္အဆင့္တြင္သင္ရယူနိုင္သည္။"
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Click inside the map to set the center. Click a second time to set the search radius."
+msgstr ""
+
+#. edit.phtml:38
+#. edit.phtml:31
+#. edit.phtml:35
+#: 
+msgid "Click inside the map to set the resource location."
+msgstr ""
+
+#. UserPresenter.php:706
+#: 
+msgid "Image is too big! Max. size is for upload is 2048x2048"
+msgstr "ပုံရိပ္သည္ႀကီးလြန္း၏။အမ်ားဆုံးအရြယ္ပမာဏ(၂၀၄၈ x ၂၀၄၈) သာလၽွင္ပို႔နိုင္သည္"
+
+#. ListerControlMain_groups.phtml:217
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing to display"
+msgstr "မည္သည့္အရာကိုမွရွာမေတြ႕ပါ"
+
+#. changepassword.phtml:3
+#: 
+msgid "Please enter your new password"
+msgstr "စကားဝွက္ကိုတဖန္ျပန္ေရးပါ"
+
+#. UserPresenter.php:474
+#: 
+msgid "Please use only the English alphabet."
+msgstr "ေက်းဇူၿပဳ၍အဂၤလိပ္အကၡရာကိုသာလွ်င္အသံုးၿပဳပါ"
+
+#. ChatLister_body.phtml:9
+#: 
+msgid "Reload the chat."
+msgstr ""
+
+#. detail.phtml:156
+#: 
+msgid "Resource location on a map"
+msgstr "ေျမပုံေပၚတြင္ရင္းျမစ္မ်ား၏တည္ေနရာ"
+
+#. MapControl.phtml:380
+#. MapControl.phtml:381
+#: 
+msgid "Show the location where you are right now."
+msgstr "ကၽြန္ုပ္၏တည္ေနရာ"
+
+#. detail.phtml:224
+#: 
+msgid "The chat is only visible to group members."
+msgstr "သင္(ဆိုင္းအင္)ဝင္ေသာအခါစကားေျပာ(ခ်က္တင္း)ကိုျမင္ေတြ႕မည္"
+
+#. GroupPresenter.php:527
+#: 
+msgid "The image is too big! Max. size is for upload is 2048x2048"
+msgstr "ပုံရိပ္သည္ႀကီးလြန္း၏။အမ်ားဆုံးအရြယ္ပမာဏ(၂၀၄၈ x ၂၀၄၈) သာလၽွင္ပို႔နိုင္သည္"
+
+#. detail.phtml:222
+#: 
+msgid "Time:"
+msgstr "အခ်ိန္"
+
+#. default.phtml:6
+#. default.phtml:6
+#. default.phtml:6
+#: 
+msgid "Use the filter to narrow down the list of items."
+msgstr ""
+
+#. MapControl.php:42
+#: 
+msgid "group"
+msgstr "အုပ္စု"
+
+#. @layout.phtml:224
+#: 
+msgid "is a product of"
+msgstr ""
+
+#. MapControl.php:43
+#: 
+msgid "resource"
+msgstr "ရင္းျမစ္"
+
+#. detail.phtml:18
+#: 
+msgid "I am subscribed."
+msgstr "အဖြဲ႕ဝင္ခဲ့သည္"
+
+#. MapControl.php:41
+#: 
+msgid "user"
+msgstr "အသုံးျပဳသူ"
+
+#: 
+msgid "1"
+msgstr "၁"
+
+#: 
+msgid "2"
+msgstr "၂"
+
+#: 
+msgid "3"
+msgstr "၃"
+
+#: 
+msgid "4"
+msgstr "၄"
+
+#: 
+msgid "5"
+msgstr "၅"
+
+#: 
+msgid "6"
+msgstr "၆"
+
+#: 
+msgid "7"
+msgstr "၇"
+
+#: 
+msgid "8"
+msgstr "၈"
+
+#: 
+msgid "9"
+msgstr "၉"
+
