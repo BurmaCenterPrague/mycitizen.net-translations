@@ -5,40 +5,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: mycitizen.net\n"
-"Language: en-us\n"
+"Language: aa\n"
 
 #. GroupPresenter.php:824
 #. ResourcePresenter.php:930
 #. UserPresenter.php:391
 #: 
 msgid "(error)"
-msgstr "(error)"
+msgstr "(thuempawh)"
 
 #. GroupPresenter.php:825
 #. ResourcePresenter.php:931
 #. UserPresenter.php:392
 #: 
 msgid "(inappropriate language)"
-msgstr "(inappropriate language)"
+msgstr "(aka soeng pawh olka)"
 
 #. GroupPresenter.php:823
 #. ResourcePresenter.php:929
 #. UserPresenter.php:390
 #: 
 msgid "(spam)"
-msgstr "(spam)"
+msgstr "(Ka hnawt vaikim)"
 
 #. detail.phtml:133
 #: 
 msgid "Accept friendship"
-msgstr "Accept friendship"
+msgstr "Payala pom"
 
 #. default.phtml:126
 #. default.phtml:143
 #. detail.phtml:139
 #: 
 msgid "Accept friendship request"
-msgstr "Accept friendship request"
+msgstr "payala bihnah pom"
 
 #. GroupUserListerControl.phtml:16
 #: 
@@ -57,25 +57,25 @@ msgstr "Access level"
 #. AdministrationPresenter.php:86
 #: 
 msgid "Add"
-msgstr "Add"
+msgstr "Tom thil"
 
 #. edit.phtml:51
 #. edit.phtml:38
 #. edit.phtml:71
 #: 
 msgid "Add or remove tags"
-msgstr "Add or remove tags"
+msgstr "Tag cana tomthil tipatatah khoe"
 
 #. AdministrationPresenter.php:169
 #: 
 msgid "Add tag"
-msgstr "Add tag"
+msgstr "Tag tomthil"
 
 #. MapContainer.phtml:63
 #. MapControl.phtml:63
 #: 
 msgid "Address cannot be found."
-msgstr "Address cannot be found."
+msgstr "Address hmu thai pawh."
 
 #. @layout.phtml:154
 #. default.phtml:111
@@ -83,7 +83,7 @@ msgstr "Address cannot be found."
 #. default.phtml:158
 #: 
 msgid "Administration"
-msgstr "Administration"
+msgstr "Uktaem nah"
 
 #. settings.phtml:0
 #: 
@@ -99,27 +99,27 @@ msgstr "Administration - Setup and Maintenance"
 #. UserPresenter.php:1189
 #: 
 msgid "Administrator"
-msgstr "Administrator"
+msgstr "Kungmah"
 
 #. UserPresenter.php:1224
 #: 
 msgid "Administrator with id 1 cannot be changed"
-msgstr "Administrator with id 1 cannot be changed"
+msgstr "id 1 aka khueh kungmah tah tho thai la om pawh"
 
 #. login.phtml:9
 #: 
 msgid "Already have an account? Sign in below."
-msgstr "Already have an account? Sign in below."
+msgstr "Account na khueh pawn a? Adang ahhe kun."
 
 #. UserPresenter.php:433
 #: 
 msgid "An email has been sent to you with further instructions."
-msgstr "An email has been sent to you with further instructions."
+msgstr "Saidan along im cana te email ah kan pat coeng."
 
 #. ExternalFilter.php:202
 #: 
 msgid "Apply Filter"
-msgstr "Apply Filter"
+msgstr "Lungsaek Buen"
 
 #. GroupUserListerControl.php:97
 #. ResourceGroupListerControl.php:80
@@ -128,7 +128,7 @@ msgstr "Apply Filter"
 #. UserListerControl.php:107
 #: 
 msgid "Apply filter"
-msgstr "Apply filter"
+msgstr "Lungsaek buen"
 
 #. edit.phtml:14
 #: 
@@ -143,33 +143,33 @@ msgstr "August"
 #. ChatLister_body.phtml:10
 #: 
 msgid "Automatically reload in regular intervals if something new has been posted."
-msgstr "Automatically reload in regular intervals if something new has been posted."
+msgstr "Hno athai atai atah amah poek la rhawp reload useh."
 
 #. detail.phtml:3
 #: 
 msgid "Back to list of groups."
-msgstr "Back to list of groups."
+msgstr "group list la bal."
 
 #. detail.phtml:3
 #: 
 msgid "Back to list of users."
-msgstr "Back to list of users."
+msgstr "Hnonakung rhoek list la bal."
 
 #. edit.phtml:48
 #: 
 msgid "Below you can add details: Describe the topics of this group by one or more tags. If your group is located in a particular town, you can mark it on a map. These information will help other users to find your group."
-msgstr "Below you can add details: Describe the topics of this group by one or more tags. If your group is located in a particular town, you can mark it on a map. These information will help other users to find your group."
+msgstr "Adangah he akawng acom aci na thap thai: Tag cana neh hehkah group kah akawng he tueng sak. Nangkah group he khopuei khatkhat ah aom mai atah diklai muei dong ah khi. Telong te atloe hnonakung rhoek loh nangkah group he ahmuh nathai hamla abom ni."
 
 #. default.phtml:150
 #. detail.phtml:146
 #: 
 msgid "Cancel friendship"
-msgstr "Cancel friendship"
+msgstr "Paya naham hnoel"
 
 #. detail.phtml:127
 #: 
 msgid "Cancel subscription"
-msgstr "Cancel subscription"
+msgstr "Cong ma pawh"
 
 #. ListerControlMain_body.phtml:532
 #. ListerControlMain_groups.phtml:279
@@ -177,12 +177,12 @@ msgstr "Cancel subscription"
 #. ListerControlMain_users.phtml:256
 #: 
 msgid "Cannot find what you are searching?"
-msgstr "Cannot find what you are searching?"
+msgstr "Natlam te na hmuthai pat a?"
 
 #. changelostpassword.phtml:0
 #: 
 msgid "Change lost password"
-msgstr "Change lost password"
+msgstr "Kunnah olhuep aka hma te tho"
 
 #. UserPresenter.php:285
 #. UserPresenter.php:313
@@ -190,7 +190,7 @@ msgstr "Change lost password"
 #. edit.phtml:59
 #: 
 msgid "Change password"
-msgstr "Change password"
+msgstr "Kunnah olhuep tho"
 
 #. ListerControlMain_groups.phtml:218
 #. ListerControlMain_groups.phtml:229
@@ -200,40 +200,40 @@ msgstr "Change password"
 #. ListerControlMain_users.phtml:205
 #: 
 msgid "Change the filter"
-msgstr "Change the filter"
+msgstr "Lungsawk tho"
 
 #. default.phtml:4
 #: 
 msgid "Choose from the menus above."
-msgstr "Choose from the menus above."
+msgstr "Aso kah Menu lamkah tuek."
 
 #. ChatLister_body.phtml:4
 #. detail.phtml:339
 #. messages.phtml:13
 #: 
 msgid "Clear"
-msgstr "Clear"
+msgstr "Phaeh"
 
 #. ExternalFilter.php:201
 #: 
 msgid "Clear Filter"
-msgstr "Clear Filter"
+msgstr "Lungsaek Phaeh"
 
 #. login.phtml:22
 #: 
 msgid "Click here if you forgot your password."
-msgstr "Click here if you forgot your password."
+msgstr "Kunnah olhuep na hnilh atah heheh duep."
 
 #. edit.phtml:20
 #. edit.phtml:18
 #: 
 msgid "Click inside the image and select your avatar."
-msgstr "Click inside the image and select your avatar."
+msgstr "Mueihlip khui ah duep lamtah na mueihlip cate tuek."
 
 #. edit.phtml:13
 #: 
 msgid "Close"
-msgstr "Close"
+msgstr "Pit"
 
 #. detail.phtml:312
 #: 
@@ -243,28 +243,28 @@ msgstr "Comments"
 #. detail.phtml:388
 #: 
 msgid "Comments are only visible when you are signed in."
-msgstr "Comments are only visible when you are signed in."
+msgstr "Nakun daeng ani comment cana na hmuh thai eh."
 
 #. ExternalFilter.php:168
 #: 
 msgid "Connect filters with"
-msgstr "Connect filters with"
+msgstr "neh lungsaek cong"
 
 #. detail.phtml:117
 #: 
 msgid "Copy this link and send it to people who you would like to join. This link is like a key to this group."
-msgstr "Copy this link and send it to people who you would like to join. This link is like a key to this group."
+msgstr "Hikah link he Copy lamtah thum  aka ngaih rhoek taeng ah pat pat. Hikah link he hekah group ham la cabineh vai uh rhoi."
 
 #. GroupPresenter.php:465
 #. create.phtml:0
 #: 
 msgid "Create new group"
-msgstr "Create new group"
+msgstr "Group athai sai"
 
 #. ResourcePresenter.php:477
 #: 
 msgid "Create new resource"
-msgstr "Create new resource"
+msgstr "Hnopai athai sai"
 
 #. edit.phtml:14
 #: 
@@ -274,39 +274,40 @@ msgstr "December"
 #. GroupPresenter.php:457
 #: 
 msgid "Describe in few sentences what this group is about."
-msgstr "Describe in few sentences what this group is about."
+msgstr "Hikah group kawng he atoi ca tael lah."
 
 #. ResourcePresenter.php:410
 #: 
 msgid "Describe in few sentences what this resource is about."
-msgstr "Describe in few sentences what this resource is about."
+msgstr "Hikah hnopai kawng  he atoi ca tael lah."
 
 #. GroupPresenter.php:457
 #. ResourcePresenter.php:410
 #. UserPresenter.php:637
 #: 
 msgid "Description:"
-msgstr "Description:"
+msgstr "Akawng alam:"
 
 #. default.phtml:66
 #: 
 msgid "Discover new groups"
-msgstr "Discover new groups"
+msgstr "Group athai tlam"
 
 #. default.phtml:73
 #: 
 msgid "Discover new resources"
-msgstr "Discover new resources"
+msgstr "Hnopai athai tlam"
 
 #. default.phtml:59
 #: 
 msgid "Discover new users"
-msgstr "Discover new users"
+msgstr "Hnonakung athai tlam"
 
 #. UserPresenter.php:635
 #: 
-msgid "Do you want be visible to everyone (world), one to registered users (registered) or only to your friends (friends)?"
-msgstr "Do you want be visible to everyone (world), one to registered users (registered) or only to your friends (friends)?"
+#, fuzzy
+msgid "Do you want be visible to everyone (world), only to registered users (registered) or only to your friends (friends)?"
+msgstr "Hlang boeih taeng ah tueng saeh a (diklai tom), register tangtae rhoek taeng ah(register tangta), na paya rhoek taeng bueng ah( paya rhoek)."
 
 #. @layout.phtml:128
 #: 
@@ -316,54 +317,57 @@ msgstr "Download the mobile application."
 #. edit.phtml:12
 #: 
 msgid "Edit the group image"
-msgstr "Edit the group image"
+msgstr "Group mueihlip tho"
 
 #. edit.phtml:35
 #. edit.phtml:24
 #: 
 msgid "Edit the location"
-msgstr "Edit the location"
+msgstr "Omnah tho"
 
 #. edit.phtml:10
 #: 
 msgid "Edit your avatar"
-msgstr "Edit your avatar"
+msgstr "Na mueihlip ca tho"
 
 #. edit.phtml:32
 #: 
 msgid "Edit your location"
-msgstr "Edit your location"
+msgstr "na omnah tho"
 
 #. User.php:331
 #: 
 msgid "Email change on Mycitizen.net"
-msgstr "Email change on Mycitizen.net"
+msgstr "Mycitizen.net dong ah email tho"
 
 #. UserPresenter.php:129
 #: 
 msgid "Email couldn't be changed!"
-msgstr "Email couldn't be changed!"
+msgstr "Email tho thai pawh!"
 
 #. UserPresenter.php:116
 #: 
-msgid "Email couldn't be changed! Link is not active anymore"
-msgstr "Email couldn't be changed! Link is not active anymore"
+#, fuzzy
+msgid "Email couldn't be changed! Link is not active anymore."
+msgstr "Email tho thai pawh! Link rhawp hing voel pawh."
 
 #. UserPresenter.php:112
 #. UserPresenter.php:125
 #: 
-msgid "Email has been succesfully changed."
-msgstr "Email has been succesfully changed."
+#, fuzzy
+msgid "Email has been successfully changed."
+msgstr "Email tho uh coeng."
 
 #. UserPresenter.php:497
 #: 
-msgid "Email is already registered to another account."
-msgstr "Email is already registered to another account."
+#, fuzzy
+msgid "Email is already registered with another account."
+msgstr "Email he atloe account ah register la om tangtae coeng."
 
 #. UserPresenter.php:512
 #: 
 msgid "Email is not valid. Check it and try again."
-msgstr "Email is not valid. Check it and try again."
+msgstr "Email thuem pawh. So lam tah koep yawm."
 
 #. UserPresenter.php:470
 #. UserPresenter.php:634
@@ -374,7 +378,7 @@ msgstr "Email:"
 #. ListerControlMain.php:642
 #: 
 msgid "Empty Trash"
-msgstr "Empty Trash"
+msgstr "Kahnawt bu hoeng sak"
 
 #. GroupUserListerControl.phtml:19
 #. ResourceListerControl.phtml:11
@@ -387,51 +391,52 @@ msgstr "Enabled"
 
 #. GroupPresenter.php:461
 #: 
-msgid "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5)."
-msgstr "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5)."
+#, fuzzy
+msgid "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr "Hikah group ah aka thum rhoek coep nala cabi(number) tael. Ayol bik oltham, number neh \"-\", boeih ah 5 alo ham om."
 
 #. GroupPresenter.php:454
 #: 
 msgid "Enter a name for the group."
-msgstr "Enter a name for the group."
+msgstr "Group hamla aming tael."
 
 #. ResourcePresenter.php:405
 #: 
 msgid "Enter a name for the resource."
-msgstr "Enter a name for the resource."
+msgstr "Hnopai hamla aming tael."
 
 #. UserPresenter.php:284
 #. UserPresenter.php:312
 #: 
 msgid "Entered passwords are not the same."
-msgstr "Entered passwords are not the same."
+msgstr "Kunnah olhuep natael te vai uh thae pawh."
 
 #. RestServer.php:433
 #: 
 msgid "Error"
-msgstr "Error"
+msgstr "Thuem pawh"
 
 #. BasePresenter.php:211
 #: 
 msgid "Error deleting image from cache."
-msgstr "Error deleting image from cache."
+msgstr "Cache kah mueihlip te"
 
 #. BasePresenter.php:236
 #: 
 msgid "Error deleting image from cache: "
-msgstr "Error deleting image from cache: "
+msgstr "Cache lamkah mueihlip voeithai pawh: "
 
 #. ChatLister_body.phtml:95
 #. ChatLister_body.phtml:130
 #. ChatLister_body.phtml:136
 #: 
 msgid "Error loading chat. Are you logged in?"
-msgstr "Error loading chat. Are you logged in?"
+msgstr "Olvoek caet thaipawh. Na kun pawn dae a?"
 
 #. BasePresenter.php:251
 #: 
 msgid "Error recreating image."
-msgstr "Error recreating image."
+msgstr "Ayuk koep sai thai pawh."
 
 #. GroupListerControl.php:82
 #. GroupListerControl.php:113
@@ -474,22 +479,22 @@ msgstr "Error recreating image."
 #. UserPresenter.php:1203
 #: 
 msgid "Error submitting form."
-msgstr "Error submitting form."
+msgstr "Form ap thai pawh."
 
 #. BasePresenter.php:279
 #: 
 msgid "Error writing image: "
-msgstr "Error writing image: "
+msgstr "Muei hlip tael thai pawh: "
 
 #. ResourcePresenter.php:428
 #: 
 msgid "Event description:"
-msgstr "Event description:"
+msgstr "Event kawng:"
 
 #. ResourcePresenter.php:431
 #: 
 msgid "Event time:"
-msgstr "Event time:"
+msgstr "Event atue:"
 
 #. edit.phtml:14
 #: 
@@ -501,82 +506,82 @@ msgstr "February"
 #. TagListerControl.php:160
 #: 
 msgid "Filter"
-msgstr "Filter"
+msgstr "Lungsaek"
 
 #. ChatLister_body.phtml:3
 #. detail.phtml:338
 #. messages.phtml:12
 #: 
 msgid "Filter by name"
-msgstr "Filter by name"
+msgstr "Aming neh lungsaek  buen"
 
 #. ListerControlMain.php:100
 #: 
 msgid "Filter is off."
-msgstr "Filter is off."
+msgstr "Lungsaek pit."
 
 #. ListerControlMain.php:100
 #: 
 msgid "Filter is on."
-msgstr "Filter is on."
+msgstr "Lungsaek ong."
 
 #. User.php:258
 #: 
 msgid "Finish your registration at Mycitizen.net"
-msgstr "Finish your registration at Mycitizen.net"
+msgstr "Mycitizen.net ah boeih register dae"
 
 #. GroupPresenter.php:1135
 #. UserPresenter.php:1499
 #: 
 msgid "Finished cropping and resizing."
-msgstr "Finished cropping and resizing."
+msgstr "Ayol len la boeih sai coeng"
 
 #. ListerControlMain_body.phtml:27
 #. ListerControlMain_users.phtml:22
 #: 
 msgid "Friends"
-msgstr "Friends"
+msgstr "Paya cana"
 
 #. StaticModel.php:44
 #: 
 msgid "Friendship accepted"
-msgstr "Friendship accepted"
+msgstr "Payala pom coeng"
 
 #. StaticModel.php:52
 #: 
 msgid "Friendship canceled"
-msgstr "Friendship canceled"
+msgstr "Payala pom pawh"
 
 #. StaticModel.php:40
 #: 
 msgid "Friendship request"
-msgstr "Friendship request"
+msgstr "Payala bihnah"
 
 #. StaticModel.php:48
 #. default.phtml:110
 #: 
 msgid "Friendship request rejected"
-msgstr "Friendship request rejected"
+msgstr "Payala bih nah vik ahnoel"
 
 #. detail.phtml:118
 #: 
 msgid "Friendship request rejected."
-msgstr "Friendship request rejected."
+msgstr "Payala bih nah ahnoel."
 
 #. default.phtml:105
 #: 
 msgid "Friendship request sent"
-msgstr "Friendship request sent"
+msgstr "Payala nihnah pat coeng"
 
 #. detail.phtml:113
 #: 
 msgid "Friendship request sent."
-msgstr "Friendship request sent."
+msgstr "Payala nihnah pat coeng."
 
 #. GroupPresenter.php:25
 #: 
 msgid "Given group does not exist."
-msgstr "Given group does not exist."
+msgstr "Tebang group ompawh."
 
 #. detail.phtml:173
 #. detail.phtml:178
@@ -584,139 +589,137 @@ msgstr "Given group does not exist."
 #. detail.phtml:188
 #: 
 msgid "Go to resource"
-msgstr "Go to resource"
+msgstr "Hnopai la caet"
 
 #. GroupPresenter.php:956
 #: 
 msgid "Group %s has not been subscribed to resource."
-msgstr "Group %s has not been subscribed to resource."
+msgstr "%s group hetah hekah hnopai he cong hlan."
 
 #. ResourcePresenter.php:316
 #: 
 msgid "Group %s is already subscribed."
-msgstr "Group %s is already subscribed."
+msgstr "%s group hetah acong tangtae coeng."
 
 #. ResourcePresenter.php:314
 #: 
 msgid "Group %s subscribed to this resource."
-msgstr "Group %s subscribed to this resource."
+msgstr "%s group hetah hekah hnohe acong coeng."
 
 #. GroupPresenter.php:954
 #: 
 msgid "Group %s unsubscribed from resource."
-msgstr "Group %s unsubscribed from resource."
+msgstr "%s group hetah hekah hnopai he atoeng coeng."
 
 #. detail.phtml:199
 #: 
 msgid "Group chat"
-msgstr "Group chat"
+msgstr "Group voek thai nah"
 
 #. edit.phtml:0
 #: 
-msgid "Group edit"
-msgstr "Group edit"
+#, fuzzy
+msgid "Edit Group"
+msgstr "Group tho laeng"
 
 #. GroupPresenter.php:461
 #: 
 msgid "Group key:"
-msgstr "Group key:"
+msgstr "Group cabi"
 
 #. detail.phtml:161
 #: 
 msgid "Group location on a map"
-msgstr "Group location on a map"
+msgstr "Diklai muei dong ah group aom nah"
 
 #. default.phtml:126
 #. detail.phtml:172
 #: 
 msgid "Group members"
-msgstr "Group members"
+msgstr "Group dong ah aka thum rhoek"
 
 #. detail.phtml:104
 #: 
 msgid "Group owner: "
-msgstr "Group owner: "
+msgstr "Group akungmah: "
 
 #. default.phtml:137
 #. detail.phtml:183
 #: 
 msgid "Group resources"
-msgstr "Group resources"
+msgstr "Group hnopai cana"
 
 #. GroupListerControl.php:111
 #: 
 msgid "Group status"
-msgstr "Group status"
+msgstr "Group paihmuen"
 
 #. GroupPresenter.php:526
 #: 
 msgid "Group updated"
-msgstr "Group updated"
+msgstr "Group update coeng"
 
 #. BasePresenter.php:89
 #. default.phtml:0
 #. default.phtml:39
 #: 
 msgid "Groups"
-msgstr "Groups"
+msgstr "Group cana"
 
 #. User.php:328
 #: 
-msgid "Hello,\n"
-"You have requested email change on Mycitizen.net.\n"
-"To finish your request click on following link.\n"
-""
-msgstr "Hello,\n"
-"You have requested email change on Mycitizen.net.\n"
-"To finish your request click on following link.\n"
-""
+msgid "Hello %s,\n"
+"You have requested an email change on Mycitizen.net.\n"
+"To finish your request click on the following link."
+msgstr "Hello %s,\n"
+"Mycitizen.net dong ah email tho hamla na bih laom. \n"
+"Na coeng na hamla adang kah link te duep."
 
 #. User.php:295
 #: 
-msgid "Hello,\n"
-"You have requested password change on Mycitizen.net.\n"
-"To finish your request click on following link.\n"
-""
-msgstr "Hello,\n"
-"You have requested password change on Mycitizen.net.\n"
-"To finish your request click on following link.\n"
-""
+msgid "Hello %s,\n"
+"You have requested a password change on Mycitizen.net.\n"
+"To finish your request click on the following link."
+msgstr "Hello %s,\n"
+"Mycitizen.net dong ah kunnah olhuep tho hamla na bih laom. \n"
+"Na coeng na hamla adang kah link te duep."
 
 #. User.php:255
 #: 
-msgid "Hello,\n"
+msgid "Hello %s,\n"
 "thank you for signing up at Mycitizen.net!\n"
-"To finish your registration click on the following link.\n"
-""
-msgstr "Hello,\n"
-"thank you for signing up at Mycitizen.net!\n"
-"To finish your registration click on the following link.\n"
-""
+"To finish your registration click on the following link."
+msgstr "Hello %s,\n"
+"Mycitizen.net dongah na kun tih bahoeng ka uem. \n"
+"Register coeng na hamla adang kah link te duep."
 
 #. detail.phtml:48
 #: 
 msgid "Here you can report the group if you think it has violated the rules. Reports will be processed by our moderators."
-msgstr "Here you can report the group if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "Group loh caeh dan apalh nati atah helam he na report thai. \n"
+"Reports tetah oltloek kung loh anai anong ni."
 
 #. detail.phtml:51
 #: 
 msgid "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
-msgstr "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "Hnopai loh caeh dan apalh nati atah helam he na report thai. \n"
+"Reports tetah oltloek kung loh anai anong ni."
 
 #. detail.phtml:51
 #: 
 msgid "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
-msgstr "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
+msgstr "Hlang khatkhat mai loh caeh dan apalh nati atah helam he na report thai. \n"
+"Reports tetah oltloek kung loh anai anong ni."
 
 #. ListerControlMain_groups.phtml:69
 #: 
 msgid "Hidden group"
-msgstr "Hidden group"
+msgstr "Group aka tuengpawh"
 
 #. ListerControlMain_users.phtml:64
 #: 
 msgid "Hidden user"
-msgstr "Hidden user"
+msgstr "Aka tuengpawh Hnonakung"
 
 #. edit.phtml:9
 #: 
@@ -726,28 +729,28 @@ msgstr "Hours"
 #. login.phtml:30
 #: 
 msgid "If you are new here, please "
-msgstr "If you are new here, please "
+msgstr "Hiah hlang thai la naom atah, rhen naneh "
 
 #. GroupPresenter.php:458
 #. UserPresenter.php:638
 #: 
 msgid "Image must be in JPEG or PNG format."
-msgstr "Image must be in JPEG or PNG format."
+msgstr "Muei hlip te JPEG pat atah PNG la om angoe"
 
 #. setupmaintenance.phtml:9
 #: 
 msgid "Import resources from file"
-msgstr "Import resources from file"
+msgstr "File lamkah hnopai lo"
 
 #. ResourcePresenter.php:439
 #: 
 msgid "Information:"
-msgstr "Information:"
+msgstr "Thawngpang:"
 
 #. ResourcePresenter.php:260
 #: 
 msgid "Insufficient permissions to subscribe group %s to this resource."
-msgstr "Insufficient permissions to subscribe group %s to this resource."
+msgstr "%s group hetah hikah hnopuet cong ham phal nah khueh pawh."
 
 #. ListerControlMain_body.phtml:20
 #. ListerControlMain_groups.phtml:18
@@ -755,23 +758,18 @@ msgstr "Insufficient permissions to subscribe group %s to this resource."
 #. ListerControlMain_users.phtml:16
 #: 
 msgid "Is active"
-msgstr "Is active"
+msgstr "Hing ngawn"
 
 #. edit.phtml:14
 #: 
 msgid "January"
 msgstr "January"
 
-#. ResourceGroupListerControl.php:66
-#: 
-msgid "Jméno"
-msgstr "Jméno"
-
 #. default.phtml:93
 #. detail.phtml:130
 #: 
 msgid "Join group"
-msgstr "Join group"
+msgstr "Group la thum"
 
 #. edit.phtml:14
 #: 
@@ -786,73 +784,74 @@ msgstr "June"
 #. ExternalFilter.php:189
 #: 
 msgid "Language"
-msgstr "Language"
+msgstr "Olka"
 
 #. GroupPresenter.php:456
 #. ResourcePresenter.php:408
 #. UserPresenter.php:636
 #: 
 msgid "Language:"
-msgstr "Language:"
+msgstr "Olka:"
 
 #. detail.phtml:32
 #. detail.phtml:34
 #. detail.phtml:35
 #: 
-msgid "Last activity: "
-msgstr "Last activity: "
+#, fuzzy
+msgid "Last activity:"
+msgstr "Ahnuk bik sai hno:"
 
 #. default.phtml:104
 #. detail.phtml:134
 #: 
 msgid "Leave group"
-msgstr "Leave group"
+msgstr "Group caeh tak"
 
 #. detail.phtml:114
 #: 
 msgid "Link to invite new members"
-msgstr "Link to invite new members"
+msgstr "Aka thumkung athai coep na ngaih atah Link"
 
 #. ChatLister_body.phtml:159
 #: 
 msgid "Loading chat.."
-msgstr "Loading chat.."
+msgstr "Ol voek nah caetli.."
 
 #. MapControl.php:60
 #: 
 msgid "Location"
-msgstr "Location"
+msgstr "Omnah"
 
 #. GroupUserListerControl.phtml:7
 #. UserListerControl.phtml:8
 #: 
 msgid "Login"
-msgstr "Login"
+msgstr "Kun nah"
 
 #. GroupPresenter.php:455
 #: 
 msgid "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
-msgstr "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
+msgstr "Hekah group he hlangtom loh hmuh ham sai (diklai tom), hekah website aka hnonakung rhoek bueng loh (registered) pat atah hekah group dongah aka thum rhoek bueng loh (aka thum rhoek)."
 
 #. ResourcePresenter.php:407
 #: 
 msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
-msgstr "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
+msgstr "Hekah hno he hlangtom loh hmuh ham sai (diklai tom), hekah website aka hnonakung rhoek bueng loh (registered) pat atah hekah hno aka cong rhoek bueng loh (aka cong rhoek)."
 
 #. edit.phtml:85
 #: 
 msgid "Manage members of this group"
-msgstr "Manage members of this group"
+msgstr "Hekah group ah aka thum rhoek te boel rhai ham"
 
 #. edit.phtml:90
 #: 
 msgid "Manage subscribed resources"
-msgstr "Manage subscribed resources"
+msgstr "Aka cong rhoek te boelrhai sai"
 
 #. ExternalFilter.phtml:112
 #: 
 msgid "Map"
-msgstr "Map"
+msgstr "Diklai muei"
 
 #. edit.phtml:14
 #: 
@@ -862,8 +861,8 @@ msgstr "March"
 #. GroupPresenter.php:458
 #. UserPresenter.php:638
 #: 
-msgid "Maximum image size is 512kB"
-msgstr "Maximum image size is 512kB"
+msgid "Maximum image size is %s"
+msgstr "Ayuk alen bik tah %s ni"
 
 #. edit.phtml:14
 #: 
@@ -878,24 +877,24 @@ msgstr "Media ID:"
 #. ResourcePresenter.php:473
 #: 
 msgid "Media type:"
-msgstr "Media type:"
+msgstr "Media Aphun:"
 
 #. default.phtml:188
 #. detail.phtml:167
 #: 
 msgid "Member of groups"
-msgstr "Member of groups"
+msgstr "Group cana dongah aka thum"
 
 #. ListerControlMain_body.phtml:29
 #. ListerControlMain_groups.phtml:23
 #: 
 msgid "Members"
-msgstr "Members"
+msgstr "Aka thum rhoek"
 
 #. ResourcePresenter.php:419
 #: 
 msgid "Message:"
-msgstr "Message:"
+msgstr "Capat:"
 
 #. edit.phtml:10
 #: 
@@ -905,45 +904,45 @@ msgstr "Minutes"
 #. UserPresenter.php:1183
 #: 
 msgid "Moderator"
-msgstr "Moderator"
+msgstr "Oltloek kung"
 
 #. User.php:22
 #: 
 msgid "More than one user with the same id found."
-msgstr "More than one user with the same id found."
+msgstr "Hikah id phaek he vai khat lak ah ayet om tite hmuh la om."
 
 #. default.phtml:56
 #: 
 msgid "My Friends"
-msgstr "My Friends"
+msgstr "Ka paya cana"
 
 #. default.phtml:63
 #: 
 msgid "My Groups"
-msgstr "My Groups"
+msgstr "Ka group cana"
 
 #. MapContainer.phtml:328
 #. MapControl.phtml:351
 #: 
 msgid "My Location"
-msgstr "My Location"
+msgstr "Ka omnah"
 
 #. default.phtml:70
 #: 
 msgid "My Resources"
-msgstr "My Resources"
+msgstr "Kaikah Hnopai cana"
 
 #. detail.phtml:192
 #: 
 msgid "My friends"
-msgstr "My friends"
+msgstr "Ka paya cana"
 
 #. MapContainer.phtml:31
 #. MapContainer.phtml:283
 #. MapControl.phtml:32
 #: 
 msgid "My real position"
-msgstr "My real position"
+msgstr "Ka om nah taktak"
 
 #. ExternalFilter.php:172
 #. GroupListerControl.php:105
@@ -962,14 +961,14 @@ msgstr "My real position"
 #. UserListerControl.phtml:11
 #: 
 msgid "Name"
-msgstr "Name"
+msgstr "Ming"
 
 #. GroupPresenter.php:454
 #. ResourcePresenter.php:405
 #. UserPresenter.php:630
 #: 
 msgid "Name:"
-msgstr "Name:"
+msgstr "Ming:"
 
 #. edit.phtml:15
 #. edit.phtml:16
@@ -977,7 +976,7 @@ msgstr "Name:"
 #. edit.phtml:14
 #: 
 msgid "Needs to be created."
-msgstr "Needs to be created."
+msgstr "Sai ham la a ngoe."
 
 #. BasePresenter.php:47
 #. BasePresenter.php:47
@@ -985,27 +984,27 @@ msgstr "Needs to be created."
 #. BasePresenter.php:151
 #: 
 msgid "New messages"
-msgstr "New messages"
+msgstr "Capat thai cana"
 
 #. detail.phtml:91
 #. detail.phtml:94
 #. detail.phtml:96
 #: 
 msgid "No tags."
-msgstr "No tags."
+msgstr "Tag cana ompawh"
 
 #. ListerControlMain.php:359
 #. UserPresenter.php:1182
 #: 
 msgid "Normal user"
-msgstr "Normal user"
+msgstr "Hnonakung mailai"
 
 #. ListerControlMain_groups.phtml:218
 #. ListerControlMain_resources.phtml:241
 #. ListerControlMain_users.phtml:194
 #: 
 msgid "Nothing found."
-msgstr "Nothing found."
+msgstr "Aba khaw hmu pawh."
 
 #. edit.phtml:14
 #: 
@@ -1015,22 +1014,22 @@ msgstr "November"
 #. edit.phtml:12
 #: 
 msgid "Now"
-msgstr "Now"
+msgstr "N'thae ah"
 
 #. setupmaintenance.phtml:33
 #: 
 msgid "Number of groups"
-msgstr "Number of groups"
+msgstr "Group cana boeih"
 
 #. setupmaintenance.phtml:39
 #: 
 msgid "Number of resources"
-msgstr "Number of resources"
+msgstr "Hnopai cana boeih"
 
 #. setupmaintenance.phtml:21
 #: 
 msgid "Number of users"
-msgstr "Number of users"
+msgstr "Hnonakung boeih"
 
 #. edit.phtml:14
 #: 
@@ -1042,23 +1041,23 @@ msgstr "October"
 #. messages.phtml:79
 #: 
 msgid "On"
-msgstr "On"
+msgstr "Ong"
 
 #. default.phtml:91
 #: 
 msgid "On invitation only"
-msgstr "On invitation only"
+msgstr "Coepnah buengmah ong"
 
 #. AdministrationPresenter.php:44
 #. AdministrationPresenter.php:75
 #: 
 msgid "Only administrators can visit this section!"
-msgstr "Only administrators can visit this section!"
+msgstr "Helam he akungmah buengni akun thai!"
 
 #. GroupPresenter.php:461
 #: 
 msgid "Only letters, numbers and '-', with a minimum lenght of 5."
-msgstr "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "Catham, number neh \"-\" buengmah ayol bik 5 lo seh"
 
 #. Groupresourcewidget_body.phtml:35
 #. ListerControlMain_body.phtml:284
@@ -1071,7 +1070,7 @@ msgstr "Only letters, numbers and '-', with a minimum lenght of 5."
 #. ListerControlMain_users.phtml:105
 #: 
 msgid "Owner"
-msgstr "Owner"
+msgstr "Akakhueh kung"
 
 #. TagListerControl.php:123
 #: 
@@ -1087,18 +1086,18 @@ msgstr "Parent tag:"
 #. UserPresenter.php:312
 #: 
 msgid "Password again:"
-msgstr "Password again:"
+msgstr "Kunnah olhuep pabae la:"
 
 #. User.php:298
 #: 
 msgid "Password change on Mycitizen.net"
-msgstr "Password change on Mycitizen.net"
+msgstr "Mycitizen.net dongah kunnah olhuep tho"
 
 #. UserPresenter.php:302
 #. UserPresenter.php:330
 #: 
 msgid "Password couldn't be changed! Try again later."
-msgstr "Password couldn't be changed! Try again later."
+msgstr "Kunnah olhuep tho  thai pawh! Ayai la koep ong."
 
 #. UserPresenter.php:269
 #. UserPresenter.php:283
@@ -1106,7 +1105,7 @@ msgstr "Password couldn't be changed! Try again later."
 #. UserPresenter.php:471
 #: 
 msgid "Password:"
-msgstr "Password:"
+msgstr "Kunnah olhuep:"
 
 #. UserPresenter.php:632
 #: 
@@ -1116,97 +1115,99 @@ msgstr "Phone:"
 #. GroupPresenter.php:224
 #: 
 msgid "Please enter some text."
-msgstr "Please enter some text."
+msgstr "Rhen naneh ca ayol tael."
 
 #. GroupPresenter.php:799
 #. ResourcePresenter.php:905
 #. UserPresenter.php:344
 #: 
 msgid "Please give us some details."
-msgstr "Please give us some details."
+msgstr "Rhen naneh akawwng alam ayol n'tael lah."
 
 #. detail.phtml:119
 #: 
 msgid "Please go to the edit screen and generate a link."
-msgstr "Please go to the edit screen and generate a link."
+msgstr "Rhen naneh thovael nah screen la caet lamtah link generate sai."
 
 #. @layout.phtml:92
 #: 
 msgid "Please select first a part of the image."
-msgstr "Please select first a part of the image."
+msgstr "Mueihlip ngan cawn te luhma la tuek."
 
 #. ResourcePresenter.php:192
 #: 
 msgid "Post"
-msgstr "Post"
+msgstr "Tai"
 
 #. detail.phtml:322
 #: 
 msgid "Post new comment"
-msgstr "Post new comment"
+msgstr "Comment athai tai"
 
 #. detail.phtml:320
 #: 
 msgid "Post reply"
-msgstr "Post reply"
+msgstr "Olbal tai"
 
 #. GroupPresenter.php:798
 #. ResourcePresenter.php:904
 #. UserPresenter.php:343
 #: 
 msgid "Reason:"
-msgstr "Reason:"
+msgstr "Aba doongah:"
 
 #. UserPresenter.php:103
 #: 
-msgid "Registration couldn't be finished! Link is not active anymore"
-msgstr "Registration couldn't be finished! Link is not active anymore"
+#, fuzzy
+msgid "The registration couldn't be finished! Link is not active anymore."
+msgstr "Register coeng thai pawh! Link rhawp hing voel pawh"
 
 #. UserPresenter.php:99
 #: 
-msgid "Registration has been succesfull. You can now sign in."
-msgstr "Registration has been succesfull. You can now sign in."
+#, fuzzy
+msgid "The registration has been successful. You can now sign in."
+msgstr "Register thai coeng. N'thae ah na kun thai coeng."
 
 #. UserPresenter.php:530
 #: 
 msgid "Registration has been successful. A message has been sent to your email with further instructions how to activate your account."
-msgstr "Registration has been successful. A message has been sent to your email with further instructions how to activate your account."
+msgstr "Register thai coeng. Matlam lae account nahing sak eh tite na email dong ah boeih pat la om coeng."
 
 #. default.phtml:144
 #. detail.phtml:140
 #: 
 msgid "Reject friendship request"
-msgstr "Reject friendship request"
+msgstr "Payala bih nah hnawt"
 
 #. TagListerControl.php:125
 #: 
 msgid "Remove"
-msgstr "Remove"
+msgstr "Khoe"
 
 #. UserPresenter.php:472
 #: 
 msgid "Repeat password:"
-msgstr "Repeat password:"
+msgstr "Kunnah olhuep koeptael:"
 
 #. detail.phtml:310
 #: 
 msgid "Replies"
-msgstr "Replies"
+msgstr "Olbal cana"
 
 #. GroupPresenter.php:829
 #: 
 msgid "Report about group %s, reason: %s"
-msgstr "Report about group %s, reason: %s"
+msgstr "%s group kawng report sai, aba dong ahtite: %s"
 
 #. ResourcePresenter.php:935
 #: 
 msgid "Report about resource %s, reason: %s"
-msgstr "Report about resource %s, reason: %s"
+msgstr "%s hnopai kawng report sai, aba dong ahtite: %s"
 
 #. UserPresenter.php:397
 #: 
 msgid "Report about user %s, reason: %s"
-msgstr "Report about user %s, reason: %s"
+msgstr "%s hnonakung kawng report sai, aba dong ahtite: %s"
 
 #. detail.phtml:40
 #: 
@@ -1216,60 +1217,60 @@ msgstr "Report group"
 #. detail.phtml:43
 #: 
 msgid "Report resource"
-msgstr "Report resource"
+msgstr "Hnopai kawng report sai"
 
 #. detail.phtml:43
 #: 
 msgid "Report user"
-msgstr "Report user"
+msgstr "Aka Hnonakung report"
 
 #. AdministrationPresenter.php:193
 #: 
 msgid "Reports"
-msgstr "Reports"
+msgstr "Report cana"
 
 #. default.phtml:99
 #. detail.phtml:108
 #: 
 msgid "Request friendship"
-msgstr "Request friendship"
+msgstr "Payala bih nah"
 
 #. default.phtml:134
 #: 
 msgid "Request friendship again"
-msgstr "Request friendship again"
+msgstr "Payala koep bihnah"
 
 #. UserPresenter.php:417
 #: 
 msgid "Request new password"
-msgstr "Request new password"
+msgstr "Kunnah olhuep athai la bih"
 
 #. detail.phtml:110
 #: 
 msgid "Resource owner: "
-msgstr "Resource owner: "
+msgstr "Hno aka khueh kung: "
 
 #. ResourceListerControl.php:74
 #: 
 msgid "Resource status"
-msgstr "Resource status"
+msgstr "Hno apaihmuen"
 
 #. ResourcePresenter.php:406
 #: 
 msgid "Resource type:"
-msgstr "Resource type:"
+msgstr "Hno aphun"
 
 #. ResourcePresenter.php:531
 #: 
 msgid "Resource updated"
-msgstr "Resource updated"
+msgstr "Hno update coeng"
 
 #. BasePresenter.php:108
 #. default.phtml:0
 #. default.phtml:35
 #: 
 msgid "Resources"
-msgstr "Resources"
+msgstr "Hnopai cana"
 
 #. default.phtml:105
 #. default.phtml:110
@@ -1277,7 +1278,7 @@ msgstr "Resources"
 #. detail.phtml:118
 #: 
 msgid "Revoke request"
-msgstr "Revoke request"
+msgstr "Bihnah paa sak"
 
 #. ListerControlMain_body.phtml:16
 #. ListerControlMain_groups.phtml:14
@@ -1285,18 +1286,18 @@ msgstr "Revoke request"
 #. ListerControlMain_users.phtml:13
 #: 
 msgid "Role"
-msgstr "Role"
+msgstr "Sainah"
 
 #. MapContainer.phtml:321
 #. MapControl.phtml:342
 #: 
 msgid "Search"
-msgstr "Search"
+msgstr "Tlam"
 
 #. detail.phtml:335
 #: 
 msgid "Search Comments"
-msgstr "Search Comments"
+msgstr "Comment cana tlam ham"
 
 #. edit.phtml:11
 #: 
@@ -1306,64 +1307,65 @@ msgstr "Seconds"
 #. detail.phtml:167
 #: 
 msgid "See details about the user and respond to the request."
-msgstr "See details about the user and respond to the request."
+msgstr "Hnonakung kawng so lamtah bih nate koep lan"
 
 #. ContainerTreeSelectControl.phtml:22
 #: 
 msgid "Select Parent Level"
-msgstr "Select Parent Level"
+msgstr "Parent Level Tuek"
 
 #. default.phtml:121
 #: 
 msgid "Select a group for more details."
-msgstr "Select a group for more details."
+msgstr "Akawng acaih la mingnaham group te tuek."
 
 #. ResourcePresenter.php:408
 #: 
 msgid "Select a language of this resource."
-msgstr "Select a language of this resource."
+msgstr "Hekah hno kah olka tuek."
 
 #. GroupPresenter.php:456
 #: 
-msgid "Select a language that will be used in this group for comunication."
-msgstr "Select a language that will be used in this group for comunication."
+#, fuzzy
+msgid "Select a language that will be used in this group for communication."
+msgstr "Hikah group ah voek thae nala olka te tuek."
 
 #. default.phtml:131
 #: 
 msgid "Select a resource for more details."
-msgstr "Select a resource for more details."
+msgstr "Akawng acaih la mingnaham hno tetuek."
 
 #. AddTagComponent_Group.phtml:22
 #. AddTagComponent_Resource.phtml:22
 #. AddTagComponent_User.phtml:22
 #: 
 msgid "Select a tag"
-msgstr "Select a tag"
+msgstr "Tag te tuek"
 
 #. edit.phtml:7
 #: 
 msgid "Select a time"
-msgstr "Select a time"
+msgstr "Acan tuek"
 
 #. default.phtml:182
 #: 
 msgid "Select a user for more details."
-msgstr "Select a user for more details."
+msgstr "Akawng acaih la mingnaham aka hnonakung te tuek."
 
 #. detail.phtml:136
 #: 
 msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
-msgstr "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
+msgstr "Hekah hno cong na hamla group pakhat pat atah ayet mai khaw tuek. Namah kah tipat atah aka mawtkung kah phal nah na khueh group cana bueng ni atueng."
 
 #. detail.phtml:143
 #: 
 msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
-msgstr "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
+msgstr "Cong voel pat hamla hno pakhat pat atah ayet mai khaw tuek. Hekah group loh acong hno cana bueng ni atueng. Hnopai kah acom aci tael nah page dongah hno canate na cong thai."
 
 #. MapContainer.phtml:331
 #: 
 msgid "Selected Location"
-msgstr "Selected Location"
+msgstr "Omnah tuek"
 
 #. AdministrationPresenter.php:216
 #. GroupPresenter.php:228
@@ -1374,12 +1376,13 @@ msgstr "Selected Location"
 #. UserPresenter.php:1089
 #: 
 msgid "Send"
-msgstr "Send"
+msgstr "Pat"
 
 #. messages.phtml:4
 #: 
-msgid "Send message to a friend"
-msgstr "Send message to a friend"
+#, fuzzy
+msgid "Send a message to a friend"
+msgstr "Napaya taeng ah ca pat"
 
 #. edit.phtml:14
 #: 
@@ -1389,25 +1392,25 @@ msgstr "September"
 #. AdministrationPresenter.php:176
 #: 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Setting"
 
 #. UserPresenter.php:270
 #. @layout.phtml:145
 #: 
 msgid "Sign in"
-msgstr "Sign in"
+msgstr "Kun"
 
 #. @layout.phtml:141
 #. login.phtml:4
 #: 
 msgid "Sign out"
-msgstr "Sign out"
+msgstr "Sawk"
 
 #. UserPresenter.php:475
 #. @layout.phtml:146
 #: 
 msgid "Sign up"
-msgstr "Sign up"
+msgstr "Athai la kun"
 
 #. settings.phtml:8
 #: 
@@ -1417,68 +1420,68 @@ msgstr "Software version:"
 #. User.php:26
 #: 
 msgid "Specified user not found."
-msgstr "Specified user not found."
+msgstr "Tebang hnonakung te hmuh pawh."
 
 #. ExternalFilter.php:182
 #. UserListerControl.phtml:22
 #: 
 msgid "Status"
-msgstr "Status"
+msgstr "Pai hmuen"
 
 #. ResourcePresenter.php:241
 #. detail.phtml:121
 #: 
 msgid "Subscribe"
-msgstr "Subscribe"
+msgstr "Cong"
 
 #. detail.phtml:134
 #: 
 msgid "Subscribe as group"
-msgstr "Subscribe as group"
+msgstr "Group la cong."
 
 #. default.phtml:104
 #: 
 msgid "Subscribe to resource"
-msgstr "Subscribe to resource"
+msgstr "Hnopai cong"
 
 #. default.phtml:147
 #. detail.phtml:297
 #: 
 msgid "Subscribed Groups"
-msgstr "Subscribed Groups"
+msgstr "Aka cong group cana"
 
 #. default.phtml:136
 #. detail.phtml:286
 #: 
 msgid "Subscribed Users"
-msgstr "Subscribed Users"
+msgstr "Aka cong Hnonakung rhoek"
 
 #. default.phtml:199
 #. detail.phtml:178
 #: 
 msgid "Subscribed to resources"
-msgstr "Subscribed to resources"
+msgstr "Hnopai neh cong coeng"
 
 #. ListerControlMain_body.phtml:31
 #. ListerControlMain_resources.phtml:25
 #: 
 msgid "Subscribers"
-msgstr "Subscribers"
+msgstr "Aka cong rhoek"
 
 #. detail.phtml:141
 #: 
 msgid "Subscriptions as group"
-msgstr "Subscriptions as group"
+msgstr "Group la puet  lohnah"
 
 #. GroupUserListerControl.phtml:13
 #: 
 msgid "Surname"
-msgstr "Surname"
+msgstr "Cako ming"
 
 #. UserPresenter.php:631
 #: 
 msgid "Surname:"
-msgstr "Surname:"
+msgstr "Cako ming:"
 
 #. setupmaintenance.phtml:15
 #: 
@@ -1490,7 +1493,7 @@ msgstr "System check"
 #. StaticModel.php:63
 #: 
 msgid "System message: Warning!!!"
-msgstr "System message: Warning!!!"
+msgstr "System capat: Rhael rhing!!!"
 
 #. AddTagComponent_Group.phtml:28
 #. AddTagComponent_Resource.phtml:28
@@ -1502,211 +1505,199 @@ msgstr "Tag"
 #. AdministrationPresenter.php:84
 #: 
 msgid "Tag name:"
-msgstr "Tag name:"
+msgstr "Tag ming:"
 
 #. AddTagComponent_User.phtml:27
 #. ExternalFilter.phtml:78
 #. AdministrationPresenter.php:162
 #: 
 msgid "Tags"
-msgstr "Tags"
+msgstr "Tag cana"
 
 #. GroupPresenter.php:799
 #: 
 msgid "Tell us why you report this group, including examples:"
-msgstr "Tell us why you report this group, including examples:"
+msgstr "Hekah group he aba dongah lae na report tite nthui lah, tahsun nah cananeh:"
 
 #. ResourcePresenter.php:905
 #: 
 msgid "Tell us why you report this resource, including examples:"
-msgstr "Tell us why you report this resource, including examples:"
+msgstr "Hekah Hno he aba dongah lae na report tite nthui lah, tahsun nah cananeh:"
 
 #. UserPresenter.php:344
 #: 
 msgid "Tell us why you report this user, including examples:"
-msgstr "Tell us why you report this user, including examples:"
+msgstr "Hekah hnonakung he aba dongah lae na report tite nthui lah, tahsun nah cananeh:"
 
 #. ResourcePresenter.php:449
 #. UserPresenter.php:1087
 #: 
 msgid "Text:"
-msgstr "Text:"
+msgstr "Ca:"
 
 #. GroupPresenter.php:193
 #. UserPresenter.php:208
 #: 
-msgid "The image is too small. Minimum size is 80px x 100px."
-msgstr "The image is too small. Minimum size is 80px x 100px."
+msgid "The image is too small. Minimum size is %s."
+msgstr "Mueihlip he yol aih. Ayol bik %s loseh."
 
 #. UserPresenter.php:636
 #: 
 msgid "The main language you want to use. You will still be able to see other languages."
-msgstr "The main language you want to use. You will still be able to see other languages."
+msgstr "Olpueila hmang na ngaih ol. A tloe olkaa cana khaw na hmuh thai ngawn ni."
 
 #. UserPresenter.php:469
 #: 
 msgid "The minimal length of your username is %s characters."
-msgstr "The minimal length of your username is %s characters."
+msgstr "Hnonakung ming te ayol bik oltham %s loseh."
 
 #. UserPresenter.php:628
 #: 
 msgid "The username cannot be changed."
-msgstr "The username cannot be changed."
+msgstr "Hnonakung ming tah tho thai la ompawh."
 
 #. UserPresenter.php:680
 #: 
 msgid "This email is already used for another account."
-msgstr "This email is already used for another account."
+msgstr "Hikah email he atloe account ah ahno nah tangte coeng."
 
 #. UserPresenter.php:436
 #: 
 msgid "This email is not registered in our system!"
-msgstr "This email is not registered in our system!"
+msgstr "Hikah email hetah kaimih kah system dong ah register hlan!"
 
 #. UserPresenter.php:684
 #: 
 msgid "This email is not valid. Please check it and try again."
-msgstr "This email is not valid. Please check it and try again."
+msgstr "Email thuem pawh. So lamtah koep yawm mailah."
 
 #. detail.phtml:115
 #: 
 msgid "This group can only be viewed by members. Users need to have the key below to become members."
-msgstr "This group can only be viewed by members. Users need to have the key below to become members."
+msgstr "Hikah group hetah akathum rhoek bueng long ni asawt thai. Thum na ngaih atah adangkah cabi te khue ham ngoe."
 
 #. GroupPresenter.php:1175
 #: 
 msgid "This group doesn't have a key."
-msgstr "This group doesn't have a key."
+msgstr "Hika group heh cabi khueh pawh."
 
 #. GroupPresenter.php:795
 #: 
 msgid "This group violates the rules of conduct."
-msgstr "This group violates the rules of conduct."
+msgstr "Hekah group he caeh dan vai pawh."
 
 #. GroupPresenter.php:794
 #: 
-msgid "This group was created by mistake."
-msgstr "This group was created by mistake."
+msgid "This group was created by mistake, or it is inactive."
+msgstr "Hekah group he asai tholh, pat atah hing pawh."
 
 #. detail.phtml:10
 #: 
 msgid "This is my profile."
-msgstr "This is my profile."
+msgstr "Hitah kaikah profile"
 
 #. GroupPresenter.php:793
 #: 
 msgid "This is not a real group but spam."
-msgstr "This is not a real group but spam."
+msgstr "Hitah group atang moenih, kahnawt mailai ni."
 
 #. UserPresenter.php:338
 #: 
 msgid "This is not a real person but spam."
-msgstr "This is not a real person but spam."
+msgstr "Hitah hlang atang moenih, kahnawt mailai ni."
 
 #. ResourcePresenter.php:899
 #: 
 msgid "This is not a real resource but spam."
-msgstr "This is not a real resource but spam."
-
-#. default.phtml:100
-#. detail.phtml:99
-#: 
-msgid "This is your group."
-msgstr "This is your group."
-
-#. default.phtml:110
-#. detail.phtml:102
-#: 
-msgid "This is your resource."
-msgstr "This is your resource."
+msgstr "Hitah hnopai atang moenih, kahnawt mailai ni."
 
 #. UserPresenter.php:340
 #: 
 msgid "This person violates the rules of conduct."
-msgstr "This person violates the rules of conduct."
+msgstr "Hekah hlang he caeh dan thuem pawh."
 
 #. UserPresenter.php:339
 #: 
-msgid "This person was created by mistake."
-msgstr "This person was created by mistake."
+msgid "This person was created by mistake, or he/she is inactive."
+msgstr "Hekah hlang hetah sai tholh laom, pat atah anih he hing voel pawh."
 
 #. ResourcePresenter.php:18
 #: 
 msgid "This resource doesn't exist."
-msgstr "This resource doesn't exist."
+msgstr "Hikah hnopai ompawh."
 
 #. ResourcePresenter.php:901
 #: 
 msgid "This resource violates the rules of conduct."
-msgstr "This resource violates the rules of conduct."
+msgstr "Hekah hnopai he caeh dan thuem pawh."
 
 #. ResourcePresenter.php:900
 #: 
-msgid "This resource was created by mistake."
-msgstr "This resource was created by mistake."
+msgid "This resource was created by mistake, or it is inactive."
+msgstr "Hekah hno hetah sai tholh laom, pat atah hehe hing voel pawh."
 
 #. UserPresenter.php:27
 #: 
 msgid "This user doesn't exist."
-msgstr "This user doesn't exist."
+msgstr "Hebang hnonakung om pawh."
 
 #. edit.phtml:8
 #: 
 msgid "Time"
-msgstr "Time"
+msgstr "Acan"
 
 #. edit.phtml:15
 #: 
 msgid "Time Zone"
-msgstr "Time Zone"
+msgstr "Acan zone"
 
 #. UserPresenter.php:470
 #: 
 msgid "To this address we will send a request to confirm your registration."
-msgstr "To this address we will send a request to confirm your registration."
+msgstr "Hikah address lamhe nangkah register boeih naham bih nah kanpat coeng."
 
 #. UserPresenter.php:1086
 #: 
 msgid "To:"
-msgstr "To:"
+msgstr "Taengla:"
 
 #. default.phtml:84
 #: 
 msgid "Top Groups"
-msgstr "Top Groups"
+msgstr "Groups thenbik rhoek"
 
 #. default.phtml:88
 #: 
 msgid "Top Resources"
-msgstr "Top Resources"
+msgstr "Hnopai kathen koek"
 
 #. default.phtml:80
 #: 
 msgid "Top Users"
-msgstr "Top Users"
+msgstr "Aka hnona koek cana"
 
 #. ExternalFilter.php:180
 #: 
 msgid "Trash"
-msgstr "Trash"
+msgstr "Ka hnawt"
 
 #. ListerControlMain.php:657
 #: 
 msgid "Trash emptied."
-msgstr "Trash emptied."
+msgstr "Ka hnawtbu cimcoeng."
 
 #. ListerControlMain_groups.phtml:279
 #. ListerControlMain_resources.phtml:303
 #. ListerControlMain_users.phtml:256
 #: 
 msgid "Try a different filter."
-msgstr "Try a different filter."
+msgstr "Lungsaek atlo yawm"
 
 #. ExternalFilter.php:191
 #. ResourceListerControl.php:75
 #: 
 msgid "Type"
-msgstr "Type"
+msgstr "Aphun"
 
 #. ResourcePresenter.php:430
 #. ResourcePresenter.php:441
@@ -1714,7 +1705,7 @@ msgstr "Type"
 #. ResourcePresenter.php:459
 #: 
 msgid "URL must start with http:// or https://!"
-msgstr "URL must start with http:// or https://!"
+msgstr "URL he http:// patath https:// neh tong ham om!"
 
 #. ResourcePresenter.php:430
 #. ResourcePresenter.php:441
@@ -1728,17 +1719,17 @@ msgstr "URL to external source:"
 #. detail.phtml:127
 #: 
 msgid "Unblock this user"
-msgstr "Unblock this user"
+msgstr "Hekah hnonakung he khoe boeh"
 
 #. GroupPresenter.php:884
 #: 
 msgid "Unsubscribe"
-msgstr "Unsubscribe"
+msgstr "Toeng"
 
 #. default.phtml:114
 #: 
 msgid "Unsubscribe from resource"
-msgstr "Unsubscribe from resource"
+msgstr "Hnopai toeng"
 
 #. GroupListerControl.php:81
 #. GroupUserListerControl.php:57
@@ -1763,47 +1754,47 @@ msgstr "Update"
 #. UserPresenter.php:638
 #: 
 msgid "Upload Avatar:"
-msgstr "Upload Avatar:"
+msgstr "Muei hlip ca thun:"
 
 #. GroupPresenter.php:458
 #: 
 msgid "Upload group image:"
-msgstr "Upload group image:"
+msgstr "Group mueihlip thun ham:"
 
 #. StaticModel.php:43
 #: 
 msgid "User %s accepted your friendship."
-msgstr "User %s accepted your friendship."
+msgstr "Hnonakung %s loh payala na bihnah apom coeng."
 
 #. StaticModel.php:51
 #: 
 msgid "User %s canceled your friendship."
-msgstr "User %s canceled your friendship."
+msgstr "Hmangkung %s loh payala na bihnah ahnoel."
 
 #. StaticModel.php:47
 #: 
 msgid "User %s rejected your friendship."
-msgstr "User %s rejected your friendship."
+msgstr "Hnonakung %s loh payala na bihnah akhoe."
 
 #. StaticModel.php:39
 #: 
 msgid "User %s requested your friendship."
-msgstr "User %s requested your friendship."
+msgstr "Hnonakung %s loh payala n'bih."
 
 #. register.phtml:0
 #: 
 msgid "User Signup"
-msgstr "User Signup"
+msgstr "Hnonakung thai lakun."
 
 #. GroupUserListerControl.php:96
 #: 
 msgid "User Status"
-msgstr "User Status"
+msgstr "Hnonakung paihmuen"
 
 #. lostpassword.phtml:0
 #: 
 msgid "User lost password"
-msgstr "User lost password"
+msgstr "Hnonakung kunah olhuep hma"
 
 #. GroupUserListerControl.php:90
 #. ResourceMemberListerControl.php:73
@@ -1812,166 +1803,166 @@ msgstr "User lost password"
 #. default.phtml:161
 #: 
 msgid "User permissions"
-msgstr "User permissions"
+msgstr "Hnonakung phal nah"
 
 #. UserPresenter.php:1237
 #: 
 msgid "User permissions changed."
-msgstr "User permissions changed."
+msgstr "Hnonakung phal nah atho coeng."
 
 #. login.phtml:0
 #: 
 msgid "User signin"
-msgstr "User signin"
+msgstr "Hnonakung kun nah"
 
 #. ResourceGroupListerControl.php:79
 #. ResourceMemberListerControl.php:79
 #. UserListerControl.php:106
 #: 
 msgid "User status"
-msgstr "User status"
+msgstr "Hnonakung paihmuen"
 
 #. edit.phtml:0
 #: 
 msgid "User update"
-msgstr "User update"
+msgstr "Hnonakung update"
 
 #. UserPresenter.php:720
 #: 
 msgid "User updated"
-msgstr "User updated"
+msgstr "Hnonakung update coeng"
 
 #. UserPresenter.php:492
 #: 
 msgid "User with the same name already exists."
-msgstr "User with the same name already exists."
+msgstr "Tebang hnonakung ming te om tangtae coeng."
 
 #. detail.phtml:156
 #: 
 msgid "User's location on a map"
-msgstr "User's location on a map"
+msgstr "Diklai muei dongah hnonakung omnah"
 
 #. UserPresenter.php:469
 #: 
 msgid "Username cannot be empty!"
-msgstr "Username cannot be empty!"
+msgstr "YHnonakung ming te aho la na khueh thaipawh!"
 
 #. UserPresenter.php:268
 #. UserPresenter.php:469
 #. UserPresenter.php:625
 #: 
 msgid "Username:"
-msgstr "Username:"
+msgstr "Hnonakung ming"
 
 #. BasePresenter.php:82
 #. default.phtml:0
 #. default.phtml:39
 #: 
 msgid "Users"
-msgstr "Users"
+msgstr "Hnonakung cana"
 
 #. default.phtml:72
 #. default.phtml:85
 #. default.phtml:76
 #: 
 msgid "View details"
-msgstr "View details"
+msgstr "Acom aci so"
 
 #. GroupUserListerControl.phtml:48
 #: 
 msgid "View details."
-msgstr "View details."
+msgstr "Acom aci so."
 
 #. detail.phtml:104
 #: 
 msgid "View group owner:"
-msgstr "View group owner:"
+msgstr "Group kakhueh kung so:"
 
 #. detail.phtml:110
 #: 
 msgid "View resource owner:"
-msgstr "View resource owner:"
+msgstr "Hno aka khueh kung so:"
 
 #. GroupPresenter.php:455
 #. ResourcePresenter.php:407
 #. UserPresenter.php:635
 #: 
 msgid "Visibility:"
-msgstr "Visibility:"
+msgstr "Hmuhthai nah:"
 
 #. AdministrationPresenter.php:299
 #: 
 msgid "We have received complaints about inapproprite language in your group. Please make neccessary adjustments or your group will be deactivated."
-msgstr "We have received complaints about inapproprite language in your group. Please make neccessary adjustments or your group will be deactivated."
+msgstr "Nangkah group dong ah aka soeng pawh olka om tila olthang ka dang uh. Rhen naneh tholaeng nah sai uh, tipat atah nangkah group he duek pawn ni."
 
 #. AdministrationPresenter.php:319
 #: 
-msgid "We have received complaints about inapproprite language in your resource. Please make necessary adjustments or your resource will be deactivated."
-msgstr "We have received complaints about inapproprite language in your resource. Please make necessary adjustments or your resource will be deactivated."
+msgid "We have received complaints about inappropriate language in your resource. Please make necessary adjustments or your resource will be deactivated."
+msgstr "Nangkah hno dong ah aka soeng pawh olka om tila olthang ka dang uh. Rhen naneh tholaeng nah sai uh, tipat atah nangkah hno he duek pawn ni."
 
 #. AdministrationPresenter.php:281
 #: 
 msgid "We have received complaints about you spaming other users. Please stop or your account will be deactivated."
-msgstr "We have received complaints about you spaming other users. Please stop or your account will be deactivated."
+msgstr "Atloe hnonakung rhoek taengah kahnawt vaikim cana na pat  tila olthang ka dang uh. Rhen naneh duem laeh pat atah nangkah account he duek pawn ni."
 
 #. AdministrationPresenter.php:287
 #: 
 msgid "We have received complaints that you use inappropriate language. Please stop or your account will be deactivated."
-msgstr "We have received complaints that you use inappropriate language. Please stop or your account will be deactivated."
+msgstr "Aka soeng pawh olka na hnonah  tila olthang ka dang uh. Rhen naneh duem laeh, pat atah nangkah account he duek pawn ni."
 
 #. AdministrationPresenter.php:293
 #: 
 msgid "We have received complaints that your group contains spam. Please delete inappropriate content or your group will be deactivated."
-msgstr "We have received complaints that your group contains spam. Please delete inappropriate content or your group will be deactivated."
+msgstr "Nangkah group dongah kahnawt vaikim om tila olthang ka dang uh. Rhen naneh aka soeng pat te voei laeh, pat atah nangkah group he duek pawn ni."
 
 #. AdministrationPresenter.php:313
 #: 
 msgid "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
-msgstr "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
+msgstr "Nangkah hno dongah kahnawt vaikim om tila olthang ka dang uh. Rhen naneh aka soeng pat te voei laeh, pat atah nangkah hno he duek pawn ni."
 
 #. default.phtml:42
 #: 
 msgid "Welcome"
-msgstr "Welcome"
+msgstr "Omngaih cala kan doe."
 
 #. UserPresenter.php:637
 #: 
 msgid "Write some lines about your life, your work and your interests."
-msgstr "Write some lines about your life, your work and your interests."
+msgstr "Na khosak , na bii neh na ngaih hno cana ayol ca tael lah."
 
 #. UserPresenter.php:470
 #: 
 msgid "Wrong email format!"
-msgstr "Wrong email format!"
+msgstr "Email format thuem pawh!"
 
 #. GroupPresenter.php:1164
 #: 
 msgid "You are already a member."
-msgstr "You are already a member."
+msgstr "Kathumkung la na om coeng."
 
 #. default.phtml:130
 #. detail.phtml:176
 #: 
 msgid "You are not allowed to see the members."
-msgstr "You are not allowed to see the members."
+msgstr "Kathum rhoekcana naso thai pawh."
 
 #. default.phtml:192
 #. detail.phtml:171
 #: 
 msgid "You are not allowed to see the memberships."
-msgstr "You are not allowed to see the memberships."
+msgstr "Thum nakawng naso thai pawh."
 
 #. default.phtml:151
 #. detail.phtml:301
 #: 
 msgid "You are not allowed to see the subscribed groups."
-msgstr "You are not allowed to see the subscribed groups."
+msgstr "Aka cong group cana he sawt ham phal nah nakhueh pawh."
 
 #. default.phtml:140
 #. detail.phtml:290
 #: 
 msgid "You are not allowed to see the subscribed users."
-msgstr "You are not allowed to see the subscribed users."
+msgstr "Aka cong hnonakung rhoek he sawt ham phal nah nakhueh pawh."
 
 #. default.phtml:141
 #. detail.phtml:187
@@ -1979,196 +1970,196 @@ msgstr "You are not allowed to see the subscribed users."
 #. detail.phtml:182
 #: 
 msgid "You are not allowed to see the subscriptions."
-msgstr "You are not allowed to see the subscriptions."
+msgstr "Cong nah kawnglam na so thai pawh."
 
 #. GroupPresenter.php:29
 #: 
 msgid "You are not allowed to view this group."
-msgstr "You are not allowed to view this group."
+msgstr "Hikah group he naso thai pawh."
 
 #. ResourcePresenter.php:22
 #: 
 msgid "You are not allowed to view this resource."
-msgstr "You are not allowed to view this resource."
+msgstr "Hikah hno he na so thai pawh."
 
 #. UserPresenter.php:31
 #: 
 msgid "You are not allowed to view this user."
-msgstr "You are not allowed to view this user."
+msgstr "Hikah hnonakung he naso thai pawh."
 
 #. detail.phtml:210
 #: 
 msgid "You can only send messages to friends."
-msgstr "You can only send messages to friends."
+msgstr "Napaya cana taeng bueng lamni ca napat thai."
 
 #. default.phtml:115
 #: 
 msgid "You currently block this user"
-msgstr "You currently block this user"
+msgstr "Hikah hnonakung he na voeih li laom"
 
 #. detail.phtml:123
 #: 
 msgid "You currently block this user."
-msgstr "You currently block this user."
+msgstr "Hikah hnonakung he na voeih li laom."
 
 #. GroupPresenter.php:1181
 #: 
 msgid "You have entered a wrong key."
-msgstr "You have entered a wrong key."
+msgstr "Aka thuem pawh cabi natael sol."
 
 #. GroupPresenter.php:1191
 #: 
 msgid "You have joined the group."
-msgstr "You have joined the group."
+msgstr "Group la nathuum coeng."
 
 #. messages.phtml:6
 #: 
 msgid "You have no friends yet. You can start sending messages only after someone has accepted your friendship request."
-msgstr "You have no friends yet. You can start sending messages only after someone has accepted your friendship request."
+msgstr "Paya na khueh hlan. Hlang khatkhat ha loh payala nabih nah apom daeng ani ca napat thai eh."
 
 #. ResourcePresenter.php:146
 #: 
 msgid "You have no permission to create a resource."
-msgstr "You have no permission to create a resource."
+msgstr "Hnopai sai hamla phal na na khueh pawh."
 
 #. GroupPresenter.php:124
 #. GroupPresenter.php:506
 #: 
 msgid "You have no permission to create groups."
-msgstr "You have no permission to create groups."
+msgstr "Group nasai hamla phal na om pawh."
 
 #. ResourcePresenter.php:521
 #: 
 msgid "You have no permission to create resources."
-msgstr "You have no permission to create resources."
+msgstr "Hnopai cana sai hamla phal nah nakhueh pawh."
 
 #. detail.phtml:212
 #: 
 msgid "You need to log in to send messages."
-msgstr "You need to log in to send messages."
+msgstr "Capat na ngaih atah kun a ngoe."
 
 #. detail.phtml:326
 #: 
 msgid "You need to subscribe in order to comment."
-msgstr "You need to subscribe in order to comment."
+msgstr "Comment ham na ngaih atah na cong angoe."
 
 #. UserPresenter.php:696
 #: 
 msgid "You requested a change of your email address. A message with a link was sent to your old address. The new address will be activated once you confirmed the change."
-msgstr "You requested a change of your email address. A message with a link was sent to your old address. The new address will be activated once you confirmed the change."
+msgstr "Email address hleng ham na bih laom. Email a rhuem dong ah ca neh link kan pat coeng. Tho hamla na confirm phoei ah adress athai te hing pawn ni."
 
 #. default.phtml:53
 #: 
 msgid "My Connections"
-msgstr "My Connections"
+msgstr "Kaikah connection"
 
 #. UserPresenter.php:507
 #: 
 msgid "Your IP is known at www.stopforumspam.com as spam source and was blocked."
-msgstr "Your IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "Nang kah IP te www.stopforumspam.com ah ka hnawt vaikim tila ming laom tih vik voeih laom coeng."
 
 #. BasePresenter.php:29
 #: 
 msgid "Your account has been deactivated. If you think that this is a mistake, please contact the support at %s."
-msgstr "Your account has been deactivated. If you think that this is a mistake, please contact the support at %s."
+msgstr "Nangkah account vik duek coeng. Hehe asai tholh nati atah rhen naneh %s ah yak sak."
 
 #. UserPresenter.php:502
 #: 
 msgid "Your email is known at www.stopforumspam.com as spam source and was blocked."
-msgstr "Your email is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "Nang kah email te www.stopforumspam.com ah ka hnawt vaikim tila ming laom tih vik voeih laom coeng."
 
 #. UserPresenter.php:416
 #: 
 msgid "Your email:"
-msgstr "Your email:"
+msgstr "Na email:"
 
 #. GroupPresenter.php:210
 #. UserPresenter.php:225
 #: 
 msgid "Your image still needs to be cropped to the right dimensions before you can continue!"
-msgstr "Your image still needs to be cropped to the right dimensions before you can continue!"
+msgstr "Phaat na caeh hlan ah na mueihlip te athuem caala koep ahh ham om pueng!"
 
 #. GroupPresenter.php:203
 #. UserPresenter.php:218
 #: 
 msgid "Your image still needs to be resized before you can continue!"
-msgstr "Your image still needs to be resized before you can continue!"
+msgstr "Phat nacaeh hlan ah ayuk te ayol alen la koep sai angoe!"
 
 #. UserPresenter.php:1124
 #: 
 msgid "Your message has been sent."
-msgstr "Your message has been sent."
+msgstr "Na capat te pat la om coeng."
 
 #. messages.phtml:0
 #. messages.phtml:10
 #: 
 msgid "Your messages"
-msgstr "Your messages"
+msgstr "Capat cana"
 
 #. UserPresenter.php:298
 #: 
 msgid "Your password has been successfully changed, you can now log in."
-msgstr "Your password has been successfully changed, you can now log in."
+msgstr "Na kunnah olhuep tah tho la om coeng, tahae atah na kun thai coeng."
 
 #. UserPresenter.php:327
 #: 
 msgid "Your password has been successfully changed."
-msgstr "Your password has been successfully changed."
+msgstr "Na kunnah olhuep tah tho la om coeng."
 
 #. UserPresenter.php:471
 #: 
-msgid "Your password must be at least 8 characters long and contain at least one small letter, one big letter and one number."
-msgstr "Your password must be at least 8 characters long and contain at least one small letter, one big letter and one number."
+msgid "Your password must be at least 8 characters long and contain at least one lower-case letter, one upper-case letter and one number."
+msgstr "Na kunnah olhuep te ayolbik oltham 8 loseh, oltham ayol phun neh alen phun pakhat tal thum ham angoe."
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
 #. UserPresenter.php:471
 #: 
 msgid "Your password must contain at least %s characters."
-msgstr "Your password must contain at least %s characters."
+msgstr "Na kunnah olhuep te ayol bik oltham %s om angoe."
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
 #. UserPresenter.php:471
 #: 
-msgid "Your password must contain at least one big letter."
-msgstr "Your password must contain at least one big letter."
+msgid "Your password must contain at least one upper-case letter."
+msgstr "Na kunnah olhuep te ayol bik catham alen phun pakhat tal thum angoe."
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
 #. UserPresenter.php:471
 #: 
 msgid "Your password must contain at least one number."
-msgstr "Your password must contain at least one number."
+msgstr "Na kunnah olhuep te ayol bik number pakhat tal thum angoe."
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
 #. UserPresenter.php:471
 #: 
-msgid "Your password must contain at least one small letter."
-msgstr "Your password must contain at least one small letter."
+msgid "Your password must contain at least one lower-case letter."
+msgstr "Na kunnah olhuep te ayol bik catham ayol phun pakhat thum angoe."
 
 #. UserPresenter.php:472
 #: 
 msgid "Your passwords are different."
-msgstr "Your passwords are different."
+msgstr "Na kunnah olhuep vai uh rhoi pawh."
 
 #. GroupPresenter.php:840
 #. ResourcePresenter.php:946
 #. UserPresenter.php:409
 #: 
 msgid "Your report has been received."
-msgstr "Your report has been received."
+msgstr "Nang kah report cathut te kadang coeng."
 
 #. UserPresenter.php:469
 #: 
-msgid "Your username can only contain letters and numbers without spaces!"
-msgstr "Your username can only contain letters and numbers without spaces!"
+msgid "Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr "Hnonakung na ming dong ah cathamcana, number cana, space, dash neh adangah rhuen cana buengni athum thai!"
 
 #. ExternalFilter.php:175
 #: 
 msgid "active"
-msgstr "active"
+msgstr "Hing"
 
 #. GroupPresenter.php:272
 #. ResourcePresenter.php:355
@@ -2176,12 +2167,12 @@ msgstr "active"
 #. UserPresenter.php:556
 #: 
 msgid "add new tag"
-msgstr "add new tag"
+msgstr "Tag athi tom thil"
 
 #. setupmaintenance.phtml:24
 #: 
 msgid "administators"
-msgstr "administators"
+msgstr "akungmah rhoek"
 
 #. ListerControlMain_body.phtml:247
 #. ListerControlMain_body.phtml:265
@@ -2189,60 +2180,60 @@ msgstr "administators"
 #. ListerControlMain_resources.phtml:102
 #: 
 msgid "administrator"
-msgstr "administrator"
+msgstr "akungmah"
 
 #. ExternalFilter.php:174
 #. ExternalFilter.php:187
 #: 
 msgid "all"
-msgstr "all"
+msgstr "Boeih"
 
 #. ExternalFilter.php:157
 #: 
 msgid "all resources"
-msgstr "all resources"
+msgstr "Hnopai boeih"
 
 #. ExternalFilter.php:193
 #: 
 msgid "all tags"
-msgstr "all tags"
+msgstr "Tag cana boeih"
 
 #. ChatLister_body.phtml:10
 #: 
 msgid "auto reload"
-msgstr "auto reload"
+msgstr "Amah poek ah athaila hoi sak"
 
 #. edit.phtml:7
 #. edit.phtml:31
 #. edit.phtml:5
 #: 
 msgid "cancel and return"
-msgstr "cancel and return"
+msgstr "hno lam tah koep bal"
 
 #. MapContainer.phtml:324
 #. MapControl.phtml:345
 #: 
 msgid "clear map"
-msgstr "clear map"
+msgstr "Diklai muei phaeh"
 
 #. BasePresenter.php:100
 #. BasePresenter.php:118
 #: 
 msgid "create"
-msgstr "create"
+msgstr "athai sai"
 
 #. setupmaintenance.phtml:30
 #. setupmaintenance.phtml:36
 #. setupmaintenance.phtml:42
 #: 
 msgid "deactivated"
-msgstr "deactivated"
+msgstr "vik duek coeng"
 
 #. ResourceListerControl.phtml:45
 #. UserListerControl.phtml:60
 #: 
 msgid "detail"
-msgstr "detail"
+msgstr "acam aci"
 
 #. ResourceListerControl.phtml:37
 #. default.phtml:52
@@ -2253,37 +2244,37 @@ msgstr "detail"
 #. detail.phtml:40
 #: 
 msgid "edit"
-msgstr "edit"
+msgstr "athenla koep sai"
 
 #. default.phtml:60
 #: 
 msgid "friend"
-msgstr "friend"
+msgstr "paya"
 
 #. AdministrationPresenter.php:60
 #: 
 msgid "from_email"
-msgstr "Email address from where system messages are sent"
+msgstr "lamkah_email"
 
 #. AdministrationPresenter.php:62
 #: 
 msgid "gps_default_latitude"
-msgstr "Default latitude for Google maps"
+msgstr "gps_default_latitude"
 
 #. AdministrationPresenter.php:64
 #: 
 msgid "gps_default_longitude"
-msgstr "Default longitude for Google maps"
+msgstr " gps_default_latitude"
 
 #. ExternalFilter.php:176
 #: 
 msgid "inactive"
-msgstr "inactive"
+msgstr "hingpawh"
 
 #. UserListerControl.phtml:65
 #: 
 msgid "insert to resource"
-msgstr "insert to resource"
+msgstr "hnopai dongah thun"
 
 #. @layout.phtml:197
 #: 
@@ -2294,18 +2285,18 @@ msgstr "license"
 #. ListerControlMain_messages.phtml:93
 #: 
 msgid "mark as read"
-msgstr "mark as read"
+msgstr "tae tangtae lakhueh"
 
 #. ListerControlMain_body.phtml:453
 #. ListerControlMain_messages.phtml:94
 #: 
 msgid "mark as unread"
-msgstr "mark as unread"
+msgstr "tae hlan la khueh"
 
 #. default.phtml:58
 #: 
 msgid "I am a member."
-msgstr "I am a member."
+msgstr "Kai he aka thum kung ni."
 
 #. ChatLister_ajax.phtml:30
 #. ListerControlMain_body.phtml:251
@@ -2314,66 +2305,66 @@ msgstr "I am a member."
 #. ListerControlMain_resources.phtml:106
 #: 
 msgid "moderator"
-msgstr "moderator"
+msgstr "mawtkung"
 
 #. setupmaintenance.phtml:27
 #: 
 msgid "moderators"
-msgstr "moderators"
+msgstr "Mawt kung"
 
 #. ListerControlMain_body.phtml:541
 #. ListerControlMain_groups.phtml:285
 #: 
 msgid "more groups"
-msgstr "more groups"
+msgstr "Atloe group cana"
 
 #. ListerControlMain_body.phtml:543
 #. ListerControlMain_resources.phtml:308
 #: 
 msgid "more resources"
-msgstr "more resources"
+msgstr "Atloe hno cqna"
 
 #. ListerControlMain_body.phtml:539
 #. ListerControlMain_users.phtml:262
 #: 
 msgid "more users"
-msgstr "more users"
+msgstr "hnonakung atloe rhoek"
 
 #. ListerControlMain_body.phtml:441
 #. ListerControlMain_messages.phtml:73
 #: 
 msgid "move to trash"
-msgstr "move to trash"
+msgstr "kahnawt bu la voei"
 
 #. detail.phtml:12
 #: 
 msgid "my friend"
-msgstr "my friend"
+msgstr "Ka paya"
 
 #. default.phtml:62
 #: 
 msgid "no friend"
-msgstr "no friend"
+msgstr "paya ompawh"
 
 #. default.phtml:60
 #: 
 msgid "I am not a member."
-msgstr "I am not a member."
+msgstr "Kai ka thum pawh."
 
 #. detail.phtml:12
 #: 
 msgid "not my friend"
-msgstr "not my friend"
+msgstr "ka paya pawh"
 
 #. default.phtml:72
 #: 
 msgid "I am not subscribed."
-msgstr "I am not subscribed."
+msgstr "Kai ka cong hlan."
 
 #. AdministrationPresenter.php:66
 #: 
 msgid "object_creation_min_time"
-msgstr "Time (in days) before users are allowed to create groups and resources"
+msgstr "hno_sainah_atue_can"
 
 #. default.phtml:81
 #. detail.phtml:26
@@ -2381,13 +2372,13 @@ msgstr "Time (in days) before users are allowed to create groups and resources"
 #. detail.phtml:22
 #: 
 msgid "only visible to friends"
-msgstr "only visible to friends"
+msgstr "payarhoek bueng loh ahmuh thai"
 
 #. default.phtml:68
 #. detail.phtml:18
 #: 
 msgid "only visible to members"
-msgstr "only visible to members"
+msgstr "kathum rhoek bueng loh ahmuh thai"
 
 #. default.phtml:66
 #. detail.phtml:16
@@ -2397,7 +2388,7 @@ msgstr "only visible to members"
 #. detail.phtml:20
 #: 
 msgid "only visible to registered users"
-msgstr "only visible to registered users"
+msgstr "register tangtae hnonakung rhoek bueng loh ni ahmuh thai"
 
 #. ListerControlMain_body.phtml:243
 #. ListerControlMain_body.phtml:261
@@ -2405,31 +2396,31 @@ msgstr "only visible to registered users"
 #. ListerControlMain_resources.phtml:98
 #: 
 msgid "owner"
-msgstr "owner"
+msgstr "khueh kung"
 
 #. detail.phtml:27
 #. detail.phtml:31
 #: 
 msgid "regenerate image"
-msgstr "regenerate image"
+msgstr "muei hlip koep hoi "
 
 #. UserListerControl.phtml:69
 #: 
 msgid "remove user from resource"
-msgstr "remove user from resource"
+msgstr "hnonakung he hno lam kah khoe"
 
 #. ChatLister_ajax.phtml:39
 #. ListerControlMain_body.phtml:198
 #. ListerControlMain_messages.phtml:113
 #: 
 msgid "reply"
-msgstr "reply"
+msgstr "ol lan"
 
 #. ListerControlMain_body.phtml:445
 #. ListerControlMain_messages.phtml:77
 #: 
 msgid "restore from trash"
-msgstr "restore from trash"
+msgstr "kahnawt bu lamkah koep lo"
 
 #. AdministrationPresenter.php:183
 #: 
@@ -2439,23 +2430,23 @@ msgstr "setup and maintenance"
 #. login.phtml:30
 #: 
 msgid "sign up"
-msgstr "sign up"
+msgstr "athai la kun"
 
 #. default.phtml:70
 #: 
 msgid "subscribed"
-msgstr "subscribed"
+msgstr "cong coeng"
 
 #. ExternalFilter.php:197
 #: 
 msgid "tag_name"
-msgstr "tag_name"
+msgstr "ming_tag"
 
 #. ContainerTreeSelectControl.phtml:27
 #. ContainerTreeSelectControl.phtml:29
 #: 
 msgid "top level"
-msgstr "top level"
+msgstr "level sangbik"
 
 #. default.phtml:64
 #. detail.phtml:14
@@ -2465,59 +2456,59 @@ msgstr "top level"
 #. detail.phtml:18
 #: 
 msgid "visible to the world"
-msgstr "visible to the world"
+msgstr "hlangtom loh n'hmuh"
 
 #. ChatLister_ajax.phtml:116
 #. ListerControlMain_messages.phtml:157
 #. messages.phtml:79
 #: 
 msgid "wrote"
-msgstr "wrote"
+msgstr "tael coeg"
 
 #. detail.phtml:5
 #: 
 msgid "Back to the list of messages"
-msgstr "Back to the list of messages"
+msgstr "Capat list la koep bal"
 
 #. detail.phtml:7
 #: 
 msgid "Back to the list of reports"
-msgstr "Back to the list of reports"
+msgstr "Report list la koep bal"
 
 #. detail.phtml:9
 #: 
 msgid "Back to the list of resources"
-msgstr "Back to the list of resources"
+msgstr "Hnopai cana list la bal"
 
 #. edit.phtml:38
 #: 
-msgid "Below you can add details: Describe the topics of this resource by one or more tags. If you have created resource accessible only to selected peaople, you can insert recipients of this resource. These information will help other users to find your resource."
-msgstr "Below you can add details: Describe the topics of this resource by one or more tags. If you have created resource accessible only to selected peaople, you can insert recipients of this resource. These information will help other users to find your resource."
+msgid "Below you can add details: Describe the topics of this resource by one or more tags. These information will help other users to find your resource."
+msgstr "Adangah he akawng acom aci na thap thai: Tag cana neh hehkah hnopai kah akawng he tueng sak. Telong te atloe hnonakung rhoek loh nangkah hno he ahmuh nathai hamla abom ni."
 
 #. @layout.phtml:211
 #: 
-msgid "By using this platform you accept our"
-msgstr "By using this platform you accept our"
+msgid "By using this platform you accept our %s and our %s."
+msgstr "Heheh na hmang vaeng ah kai mih kah %s neh %s he na pom ti ngaih nani."
 
 #. detail.phtml:0
 #: 
 msgid "Details of the group"
-msgstr "Details of the group"
+msgstr "Group kawng acom aci"
 
 #. detail.phtml:0
 #: 
 msgid "Details of the resource"
-msgstr "Details of the resource"
+msgstr "Hnopai kawng acom aci"
 
 #. detail.phtml:0
 #: 
 msgid "Details of the user"
-msgstr "Details of the user"
+msgstr "Hnonakung kawng acom aci"
 
 #. setupmaintenance.phtml:24
 #: 
 msgid "GD (images) supported"
-msgstr "GD (images) supported"
+msgstr " \tGD (images) supported"
 
 #. setupmaintenance.phtml:21
 #: 
@@ -2528,12 +2519,12 @@ msgstr "Gettext supported"
 #. ListerControlMain_messages.phtml:112
 #: 
 msgid "Message not displayed because the user has been deactivated."
-msgstr "Message not displayed because the user has been deactivated."
+msgstr "Hnonakung account aduek coeng dongah capat tueng voel pawh."
 
 #. ListerControlMain_messages.phtml:119
 #: 
 msgid "No messages"
-msgstr "No messages"
+msgstr "Capat ompawh"
 
 #. setupmaintenance.phtml:18
 #: 
@@ -2544,7 +2535,7 @@ msgstr "PHP Version"
 #. detail.phtml:173
 #: 
 msgid "Permission to create items"
-msgstr "Permission to create items"
+msgstr "Items cana saiham phal nah"
 
 #. @layout.phtml:211
 #: 
@@ -2554,47 +2545,47 @@ msgstr "Privacy policy"
 #. ExternalFilter.phtml:117
 #: 
 msgid "Restrict your search to a location"
-msgstr "Restrict your search to a location"
+msgstr "Natlam nah te hmuen khat la kheuh"
 
 #. MapContainer.phtml:328
 #. MapControl.phtml:395
 #: 
 msgid "Search for a place"
-msgstr "Search for a place"
+msgstr "Ahuem tlam"
 
 #. ExternalFilter.phtml:149
 #: 
 msgid "Search for similar topics like your interests and around your location."
-msgstr "Search for similar topics like your interests and around your location."
+msgstr "Na ngaih nah neh nataeng vai kah ka vai rhoi kawng cana te tlam."
 
 #. ExternalFilter.php:207
 #: 
 msgid "Similar to me"
-msgstr "Similar to me"
+msgstr "Kai neh vai uh rhoi"
 
 #. ChatLister_ajax.phtml:43
 #. ListerControlMain_messages.phtml:108
 #: 
 msgid "User has been deactivated"
-msgstr "User has been deactivated"
+msgstr "Hnonakung hetah duem sakla om coeng"
 
 #. default.phtml:160
 #. detail.phtml:164
 #: 
 msgid "User role"
-msgstr "User role"
+msgstr "Hnonakung  binah"
 
 #. MapControl.phtml:406
 #. MapControl.phtml:411
 #: 
 msgid "zoom in"
-msgstr "zoom in"
+msgstr "ayol la"
 
 #. MapControl.phtml:406
 #. MapControl.phtml:411
 #: 
 msgid "zoom out"
-msgstr "zoom out"
+msgstr "alen la"
 
 #. ExternalFilter.phtml:139
 #: 
@@ -2604,67 +2595,67 @@ msgstr "AND: Find only items where <i>all</i> conditions are met.<br />OR: Find 
 #. ExternalFilter.phtml:117
 #: 
 msgid "Click inside the map to set the center. Click a second time to set the search radius."
-msgstr "Click inside the map to set the center. Click a second time to set the search radius."
+msgstr "Alung kil sai nahamla diklai muei khui te duep. Natlam radious sai hamla koep duep bal."
 
 #. UserPresenter.php:706
 #: 
 msgid "Image is too big! Max. size is for upload is 2048x2048"
-msgstr "Image is too big! Max. size is for upload is 2048x2048"
+msgstr "Muei hlip len aih! Alen bik la 2048x2048 ni a rhoeh"
 
 #. ListerControlMain_groups.phtml:217
 #. ListerControlMain_resources.phtml:252
 #. ListerControlMain_users.phtml:194
 #: 
 msgid "Nothing to display"
-msgstr "Nothing to display"
+msgstr "Tuengham aba ompawh"
 
 #. changepassword.phtml:3
 #: 
 msgid "Please enter your new password"
-msgstr "Please enter your new password"
+msgstr "Na kunnah olhuep thai te tael"
 
 #. UserPresenter.php:474
 #: 
 msgid "Please use only the English alphabet."
-msgstr "Please use only the English alphabet."
+msgstr "English catham bueng mah hmang"
 
 #. ChatLister_body.phtml:9
 #: 
 msgid "Reload the chat."
-msgstr "Reload the chat."
+msgstr "Voek thae nah reload sai"
 
 #. detail.phtml:156
 #: 
 msgid "Resource location on a map"
-msgstr "Resource location on a map"
+msgstr "Diklai muei dong ah hno aom nah"
 
 #. MapControl.phtml:380
 #. MapControl.phtml:381
 #: 
 msgid "Show the location where you are right now."
-msgstr "Show the location where you are right now."
+msgstr "N'thae ah naom na te tueng sak"
 
 #. detail.phtml:224
 #: 
 msgid "The chat is only visible to group members."
-msgstr "The chat is only visible to group members."
+msgstr "Group dongah kathum rhoek long bueng ni voek thae nahe ahmuh"
 
 #. GroupPresenter.php:527
 #: 
-msgid "The image is too big! Max. size is for upload is 2048x2048"
-msgstr "The image is too big! Max. size is for upload is 2048x2048"
+msgid "The image is too big! Max. size is for upload is %s"
+msgstr "Mueihlip he len aih! Alen bik %s mah loseh"
 
 #. detail.phtml:222
 #: 
 msgid "Time:"
-msgstr "Time:"
+msgstr "Canba"
 
 #. default.phtml:6
 #. default.phtml:6
 #. default.phtml:6
 #: 
 msgid "Use the filter to narrow down the list of items."
-msgstr "Use the filter to narrow down the list of items."
+msgstr "Item list cana ayol naham la lungsaeh he hnonah."
 
 #. MapControl.php:42
 #: 
@@ -2674,22 +2665,22 @@ msgstr "group"
 #. @layout.phtml:224
 #: 
 msgid "is a product of"
-msgstr "is a product of"
+msgstr "kah asai la om"
 
 #. MapControl.php:43
 #: 
 msgid "resource"
-msgstr "resource"
+msgstr "hnopai"
 
 #. detail.phtml:18
 #: 
 msgid "I am subscribed."
-msgstr "I am subscribed."
+msgstr "Kai ka cong coeng."
 
 #. MapControl.php:41
 #: 
 msgid "user"
-msgstr "user"
+msgstr "Hnonakung"
 
 #: 
 msgid "1"
@@ -2730,506 +2721,1054 @@ msgstr "9"
 #. tag.phtml:21
 #: 
 msgid "Add a Tag"
-msgstr ""
+msgstr "Tag thap thil"
 
 #. edit.phtml:68
 #. edit.phtml:107
 #. edit.phtml:85
 #: 
 msgid "Add the tags one by one."
-msgstr ""
+msgstr "Tag cana khat phoei khat thap thil."
 
 #. tag.phtml:15
 #: 
 msgid "Administration - Create new tag"
-msgstr ""
+msgstr "Administration - Tag athai sai"
 
 #. reports.phtml:14
 #: 
 msgid "Administration - Reports"
-msgstr ""
+msgstr "Administration - Reports"
 
 #. tags.phtml:15
 #: 
 msgid "Administration - Tags"
-msgstr ""
+msgstr "Administration - Tags"
 
 #. piwik.phtml:14
 #: 
 msgid "Administration - Web Statistics"
-msgstr ""
+msgstr "Administration - Web Statistics"
 
 #. ExternalFilter.phtml:70
 #: 
 msgid "Apply the filter and show the results."
-msgstr ""
+msgstr "Lungsaek buen lamtah result tuengsak."
 
 #. GroupPresenter.php:485
 #: 
-msgid "Avatars are small images that will be visible with your name. Here you can upload an avatar for your group (upload min. 120x150px, max. 1500x1500px). In the next step you can crop it."
-msgstr ""
+msgid "Avatars are small images that will be visible with your group. Here you can upload an avatar for your group (min. %s, max. %s). In the next step you can crop it."
+msgstr "Mueihlip caa ati he nangkah group neh hmaih aka tueng koi mueihlip cana laom. Helam he namahkah group hamla mueihlip caa na thun thai (ayol bik. %s, alen bik. %s). Antu ah koep na ah thai."
 
 #. UserPresenter.php:646
 #: 
-msgid "Avatars are small images that will be visible with your name. Here you can upload your avatar (upload min. 120x150px, max. 1500x1500px). In the next step you can crop it."
-msgstr ""
+msgid "Avatars are small images that will be visible with your name. Here you can upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr "Mueihlip caa ati he na ming neh hmaih aka tueng koi mueihlip cana laom. Helam he na ming hamla mueihlip caa na thun thai (ayol bik. %s, alen bik. %s). Antu ah koep na ah thai."
 
 #. RestServer.php:433
 #: 
 msgid "Chyba"
-msgstr ""
+msgstr "Chyba"
 
 #. default.phtml:64
 #: 
 msgid "Click here to continue."
-msgstr ""
+msgstr "Phat nakun nala hehe duep"
 
 #. MapControl.phtml:394
 #: 
 msgid "Click inside the map to set the location. If the location is already set, you first need to clear the map: <b class='icon-clear'></b>."
-msgstr ""
+msgstr "Omnah sai hamla diklai muei khui ah duep. Omnah na sai tangtae coeng atah diklai muei te koep hnawh dae: <b class='icon-clear></b>."
 
 #. AdministrationPresenter.php:523
 #: 
 msgid "Database error."
-msgstr ""
+msgstr "Database thuem pawh."
 
 #. ChatLister_ajax.phtml:163
 #. ListerControlMain_messages.phtml:208
 #: 
 msgid "Do you really want to delete this message?"
-msgstr ""
+msgstr "Hekah capat he voeih ham na ngaih tang a?"
 
 #. setupmaintenance.phtml:112
 #: 
 msgid "Documentation:"
-msgstr ""
+msgstr "Documentation:"
 
 #. ContainerTreeSelectControl.phtml:66
 #: 
 msgid "Done"
-msgstr ""
+msgstr "Sai coeng"
 
 #. AdministrationPresenter.php:732
 #: 
 msgid "Done importing resources. Error writing log file."
-msgstr ""
+msgstr "Hnopai can boeih thun coeng. Log file tael thai pawh."
 
 #. AdministrationPresenter.php:734
 #: 
 msgid "Done importing resources. Please check the log file."
-msgstr ""
+msgstr "Hnopai cana boeih thun coeng. Log file te koep check dae."
 
 #. AdministrationPresenter.php:528
 #: 
 msgid "Done updating locales."
-msgstr ""
+msgstr "Locale cana boeih update coeng."
 
 #. @layout.phtml:168
 #: 
 msgid "Download the mobile application"
-msgstr ""
+msgstr "Download the mobile application"
 
 #. BasePresenter.php:437
 #: 
 msgid "Find more information at:"
-msgstr ""
+msgstr "Hedong ah akawng ta oe ayet la tlam:"
 
 #. AdministrationPresenter.php:520
 #: 
 msgid "Found unused locale '%s', removing from database."
-msgstr ""
+msgstr "Hnona pawh locale '%' hmuh laom, database lamakh akhoe li."
 
 #. ListerControlMain_groups.phtml:82
 #: 
 msgid "I am a group moderator."
-msgstr ""
+msgstr "Kai tah group mawt kung la kaom."
 
 #. ListerControlMain_resources.phtml:106
 #: 
 msgid "I am a resource moderator."
-msgstr ""
+msgstr "Kai tah hno mawtkung la kaom."
 
 #. ListerControlMain_groups.phtml:78
 #. ListerControlMain_resources.phtml:102
 #: 
 msgid "I am the owner."
-msgstr ""
+msgstr "kai he kakhueh kung"
 
 #. UserPresenter.php:721
 #: 
-msgid "Image is too big! Max. size is for upload is 1500x1500"
-msgstr ""
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr "Mueihlip he len aih! Alen koek la "
 
 #. setupmaintenance.phtml:28
 #: 
 msgid "Import resources from a file"
-msgstr ""
+msgstr "File lamkah hnopai cana lo"
 
 #. AdministrationPresenter.php:425
 #: 
 msgid "Language code"
-msgstr ""
+msgstr "Olka code"
 
 #. ExternalFilter.php:195
 #: 
 msgid "Mailbox"
-msgstr ""
+msgstr "Mailbox"
 
 #. edit.phtml:145
 #: 
 msgid "Manage subscribers of this resource"
-msgstr ""
+msgstr "Hekah hno aka cong rhoek he rhai boel sai"
 
 #. ListerControlMain.php:386
 #: 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. BasePresenter.php:420
 #: 
 msgid "Notification from %s"
-msgstr ""
+msgstr "%s lamkah yaksak nah"
 
 #. ResourcePresenter.php:505
 #: 
 msgid "Notify members:"
-msgstr ""
+msgstr "Yak sak ham kathum rhoek:"
 
 #. default.phtml:64
 #: 
-msgid "Now is the best time to update your profile. You can enter your name and place and tags for your interests."
-msgstr ""
+msgid "Now is the best time to complete your profile. You can enter your name, your location and tags for your interests."
+msgstr "N'thae ahhe profile na coeng ham acan then koek laom. Na ming, naom cana na tael phoei ah na ngaih cana te na tag thai."
 
 #. setupmaintenance.phtml:64
 #: 
 msgid "PHP max execution time"
-msgstr ""
+msgstr "PHP max execution time"
 
 #. setupmaintenance.phtml:67
 #: 
 msgid "PHP memory limit"
-msgstr ""
+msgstr "PHP memory limit"
 
 #. setupmaintenance.phtml:72
 #: 
 msgid "PHP memory usage"
-msgstr ""
+msgstr "PHP memory usage"
 
 #. ResourcePresenter.php:548
 #: 
-msgid "Please paste here the <u>underlined</u> part of the url for the media that you want to add:<br/><ul><li><b>YouTube:</b> https://www.youtube.com/watch?v=<u>xxxxx</u></li><li><b>Vimeo:</b> http://vimeo.com/<u>xxxxx</u></li><li><b>Soundcloud:</b> http://soundcloud.com/<u>xxx/yyy</u></li><li><b>Bambuser:</b> http://bambuser.com/v/<u>xxx</u></li></ul>"
-msgstr ""
+#, fuzzy
+msgid "Please paste here the <u>underlined</u> part of the url for the media that you want to add:"
+msgstr "Please paste here the <u>underlined</u> part of the url for the media that you want to add:<br/><ul><li><b>YouTube:</b> https://www.youtube.com/watch?v=<u>xxxxx</u></li><li><b>Vimeo:</b> http://vimeo.com/<u>xxxxx</u></li><li><b>Soundcloud:</b> http://soundcloud.com/<u>xxx/yyy</u></li><li><b>Bambuser:</b> http://bambuser.com/v/<u>xxx</u></li></ul>"
 
 #. ChatLister_ajax.phtml:33
 #. ListerControlMain_messages.phtml:77
 #: 
 msgid "Remove this message."
-msgstr ""
+msgstr "He capat he khoe"
 
 #. TagListerControl.php:175
 #: 
 msgid "Reset"
-msgstr ""
+msgstr "Koeptho"
 
 #. ExternalFilter.phtml:80
 #: 
 msgid "Reset the filter and show the entire list."
-msgstr ""
+msgstr "lungsaek koep tho lamtah list boeih koep tueng sak."
 
 #. @layout.phtml:199
 #: 
 msgid "Return to the home screen."
-msgstr ""
+msgstr "Home screen la koep mael."
 
 #. ResourcePresenter.php:645
 #. ResourcePresenter.php:675
 #: 
 msgid "Screenshot processing"
-msgstr ""
+msgstr "Screenshot processing"
 
 #. AddTagComponent_Group.phtml:23
 #: 
 msgid "Select a tag that describes a topic that this group is about and click add."
-msgstr ""
+msgstr "Hekah group kawng aka thui tag te tuek lamtah Tom thil te duep."
 
 #. AddTagComponent_Resource.phtml:23
 #: 
 msgid "Select a tag that describes a topic that this resource is about and click add."
-msgstr ""
+msgstr "Hekah hnopai kawng aka thui tag te tuek lamtah Tom thil te duep."
 
 #. AddTagComponent_User.phtml:23
 #: 
 msgid "Select a tag that describes one of your interests and click add."
-msgstr ""
+msgstr "Namah kah ngaih akawng tag te tuek lamtah Tom thil te duep."
 
 #. AdministrationPresenter.php:238
 #. setupmaintenance.phtml:20
 #: 
 msgid "Setup and Maintenance"
-msgstr ""
+msgstr "Setup and Maintenance"
 
 #. AdministrationPresenter.php:187
 #: 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistics"
 
 #. AdministrationPresenter.php:456
 #: 
 msgid "System check finished."
-msgstr ""
+msgstr "System boeih check coeng."
 
 #. StaticModel.php:83
 #: 
 msgid "System message:  You've received a warning about your resource."
-msgstr ""
+msgstr "System capat: Nangkah hno kawng dongah warning na dang coeng."
 
 #. StaticModel.php:78
 #: 
 msgid "System message: You've received a warning about your group."
-msgstr ""
+msgstr "System capat: Nangkah group kawng dongah warning na dang coeng."
 
 #. StaticModel.php:73
 #: 
 msgid "System message: You've received a warning."
-msgstr ""
+msgstr "System capat: Warning na dang coeng."
 
 #. AdministrationPresenter.php:130
 #: 
 msgid "Tag \"%s\" saved."
-msgstr ""
+msgstr "Tag \"%s\" saved."
 
 #. AdministrationPresenter.php:426
 #: 
 msgid "Test"
-msgstr ""
+msgstr "Noek cak"
 
 #. setupmaintenance.phtml:84
 #: 
 msgid "Test locale"
-msgstr ""
+msgstr "Test locale"
 
 #. setupmaintenance.phtml:41
 #: 
 msgid "Test the import in a dry run"
-msgstr ""
+msgstr "Test the import in a dry run"
 
 #. GroupPresenter.php:545
 #: 
-msgid "The image is too big! Max. size for upload is 1500x1500"
-msgstr ""
+msgid "The image is too big! Max. size for upload is %s"
+msgstr "Muei hlip len aih! Alen bik la %s ni a rhoeh"
 
 #. GroupPresenter.php:547
 #. UserPresenter.php:723
 #: 
-msgid "The image is too small! Min. size for upload is 120x150"
-msgstr ""
+msgid "The image is too small! Min. size for upload is %s"
+msgstr "Muei hlip yol aih! Ayol bik %s alo ham om."
 
 #. AdministrationPresenter.php:109
 #: 
 msgid "The tag cannot be its own parent."
-msgstr ""
+msgstr "The tag cannot be its own parent."
 
 #. default.phtml:61
 #: 
 msgid "There are unread reports."
-msgstr ""
+msgstr "Na tae hlan report cana om."
 
 #. GroupPresenter.php:824
 #: 
 msgid "This group contains wrong information."
-msgstr ""
+msgstr "Hekah group dongah aka thuem pawh olthang om."
 
 #. default.phtml:107
 #. detail.phtml:114
 #: 
 msgid "This is my group."
-msgstr ""
+msgstr "Heheh kaikah group."
 
 #. default.phtml:119
 #. detail.phtml:109
 #: 
 msgid "This is my resource."
-msgstr ""
+msgstr "Heheh kai kah hno."
 
 #. ResourcePresenter.php:1072
 #: 
 msgid "This resource contains wrong information."
-msgstr ""
+msgstr "Hekah hno dongah he aka thuem pawt olthang om."
 
 #. AdministrationPresenter.php:737
 #: 
 msgid "This was just a dry run - nothing was saved."
-msgstr ""
+msgstr "Heheh dry run maini - aba khaw save pawh."
 
 #. ResourcePresenter.php:650
 #: 
 msgid "URL doesn't seem to exist"
-msgstr ""
+msgstr "URL om pat coi ni"
 
 #. ExternalFilter.php:194
 #: 
 msgid "Unread"
-msgstr ""
+msgstr "Tae hlan"
 
 #. setupmaintenance.phtml:46
 #: 
 msgid "Update languages"
-msgstr ""
+msgstr "Olka cana update sai"
 
 #. setupmaintenance.phtml:115
 #: 
 msgid "User Forum:"
-msgstr ""
+msgstr "Hnonakung Forum:"
 
 #. ResourcePresenter.php:236
 #: 
 msgid "View big screenshot"
-msgstr ""
+msgstr "Screenshot alen la so"
 
 #. AdministrationPresenter.php:355
 #: 
 msgid "We have received complaints about inappropriate language in your group. Please make neccessary adjustments or your group will be deactivated."
-msgstr ""
+msgstr "Nangkah group dongah aka soeng pawh olka om tila olthang kadang uh. Rhen naneh tholeang nah sai tipat atah nangkah group he duek pawn ni."
 
 #. AdministrationPresenter.php:197
 #: 
 msgid "Web Statistics"
-msgstr ""
+msgstr "Web Statistics"
 
 #. BasePresenter.php:97
 #: 
 msgid "You are a moderator on this platform."
-msgstr ""
+msgstr "Hiah he mawtkung la naom."
 
 #. BasePresenter.php:98
 #: 
 msgid "You are an administrator on this platform."
-msgstr ""
+msgstr "Hiah he kuengmah la naom."
 
 #. UserPresenter.php:527
 #: 
 msgid "Your email or IP is known at www.stopforumspam.com as spam source and was blocked."
-msgstr ""
+msgstr "Nang kah email pat atah IP te www.stopforumspam.com ah ka hnawt vaikim tila ming laom tih vik voeih laom coeng."
 
 #. UserPresenter.php:1136
 #: 
 msgid "Your message was empty."
-msgstr ""
+msgstr "Nacapat ompawh"
 
 #. default.phtml:27
 #: 
 msgid "administrators"
-msgstr ""
+msgstr "uktaemkugn rhoek"
 
 #. default.phtml:39
 #: 
 msgid "banned"
-msgstr ""
+msgstr "phalpawh"
 
 #. ContainerTreeSelectControl.phtml:2
 #: 
 msgid "change"
-msgstr ""
+msgstr "tho"
 
 #. default.phtml:96
 #: 
 msgid "chat messages"
-msgstr ""
+msgstr "voek nah capat cana"
 
 #. default.phtml:33
 #: 
 msgid "creation rights removed"
-msgstr ""
+msgstr "saithai nah nawl om voel pawh"
 
 #. ResourcePresenter.php:180
 #: 
 msgid "document"
-msgstr ""
+msgstr "document"
 
 #. ResourcePresenter.php:178
 #: 
 msgid "event"
-msgstr ""
+msgstr "event"
 
 #. ResourcePresenter.php:181
 #: 
 msgid "link to external resource"
-msgstr ""
+msgstr "aleng hnopai pai ka link sai"
 
 #. ResourcePresenter.php:188
 #: 
 msgid "live-video on Bambuser"
-msgstr ""
+msgstr "Bambuser dongah live-video"
 
 #. ResourcePresenter.php:177
 #: 
 msgid "message"
-msgstr ""
+msgstr "capat"
 
 #. ResourcePresenter.php:179
 #: 
 msgid "organization"
-msgstr ""
+msgstr "bu"
 
 #. default.phtml:93
 #: 
 msgid "private messages"
-msgstr ""
+msgstr "ol huep capat"
 
 #. UserPresenter.php:291
 #: 
 msgid "remember me"
-msgstr ""
+msgstr "rhawp n'khoem"
 
 #. ResourcePresenter.php:185
 #: 
 msgid "sound on Soundcloud"
-msgstr ""
+msgstr "Soundcloud dong ah ol"
 
 #. default.phtml:24
 #. default.phtml:55
 #. default.phtml:74
 #: 
 msgid "total"
-msgstr ""
+msgstr "boeih ah"
 
 #. ResourcePresenter.php:187
 #: 
 msgid "video on Vimeo"
-msgstr ""
+msgstr "Vimeo dongkah viedeo"
 
 #. ResourcePresenter.php:186
 #: 
 msgid "video on YouTube"
-msgstr ""
+msgstr "Youtube dongkah video"
 
 #. default.phtml:48
 #: 
 msgid "visbility 'friends'"
-msgstr ""
+msgstr "tueng 'payacana'"
 
 #. default.phtml:67
 #: 
 msgid "visbility 'members'"
-msgstr ""
+msgstr "tueng 'kathum rhoek'"
 
 #. default.phtml:45
 #. default.phtml:64
 #. default.phtml:83
 #: 
 msgid "visbility 'registered'"
-msgstr ""
+msgstr "tueng 'register tangte'"
 
 #. default.phtml:86
 #: 
 msgid "visbility 'susbcribed'"
-msgstr ""
+msgstr "Tuengnah 'cong rhoek'"
 
 #. default.phtml:42
 #. default.phtml:61
 #. default.phtml:80
 #: 
 msgid "visbility 'world'"
+msgstr "tueng 'hlangboeih'"
+
+#: 
+msgctxt "tags"
+msgid "Human Rights"
+msgstr "Human Rights"
+
+#: 
+msgctxt "tags"
+msgid "Children's Rights"
+msgstr "Human Rights"
+
+#: 
+msgctxt "tags"
+msgid "Women's Rights"
+msgstr "Women's Rights "
+
+#: 
+msgctxt "tags"
+msgid "Freedom of Speech"
+msgstr "Freedom of Speech "
+
+#: 
+msgctxt "tags"
+msgid "Freedom of Assembly"
+msgstr "Freedom of Assembly"
+
+#: 
+msgctxt "tags"
+msgid "Political Prisoners"
+msgstr "Ram kawng neh thong aka tla rhoek"
+
+#: 
+msgctxt "tags"
+msgid "Humanitarian Aid"
+msgstr "Hlang rhen bom nah"
+
+#: 
+msgctxt "tags"
+msgid "Disaster Risk Reduction"
+msgstr "Yoethae yol sak nah"
+
+#: 
+msgctxt "tags"
+msgid "Emergency Relief"
+msgstr "Puenpa lamkah loeih nah"
+
+#: 
+msgctxt "tags"
+msgid "Flood"
+msgstr "Tuilii"
+
+#: 
+msgctxt "tags"
+msgid "Drought"
+msgstr "Khokha"
+
+#: 
+msgctxt "tags"
+msgid "Earthquake"
+msgstr "Lingluei"
+
+#: 
+msgctxt "tags"
+msgid "Storm"
+msgstr "Kho hlithae"
+
+#: 
+msgctxt "tags"
+msgid "Development Aid"
+msgstr "Rhoeng naham bomnah"
+
+#: 
+msgctxt "tags"
+msgid "Livelihood"
+msgstr "Hingnah sun"
+
+#: 
+msgctxt "tags"
+msgid "Food Security"
+msgstr "Cak ok ngai mong nah"
+
+#: 
+msgctxt "tags"
+msgid "Poverty Reduction"
+msgstr "Kho daeng yol nah"
+
+#: 
+msgctxt "tags"
+msgid "Rural Development"
+msgstr "Khote Rhoeng nah"
+
+#: 
+msgctxt "tags"
+msgid "Water, Sanitation, Hygiene"
+msgstr "Tui, ok tui, cim caih nah"
+
+#: 
+msgctxt "tags"
+msgid "Environment"
+msgstr "Im taeng lovai"
+
+#: 
+msgctxt "tags"
+msgid "Waste Management"
+msgstr "Kahnawt khoem bael nah"
+
+#: 
+msgctxt "tags"
+msgid "Natural Resources"
+msgstr "Diklai khueh tawn nah"
+
+#: 
+msgctxt "tags"
+msgid "Pollution"
+msgstr "Ati ahnai"
+
+#: 
+msgctxt "tags"
+msgid "Conservation"
+msgstr "Khoem/apaih"
+
+#: 
+msgctxt "tags"
+msgid "Water Sanitation"
+msgstr "Ok tui omnah"
+
+#: 
+msgctxt "tags"
+msgid "Recycling"
+msgstr "Koep hno nah"
+
+#: 
+msgctxt "tags"
+msgid "Media"
+msgstr "Media"
+
+#: 
+msgctxt "tags"
+msgid "Television"
+msgstr "TV"
+
+#: 
+msgctxt "tags"
+msgid "Newspaper"
+msgstr "Olthang bu"
+
+#: 
+msgctxt "tags"
+msgid "Internet"
+msgstr "Internet"
+
+#: 
+msgctxt "tags"
+msgid "Social Networking"
+msgstr "Social Networking"
+
+#: 
+msgctxt "tags"
+msgid "Journalism"
+msgstr "Journalism"
+
+#: 
+msgctxt "tags"
+msgid "Health"
+msgstr "Sading nah"
+
+#: 
+msgctxt "tags"
+msgid "HIV/AIDS"
+msgstr "HIV/AIDS"
+
+#: 
+msgctxt "tags"
+msgid "Mental Health"
+msgstr "Kopoek sading nah"
+
+#: 
+msgctxt "tags"
+msgid "Reproductive Health"
+msgstr "Caa cun ben sa dingnah"
+
+#: 
+msgctxt "tags"
+msgid "Addiction"
+msgstr "Addiction"
+
+#: 
+msgctxt "tags"
+msgid "Psychosocial"
+msgstr "Psychosocial"
+
+#: 
+msgctxt "tags"
+msgid "Nutrition"
+msgstr "Nutrition"
+
+#: 
+msgctxt "tags"
+msgid "Communicable Diseases"
+msgstr "Aka dom thai tloh nat cana"
+
+#: 
+msgctxt "tags"
+msgid "Culture"
+msgstr "Singyoe"
+
+#: 
+msgctxt "tags"
+msgid "Film"
+msgstr "Film"
+
+#: 
+msgctxt "tags"
+msgid "Music"
+msgstr "Hla"
+
+#: 
+msgctxt "tags"
+msgid "Performances"
+msgstr "Performances"
+
+#: 
+msgctxt "tags"
+msgid "Heritage Sites"
+msgstr "Nupa rho cana"
+
+#: 
+msgctxt "tags"
+msgid "Education"
+msgstr "Cangnah"
+
+#: 
+msgctxt "tags"
+msgid "Schools"
+msgstr "Saengim"
+
+#: 
+msgctxt "tags"
+msgid "Languages"
+msgstr "Olka"
+
+#: 
+msgctxt "tags"
+msgid "Vocational Training"
+msgstr "Vocational Training"
+
+#: 
+msgctxt "tags"
+msgid "Capacity Building"
+msgstr "Capacity Building"
+
+#: 
+msgctxt "tags"
+msgid "Workshop"
+msgstr "Workshop"
+
+#: 
+msgctxt "tags"
+msgid "Technology"
+msgstr "Technology"
+
+#: 
+msgctxt "tags"
+msgid "IT"
+msgstr "IT"
+
+#: 
+msgctxt "tags"
+msgid "Telecom"
+msgstr "Voek hlak nah"
+
+#: 
+msgctxt "tags"
+msgid "Mobile Phone"
+msgstr "Mobile phone"
+
+#: 
+msgctxt "tags"
+msgid "Civil Society"
+msgstr "Civil Society"
+
+#: 
+#, fuzzy
+msgctxt "tags"
+msgid "Associations, NGOs"
+msgstr "NGOs"
+
+#: 
+msgctxt "tags"
+msgid "Community"
+msgstr "Community"
+
+#: 
+msgctxt "tags"
+msgid "Labour"
+msgstr "Bibi"
+
+#: 
+msgctxt "tags"
+msgid "Employment"
+msgstr "Bibi nah"
+
+#: 
+msgctxt "tags"
+msgid "Trade Unions"
+msgstr "Trade Unions"
+
+#: 
+msgctxt "tags"
+msgid "Worker Strikes"
+msgstr "Bibikung hna hnawk nah"
+
+#: 
+msgctxt "tags"
+msgid "Child Labor"
+msgstr "Bibi camoe"
+
+#: 
+msgctxt "tags"
+msgid "Refugees"
+msgstr "Refugees"
+
+#: 
+msgctxt "tags"
+msgid "Internally Displaced Persons"
+msgstr "Makho aka poeng tak rhoek"
+
+#: 
+msgctxt "tags"
+msgid "Migrant Rights"
+msgstr "Sawk nah rights"
+
+#: 
+msgctxt "tags"
+msgid "Immigration"
+msgstr "Lut nah"
+
+#: 
+msgctxt "tags"
+msgid "Conflict"
+msgstr "Toh uhthae nah"
+
+#: 
+msgctxt "tags"
+msgid "Religion"
+msgstr "Koep bawk nah"
+
+#: 
+msgctxt "tags"
+msgid "Law"
+msgstr "Danbu"
+
+#: 
+msgctxt "tags"
+msgid "Crime"
+msgstr "Hnothae saitholh"
+
+#: 
+msgctxt "tags"
+msgid "Police"
+msgstr "Palik"
+
+#: 
+msgctxt "tags"
+msgid "Judicial System"
+msgstr "Oltloek nah caeh dan"
+
+#: 
+msgctxt "tags"
+msgid "Forming Organizations"
+msgstr "Bu asai li"
+
+#: 
+msgctxt "tags"
+msgid "Citizenship"
+msgstr "Khokung la omnah"
+
+#: 
+msgctxt "tags"
+msgid "Elections"
+msgstr "Tueknah"
+
+#: 
+msgctxt "tags"
+msgid "Electronic Transactions"
+msgstr "Electric neh yoih lai nah"
+
+#: 
+msgctxt "tags"
+msgid "Banking"
+msgstr "Banking"
+
+#: 
+msgctxt "tags"
+msgid "Accountancy Council"
+msgstr "Accountancy Council"
+
+#: 
+msgctxt "tags"
+msgid "Commerce"
+msgstr "Yoih lai na"
+
+#: 
+msgctxt "tags"
+msgid "Revenue"
+msgstr "Tangka hmuh"
+
+#: 
+msgctxt "tags"
+msgid "Taxation"
+msgstr "Mangmu"
+
+#: 
+msgctxt "tags"
+msgid "Securities Exchange"
+msgstr "Securities Exchange"
+
+#: 
+msgctxt "tags"
+msgid "Housing, Land and Property"
+msgstr "Im, Im hmuen neh koeva"
+
+#: 
+msgctxt "tags"
+msgid "Motion Picture"
+msgstr "Katat thai muei hlip"
+
+#: 
+msgctxt "tags"
+msgid "Computer Science Development"
+msgstr "Computer Science rhoeng nah"
+
+#: 
+msgctxt "tags"
+msgid "Press & Media"
+msgstr "Press & Media"
+
+#: 
+msgctxt "tags"
+msgid "Registration of Foreigners"
+msgstr "Registration of Foreigners"
+
+#: 
+msgctxt "tags"
+msgid "Urban Development"
+msgstr "Khote rhoeng nah"
+
+#: 
+msgctxt "tags"
+msgid "Land grabbing"
+msgstr "Land grabbing"
+
+#: 
+msgctxt "tags"
+msgid "Peacekeeping"
+msgstr "Peacekeeping"
+
+#: 
+#, fuzzy
+msgctxt "tags"
+msgid "Peacebuilding/keeping"
+msgstr "Rhoep sainah"
+
+#: 
+msgctxt "tags"
+msgid "Entrepreneurship"
+msgstr "Entrepreneurship"
+
+#: 
+msgctxt "tags"
+msgid "Fundraising"
+msgstr "Tangka coi nah"
+
+#: 
+msgctxt "tags"
+msgid "Economy"
+msgstr "Khueh tawn nah"
+
+#: 
+msgctxt "tags"
+msgid "Recreation"
+msgstr "Recreation"
+
+#: 
+msgctxt "tags"
+msgid "Sports"
+msgstr "Luem hnang nah"
+
+#: 
+msgid "%s new messages"
+msgstr "capat %S om"
+
+#: 
+msgid "1 new message"
+msgstr "Capat thai 1 om"
+
+#: 
+msgid "Send a private message to %s"
+msgstr "%s taeng la olhuep ca pat"
+
+#: 
+msgid "Quote"
+msgstr "Quote"
+
+#: 
+msgid "The administrator asks you to answer a security question before you can enter."
+msgstr ""
+
+#: 
+msgid "Are you sure?"
+msgstr ""
+
+#: 
+msgid "Security Question"
+msgstr ""
+
+#: 
+msgid "Sign up is disabled. Please try again later."
+msgstr ""
+
+#: 
+msgid "Sign in is disabled. Please try again later."
+msgstr ""
+
+#: 
+msgid "Please answer the security question"
+msgstr ""
+
+#: 
+msgid "You do not have permission to view this page. Please try contact the web site administrator if you believe you should be able to view this page."
+msgstr ""
+
+#: 
+msgid "The page you requested could not be found. Please correct the address, return to the previous page, or go back home."
+msgstr ""
+
+#: 
+msgid "Show only messages by senders with matching names.<ul><li>Type to search only on this page.</li><li>Type and press enter to search on all pages.</li></ul>"
+msgstr ""
+
+#: 
+msgid "Reset the search.<ul><li>The first click resets the search on this page.</li><li>The second click resets the search on all pages.</li></ul>"
+msgstr ""
+
+#: 
+msgid "Edit profile"
 msgstr ""
 
