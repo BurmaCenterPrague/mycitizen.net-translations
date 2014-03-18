@@ -352,7 +352,8 @@ msgstr "တၓလဲလိၘEmailတန့ၓဘၗ႕ တၓဒုးစဲဘ
 #. UserPresenter.php:112
 #. UserPresenter.php:125
 #: 
-msgid "Email has been succesfully changed."
+#, fuzzy
+msgid "Email has been successfully changed."
 msgstr "တၓလဲလိၘက့ၖEmail န့ၓဂ့ၖဂ့ၖဘၗဘၗလီၖ"
 
 #. UserPresenter.php:497
@@ -513,7 +514,8 @@ msgstr "တၓဃုထၔလီၘတံၓက့ၖ"
 #. ListerControlMain.php:100
 #: 
 msgid "Filter is off."
-msgstr "သုးကြံၘတၓဃုထၔလီၖတံၓက့ၖတၓအံၖတက့ၓ"
+msgstr "သုးကြံၘတၓဃုထၔလီၖတံၓက့ၖတၓအံၖ\n"
+"တက့ၓ"
 
 #. ListerControlMain.php:100
 #: 
@@ -576,7 +578,8 @@ msgstr "တၓဆွၔထီၓတၓဃ့ကဲထီၗတံၖသကိး
 #. GroupPresenter.php:25
 #: 
 msgid "Given group does not exist."
-msgstr "ကရူၓလၔတၓတူၗလိၘပၘအီၖဝံၖအံၖ တဟးထီၗဒံးဘၗ"
+msgstr "ကရူၓလၔတၓတူၗလိၘပၘအီၖဝံၖအံၖ \n"
+"တဟးထီၗဒံးဘၗ"
 
 #. detail.phtml:173
 #. detail.phtml:178
@@ -584,7 +587,8 @@ msgstr "ကရူၓလၔတၓတူၗလိၘပၘအီၖဝံၖအံ
 #. detail.phtml:188
 #: 
 msgid "Go to resource"
-msgstr "လဲၖဘၗဆူတၓကူၗတၗဖးအလီၗတက့ၓ"
+msgstr "လဲၖဘၗဆူတၓကူၗတၗဖးအလီၗ\n"
+"တက့ၓ"
 
 #. GroupPresenter.php:956
 #: 
@@ -624,7 +628,8 @@ msgstr "ကရူၓအနီၗဝံၗခူသူၗ"
 #. detail.phtml:161
 #: 
 msgid "Group location on a map"
-msgstr "ကရူၓတၓအိၗဆိးလီၓလၔဟီၗခိၗဂီၖအပူၖ"
+msgstr "ကရူၓတၓအိၗဆိးလီၓ\n"
+"လၔဟီၗခိၗဂီၖအပူၖ"
 
 #. default.phtml:126
 #. detail.phtml:172
@@ -635,7 +640,7 @@ msgstr "ကရူၗဖိတဖၗ"
 #. detail.phtml:104
 #: 
 msgid "Group owner: "
-msgstr "ကရူၗအပွၖပၔတၓ/အကစၓ"
+msgstr "ကရူၗအကစၓ"
 
 #. default.phtml:137
 #. detail.phtml:183
@@ -646,7 +651,8 @@ msgstr "ကရူၓအတၓကူၗတၓဖးတဖၗ"
 #. GroupListerControl.php:111
 #: 
 msgid "Group status"
-msgstr "ကရူၓအတၓအိၗသးတဖၗ"
+msgstr "ကရူၓတၓအိၗသး\n"
+"တဖၗ"
 
 #. GroupPresenter.php:526
 #: 
@@ -672,14 +678,16 @@ msgstr "Hello %s, နဃ့ခြဲးယၘလၔနကလဲလိၘက့�
 msgid "Hello %s,\n"
 "You have requested a password change on Mycitizen.net.\n"
 "To finish your request click on the following link."
-msgstr "နဃ့ခြဲးယၘလၔနကလဲလိၘက့ၖန password ဖဲ Mycitizen.net ၒ႕ႏုၘလီၖဖဲlink လၔလၘအံၖဒ္သိးနကမၖဝံၖက့ၖအီၖတက့ၓ"
+msgstr "Hello %s,\n"
+"နဃ့ခြဲးယၘလၔနကလဲလိၘက့ၖန password ဖဲ Mycitizen.net ၒ႕ႏုၘလီၖဖဲlink လၔလၘအံၖဒ္သိးနကမၖဝံၖက့ၖအီၖတက့ၓ"
 
 #. User.php:255
 #: 
 msgid "Hello %s,\n"
 "thank you for signing up at Mycitizen.net!\n"
 "To finish your registration click on the following link."
-msgstr "တၓဘ်ဳးဒိၗမးလၔနဟဲႏုၘလီၖဖဲ Mycitizen.net အဃိလီၖ႕ ႏုၘလီၖဘၗဖဲlinkလၔလၘအံၖဒ္သိးနကမၖဝံၖက့ၖတၓဆဲးလီၖမံၖတက့ၓ"
+msgstr "Hello %s,\n"
+"တၓဘ်ဳးဒိၗမးလၔနဟဲႏုၘလီၖဖဲ Mycitizen.net အဃိလီၖ႕ ႏုၘလီၖဘၗဖဲlinkလၔလၘအံၖဒ္သိးနကမၖဝံၖက့ၖတၓဆဲးလီၖမံၖတက့ၓ"
 
 #. detail.phtml:48
 #: 
@@ -699,12 +707,12 @@ msgstr "နမ့ၓထံၗလၔပွၖသူတၓဖိတဂၖအံၖ
 #. ListerControlMain_groups.phtml:69
 #: 
 msgid "Hidden group"
-msgstr "ကရူၓလၔတၓပၘခူသူၗအီၖ"
+msgstr "ကရူၓလၔတၓပၘခူသူၗ"
 
 #. ListerControlMain_users.phtml:64
 #: 
 msgid "Hidden user"
-msgstr "ပွၖသူတၓလၔတၓပၘခူသူၓအီၖ"
+msgstr "ပွၖသူတၓလၔတၓပၘခူသူၓ"
 
 #. edit.phtml:9
 #: 
@@ -713,8 +721,9 @@ msgstr "နၗရံၗတဖၗ"
 
 #. login.phtml:30
 #: 
-msgid "If you are new here, please "
-msgstr "နမ့မ့ၓပွၖအသီဖဲအံၖဒီၖ, ဝံသးစူၖ႕႕႕႕"
+#, fuzzy
+msgid "If you are new here, please %s sign up %s."
+msgstr "နမ့မ့ၓပွၖအသီဖဲအံၖဒီၖ, ဝံသးစူၖ႕႕႕႕ %s ႏုၘလီၖတက့ၓ%s"
 
 #. GroupPresenter.php:458
 #. UserPresenter.php:638
@@ -725,7 +734,7 @@ msgstr "တၓဂီၖန့ၗကဘၓမ့ၓလၔ JPEG မ့တမ့ၓ
 #. setupmaintenance.phtml:9
 #: 
 msgid "Import resources from file"
-msgstr "ဆွၔထီၗ တၓကူၗတၓဖးတဖၗလၔအအိၗလၔ စရီတက့ၓ"
+msgstr "ဆွၔထီၗ တၓကူၗတၓဖးလၔအအိၗလၔ စရီတက့ၓ"
 
 #. ResourcePresenter.php:439
 #: 
@@ -769,27 +778,28 @@ msgstr "လါယူၖ"
 #. ExternalFilter.php:189
 #: 
 msgid "Language"
-msgstr "တၓကတိၖ/က်ိၘ"
+msgstr "က်ိၘ"
 
 #. GroupPresenter.php:456
 #. ResourcePresenter.php:408
 #. UserPresenter.php:636
 #: 
 msgid "Language:"
-msgstr "တၓကတိၖ/က်ိၘ"
+msgstr "က်ိၘ"
 
 #. detail.phtml:32
 #. detail.phtml:34
 #. detail.phtml:35
 #: 
 msgid "Last activity:"
-msgstr "တၓဟူးတၓဂဲၖလၔလီၓခံကတၔၓ"
+msgstr "တၓဟူးတၓဂဲၖလၔခံကတၔၓ"
 
 #. default.phtml:104
 #. detail.phtml:134
 #: 
 msgid "Leave group"
-msgstr "ဟးထီၗလၔကရူၗတက့ၓ"
+msgstr "ဟးထီၗလၔကရူၗ\n"
+"တက့ၓ"
 
 #. detail.phtml:114
 #: 
@@ -804,7 +814,7 @@ msgstr "တၓဆွၔထီၓတၓကတိၖသကိး႕႕႕႕႕"
 #. MapControl.php:60
 #: 
 msgid "Location"
-msgstr "တၓအိၗတၓဆိးလီၓ"
+msgstr "တၓအိၗဆိးလီၓ"
 
 #. GroupUserListerControl.phtml:7
 #. UserListerControl.phtml:8
@@ -856,7 +866,7 @@ msgstr "လါမ့ၖ"
 #. ResourcePresenter.php:474
 #: 
 msgid "Media ID:"
-msgstr "တ"
+msgstr ""
 
 #. ResourcePresenter.php:473
 #: 
@@ -914,7 +924,7 @@ msgstr "ယတၓအိၗတၓဆိးအလီၓ"
 #. default.phtml:70
 #: 
 msgid "My Resources"
-msgstr "ယတၓ"
+msgstr "ယresources"
 
 #. detail.phtml:192
 #: 
@@ -968,7 +978,7 @@ msgstr "တၓလိၗတဖၗလၔတၓဒုးအိၗထီၗတၓအ
 #. BasePresenter.php:151
 #: 
 msgid "New messages"
-msgstr "တၓကစီၗ/တၓဂ့ၓတၓက်ိၖအသီတဖၗ"
+msgstr "တၓကစီၗအသီတဖၗ"
 
 #. detail.phtml:91
 #. detail.phtml:94
@@ -981,7 +991,7 @@ msgstr "တၓတတူၓလိၘtagsဘၗ"
 #. UserPresenter.php:1182
 #: 
 msgid "Normal user"
-msgstr "ပွၖသူတၓဖိပတီၓမုၓ"
+msgstr "ပွၖသူတၓပတီၓမုၓ"
 
 #. ListerControlMain_groups.phtml:218
 #. ListerControlMain_resources.phtml:241
@@ -998,7 +1008,7 @@ msgstr "လါနိၗဝ့ဘၔၗ"
 #. edit.phtml:12
 #: 
 msgid "Now"
-msgstr "အခဲအံၖ"
+msgstr "ခဲအံၖ"
 
 #. setupmaintenance.phtml:33
 #: 
@@ -1054,12 +1064,12 @@ msgstr "ထဲဒၗလံၘမဲၘဖ်ၔၗ,နီၓဂံၓတဖၗ�
 #. ListerControlMain_users.phtml:105
 #: 
 msgid "Owner"
-msgstr "ပွၖပၔတၓ,အကစၓ"
+msgstr "ပွၖပၔတၓ"
 
 #. TagListerControl.php:123
 #: 
 msgid "Parent level:"
-msgstr "မိၓပၓအတၓအိၗသး"
+msgstr "မိၓပၓတၓအိၗသး"
 
 #. AdministrationPresenter.php:85
 #: 
@@ -1089,7 +1099,7 @@ msgstr "တၓလဲလိၘpassword တန့ၓဘၗ႕ မၖကြၓလ�
 #. UserPresenter.php:471
 #: 
 msgid "Password:"
-msgstr "တၓကတိၖခူသူၗလၔ္တၓဘံၗတၓဘၔအဂီၓ"
+msgstr "တၓကတိၖခူသူၗ"
 
 #. UserPresenter.php:632
 #: 
@@ -1099,7 +1109,7 @@ msgstr "လီပ်ံၖဒၔ"
 #. GroupPresenter.php:224
 #: 
 msgid "Please enter some text."
-msgstr "ဝံသးစူၖကြဲးလီၖဘၗလံၘမဲၘဖ်ၔၗတနီၖတက့ၓ"
+msgstr "ဝံသးစူၖကြဲးလီၖလံၘမဲၘဖ်ၔၗတနီၖတက့ၓ"
 
 #. GroupPresenter.php:799
 #. ResourcePresenter.php:905
@@ -1121,7 +1131,7 @@ msgstr "ဝံသးစူးဃုထၔထီၗဆိတၓဂီၖအက့
 #. ResourcePresenter.php:192
 #: 
 msgid "Post"
-msgstr "ဆွၔထီၗဘၗတက့ၓ"
+msgstr "ဆွၔဘၗတက့ၓ"
 
 #. detail.phtml:322
 #: 
@@ -1142,12 +1152,14 @@ msgstr "တၓအဂ့ၓအက်ိၖ"
 
 #. UserPresenter.php:103
 #: 
-msgid "Registration couldn't be finished! Link is not active anymore."
+#, fuzzy
+msgid "The registration couldn't be finished! Link is not active anymore."
 msgstr "တၓဆဲးလီၖမံၖတဝံၖဒံးဘၗ႕ တၓဘၗထြဲအက်ိၖတခါအံၖတမၖတၓလၔၖဘၗ"
 
 #. UserPresenter.php:99
 #: 
-msgid "Registration has been succesfull. You can now sign in."
+#, fuzzy
+msgid "The registration has been successful. You can now sign in."
 msgstr "တၓဆဲးလီၖမံၖဝံၖလံ႕ နႏုၘလီၖသ့လံ"
 
 #. UserPresenter.php:530
@@ -1169,7 +1181,7 @@ msgstr "သုးကြံၘတက့ၓ"
 #. UserPresenter.php:472
 #: 
 msgid "Repeat password:"
-msgstr "တဲနတၓကတိၖခူသူၗကဒီးတဘ်ီတက့ၓ"
+msgstr "တဲတၓကတိၖခူသူၗကဒီးတဘ်ီတက့ၓ"
 
 #. detail.phtml:310
 #: 
@@ -1184,12 +1196,12 @@ msgstr "တဲဖ်ါထီၓက့ၖတၓဂ့ၓဘၗဃးကရူၗ
 #. ResourcePresenter.php:935
 #: 
 msgid "Report about resource %s, reason: %s"
-msgstr "တဲဖ်ါထီၗက့ၖတၓဂ့ၓဘၗဃးresourceအဂ့ၓ%s, တၓအဂ့ၓအက်ိၖ%s"
+msgstr "တဲဖ်ါထီၗက့ၖတၓဂ့ၓဘၗဃးတၓအဂံၓထံးအဂ့ၓ%s, တၓအဂ့ၓအက်ိၖ%s"
 
 #. UserPresenter.php:397
 #: 
 msgid "Report about user %s, reason: %s"
-msgstr "တဲဖ်ါထီၗက့ၖတၓဂ့ၓဘၗဃးပွၖသူတၓဖိအဂ့ၓ%s, တၓအဂ့ၓအက်ိၖ%s"
+msgstr "တဲဖ်ါထီၗက့ၖတၓဂ့ၓဘၗဃးပွၖသူတၓဖိ%s, တၓအဂ့ၓအက်ိၖ%s"
 
 #. detail.phtml:40
 #: 
@@ -1199,7 +1211,7 @@ msgstr "တဲဖ်ါထီၓက့ၖကရူၓအဂ့ၓ"
 #. detail.phtml:43
 #: 
 msgid "Report resource"
-msgstr "တဲဖ်ါထီၗက့ၖresourceအဂ့ၓ"
+msgstr "တဲဖ်ါထီၗက့ၖတၓအဂံၓထံးအဂ့ၓ"
 
 #. detail.phtml:43
 #: 
@@ -1209,18 +1221,18 @@ msgstr "တဲဖ်ါထီၗပွၖသူတၓဖိအဂ့ၓ"
 #. AdministrationPresenter.php:193
 #: 
 msgid "Reports"
-msgstr "တၓဂ့ၓတၓက်ိၖလၓတၓပၘဖ်ါထီၗတဖၗ"
+msgstr "တၓပၘဖ်ါတဖၗ"
 
 #. default.phtml:99
 #. detail.phtml:108
 #: 
 msgid "Request friendship"
-msgstr "ဃ့တၓခြဲးတၓယၘဒ္ကကဲထီၗတံၖသကိးတက့ၓ"
+msgstr "ဃ့ခြဲးဒ္ကကဲထီၗတံၖသကိးတက့ၓ"
 
 #. default.phtml:134
 #: 
 msgid "Request friendship again"
-msgstr "ဃ့တၓခြဲးတၓယၘကဒီးတဘ်ီဒ္ကကဲထီၗတံၖသကိးတက့ၓ"
+msgstr "ဃ့ခြဲးကဒီးတဘ်ီဒ္ကကဲထီၗတံၖသကိးတက့ၓ"
 
 #. UserPresenter.php:417
 #: 
@@ -1230,22 +1242,22 @@ msgstr "ဃ့ password အသီတက့ၓ"
 #. detail.phtml:110
 #: 
 msgid "Resource owner: "
-msgstr "resource အကစၓ"
+msgstr "တၓအဂံၓထံးအကစၓ"
 
 #. ResourceListerControl.php:74
 #: 
 msgid "Resource status"
-msgstr "resource အတၓအိၗသးတဖၗ"
+msgstr "တၓအဂံၓထံး တၓအိၗသးတဖၗ"
 
 #. ResourcePresenter.php:406
 #: 
 msgid "Resource type:"
-msgstr "resource အကလုၘတဖၗ"
+msgstr "တၓအဂံၓထံး အကလုၘတဖၗ"
 
 #. ResourcePresenter.php:531
 #: 
 msgid "Resource updated"
-msgstr "resource အတၓအိၗသးအဂ့ၓလၔခံကတၔၓ"
+msgstr "တၓအဂံၓထံး အတၓအိၗသးအဂ့ၓလၔခံကတၔၓ"
 
 #. BasePresenter.php:108
 #. default.phtml:0
@@ -1268,7 +1280,7 @@ msgstr "ဃ့တၓခြဲးတၓယၘလၔတၓကထုးကြံၘ
 #. ListerControlMain_users.phtml:13
 #: 
 msgid "Role"
-msgstr "မူဒါ/တၓမၖလၔအလီၖဘၗနၖ"
+msgstr "မူဒါ"
 
 #. MapContainer.phtml:321
 #. MapControl.phtml:342
@@ -1294,7 +1306,7 @@ msgstr "ကြၓပွၖသူတၓဖိအဂ့ၓလီၖတံၓလီ
 #. ContainerTreeSelectControl.phtml:22
 #: 
 msgid "Select Parent Level"
-msgstr "ဃုထၔထီၗမိၗပၗအတၓအိၗသးတက့ၓ"
+msgstr "ဃုထၔမိၗပၗအတၓအိၗသးတက့ၓ"
 
 #. default.phtml:121
 #: 
@@ -1346,7 +1358,8 @@ msgstr "ဃုထၔထီၗresourceတခါမ့တမ့ၓအါန့ၓ�
 #. MapContainer.phtml:331
 #: 
 msgid "Selected Location"
-msgstr "ဃုထီၗထီၗတၓအိၗဆိးလီၓတက့ၓ"
+msgstr "တၓအိၗဆိးလီၓတၓဃုထၔထီၗ\n"
+""
 
 #. AdministrationPresenter.php:216
 #. GroupPresenter.php:228
@@ -1357,7 +1370,7 @@ msgstr "ဃုထီၗထီၗတၓအိၗဆိးလီၓတက့ၓ"
 #. UserPresenter.php:1089
 #: 
 msgid "Send"
-msgstr "ဆွၔဘၗတက့ၓ"
+msgstr "ဆွၔတက့ၓ"
 
 #. messages.phtml:4
 #: 
@@ -1372,7 +1385,7 @@ msgstr "လါစဲးပထ့ဘၔၗ"
 #. AdministrationPresenter.php:176
 #: 
 msgid "Settings"
-msgstr "တၓလီၓဝးဝး/တၓလီၓလၔတၓမၖအသးတမံၖမံၖ"
+msgstr "တၓလီၓလၔတၓမၖအသးတမံၖမံၖ"
 
 #. UserPresenter.php:270
 #. @layout.phtml:145
@@ -1395,7 +1408,8 @@ msgstr "ႏုၘလီၖ"
 #. settings.phtml:8
 #: 
 msgid "Software version:"
-msgstr "တၓပၘဖ်ါတၓတိၘက်ဲၖလၔတၓသူအီၖလၔခီၗဖၕဴထၔၗအဂီၓ"
+msgstr "တၓတိၘက်ဲၖလၔ\n"
+"တၓသူအီၖလၔခီၗဖၕဴထၔၗအဂီၓ"
 
 #. User.php:26
 #: 
@@ -1440,7 +1454,7 @@ msgstr "ပွၖသူတၓဖိဆဲးလီၖမံၖဝံၖတဖၗ
 #. detail.phtml:178
 #: 
 msgid "Subscribed to resources"
-msgstr "တၓဆဲးလီၖမံၖဝံၖဖဲresources "
+msgstr "တၓဆဲးလီၖမံၖဝံၖဖဲ resources"
 
 #. ListerControlMain_body.phtml:31
 #. ListerControlMain_resources.phtml:25
@@ -1540,17 +1554,17 @@ msgstr "နမံၖလၔနသူအီၖအံၖပလဲလိၘတန့
 #. UserPresenter.php:680
 #: 
 msgid "This email is already used for another account."
-msgstr "Email အံၖဘၗတၓသူပၘစၔၖအီၖလၔပွၖအဂၖတဂၖလံ"
+msgstr "လီပရၔ အံၖဘၗတၓသူပၘစၔၖအီၖလၔပွၖအဂၖတဂၖလံ"
 
 #. UserPresenter.php:436
 #: 
 msgid "This email is not registered in our system!"
-msgstr "လီပရၔ(email)အံၖတၓတဆဲးလီၖဘၗအီၖလၔပတၓရဲၗတၓက်ဲၖအပူၖဒံးဘၗ"
+msgstr "လီပရၔအံၖတၓတဆဲးလီၖဘၗအီၖလၔပတၓရဲၗတၓက်ဲၖအပူၖဒံးဘၗ"
 
 #. UserPresenter.php:684
 #: 
 msgid "This email is not valid. Please check it and try again."
-msgstr "Email အံၖနသူတနု့ၓဘၗ႕ဝံသးစူၖကြၓလီၖတံၓက့ၖဒီးမၖကြၓက့ၖအသီတဘ်ီတက့ၓ"
+msgstr "လီပရၔအံၖနသူတနု့ၓဘၗ႕ဝံသးစူၖကြၓလီၖတံၓက့ၖဒီးမၖကြၓက့ၖအသီတဘ်ီတက့ၓ"
 
 #. detail.phtml:115
 #: 
@@ -1605,17 +1619,17 @@ msgstr "ပွၖတဂၖအံၖတၓဒုးကဲထီၗကမၗအီ
 #. ResourcePresenter.php:18
 #: 
 msgid "This resource doesn't exist."
-msgstr "တၓအဂံၓထံးတခါအံၖတအိၗဘၗ"
+msgstr "တၓအဂံၓထံးအံၖတအိၗဘၗ"
 
 #. ResourcePresenter.php:901
 #: 
 msgid "This resource violates the rules of conduct."
-msgstr "resource တခါအံၖမၖကမၗတၓသိၗတၓသီလီၖ"
+msgstr "တၓအဂံၓထံး တခါအံၖမၖကမၗတၓသိၗတၓသီလီၖ"
 
 #. ResourcePresenter.php:900
 #: 
 msgid "This resource was created by mistake, or it is inactive."
-msgstr "resource တခါအံၖဘၓတၓဒုးအိၗထီၗကမၗအီၖလီၖ"
+msgstr "တၓအဂံၓထံး တခါအံၖဘၓတၓဒုးအိၗထီၗကမၗအီၖလီၖ"
 
 #. UserPresenter.php:27
 #: 
@@ -1645,12 +1659,12 @@ msgstr "ဆူ႕႕႕"
 #. default.phtml:84
 #: 
 msgid "Top Groups"
-msgstr "ကရူၗလၔအိၗလၔတၓဖီခိၗတဖၗ"
+msgstr "ကရူၗလၔတၓဖီခိၗတဖၗ"
 
 #. default.phtml:88
 #: 
 msgid "Top Resources"
-msgstr "Resources လၔအိၗလၔတၓဖီခိၗတဖၗ"
+msgstr "Resources လၔတၓဖီခိၗတဖၗ"
 
 #. default.phtml:80
 #: 
@@ -1710,7 +1724,7 @@ msgstr "တႏုၘလီၖဒ္ကရၔဖိအသိးဘၗ"
 #. default.phtml:114
 #: 
 msgid "Unsubscribe from resource"
-msgstr "တႏုၘလီၖဆူresource ဒ္အကရၔဖိတဂၖဘၗ"
+msgstr "တႏုၘလီၖဆူတၓအထံး ဒ္အကရၔဖိတဂၖဘၗ"
 
 #. GroupListerControl.php:81
 #. GroupUserListerControl.php:57
@@ -1730,7 +1744,7 @@ msgstr "တႏုၘလီၖဆူresource ဒ္အကရၔဖိတဂၖဘ
 #. UserPresenter.php:1201
 #: 
 msgid "Update"
-msgstr "တၓကစီၗလၔမၖသးတယံၘဒံၖဘၗ/တၓကစီၗလၔခံကတၔၓ"
+msgstr "တၓကစီၗလၔမၖသးတယံၘဒံၖဘၗ"
 
 #. UserPresenter.php:638
 #: 
@@ -1821,7 +1835,7 @@ msgstr "ပွၖသူတၓဖိလၔအိၗဒီးမံးဒ္သိ
 #. detail.phtml:156
 #: 
 msgid "User's location on a map"
-msgstr "ပွၖသူတၓဖိအတၓအိၗဆိးလီၓလၔဟီၗခိၗဂီၖအလိၖ"
+msgstr "ပွၖသူတၓဖိအိၗဆိးလီၓလၔဟီၗခိၗဂီၖလိၖ"
 
 #. UserPresenter.php:469
 #: 
@@ -1847,7 +1861,7 @@ msgstr "ပွၖသူတၓဖိတဖၗ"
 #. default.phtml:76
 #: 
 msgid "View details"
-msgstr "တၓထံၗလီၖတံၓလီၖဆဲးတဖၗ/အခီၗထံးတုၖလၔအကတၔၓ"
+msgstr "တၓထံၗလီၖတံၓလီၖဆဲးတဖၗ"
 
 #. GroupUserListerControl.phtml:48
 #: 
@@ -2022,7 +2036,7 @@ msgstr "ဒ္သိးနကဆွၔတၓကစီၗအဂီၓလိၗလ
 #. detail.phtml:326
 #: 
 msgid "You need to subscribe in order to comment."
-msgstr "ဒ္သိးနကဟ့ၗထီၗတၓထံၗအဂီၓအလီၗအိၗလၔနကကဲထီကရၔဖိတဂၖလီၖ"
+msgstr "နကဟ့ၗထီၗတၓထံၗအဂီၓအလီၗအိၗလၔနကကဲထီကရၔဖိတဂၖလီၖ"
 
 #. UserPresenter.php:696
 #: 
@@ -2032,7 +2046,7 @@ msgstr "နဃ့ခြဲးလၔနကလဲလိၘနemail address လီ�
 #. default.phtml:53
 #: 
 msgid "My Connections"
-msgstr "နတၓဆဲးက်ိး/ဒုးစဲဘူးလိၗသးကရၔ"
+msgstr "နတၓဆဲးက်ိးလိၗသးကရၔ"
 
 #. UserPresenter.php:507
 #: 
@@ -2090,14 +2104,14 @@ msgstr "နတၓကတိၖခူသူၗအံၖ တၓဆီတလဲက�
 #. UserPresenter.php:471
 #: 
 msgid "Your password must be at least 8 characters long and contain at least one lower-case letter, one upper-case letter and one number."
-msgstr "နတၓကတိၖခူသူၗကဘၗအိၗအစွၖကတၔၓလံၘမဲၘဖ်ၔၗ၈ဖ်ၔၗဒီးကဘၗအိၗဃုၘဒီးလံၘမဲၘဖ်ၔၗအဆံးအစွၖကတၔၓတဖ်ၔၗ,အဒိၗတဖ်ၔၗဒီး နီၓဂံၗတဖ်ၔၗၒ"
+msgstr "နတၓကတိၖခူသူၗကဘၗအိၗအစွၖကတၔၓ၈ဖ်ၔၗဒီးကဘၗအိၗဃုၘဒီးလံၘမဲၘဖ်ၔၗအဆံးအစွၖကတၔၓတဖ်ၔၗ,အဒိၗတဖ်ၔၗဒီး နီၓဂံၗတဖ်ၔၗၒ"
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
 #. UserPresenter.php:471
 #: 
 msgid "Your password must contain at least %s characters."
-msgstr "နတၓကတိၖခူသူၗကဘၗအိၗအစွၖကတၔၓ၈ဖ်ၔၗလီၖ"
+msgstr "နတၓကတိၖခူသူၗကဘၗအိၗအစွၖကတၔၓ%sဖ်ၔၗလီၖ"
 
 #. UserPresenter.php:283
 #. UserPresenter.php:311
@@ -2172,7 +2186,7 @@ msgstr "ခဲလၔၘ"
 #. ExternalFilter.php:157
 #: 
 msgid "all resources"
-msgstr "resource ခဲလၔၘ"
+msgstr "တၓအဂံၓထံးခဲလၔၘ"
 
 #. ExternalFilter.php:193
 #: 
@@ -2214,7 +2228,7 @@ msgstr "တမၖတၓလၔၘဘၗ"
 #. UserListerControl.phtml:60
 #: 
 msgid "detail"
-msgstr "တၓဂ့ၓလီၖတံၓလီၖဆဲး"
+msgstr "တၓဂ့ၓလီၖတံၓ"
 
 #. ResourceListerControl.phtml:37
 #. default.phtml:52
@@ -2225,7 +2239,7 @@ msgstr "တၓဂ့ၓလီၖတံၓလီၖဆဲး"
 #. detail.phtml:40
 #: 
 msgid "edit"
-msgstr "ကြၓဒီးသုးက်ဲၖဘွီက့ၖတၓ"
+msgstr "သုးက်ဲၖဘွီက့ၖ"
 
 #. default.phtml:60
 #: 
@@ -2255,7 +2269,7 @@ msgstr "တမၖတၓလၔၖ,တၓဟူးတၓဂဲၖတအိၗဘ�
 #. UserListerControl.phtml:65
 #: 
 msgid "insert to resource"
-msgstr "ပၔနုၘဆူresourceတက့ၓ"
+msgstr "ပၔနုၘဆူတၓအဂံၓထံးတက့ၓ"
 
 #. @layout.phtml:197
 #: 
@@ -2303,7 +2317,7 @@ msgstr "ကရူၗအါန့ၗညီႏုၓတဖၗ"
 #. ListerControlMain_resources.phtml:308
 #: 
 msgid "more resources"
-msgstr "resourcesအါန့ၓညီႏုၓတဖၗ"
+msgstr "တၓအဂံၓထံးအါန့ၓညီႏုၓတဖၗ"
 
 #. ListerControlMain_body.phtml:539
 #. ListerControlMain_users.phtml:262
@@ -2377,7 +2391,7 @@ msgstr "ပွၖထံၗဘၗသ့ထဲပွၖလၔဆဲးလီၖမ
 #. ListerControlMain_resources.phtml:98
 #: 
 msgid "owner"
-msgstr "ပွၖပၔတၓ/အကစၓ"
+msgstr "ပွၖပၔတၓ"
 
 #. detail.phtml:27
 #. detail.phtml:31
@@ -2406,7 +2420,7 @@ msgstr "တၓပၘကဒါက့ၖဒ္လၔညါအသိး"
 #. AdministrationPresenter.php:183
 #: 
 msgid "setup and maintenance"
-msgstr "ရဲၓက်ဲၖဒုးအိၗထီၗဒီး ကြၓထြဲပၔၖဃၘတက့ၓ"
+msgstr "ဒုးအိၗထီၗဒီး ကြၓထြဲပၔၖဃၘတက့ၓ"
 
 #. login.phtml:30
 #: 
@@ -2510,7 +2524,7 @@ msgstr "တၓကစီၗဂ့ၓက်ိၖတအိၗဘၗ"
 #. setupmaintenance.phtml:18
 #: 
 msgid "PHP Version"
-msgstr "PHP တၓပၘဖ်ါလီၖဆီ"
+msgstr "PHP တၓလီၖဆီ"
 
 #. default.phtml:169
 #. detail.phtml:173
@@ -2521,7 +2535,7 @@ msgstr "တၓပ်ဲလၔတၓကဒုးအိၗထီၗ items"
 #. @layout.phtml:211
 #: 
 msgid "Privacy policy"
-msgstr "ပွၖထဲတဂၖဧိၖအက်ဲသႏူ/ Policy"
+msgstr "ပွၖထဲတဂၖဧိၖအက်ဲသႏူ"
 
 #. ExternalFilter.phtml:117
 #: 
@@ -2554,7 +2568,7 @@ msgstr "ပွၖသူတၓဖိဘၗတၓဒုးဆိကတီၓအီ
 #. detail.phtml:164
 #: 
 msgid "User role"
-msgstr "ပွၖသူတၓဖိအမူဒါ/တၓလၔဘၗမၖဝဲ"
+msgstr "ပွၖသူတၓဖိအမူဒါ"
 
 #. MapControl.phtml:406
 #. MapControl.phtml:411
@@ -2609,7 +2623,7 @@ msgstr "တၓဆွၔကဒါက့ၖတၓကတိၖသကိး \n"
 #. detail.phtml:156
 #: 
 msgid "Resource location on a map"
-msgstr "resource အတၓအိၗဆိးလီၓလၔဟီၗခိၗဂီၖအလိၖ"
+msgstr "တၓအဂံၓထံး တၓအိၗဆိးလီၓလၔဟီၗခိၗဂီၖလိၖ"
 
 #. MapControl.phtml:380
 #. MapControl.phtml:381
@@ -2636,7 +2650,8 @@ msgstr "တၓဆၔကတီၓ"
 #. default.phtml:6
 #. default.phtml:6
 #: 
-msgid "Use the filter to narrow down the list of items."
+#, fuzzy
+msgid "Use the filter to narrow down the list of items"
 msgstr "သူတၓဃုထၔလီၖတံၓတၓတခါအံၖဒ္သိးနကမၖစွၖလီၖတၓတဖၓအံၖတက့ၓ"
 
 #. MapControl.php:42
@@ -2647,12 +2662,12 @@ msgstr "ကရူၓကရၔ"
 #. @layout.phtml:224
 #: 
 msgid "is a product of"
-msgstr "တၓတခါလၔဘၗတၓမၖကဲထီၗအီၖလၔ"
+msgstr "တၓတခါလၔဘၗတၓမၖကဲထီၗအီၖလၔ..."
 
 #. MapControl.php:43
 #: 
 msgid "resource"
-msgstr "တၓအဂံၓထံး/တၓကူၗတၓဖး"
+msgstr "တၓအဂံၓထံး"
 
 #. detail.phtml:18
 #: 
@@ -2720,7 +2735,7 @@ msgstr "တၓပၔဆွၔအံးက့ၖကြၓက့ၖတၓ- ဒု�
 #. reports.phtml:14
 #: 
 msgid "Administration - Reports"
-msgstr "တၓပၔဆွၔအံးက့ၖကြၓက့ၖတၓ- တၓပၘဖ်ါထီၗက့ၖတၓဂ့ၓ"
+msgstr "တၓပၔဆွၔအံးကြၓက့ၖတၓ- တၓပၘဖ်ါထီၗက့ၖတၓဂ့ၓ"
 
 #. tags.phtml:15
 #: 
@@ -2754,8 +2769,8 @@ msgstr ""
 
 #. default.phtml:64
 #: 
-msgid "Click here to continue."
-msgstr "ဆီၗလီၖဖဲအံၖဒ္သိးနကလဲၖဆူညါအဂီၓတက့ၓ"
+msgid "Click here to continue"
+msgstr "ဆီၗလီၖဖဲအံၖဒ္သိးနကလဲၖဆူညါအဂီၓ"
 
 #. MapControl.phtml:394
 #: 
@@ -2857,7 +2872,7 @@ msgstr "နဲၗက်ဲၖတၓမ့ၓပွၖကရၔဖိတဖၓဖ
 #. ListerControlMain.php:386
 #: 
 msgid "Normal"
-msgstr "ပတီၓမုၓ/တၓအိၗညီႏုၓ"
+msgstr "ပတီၓမုၓ"
 
 #. BasePresenter.php:420
 #: 
@@ -2918,7 +2933,7 @@ msgstr "က့ၖကဒါက့ၖဆူhome screenတက့ၓ"
 #. ResourcePresenter.php:645
 #. ResourcePresenter.php:675
 #: 
-msgid "Screenshot processing"
+msgid "Screenshot processing."
 msgstr ""
 
 #. AddTagComponent_Group.phtml:23
@@ -2970,7 +2985,7 @@ msgstr "တၓရဲၗတၓက်ဲၖတၓကစီၗ- နဒိးန့�
 #. AdministrationPresenter.php:130
 #: 
 msgid "Tag \"%s\" saved."
-msgstr "Tag% ဘၗတၓပၘဖိွၗဃၘလံ"
+msgstr "Tag %s ဘၗတၓပၘဖိွၗဃၘလံ"
 
 #. AdministrationPresenter.php:426
 #: 
@@ -3088,7 +3103,7 @@ msgstr "နemail မ့တမ့ၓ IPဘၗတၓသ့ၗညါအီၖဖဲ
 #. UserPresenter.php:1136
 #: 
 msgid "Your message was empty."
-msgstr "နတၓကစီၗဘၗတၓသုးကြံၘအီးလီၖ"
+msgstr "နတၓကစီၗဘၗတၓသုးကြံၘအီလီၖ"
 
 #. default.phtml:27
 #: 
@@ -3103,7 +3118,7 @@ msgstr "တၓႀတီဃၘဒ္တၓဘ်ၔအိၗအသိး"
 #. ContainerTreeSelectControl.phtml:2
 #: 
 msgid "change"
-msgstr "လဲလိၘကြံၘတက့ၓ"
+msgstr "လဲလိၘကြံၘ"
 
 #. default.phtml:96
 #: 
@@ -3153,7 +3168,7 @@ msgstr "တၓကစီၗလၔဘၗဃးထဲပွၖတဂၖ"
 #. UserPresenter.php:291
 #: 
 msgid "remember me"
-msgstr "နသ့ၗညါနီၗယၖဧါ"
+msgstr "သ့ၗညါနီၗယၖ"
 
 #. ResourcePresenter.php:185
 #: 
@@ -3207,493 +3222,8 @@ msgid "visbility 'world'"
 msgstr "တၓကတိၖလၔတၓထံၗအီၖသ့တဖၗ"
 
 #: 
-msgctxt "tags"
-msgid "Human Rights"
-msgstr "ပွၖကညီအတၓခြဲးတၓယၘ"
-
-#: 
-msgctxt "tags"
-msgid "Children's Rights"
-msgstr "ဖိသၗအတၓခြဲးတၓယၘ"
-
-#: 
-msgctxt "tags"
-msgid "Women's Rights"
-msgstr "ပိၘမုၗအတၓခြဲးတၓယၘ"
-
-#: 
-msgctxt "tags"
-msgid "Freedom of Speech"
-msgstr "တၓဒိးန့ၓတၓသဘ့်လၔတၓစံးတၓကတိၖ"
-
-#: 
-msgctxt "tags"
-msgid "Freedom of Assembly"
-msgstr "တၓဒိးန့ၓတၓသဘ့်လၔတၓအိၗဖွိၗရိဖွိၗ"
-
-#: 
-msgctxt "tags"
-msgid "Political Prisoners"
-msgstr "ပွၖဃိၘဖိလၔဘၗထြဲဒီးထံဂ့ၓကီၓဂ့ၓ"
-
-#: 
-msgctxt "tags"
-msgid "Humanitarian Aid"
-msgstr "တၓမၖစၔၖဆီၗထြဲလၔအိၗဒီးတၓဒိစၗကြၓလီၖသး"
-
-#: 
-msgctxt "tags"
-msgid "Disaster Risk Reduction"
-msgstr "တၓမၖစွၖလီၖတၓတတၔၘတနါ"
-
-#: 
-msgctxt "tags"
-msgid "Emergency Relief"
-msgstr "ဂ့ၓဂီၓအူတၓမၖစၔၖဆီၗထြဲ"
-
-#: 
-msgctxt "tags"
-msgid "Flood"
-msgstr "ထံဒိၗခိၗယြၖ/ထံလုၓဘၔတၓ"
-
-#: 
-msgctxt "tags"
-msgid "Drought"
-msgstr "တၓယီၖဃ့ထီကတီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Earthquake"
-msgstr "ဟီၗခိၗဟူး"
-
-#: 
-msgctxt "tags"
-msgid "Storm"
-msgstr "ကလံၖမုၓ"
-
-#: 
-msgctxt "tags"
-msgid "Development Aid"
-msgstr "တၓဂုၖထီၗပသီထီၗတၓမၖစၔၖဆီၗထြဲ"
-
-#: 
-msgctxt "tags"
-msgid "Livelihood"
-msgstr "တၓလုၓအီၗသးသမူအက်ဲ"
-
-#: 
-msgctxt "tags"
-msgid "Food Security"
-msgstr "တၓအီၗတၓအီအတၓဘံၗတၓဘၔ"
-
-#: 
-msgctxt "tags"
-msgid "Poverty Reduction"
-msgstr "တၓမၖစွၖလီၖတၓဖွီၗတၓယၘ"
-
-#: 
-msgctxt "tags"
-msgid "Rural Development"
-msgstr "ခိခိၗတၓဂုၖထီၗပသီထီၗ"
-
-#: 
-msgctxt "tags"
-msgid "Water, Sanitation, Hygiene"
-msgstr "ထံ,တၓကဆွဲကဆီွလၔတၓအိၗဆူၗအိၓခ့်အဂီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Environment"
-msgstr "ပခိၗပဃၔၘ"
-
-#: 
-msgctxt "tags"
-msgid "Waste Management"
-msgstr "တၓပၔဆွၔသုးက်ဲၖတၓဘၗစူးကံၘတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Natural Resources"
-msgstr "န့ဆၔၓတၓထူးတၓတီၖတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Pollution"
-msgstr "တၓမၖဘၗအၔဘၗသီ(ဟီၗခိၗ,ကလံၖ,ထံ,..)"
-
-#: 
-msgctxt "tags"
-msgid "Conservation"
-msgstr "တၓကတိၖခီဆၔလိၘသး"
-
-#: 
-msgctxt "tags"
-msgid "Water Sanitation"
-msgstr "တၓမၖကဆွဲကဆွီထံလၔတၓအိၗဆူၗအိၗခ့်အဂီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Recycling"
-msgstr "တၓစူးကါကဒီးတဘ်ီ"
-
-#: 
-msgctxt "tags"
-msgid "Media"
-msgstr "တၓကစီၗ"
-
-#: 
-msgctxt "tags"
-msgid "Television"
-msgstr "ကြဲၖထံၗဟူဖ်ါ"
-
-#: 
-msgctxt "tags"
-msgid "Newspaper"
-msgstr "တၓပရၔပစၔၓ"
-
-#: 
-msgctxt "tags"
-msgid "Internet"
-msgstr "ပွၓဘ်းစဲ"
-
-#: 
-msgctxt "tags"
-msgid "Social Networking"
-msgstr "တၓရ့လိၘဘၗထြဲတုၖအိၗလိၘသး"
-
-#: 
-msgctxt "tags"
-msgid "Journalism"
-msgstr "တၓမၖဘၗဃးဒီးတၓကြဲး"
-
-#: 
-msgctxt "tags"
-msgid "Health"
-msgstr "တၓအိၗဆူၗအိၗခ့်"
-
-#: 
-msgctxt "tags"
-msgid "HIV/AIDS"
-msgstr "HIV/AIDS"
-
-#: 
-msgctxt "tags"
-msgid "Mental Health"
-msgstr "နီၓသးတၓအိၗဆူၗအိၗခ့်"
-
-#: 
-msgctxt "tags"
-msgid "Reproductive Health"
-msgstr "တၓအိၗဆူၗအိၗခ့်ဘၗဃးဒီးတၓအိၗဖိအိၗလံၖ"
-
-#: 
-msgctxt "tags"
-msgid "Addiction"
-msgstr "တၓစဲထီလၔတၓတမံၖမံၖ"
-
-#: 
-msgctxt "tags"
-msgid "Psychosocial"
-msgstr "တၓရ့လိၘမုၘလိၘလၔသး"
-
-#: 
-msgctxt "tags"
-msgid "Nutrition"
-msgstr "တၓအီၗလၔန့ၓဂ့ၓန့ၓဘါ"
-
-#: 
-msgctxt "tags"
-msgid "Communicable Diseases"
-msgstr "တၓဆါလၔဘၗကူဘၗဂၘသ့တဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Culture"
-msgstr "တၓဆဲးတၓလၖ"
-
-#: 
-msgctxt "tags"
-msgid "Film"
-msgstr "တၓဂီၖမူ"
-
-#: 
-msgctxt "tags"
-msgid "Music"
-msgstr "တၓသူၓဝံၗသးဆၔ"
-
-#: 
-msgctxt "tags"
-msgid "Performances"
-msgstr "တၓဟ့ၗထီၗ(လၔတၓမးသးဖွံကမ်ၔၓအဂီၓ)"
-
-#: 
-msgctxt "tags"
-msgid "Heritage Sites"
-msgstr "တၓန့ၓသါလၔပ်ၔၖတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Education"
-msgstr "တၓကူၗဘၗကူၗသ့"
-
-#: 
-msgctxt "tags"
-msgid "Schools"
-msgstr "တၓမၖလိကၕိတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Languages"
-msgstr "တၓကတိၖ/က်ိၘတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Vocational Training"
-msgstr "တၓသိၗလၔလၔတၓလုၓအီၗသးသမူဂီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Capacity Building"
-msgstr "တၓဒုးဒိၗထီၗတၓသ့တၓဘၗ"
-
-#: 
-msgctxt "tags"
-msgid "Workshop"
-msgstr "တၓကတိၖခီလဲသကိး"
-
-#: 
-msgctxt "tags"
-msgid "Technology"
-msgstr "စဲးဖီကဟၗပီညါ"
-
-#: 
-msgctxt "tags"
-msgid "IT"
-msgstr "IT (တၓကစီၗဒီးစဲးဖီကဟၗပီညါ)"
-
-#: 
-msgctxt "tags"
-msgid "Telecom"
-msgstr "တၓကစီၗခီဖ်ိကြဲၖလ့လိၖ,ကြဲၖဒီနၓဒီးကြဲၖဟူဖ်ါ"
-
-#: 
-msgctxt "tags"
-msgid "Mobile Phone"
-msgstr "ကြဲၖဒီနၓ"
-
-#: 
-msgctxt "tags"
-msgid "Civil Society"
-msgstr "ထံဖိကီၓဖိအကရူၓကရၔ"
-
-#: 
-msgctxt "tags"
-msgid "Associations, NGOs"
-msgstr "တၓကရၔကရိလၔတဘၗထြဲဒီးတၓပၔတၓျပး"
-
-#: 
-msgctxt "tags"
-msgid "Community"
-msgstr "ပွၖဂီၓမုၓခဲလၔၘလၔအိၗလၔလီၓတကဝီၖဃီ"
-
-#: 
-msgctxt "tags"
-msgid "Labour"
-msgstr "ပွၖမၖတၓဖိ"
-
-#: 
-msgctxt "tags"
-msgid "Employment"
-msgstr "တၓဒိးလဲပွၖမၖတၓဖိ"
-
-#: 
-msgctxt "tags"
-msgid "Trade Unions"
-msgstr "တၓကူၗတၓကၖကရူၓကရၔ"
-
-#: 
-msgctxt "tags"
-msgid "Worker Strikes"
-msgstr "ပွၖမၖတၓဖိပူထီၗတၓ"
-
-#: 
-msgctxt "tags"
-msgid "Child Labor"
-msgstr "ဖိသၗပွၖမၖတၓဖိ"
-
-#: 
-msgctxt "tags"
-msgid "Refugees"
-msgstr "ပွၖဘၗကီဘၗခဲတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Internally Displaced Persons"
-msgstr "ပွၖလၔဘၗတၓဆီလီၖက့ၖအလီၓလၔထံလီၓကီၓပူၖ"
-
-#: 
-msgctxt "tags"
-msgid "Migrant Rights"
-msgstr "တၓသုးလီၓသုးက်ဲအတၓခြဲးတၓယၘတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Immigration"
-msgstr "တၓသုးလီၓသုးက်ဲဆူထံဂၖကီၓဂၖ"
-
-#: 
-msgctxt "tags"
-msgid "Conflict"
-msgstr "တၓသဘံၗဘုၗ"
-
-#: 
-msgctxt "tags"
-msgid "Religion"
-msgstr "တၓဘူၗတၓဘါ"
-
-#: 
-msgctxt "tags"
-msgid "Law"
-msgstr "တၓသိၗတၓဘ်ၔ"
-
-#: 
-msgctxt "tags"
-msgid "Crime"
-msgstr "တၓမူးတၓရၖ"
-
-#: 
-msgctxt "tags"
-msgid "Police"
-msgstr "ပၔၖကီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Judicial System"
-msgstr "တၓရဲၓတၓက်ဲၖလၔအဘၗဃးဒီးစံၗညီၗဘၔစံၗညီၗကြီၓ"
-
-#: 
-msgctxt "tags"
-msgid "Forming Organizations"
-msgstr "တၓဒုးအိၗထီၗတၓကရၔကရိ"
-
-#: 
-msgctxt "tags"
-msgid "Citizenship"
-msgstr "တၓမ့ၓထံဖိကီၓဖိ"
-
-#: 
-msgctxt "tags"
-msgid "Elections"
-msgstr "တၓဃုထၔအမူးတဖၗ"
-
-#: 
-msgctxt "tags"
-msgid "Electronic Transactions"
-msgstr "တၓဒုးအိၗစဲဘူးလိၘသးဒီးလီသဟီၗတၓသ့တၓဘၗ"
-
-#: 
-msgctxt "tags"
-msgid "Banking"
-msgstr "စ့တၔးတၓဖံးတၓမၖ"
-
-#: 
-msgctxt "tags"
-msgid "Accountancy Council"
-msgstr "တၓဖီၗစ့စရီကီၘကးကရၔ"
-
-#: 
-msgctxt "tags"
-msgid "Commerce"
-msgstr "တၓကူၗတၓကၖ"
-
-#: 
-msgctxt "tags"
-msgid "Revenue"
-msgstr "တၓအခိအသြဲ"
-
-#: 
-msgctxt "tags"
-msgid "Taxation"
-msgstr "တၓအခိအသြဲအက်ဲ"
-
-#: 
-msgctxt "tags"
-msgid "Securities Exchange"
-msgstr "တၓခီလဲလိၘတၓဘံၗတၓဘၔ"
-
-#: 
-msgctxt "tags"
-msgid "Housing, Land and Property"
-msgstr "ဟံၗဃီ, ဟီၗခိၗ ဒီး တၓစုလီၓခီၗခိၗ"
-
-#: 
-msgctxt "tags"
-msgid "Motion Picture"
-msgstr "တၓဂီၖမူလၔဟူးဂဲၖ"
-
-#: 
-msgctxt "tags"
-msgid "Computer Science Development"
-msgstr "ခီၗဖၕူထၔၗစဲအ့ၗတၓလဲၖထီၗလဲၖထီ"
-
-#: 
-msgctxt "tags"
-msgid "Press & Media"
-msgstr "ကြဲၖလ့လိၖဒီးတၓပရၔပစၔၓတၓကစီၗ"
-
-#: 
-msgctxt "tags"
-msgid "Registration of Foreigners"
-msgstr "ပွၖထံဂၖကီၓဂၖတၓဆဲးလီၖမံၖ"
-
-#: 
-msgctxt "tags"
-msgid "Urban Development"
-msgstr "ဝ့ၓခိၗပ်ီၖပူၖတၓဂုၖထီၗပသီထီၗ"
-
-#: 
-msgctxt "tags"
-msgid "Land grabbing"
-msgstr "တၓဂုၘန့ၓဟီၗခိၗ"
-
-#: 
-msgctxt "tags"
-msgid "Peacekeeping"
-msgstr "တၓပၔၖဃၘတၓဃူတၓဖိး"
-
-#: 
-msgctxt "tags"
-msgid "Peacebuilding/keeping"
-msgstr "တၓဒုးအိၗထီၗတၓဃူတၓဖိး"
-
-#: 
-msgctxt "tags"
-msgid "Entrepreneurship"
-msgstr "တၓသ့တၓဘၗလၔတၓကူၗထီၗဖးလီၖတၓဖံးတၓမၖအသီ"
-
-#: 
-msgctxt "tags"
-msgid "Fundraising"
-msgstr "တၓဃုက်ိၗဃုစ့"
-
-#: 
-msgctxt "tags"
-msgid "Economy"
-msgstr "မုၓက်ိၖဝဲၖကြၓ"
-
-#: 
-msgctxt "tags"
-msgid "Recreation"
-msgstr "တၓမၖအိၗထီၗက့ၖတၓ/တၓမၖသးဖွံသး"
-
-#: 
-msgctxt "tags"
-msgid "Sports"
-msgstr "တၓသူၗဖွံသးညီ/တၓလိၘကြဲ"
-
-#: 
 msgid "%s new messages"
-msgstr "%sတၓကစီၗအသီတဖၗ"
+msgstr "%s တၓကစီၗအသီတဖၗ"
 
 #: 
 msgid "1 new message"
@@ -3720,6 +3250,7 @@ msgid "Security Question"
 msgstr "တၓသံကြၓလၔတၓဘံၗတၓဘၔအဂီၓ"
 
 #: 
+#, fuzzy
 msgid "Sign up is disabled. Please try again later."
 msgstr "ဘၗတၓႀတီဃၘအီၖလီၖ႕ဝံသးစူၖမၖက့ၖလၔခံတဘ်ီတက့ၓ"
 
@@ -3738,4 +3269,1035 @@ msgstr "တၓခြဲးတၓယၘတအိၗလၔနကကြၓတၓပ
 #: 
 msgid "The page you requested could not be found. Please correct the address, return to the previous page, or go back home."
 msgstr "တၓပၘဖ်ါလၔနဃ့ပၘန့ၗတၓတထံၗအီၖဘၗ႕ ဝံသးစူၖမၖဘၗက့ၖနအိၗဆိးလီၓက်ဲ,က့ၖကဒါက့ၖဆူကဘ်ံးပၖလၔအလီၓခံ မ့တမ့ၓဘၗဒီးက့ၖကဒါက့ၖဆူ"
+
+#: 
+msgid "Show only messages by senders with matching names.<ul><li>Type to search only on this page.</li><li>Type and press enter to search on all pages.</li></ul>"
+msgstr ""
+
+#: 
+msgid "Reset the search.<ul><li>The first click resets the search on this page.</li><li>The second click resets the search on all pages.</li></ul>"
+msgstr ""
+
+#: 
+msgid "Edit profile"
+msgstr ""
+
+#: 
+msgid "Remember me"
+msgstr "သ့ၗနီၗယၖ"
+
+#: 
+msgid "Please try again later."
+msgstr "ဝံသးစူၖဂုၘက်ဲးစၔးလၔခံတဘ်ီ"
+
+#: 
+msgid "We have resent your confirmation email - just in case you didn't get it before."
+msgstr ""
+
+#: 
+msgid "You requested %s's friendship."
+msgstr "နဃ့န့ၓ%တဖၗအတၓတူၓလိၘဒ္တံၖသကိးလီၖ"
+
+#: 
+msgid "You accepted %s's friendship."
+msgstr "နတူၓလိၘ%အတၓဃ့ဒ္တံၖသကိးလီၖ"
+
+#: 
+msgid "You rejected %s's friendship."
+msgstr "နသမၔကြံၘ%အတၓဃ့ဒ္တံၖသကိးလီၖ"
+
+#: 
+msgid "You canceled the friendship with %s."
+msgstr "နမၖဟးဂီၖကြံၘ%အတၓဃ့ဒ္တံၖသကိးလီၖ"
+
+#: 
+msgid "You joined the group."
+msgstr "နဆဲးက်ိးကရူၓအံၖလီၖ"
+
+#: 
+msgid "You subscribed to the resource."
+msgstr "နႏုၘလီၖဆူတၓဂံၓထံးလီၖ"
+
+#: 
+msgid "You left the group."
+msgstr "နဟးထီၗလၔကရူၓလီၖ"
+
+#: 
+msgid "You unsubscribed from the resource."
+msgstr "နဟးထီၗကြံၘလၔတၓဂံၓထံးလီၖ"
+
+#: 
+msgid "The group added a resource."
+msgstr "ကရူၓမၖအါထီၗတၓဂံၓထံးတခါလီၖ"
+
+#: 
+msgid "The group chat has new messages."
+msgstr "ကရူၓအတၓကတိၖခီဆၔလိၘသးအိၗဒီးတၓကစီၗအသီတဖၗလီၖ"
+
+#: 
+msgid "The resource has new comments."
+msgstr "တၓဂံၓထံးအိၗဒီးတၓထံၗအသီတဖၗလီၖ"
+
+#: 
+msgid "You created a new resource."
+msgstr "နဒုးအိၗထီၗတၓဂံၓထံးအသီတဖုလီၖ"
+
+#: 
+msgid "You created a new group."
+msgstr "နဒုးအိၗထီၗကရူၓအသီတဖုလီၖ"
+
+#: 
+msgid "You updated your profile."
+msgstr "နမၖသီထီၗနတၓပၘဖ်ါလီၖ"
+
+#: 
+msgid "The group unsubscribed from the resource."
+msgstr "ကရူၓဟးထီၗကြံၘလၔတၓဂံၓထံးအကရၔဖိလီၖ"
+
+#: 
+msgid "The group information was updated."
+msgstr "ကရူၓအတၓကစီၗတဖၗဘၗတၓမၖသီထီၗက့ၖအီၖလီၖ"
+
+#: 
+msgid "The resource information was updated."
+msgstr "တၓကစီၗအဂံၓထံးတဖၗဘၗတၓမၖသီထီၗအီၖလီၖ"
+
+#: 
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr "ပွၖတဂၖဂၖဂုၘက်ဲးစၔးဒ္ကႏုၘလီၖလၔၖနမံၖဒီးတၓကတိၖခူသူၗကမၗလီၖ"
+
+#: 
+msgid "Today"
+msgstr "တနံၖအံၖ"
+
+#: 
+msgid "Yesterday"
+msgstr "မဟါတနံၖ"
+
+#: 
+msgid "Week"
+msgstr "ႏြံ"
+
+#: 
+msgid "Month"
+msgstr "လါ"
+
+#: 
+msgid "Recent activity"
+msgstr "တၓဟူးတၓဂဲၖလၔတယံၘဒံးတဖၗ"
+
+#: 
+msgid "load more..."
+msgstr "ဆွၔအါထီၗ႕႕႕"
+
+#: 
+msgid "Terms of Use"
+msgstr "တၓဆၔကတီၓလၔတၓသူအီၖ"
+
+#. AdministrationPresenter.php:678
+#: 
+msgid "%d user(s) purged."
+msgstr "ပွၖသူတၓဖိ% တၓသုးကြံၘအီၖ"
+
+#. ResourcePresenter.php:180
+#. ResourcePresenter.php:245
+#. ResourcePresenter.php:646
+#: 
+msgid "1 week"
+msgstr "တႏြံ"
+
+#. GroupPresenter.php:1071
+#. GroupPresenter.php:1080
+#: 
+msgid "A message from your group %s"
+msgstr "တၓကစီၗလၔနကရူၓ%"
+
+#. HomePagePresenter.php:541
+#: 
+msgid "A new chat message was posted in the group."
+msgstr "တၓဆွၔထီၗတၓကတိၖခီဆၔလိၘသးလၔကရူၓအံၖလံ"
+
+#. HomePagePresenter.php:543
+#: 
+msgid "A new group was created."
+msgstr "တၓသူၓထီၗကရူၓအသီတခါလံ"
+
+#. HomePagePresenter.php:544
+#: 
+msgid "A new resource was created."
+msgstr "တၓသူၗထီၗတၓဂံၓထံးအသီတခါလံ"
+
+#. 403.phtml:14
+#. 403.phtml:18
+#: 
+msgid "Access Denied"
+msgstr "တၓဂ့ၓတၓက်ိၖတဖၗဘၗတၓသမၔအတၓဟဲႏုၘလီၖလီၖ"
+
+#. BasePresenter.php:286
+#: 
+msgid "0"
+msgstr ""
+
+#. ResourcePresenter.php:648
+#. detail.phtml:265
+#: 
+msgid "Alarm:"
+msgstr "တၓဟ့ၗပလီၓ"
+
+#. ResourcePresenter.php:629
+#: 
+msgid "All day event"
+msgstr "ဒီနံၖညါတၓမၖသး"
+
+#. HomePagePresenter.php:628
+#. default.phtml:126
+#. detail.phtml:260
+#: 
+msgid "All-day event"
+msgstr "ဒီနံၖညါတၓမၖသး"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Apr"
+msgstr "အ့ၿဖ့ၗ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Aug"
+msgstr "အီကူၘ"
+
+#. UserPresenter.php:916
+#: 
+msgid "Continue"
+msgstr "လဲၖဆူညါတက့ၓ"
+
+#. create.phtml:13
+#: 
+msgid "Create Group"
+msgstr "ဒုးအိၗထီၗကရူၓတဖုတက့ၓ"
+
+#. create.phtml:13
+#: 
+msgid "Create Resource"
+msgstr "ဒုးအိၗထီၗတၓဂံၓထံးတက့ၓ"
+
+#. default.phtml:174
+#: 
+msgid "Create a new event?"
+msgstr "နကဒုးအိၗထီၗတၓမၖအသးအသီဧါ?"
+
+#. setupmaintenance.phtml:34
+#: 
+msgid "Database size"
+msgstr "တၓအဒိၗအဆံးလၔတၓပၘဖွိၗပၘအီၖ"
+
+#. StaticModel.php:137
+#. BasePresenter.php:647
+#: 
+msgid "Dear %s"
+msgstr "ပွၖလၔယအဲၓ%"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Dec"
+msgstr "ဒံၓဇဲဘၔၗ"
+
+#. ResourcePresenter.php:633
+#: 
+msgid "Different end time"
+msgstr "တၓအကတၔၓလၔအလီၖဆီလိၘသး"
+
+#. browse.phtml:46
+#: 
+msgid "Do you really want to delete this file?"
+msgstr "နသးအိၗမၖဟါမၓကြံၘfileအံၖလီၖတံၓဧါ?"
+
+#. edit.phtml:13
+#: 
+msgid "Edit Resource"
+msgstr "ကြၓဒီးမၖလီၖတံၓက့ၖတၓဂံၓထံး"
+
+#. UserPresenter.php:206
+#. UserPresenter.php:240
+#. UserPresenter.php:244
+#: 
+msgid "Email has been succesfully changed."
+msgstr "Emailဘၗတၓလဲလိၘအီၖဂ့ၖဂ့ၖလီၖ"
+
+#. UserPresenter.php:836
+#: 
+msgid "Email is already registered to another account."
+msgstr "Emailဘၗတၓဆဲးလီၖအီၖလၔaccountအဂၖတခါဝံၖလံ"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "Emails on unread messages:"
+msgstr "Emailတဖၗလၔအိၗလၔတၓကစီၗလၔတၓတဖးဘၗအီၖ"
+
+#. default.phtml:121
+#. detail.phtml:255
+#: 
+msgid "End:"
+msgstr "တၓလၔခံကတၔၓ"
+
+#. detail.phtml:247
+#: 
+msgid "Event Details"
+msgstr "တၓမၖအသးလီၓတံၓလီၖဆဲးတဖၗ"
+
+#. ResourcePresenter.php:634
+#: 
+msgid "Event end time:"
+msgstr "တၓမၖအသးအဆၔကတီၓလၔခံကတၔၓ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Feb"
+msgstr "လါဖ့ၖႀဘဴၖအါရံၖ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Fri"
+msgstr "မုၓဖီဖး"
+
+#. default.phtml:197
+#: 
+msgid "Friday"
+msgstr "မုၓဖီဖး"
+
+#. GroupPresenter.php:552
+#: 
+msgid "Group name cannot be empty!"
+msgstr "ကရူၓအမံၖအိၗတသ့ဘၗ"
+
+#. UserPresenter.php:1072
+#: 
+msgid "Homepage:"
+msgstr "ဟံၗအကဘ်ံးပၖ"
+
+#. GroupPresenter.php:1036
+#: 
+msgid "How to contact them"
+msgstr "ပကဘၗဆဲးက်ိးအီၖဒ္လဲၗ"
+
+#. default.phtml:134
+#: 
+msgid "If these recommendations are not precise, you could try to find better tags to describe your interests. You can change your tags on your profile page."
+msgstr "တၓအုၗသးအံၖမ့ၓတလီၖတံၓဘၗဒီးနဃုတၓဂ့ၓခိၗတီလၔအဂ့ၖလၔနတၓသးစဲအဂီၓသ့လီၖ႕နလဲလိၘက့ၖနတၓဂ့ၓခိၗတီတဖၗဖဲနprofileကဘ်ံးပၖသ့လီၖ"
+
+#. browse.phtml:83
+#: 
+msgid "If you need to upload a new image, close this window and click on 'Upload'."
+msgstr "အလီၓမ့ၓအိၗလၔနကဘၗဆွၔထီၓတၓဂီၖအသီတခါဒီး ကးတံၘwindow ဒီးဆီၗလီၖuploadတက့ၓ"
+
+#. browse.phtml:84
+#: 
+msgid "Images are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+msgstr "တၓဂီၖတဖၗမ့ၓလၔကမ်ၔၓအဂီၓလီၖ႕နမ့ၓတအဲၗဒိးပွၖကထံၗဘၗဒီးဃုထၔထီၓfileအမံၖလၔပွၖဆိကမိၓတညီတဖၗတက့ၓ"
+
+#. detail.phtml:100
+#: 
+msgid "Interests"
+msgstr "တၓသးစဲတဖၗ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jan"
+msgstr "ယႏူၖအါရံၖ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jul"
+msgstr "ယူၖလံ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jun"
+msgstr "ယူၖ"
+
+#. detail.phtml:40
+#. detail.phtml:55
+#: 
+msgid "Last activity: "
+msgstr "တၓဟူးတၓဂဲၖလၔခံကတၔၓ"
+
+#. AdministrationPresenter.php:429
+#: 
+msgid "Maintenance mode activated."
+msgstr ""
+
+#. BasePresenter.php:88
+#: 
+msgid "Maintenance mode active."
+msgstr ""
+
+#. AdministrationPresenter.php:422
+#: 
+msgid "Maintenance mode deactivated."
+msgstr ""
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Mar"
+msgstr "လါမၓရွး"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Mon"
+msgstr "မုၓဆၗ"
+
+#. default.phtml:196
+#: 
+msgid "Monday"
+msgstr "မုၓဆၗ"
+
+#. setupmaintenance.phtml:80
+#: 
+msgid "More information and download"
+msgstr "တၓဂ့ၓဒီးတၓလၔနကမၖန့ၗအါထီၗတဖၗ"
+
+#. default.phtml:84
+#: 
+msgid "My Activity"
+msgstr "ယတၓဟူးတၓဂဲၖတဖၗ"
+
+#. default.phtml:85
+#: 
+msgid "My Events"
+msgstr "ယတၓမၖအသးတဖၗ"
+
+#. default.phtml:83
+#: 
+msgid "My Recommendations"
+msgstr "ယတၓအုၗသးတဖၗ"
+
+#. setupmaintenance.phtml:31
+#: 
+msgid "MySQL Version"
+msgstr ""
+
+#. setupmaintenance.phtml:74
+#: 
+msgid "New version:"
+msgstr "တၓထံၗအသီတဖၗ"
+
+#. browse.phtml:122
+#: 
+msgid "No images."
+msgstr "တၓဂီၖတအိၗဘၗ"
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "No problem found."
+msgstr "တၓကီတအိၗနီတမံၖဘၗ"
+
+#. detail.phtml:107
+#. detail.phtml:122
+#. detail.phtml:121
+#: 
+msgid "No tags"
+msgstr "တၓခိၗတီတအိၗဘၗ"
+
+#. browse.phtml:84
+#: 
+msgid "Note:"
+msgstr "တၓကြဲးနီၗ"
+
+#. messages.phtml:47
+#. messages.phtml:51
+#: 
+msgid "Notification Settings"
+msgstr "တၓဒိးန့ၓ(မ့)တၓဟ့ၗပလီၓတဖၗ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Nov"
+msgstr "လါနိၗဝ့ဘၔၗ"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Oct"
+msgstr "လါအီးကထိဘၔၗ"
+
+#. setupmaintenance.phtml:153
+#: 
+msgid "Over one month old"
+msgstr "တၓဆၔကတီၓအါန့ၓတလါ"
+
+#. setupmaintenance.phtml:155
+#: 
+msgid "Over six months old"
+msgstr "တၓဆၔကတီၓအါန့ၓဃုလါ"
+
+#. setupmaintenance.phtml:154
+#: 
+msgid "Over two months old"
+msgstr "တၓဆၔကတီၓအါန့ၓခံလါ"
+
+#. 404.phtml:14
+#. 404.phtml:18
+#: 
+msgid "Page Not Found"
+msgstr "ပတထံၗကဘ်ံးပၖအံၖဘၗ"
+
+#. UserPresenter.php:2197
+#: 
+msgid "Please check now your profile and enter a description and tags."
+msgstr "ဝံသးစူၖကြၓက့ၖနprofileဒီးထၔႏုၘတၓပၘဖ်ါဒီးtagsတက့ၓ"
+
+#. UserPresenter.php:788
+#. UserPresenter.php:914
+#: 
+msgid "Please enter the text!"
+msgstr "ဝံသးစူၖထၔႏုၘလံၘမဲၘဖ်ၔၗတက့ၓ"
+
+#. browse.phtml:74
+#: 
+msgid "Please select an image"
+msgstr "ဝံသးစူၖဃုထၔထီၓတၓဂီၖတခါတက့ၓ"
+
+#. setupmaintenance.phtml:136
+#. setupmaintenance.phtml:141
+#: 
+msgid "Problem found"
+msgstr "တၓကီတၓခဲအိၗလီၖ"
+
+#. setupmaintenance.phtml:152
+#: 
+msgid "Purge unconfirmed users"
+msgstr ""
+
+#. @layout.phtml:232
+#: 
+msgid "Recent Activity"
+msgstr "တၓဟူးတၓဂဲၖလၔတယံၘဒံးတဖၗ"
+
+#. default.phtml:120
+#: 
+msgid "Recommended Groups"
+msgstr "ကရူၓလၔတၓဟ့ၗတၓအုၗသးတဖၗ"
+
+#. default.phtml:127
+#: 
+msgid "Recommended Resources"
+msgstr "တၓဂံၓထံးလၔတၓဟ့ၗတၓအုၗသးတဖၗ"
+
+#. default.phtml:113
+#: 
+msgid "Recommended Users"
+msgstr "ပွၖသူတၓဖိလၔတၓဟ့ၗတၓအုၗသးတဖၗ"
+
+#. setupmaintenance.phtml:77
+#: 
+msgid "Release information:"
+msgstr "ရၖလီၖတၓကစီၗ"
+
+#. messages.phtml:46
+#: 
+msgid "Reload"
+msgstr ""
+
+#. ResourcePresenter.php:592
+#: 
+msgid "Resource name cannot be empty!"
+msgstr "တၓဂံၓထံးအမံၖအိၗတသ့ဘၗ"
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "Result"
+msgstr "တၓအစၔ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sat"
+msgstr "မုၓဘူၗ"
+
+#. default.phtml:197
+#: 
+msgid "Saturday"
+msgstr "မုၓဘူၗ"
+
+#. ListerControlMain_groups.phtml:19
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:19
+#: 
+msgid "Searched around your location."
+msgstr "တၓဃုနတၓအိၗဆိးလီၓကပိၘကပၖလီၖ"
+
+#. detail.phtml:229
+#. detail.phtml:231
+#: 
+msgid "Send a message to all members"
+msgstr "ဆွၔတၓကစီၗတခါဆူကရၔဖိကိးဂၖတက့ၓ"
+
+#. GroupPresenter.php:1032
+#: 
+msgid "Send them a local message."
+msgstr "ဆွၔအဝဲသ့ၗတၓကစီၗလၔဘၗဃးဒီးထံလီၓကီၓပူၖ"
+
+#. GroupPresenter.php:1033
+#: 
+msgid "Send them an email."
+msgstr ""
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Sep"
+msgstr ""
+
+#. BasePresenter.php:80
+#: 
+msgid "Stand by for scheduled maintenance in %s minutes and %s seconds. Please finish your activities."
+msgstr "အိၗကတဲၘကတီၖပၘစၔၖနသးလၔတၓကတဲၘကတီၖပၔၖဃၘတၓရဲၗတၓက်ဲၖလၔ%မံၖနံးဒီး%စဲးကီးအဂီၓတက့ၓ႕မၖကတၔၓကြံၘနတၓဟူးတၓဂဲၖတက့ၓ"
+
+#. default.phtml:119
+#. detail.phtml:253
+#: 
+msgid "Start:"
+msgstr "စးထီၗ"
+
+#. AdministrationPresenter.php:391
+#: 
+msgid "Submit"
+msgstr "ဟ့ၗထီၘတက့ၓ"
+
+#. UserPresenter.php:2196
+#: 
+msgid "Success!"
+msgstr "ကဲထီၗလံ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sun"
+msgstr "မုၓဒဲး"
+
+#. default.phtml:196
+#: 
+msgid "Sunday"
+msgstr "မုၓဒဲး"
+
+#. AdministrationPresenter.php:656
+#: 
+msgid "System check finished. Find the results below."
+msgstr ""
+
+#. GroupPresenter.php:1037
+#: 
+msgid "Text"
+msgstr "တၓကြဲး"
+
+#. HomePagePresenter.php:546
+#: 
+msgid "The group unsubscribed from a resource."
+msgstr "ကရူၗအံၖဟးထီၗကြံၘလၔတၓဂံၓထံး"
+
+#. HomePagePresenter.php:547
+#: 
+msgid "The group was updated."
+msgstr "ကရူၗအံၖဘၗတၓမၖသီထီၗအီၖ"
+
+#. UserAuthenticator.php:42
+#: 
+msgid "The password is wrong."
+msgstr "တၓကတိၖခူသူၗကမၗ"
+
+#. HomePagePresenter.php:548
+#: 
+msgid "The resource was updated."
+msgstr "တၓဂံၓထံးအံၖတၓမၖသီထီၗအီၖ"
+
+#. UserPresenter.php:897
+#: 
+msgid "There has been an error sending the confirmation email. Please try again in a while."
+msgstr "မ့ၓလီပရၔလၔတၓဆွၔကမၗအီၖလီၖဝံသးစူၖက်ဲးစၔးကဒီးတဘ်ီတက့ၓ"
+
+#. UserPresenter.php:601
+#: 
+msgid "This person was created by mistake."
+msgstr "ပွၖတဂၖအံၖတၓဒုးကဲထီၗကမၗအီၖလီၖ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Thu"
+msgstr "မုၓလ့ဧိၖ"
+
+#. default.phtml:197
+#: 
+msgid "Thursday"
+msgstr "မုၓလ့ဧိၖ"
+
+#. detail.phtml:86
+#. detail.phtml:101
+#: 
+msgid "Topics"
+msgstr "တၓဂ့ၓခိၗတီတဖၗ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Tue"
+msgstr "မုၓယူၘ"
+
+#. default.phtml:196
+#: 
+msgid "Tuesday"
+msgstr "မုၓယူၘ"
+
+#. detail.phtml:189
+#: 
+msgid "Visit Homepage"
+msgstr "ဟဲကြၓဟံၗလံၘကဘ်ံးပၖတက့ၓ"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Wed"
+msgstr ""
+
+#. default.phtml:196
+#: 
+msgid "Wednesday"
+msgstr ""
+
+#. HomePagePresenter.php:518
+#: 
+msgid "You accepted %s\'s friendship."
+msgstr ""
+
+#. GroupPresenter.php:1282
+#: 
+msgid "You are not allowed to edit this group."
+msgstr ""
+
+#. UserPresenter.php:1970
+#: 
+msgid "You are not allowed to edit this user."
+msgstr ""
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr ""
+
+#. UserPresenter.php:822
+#. UserPresenter.php:945
+#: 
+msgid "You entered the wrong captcha."
+msgstr ""
+
+#. BasePresenter.php:120
+#: 
+msgid "You first need to confirm your registration. Please check your email account and click on the link of the confirmation email."
+msgstr ""
+
+#. ResourcePresenter.php:771
+#: 
+msgid "You have no permission to create public resources."
+msgstr ""
+
+#. BasePresenter.php:648
+#: 
+msgid "You have unread messages!"
+msgstr ""
+
+#. BasePresenter.php:609
+#: 
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr ""
+
+#. HomePagePresenter.php:525
+#: 
+msgid "You rejected %s\'s friendship."
+msgstr ""
+
+#. HomePagePresenter.php:511
+#: 
+msgid "You requested %s\'s friendship."
+msgstr ""
+
+#. HomePagePresenter.php:505
+#: 
+msgid "You signed up."
+msgstr ""
+
+#. UserPresenter.php:2091
+#: 
+msgid "Your Facebook account doesn't have an email address."
+msgstr ""
+
+#. GroupPresenter.php:1101
+#: 
+msgid "Your message has been sent to the members of this group."
+msgstr ""
+
+#. UserPresenter.php:783
+#: 
+msgid "Your password must contain at least one small letter."
+msgstr ""
+
+#. ResourcePresenter.php:569
+#: 
+msgid "Your permissions only allow to create private resources."
+msgstr ""
+
+#. setupmaintenance.phtml:84
+#: 
+msgid "Your software is up to date."
+msgstr ""
+
+#. UserPresenter.php:1072
+#: 
+msgid "Your website, blog or Facebook profile."
+msgstr ""
+
+#. 403.phtml:27
+#. 404.phtml:27
+#: 
+msgid "back"
+msgstr "ဆူလီၓခံ"
+
+#. browse.phtml:78
+#: 
+msgid "close"
+msgstr "ကးတံၘ"
+
+#. default.phtml:193
+#: 
+msgid "day"
+msgstr "မုၓနံၖ"
+
+#. browse.phtml:103
+#: 
+msgid "delete"
+msgstr "ထူးသံကြံၘ"
+
+#. HomePagePresenter.php:632
+#. HomePagePresenter.php:635
+#: 
+msgid "g:ia"
+msgstr ""
+
+#. 403.phtml:28
+#. 404.phtml:28
+#: 
+msgid "home"
+msgstr "ဟံၗ"
+
+#. browse.phtml:107
+#: 
+msgid "insert"
+msgstr "ထၔႏုၘအါထီၗ"
+
+#. ResourcePresenter.php:163
+#. ResourcePresenter.php:164
+#. ResourcePresenter.php:228
+#. ResourcePresenter.php:229
+#: 
+msgid "l, j F Y"
+msgstr ""
+
+#. ResourcePresenter.php:166
+#. ResourcePresenter.php:167
+#. ResourcePresenter.php:231
+#. ResourcePresenter.php:232
+#: 
+msgid "l, j F Y, g:ia T"
+msgstr ""
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per day"
+msgstr "အအါကတၔၓတနံၖတဘ်ီ"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per hour"
+msgstr "အအါကတၔၓတနၗရံၗတဘ်ီ"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per week"
+msgstr "အအါကတၔၓတႏြံတဘ်ီ"
+
+#. default.phtml:191
+#: 
+msgid "month"
+msgstr "လါ"
+
+#. TagListerControl.phtml:49
+#: 
+msgid "move down"
+msgstr "သုးဆူအဖီလၘ"
+
+#. TagListerControl.phtml:48
+#: 
+msgid "move up"
+msgstr "သုးဆူအဖီခိၗ"
+
+#. UserPresenter.php:1069
+#: 
+msgid "no"
+msgstr "တမ့ၓဘၗ"
+
+#. ResourcePresenter.php:171
+#. ResourcePresenter.php:236
+#. ResourcePresenter.php:637
+#: 
+msgid "no alert"
+msgstr "တၓဟ့ၗပလီၓတအိၗဘၗ"
+
+#. create.phtml:19
+#. create.phtml:22
+#. edit.phtml:19
+#. edit.phtml:22
+#: 
+msgid "now"
+msgstr "ခဲအံၖ"
+
+#. UserPresenter.php:481
+#: 
+msgid "off"
+msgstr "ကးတံၘ"
+
+#. default.phtml:98
+#. detail.phtml:46
+#: 
+msgid "only visible to subscribers"
+msgstr "ထံၗဘၗသ့ထဲပွၖလၔႏုၘလီၖကရၔဖိတဖၗ"
+
+#. default.phtml:96
+#. detail.phtml:44
+#: 
+msgid "only visible to you"
+msgstr "ပွၖကြၓသ့ထဲနၖတဂၖလီၖ"
+
+#. default.phtml:151
+#: 
+msgid "own events"
+msgstr "နတၓမၖအသးတဖၗ"
+
+#. browse.phtml:109
+#: 
+msgid "pixel"
+msgstr "တၓဂီၖအဆံးကတၔၓ"
+
+#. @layout.phtml:201
+#: 
+msgid "read or write messages"
+msgstr "ဖး(မ့)ကြဲးတၓကစီၗတဖၗ"
+
+#. create.phtml:20
+#. edit.phtml:20
+#: 
+msgid "reset to initial selection"
+msgstr "ပၔဆွၔက့ၖတၓလၔနဃုထၔထီၗလၔအဆိတဖၗ"
+
+#. login.phtml:49
+#. register.phtml:37
+#: 
+msgid "sign in with Facebook"
+msgstr "ႏုၘလီၖဃုၘဒီးFacebookတက့ၓ"
+
+#. default.phtml:152
+#: 
+msgid "subscribed events"
+msgstr "တၓႏုုၘလီၖဒ္ကရၔဖိအတၓမၖသးတဖၗ"
+
+#. default.phtml:190
+#: 
+msgid "today"
+msgstr "တနံၖအံၖ"
+
+#. default.phtml:38
+#: 
+msgid "unfinished registration"
+msgstr "တၓဆဲးလီၖမံၖတဝံၖဒံးဘၗ"
+
+#. default.phtml:192
+#: 
+msgid "week"
+msgstr "ႏြံ"
+
+#: 
+msgid "The following items could be interesting for you:"
+msgstr "တၓလၔအဖီလၘတဖၗအံၖကမ့ၓသ့ၗသ့ၗတၓသးစဲလၔနဂီၓလီၖ"
+
+#: 
+msgid "You see only item that you are not connected to."
+msgstr ""
 
