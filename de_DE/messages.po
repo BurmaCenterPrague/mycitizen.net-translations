@@ -109,7 +109,7 @@ msgstr "Administrator mit ID 1 kann nicht verändert werden"
 #. login.phtml:9
 #: 
 msgid "Already have an account? Sign in below."
-msgstr "Bist du bereits registriert?Hier kannst du dich anmelden."
+msgstr "Bist du bereits registriert? Hier kannst du dich anmelden."
 
 #. UserPresenter.php:433
 #: 
@@ -153,7 +153,7 @@ msgstr "Zurück zur Liste der Gruppen."
 #. detail.phtml:3
 #: 
 msgid "Back to list of users."
-msgstr "Zurück zur Liste der Nutzer."
+msgstr "Zurück zur Liste der Benutzer."
 
 #. edit.phtml:48
 #: 
@@ -301,13 +301,12 @@ msgstr "Neue Objekte finden"
 #. default.phtml:59
 #: 
 msgid "Discover new users"
-msgstr "Neue Nutzer finden"
+msgstr "Neue Benutzer finden"
 
 #. UserPresenter.php:635
 #: 
-#, fuzzy
 msgid "Do you want be visible to everyone (world), only to registered users (registered) or only to your friends (friends)?"
-msgstr "Möchtest du für jeden (Welt), nur für registrierte Nutzer (registriert) oder nur für deine Freunde sichtbar sein (Freunde)?"
+msgstr "Möchtest du für jeden (Welt), nur für registrierte Benutzer (registriert) oder nur für deine Freunde sichtbar sein (Freunde)?"
 
 #. @layout.phtml:128
 #: 
@@ -488,12 +487,12 @@ msgstr "Fehler beim Schreiben des Bildes: "
 #. ResourcePresenter.php:428
 #: 
 msgid "Event description:"
-msgstr "Beschreibung des Ereignisses:"
+msgstr "Beschreibung des Termins:"
 
 #. ResourcePresenter.php:431
 #: 
 msgid "Event time:"
-msgstr "Zeit des Ereignisses:"
+msgstr "Zeit des Termins:"
 
 #. edit.phtml:14
 #: 
@@ -593,22 +592,22 @@ msgstr "Zum Objekt gehen"
 #. GroupPresenter.php:956
 #: 
 msgid "Group %s has not been subscribed to resource."
-msgstr "Die Gruppe %s ist nicht mit dem Objekt verlinkt."
+msgstr "Die Gruppe %s ist nicht mit dem Objekt verbunden."
 
 #. ResourcePresenter.php:316
 #: 
 msgid "Group %s is already subscribed."
-msgstr "Die Gruppe %s ist bereits verlinkt."
+msgstr "Die Gruppe %s ist bereits verbunden."
 
 #. ResourcePresenter.php:314
 #: 
 msgid "Group %s subscribed to this resource."
-msgstr "Die Gruppe %s ist mit diesem Objekt verlinkt."
+msgstr "Die Gruppe %s ist mit diesem Objekt verbunden."
 
 #. GroupPresenter.php:954
 #: 
 msgid "Group %s unsubscribed from resource."
-msgstr "Die Gruppe %s hat die Verlinkung mit dem Objekt gelöst."
+msgstr "Die Gruppe %s hat die Verbindung mit dem Objekt gelöst."
 
 #. detail.phtml:199
 #: 
@@ -702,7 +701,7 @@ msgstr "Hier kannst du das Objekt melden, wenn du glaubst, dass es die Regeln ve
 #. detail.phtml:51
 #: 
 msgid "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
-msgstr "Hier kannst du die Nutzer melden, wenn du glaubst, dass sie die Regeln verletzt. Meldungen werden von unseren Moderatoren bearbeitet."
+msgstr "Hier kannst du Benutzer melden, wenn du glaubst, dass sie die Regeln verletzt. Meldungen werden von unseren Moderatoren bearbeitet."
 
 #. ListerControlMain_groups.phtml:69
 #: 
@@ -712,7 +711,7 @@ msgstr "Unsichtbare Gruppe"
 #. ListerControlMain_users.phtml:64
 #: 
 msgid "Hidden user"
-msgstr "Unsichtbarer Nutzer"
+msgstr "Unsichtbarer Benutzer"
 
 #. edit.phtml:9
 #: 
@@ -744,7 +743,7 @@ msgstr "Information:"
 #. ResourcePresenter.php:260
 #: 
 msgid "Insufficient permissions to subscribe group %s to this resource."
-msgstr "Ungenügende Berechtigung, um das Objekt mit der Gruppe %s zu verlinken."
+msgstr "Ungenügende Berechtigung, um das Objekt mit der Gruppe %s zu verbinden."
 
 #. ListerControlMain_body.phtml:20
 #. ListerControlMain_groups.phtml:18
@@ -824,12 +823,12 @@ msgstr "Login"
 #. GroupPresenter.php:455
 #: 
 msgid "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
-msgstr "Diese Gruppe für jeden (Welt), nur für Nutzer dieser Website (registriert) oder nur für Mitglieder dieser Gruppe sichtbar machen (Mitglieder)?"
+msgstr "Diese Gruppe für jeden (Welt), nur für Benutzer dieser Website (registriert) oder nur für Mitglieder dieser Gruppe sichtbar machen (Mitglieder)?"
 
 #. ResourcePresenter.php:407
 #: 
 msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
-msgstr "Dieses Objekt für jeden (Welt), nur für Nutzer dieser Website (registriert) oder nur für mit diesem Objekt verlinkte Nutzer sichtbar machen (verlinkt)?"
+msgstr "Dieses Objekt für jeden (Welt), nur für Benutzer dieser Website (registriert) oder nur für mit diesem Objekt verbundene Benutzer sichtbar machen (verbunden)?"
 
 #. edit.phtml:85
 #: 
@@ -839,7 +838,7 @@ msgstr "Gruppenmitglieder verwalten"
 #. edit.phtml:90
 #: 
 msgid "Manage subscribed resources"
-msgstr "Verlinkte Objekte verwalten"
+msgstr "Verbundene Objekte verwalten"
 
 #. ExternalFilter.phtml:112
 #: 
@@ -903,7 +902,7 @@ msgstr "Moderator"
 #. User.php:22
 #: 
 msgid "More than one user with the same id found."
-msgstr "Mehr als ein Nutzer mit dieser ID gefunden."
+msgstr "Mehr als ein Benutzer mit dieser ID gefunden."
 
 #. default.phtml:56
 #: 
@@ -991,7 +990,7 @@ msgstr "Keine Tags."
 #. UserPresenter.php:1182
 #: 
 msgid "Normal user"
-msgstr "Normaler Nutzer"
+msgstr "Normaler Benutzer"
 
 #. ListerControlMain_groups.phtml:218
 #. ListerControlMain_resources.phtml:241
@@ -1023,7 +1022,7 @@ msgstr "Anzahl der Objekte"
 #. setupmaintenance.phtml:21
 #: 
 msgid "Number of users"
-msgstr "Anzahl der Nutzer"
+msgstr "Anzahl der Benutzer"
 
 #. edit.phtml:14
 #: 
@@ -1201,7 +1200,7 @@ msgstr "Meldung über das Objekt %s, Grund: %s"
 #. UserPresenter.php:397
 #: 
 msgid "Report about user %s, reason: %s"
-msgstr "Meldung über den Nutzer %s, Grund: %s"
+msgstr "Meldung über den Benutzer %s, Grund: %s"
 
 #. detail.phtml:40
 #: 
@@ -1216,7 +1215,7 @@ msgstr "Objekt melden"
 #. detail.phtml:43
 #: 
 msgid "Report user"
-msgstr "Nutzer melden"
+msgstr "Benutzer melden"
 
 #. AdministrationPresenter.php:193
 #: 
@@ -1301,7 +1300,7 @@ msgstr "Sekunden"
 #. detail.phtml:167
 #: 
 msgid "See details about the user and respond to the request."
-msgstr "Details über den Nutzer sehen und auf die Anfrage antworten."
+msgstr "Details über den Benutzer sehen und auf die Anfrage antworten."
 
 #. ContainerTreeSelectControl.phtml:22
 #: 
@@ -1343,17 +1342,17 @@ msgstr "Wähle eine Zeit"
 #. default.phtml:182
 #: 
 msgid "Select a user for more details."
-msgstr "Wähle einen Nutzer, um mehr Details zu sehen."
+msgstr "Wähle einen Benutzer, um mehr Details zu sehen."
 
 #. detail.phtml:136
 #: 
 msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
-msgstr "Wähle eine oder mehr Gruppen, die mit diesem Objekt verlinkt werden sollen. Angezeigt werden nur Gruppen, die dir gehören oder wo du ein Moderator bist."
+msgstr "Wähle eine oder mehr Gruppen, die mit diesem Objekt verbunden werden sollen. Angezeigt werden nur Gruppen, die dir gehören oder wo du ein Moderator bist."
 
 #. detail.phtml:143
 #: 
 msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
-msgstr "Wähle eine oder mehr Objekte zur Lösung der Verlinkung. Angezeigt werden nur Objekte, die mit dieser Gruppe verlinkt sind. Auf der Detailseite eines Objekts kannst du Verlinkungen erstellen."
+msgstr "Wähle eine oder mehr Objekte zur Lösung der Verbindung. Angezeigt werden nur Objekte, die mit dieser Gruppe verbunden sind. Auf der Detailseite eines Objekts kannst du Verbindungen erstellen."
 
 #. MapContainer.phtml:331
 #: 
@@ -1412,7 +1411,7 @@ msgstr "Softwareversion:"
 #. User.php:26
 #: 
 msgid "Specified user not found."
-msgstr "Genannter Nutzer wurde nicht gefunden."
+msgstr "Genannter Benutzer wurde nicht gefunden."
 
 #. ExternalFilter.php:182
 #. UserListerControl.phtml:22
@@ -1424,41 +1423,41 @@ msgstr "Status"
 #. detail.phtml:121
 #: 
 msgid "Subscribe"
-msgstr "Verlinken"
+msgstr "Verbinden"
 
 #. detail.phtml:134
 #: 
 msgid "Subscribe as group"
-msgstr "Mit einer Gruppe verlinken"
+msgstr "Mit einer Gruppe verbinden"
 
 #. default.phtml:104
 #: 
 msgid "Subscribe to resource"
-msgstr "Mit Objekt verlinken"
+msgstr "Mit Objekt verbinden"
 
 #. default.phtml:147
 #. detail.phtml:297
 #: 
 msgid "Subscribed Groups"
-msgstr "Verlinkte Gruppen"
+msgstr "Verbundene Gruppen"
 
 #. default.phtml:136
 #. detail.phtml:286
 #: 
 msgid "Subscribed Users"
-msgstr "Verlinkte Nutzer"
+msgstr "Verbundene Benutzer"
 
 #. default.phtml:199
 #. detail.phtml:178
 #: 
 msgid "Subscribed to resources"
-msgstr "Verlinkt mit Objekten"
+msgstr "Verbunden mit Objekten"
 
 #. ListerControlMain_body.phtml:31
 #. ListerControlMain_resources.phtml:25
 #: 
 msgid "Subscribers"
-msgstr "Verlinkte Nutzer"
+msgstr "Verbundene Benutzer"
 
 #. detail.phtml:141
 #: 
@@ -1519,7 +1518,7 @@ msgstr "Schildere uns anhand von Beispielen, warum du dieses Objekt meldest."
 #. UserPresenter.php:344
 #: 
 msgid "Tell us why you report this user, including examples:"
-msgstr "Schreib uns mit Beispielen, warum du diesen Nutzer meldest."
+msgstr "Schreib uns mit Beispielen, warum du diesen Benutzer meldest."
 
 #. ResourcePresenter.php:449
 #. UserPresenter.php:1087
@@ -1566,7 +1565,7 @@ msgstr "Diese Email-Adresse ist ungültig. Bitte überprüfe sie und versuche es
 #. detail.phtml:115
 #: 
 msgid "This group can only be viewed by members. Users need to have the key below to become members."
-msgstr "Diese Gruppe kann nur von Mitgliedern gesehen werden. Nutzer brauchen einen Schlüssel, um einzutreten."
+msgstr "Diese Gruppe kann nur von Mitgliedern gesehen werden. Benutzer brauchen einen Schlüssel, um einzutreten."
 
 #. GroupPresenter.php:1175
 #: 
@@ -1631,7 +1630,7 @@ msgstr "Dieses Objekt wurde irrtümlicherweise erstellt, oder es liegt brach."
 #. UserPresenter.php:27
 #: 
 msgid "This user doesn't exist."
-msgstr "Dieser Nutzer existiert nicht."
+msgstr "Dieser Benutzer existiert nicht."
 
 #. edit.phtml:8
 #: 
@@ -1666,7 +1665,7 @@ msgstr "Beliebte Objekte"
 #. default.phtml:80
 #: 
 msgid "Top Users"
-msgstr "Beliebte Nutzer"
+msgstr "Beliebte Benutzer"
 
 #. ExternalFilter.php:180
 #: 
@@ -1711,17 +1710,17 @@ msgstr "URL zur externen Quelle:"
 #. detail.phtml:127
 #: 
 msgid "Unblock this user"
-msgstr "Blockierung dieses Nutzers aufheben"
+msgstr "Blockierung dieses Benutzers aufheben"
 
 #. GroupPresenter.php:884
 #: 
 msgid "Unsubscribe"
-msgstr "Verlinkung lösen"
+msgstr "Verbindung lösen"
 
 #. default.phtml:114
 #: 
 msgid "Unsubscribe from resource"
-msgstr "Verlinkung zum Objekt lösen"
+msgstr "Verbindung zum Objekt lösen"
 
 #. GroupListerControl.php:81
 #. GroupUserListerControl.php:57
@@ -1776,12 +1775,12 @@ msgstr "%s bittet um Freundschaft."
 #. register.phtml:0
 #: 
 msgid "User Signup"
-msgstr "Registrierung von Nutzern"
+msgstr "Registrierung von Benutzern"
 
 #. GroupUserListerControl.php:96
 #: 
 msgid "User Status"
-msgstr "Status des Nutzers"
+msgstr "Status des Benutzers"
 
 #. lostpassword.phtml:0
 #: 
@@ -1812,27 +1811,27 @@ msgstr "Anmeldung"
 #. UserListerControl.php:106
 #: 
 msgid "User status"
-msgstr "Status des Nutzers"
+msgstr "Status des Benutzers"
 
 #. edit.phtml:0
 #: 
 msgid "User update"
-msgstr "Aktualisierung der Nutzerdaten"
+msgstr "Aktualisierung der Benutzerdaten"
 
 #. UserPresenter.php:720
 #: 
 msgid "User updated"
-msgstr "Nutzerdaten wurden aktualisiert"
+msgstr "Benutzerdaten wurden aktualisiert"
 
 #. UserPresenter.php:492
 #: 
 msgid "User with the same name already exists."
-msgstr "Ein Nutzer mit diesem Namen existiert bereits."
+msgstr "Ein Benutzer mit diesem Namen existiert bereits."
 
 #. detail.phtml:156
 #: 
 msgid "User's location on a map"
-msgstr "Position des Nutzers auf der Karte"
+msgstr "Position des Benutzers auf der Karte"
 
 #. UserPresenter.php:469
 #: 
@@ -1949,13 +1948,13 @@ msgstr "Du darfst die Mitgliedschaften nicht sehen."
 #. detail.phtml:301
 #: 
 msgid "You are not allowed to see the subscribed groups."
-msgstr "Du bist nicht berechtigt, die verlinkten Gruppen zu sehen."
+msgstr "Du bist nicht berechtigt, die verbundenen Gruppen zu sehen."
 
 #. default.phtml:140
 #. detail.phtml:290
 #: 
 msgid "You are not allowed to see the subscribed users."
-msgstr "Du bist nicht berechtigt, die verlinkten Nutzer zu sehen."
+msgstr "Du bist nicht berechtigt, die verbundenen Benutzer zu sehen."
 
 #. default.phtml:141
 #. detail.phtml:187
@@ -1978,7 +1977,7 @@ msgstr "Du darfst dieses Objekt nicht sehen."
 #. UserPresenter.php:31
 #: 
 msgid "You are not allowed to view this user."
-msgstr "Du darfst diesen Nutzer nicht sehen."
+msgstr "Du darfst diesen Benutzer nicht sehen."
 
 #. detail.phtml:210
 #: 
@@ -1988,12 +1987,12 @@ msgstr "Du kannst nur Nachrichten an Freunde senden."
 #. default.phtml:115
 #: 
 msgid "You currently block this user"
-msgstr "Du blockierst diesen Nutzer"
+msgstr "Du blockierst diesen Benutzer"
 
 #. detail.phtml:123
 #: 
 msgid "You currently block this user."
-msgstr "Du blockierst diesen Nutzer."
+msgstr "Du blockierst diesen Benutzer."
 
 #. GroupPresenter.php:1181
 #: 
@@ -2034,7 +2033,7 @@ msgstr "Du musst angemeldet sein, um Nachrichten senden zu können."
 #. detail.phtml:326
 #: 
 msgid "You need to subscribe in order to comment."
-msgstr "Du musst dich erst verlinken, um kommentieren zu können."
+msgstr "Du musst dich erst verbinden, um kommentieren zu können."
 
 #. UserPresenter.php:696
 #: 
@@ -2044,7 +2043,7 @@ msgstr "Du hast eine Änderung der Email-Adresse veranlasst. Eine Nachricht mit 
 #. default.phtml:53
 #: 
 msgid "My Connections"
-msgstr "Meine Verlinkungen"
+msgstr "Meine Verbindungen"
 
 #. UserPresenter.php:507
 #: 
@@ -2321,7 +2320,7 @@ msgstr "weitere Objekte"
 #. ListerControlMain_users.phtml:262
 #: 
 msgid "more users"
-msgstr "weitere Nutzer"
+msgstr "weitere Benutzer"
 
 #. ListerControlMain_body.phtml:441
 #. ListerControlMain_messages.phtml:73
@@ -2352,12 +2351,12 @@ msgstr "kein Freund"
 #. default.phtml:72
 #: 
 msgid "I am not subscribed."
-msgstr "Ich bin nicht verlinkt."
+msgstr "Ich bin nicht verbunden."
 
 #. AdministrationPresenter.php:66
 #: 
 msgid "object_creation_min_time"
-msgstr "Wie viele Tage müssen Nutzer registriert sein, um Gruppen und Objekte erstellen zu dürfen?"
+msgstr "Wie viele Tage müssen Benutzer registriert sein, um Gruppen und Objekte erstellen zu dürfen?"
 
 #. default.phtml:81
 #. detail.phtml:26
@@ -2381,7 +2380,7 @@ msgstr "nur Mitgliedern sichtbar"
 #. detail.phtml:20
 #: 
 msgid "only visible to registered users"
-msgstr "nur registrierten Nutzern sichtbar"
+msgstr "nur registrierten Benutzern sichtbar"
 
 #. ListerControlMain_body.phtml:243
 #. ListerControlMain_body.phtml:261
@@ -2400,7 +2399,7 @@ msgstr "Bild neu erstellen"
 #. UserListerControl.phtml:69
 #: 
 msgid "remove user from resource"
-msgstr "Nutzer von dem Objekt entfernen"
+msgstr "Benutzer von dem Objekt entfernen"
 
 #. ChatLister_ajax.phtml:39
 #. ListerControlMain_body.phtml:198
@@ -2428,7 +2427,7 @@ msgstr "registriere dich hier"
 #. default.phtml:70
 #: 
 msgid "subscribed"
-msgstr "verlinkt"
+msgstr "verbunden"
 
 #. ExternalFilter.php:197
 #: 
@@ -2497,7 +2496,7 @@ msgstr "Details der Objekts"
 #. detail.phtml:0
 #: 
 msgid "Details of the user"
-msgstr "Details des Nutzers"
+msgstr "Details des Benutzers"
 
 #. setupmaintenance.phtml:24
 #: 
@@ -2513,7 +2512,7 @@ msgstr "Gettext unterstützt"
 #. ListerControlMain_messages.phtml:112
 #: 
 msgid "Message not displayed because the user has been deactivated."
-msgstr "Nachricht ausgeblendet, da der Nutzer deaktiviert wurde."
+msgstr "Nachricht ausgeblendet, da der Benutzer deaktiviert wurde."
 
 #. ListerControlMain_messages.phtml:119
 #: 
@@ -2562,13 +2561,13 @@ msgstr "Ähnlich wie ich"
 #. ListerControlMain_messages.phtml:108
 #: 
 msgid "User has been deactivated"
-msgstr "Der Nutzer wurde deaktiviert"
+msgstr "Der Benutzer wurde deaktiviert"
 
 #. default.phtml:160
 #. detail.phtml:164
 #: 
 msgid "User role"
-msgstr "Rolle des Nutzers"
+msgstr "Rolle des Benutzers"
 
 #. MapControl.phtml:406
 #. MapControl.phtml:411
@@ -2671,12 +2670,12 @@ msgstr "Objekt"
 #. detail.phtml:18
 #: 
 msgid "I am subscribed."
-msgstr "Ich bin verlinkt."
+msgstr "Ich bin verbunden."
 
 #. MapControl.php:41
 #: 
 msgid "user"
-msgstr "Nutzer"
+msgstr "Benutzer"
 
 #: 
 msgid "1"
@@ -2868,7 +2867,7 @@ msgstr "Briefkasten"
 #. edit.phtml:145
 #: 
 msgid "Manage subscribers of this resource"
-msgstr "Verlinkte Nutzer dieses Objekts verwalten"
+msgstr "Verbundene Benutzer dieses Objekts verwalten"
 
 #. ListerControlMain.php:386
 #: 
@@ -3144,7 +3143,7 @@ msgstr "Dokument"
 #. ResourcePresenter.php:178
 #: 
 msgid "event"
-msgstr "Ereignis"
+msgstr "Termin"
 
 #. ResourcePresenter.php:181
 #: 
@@ -3322,7 +3321,7 @@ msgstr "Du bist der Gruppe beigetreten."
 
 #: 
 msgid "You subscribed to the resource."
-msgstr "Du hast eine Verlinkung mit dem Objekt hergestellt."
+msgstr "Du hast eine Verbindung mit dem Objekt hergestellt."
 
 #: 
 msgid "You left the group."
@@ -3330,11 +3329,11 @@ msgstr "Du hast die Gruppe verlassen."
 
 #: 
 msgid "You unsubscribed from the resource."
-msgstr "Du hast deine Verlinkung mit dem Objekt gelöst."
+msgstr "Du hast deine Verbindung mit dem Objekt gelöst."
 
 #: 
 msgid "The group added a resource."
-msgstr "Die Gruppe eine Verlinkung mit dem Objekt hergestellt."
+msgstr "Die Gruppe hat eine Verbindung mit dem Objekt hergestellt."
 
 #: 
 msgid "The group chat has new messages."
@@ -3358,7 +3357,7 @@ msgstr "Du hast dein Profil aktualisiert."
 
 #: 
 msgid "The group unsubscribed from the resource."
-msgstr "Du hast die Verlinkung mit dem Objekt gelöst."
+msgstr "Du hast die Verbindung mit dem Objekt gelöst."
 
 #: 
 msgid "The group information was updated."
@@ -3453,14 +3452,14 @@ msgstr "Alarm:"
 #. ResourcePresenter.php:629
 #: 
 msgid "All day event"
-msgstr "Ganztägiges Ereignis"
+msgstr "Ganztägiger Termin"
 
 #. HomePagePresenter.php:628
 #. default.phtml:126
 #. detail.phtml:260
 #: 
 msgid "All-day event"
-msgstr "Ganztägiges Ereignis"
+msgstr "Ganztägiger Termin"
 
 #. default.phtml:195
 #. create.phtml:33
@@ -3498,7 +3497,7 @@ msgstr "Ressource erstellen"
 #. default.phtml:174
 #: 
 msgid "Create a new event?"
-msgstr "Ein neues Ereignis erstellen?"
+msgstr "Einen neuen Termin erstellen?"
 
 #. setupmaintenance.phtml:34
 #: 
@@ -3562,12 +3561,12 @@ msgstr "Ende:"
 #. detail.phtml:247
 #: 
 msgid "Event Details"
-msgstr "Weitere Informationen zur Veranstaltung"
+msgstr "Weitere Informationen zum Termin"
 
 #. ResourcePresenter.php:634
 #: 
 msgid "Event end time:"
-msgstr "Veranstaltungsende:"
+msgstr "Terminende:"
 
 #. default.phtml:195
 #. create.phtml:33
@@ -3654,12 +3653,6 @@ msgstr "Jul"
 msgid "Jun"
 msgstr "Jun"
 
-#. detail.phtml:40
-#. detail.phtml:55
-#: 
-msgid "Last activity: "
-msgstr "Letzte Aktivität:"
-
 #. AdministrationPresenter.php:429
 #: 
 msgid "Maintenance mode activated."
@@ -3711,7 +3704,7 @@ msgstr "Meine Aktivität"
 #. default.phtml:85
 #: 
 msgid "My Events"
-msgstr "Meine Veranstaltungen"
+msgstr "Meine Termine"
 
 #. default.phtml:83
 #: 
@@ -4255,7 +4248,7 @@ msgstr "nur für dich sichtbar"
 #. default.phtml:151
 #: 
 msgid "own events"
-msgstr "eigene Veranstaltungen"
+msgstr "eigene Termine"
 
 #. browse.phtml:109
 #: 
@@ -4282,7 +4275,7 @@ msgstr "Melden Sie sich mit Facebook an"
 #. default.phtml:152
 #: 
 msgid "subscribed events"
-msgstr "abonnierte Veranstaltungen"
+msgstr "abonnierte Termine"
 
 #. default.phtml:190
 #: 
@@ -4306,5 +4299,38 @@ msgstr "Deinem eigenen Profil nach zu urteilen, könnten die folgenden Einträge
 
 #: 
 msgid "You see only item that you are not connected to."
-msgstr "Es werden nur Einträge gezeigt, mit denen du noch nicht verlinkt bist."
+msgstr "Es werden nur Einträge gezeigt, mit denen du noch nicht verbunden bist."
+
+#: 
+msgid "View profile"
+msgstr "Profil ansehen"
+
+#: 
+#, fuzzy
+msgid "now online"
+msgstr "gerade online"
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr "Zuletzt vor 5 Minuten gesehen."
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr "Zuletzt vor 10 Minuten gesehen."
+
+#: 
+msgid "Last seen:"
+msgstr "Zuletzt gesehen:"
+
+#: 
+msgid "Please sign in first."
+msgstr "Bitte erst einloggen."
+
+#: 
+msgid "never online"
+msgstr ""
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
 
