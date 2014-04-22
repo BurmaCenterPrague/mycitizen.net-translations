@@ -264,7 +264,7 @@ msgstr "Neue Gruppe erstellen"
 #. ResourcePresenter.php:477
 #: 
 msgid "Create new resource"
-msgstr "Neues Objekt erstellen"
+msgstr "Neue Ressource erstellen"
 
 #. edit.phtml:14
 #: 
@@ -279,7 +279,7 @@ msgstr "Beschreibe in ein paar Sätzen, worum es in dieser Gruppe geht."
 #. ResourcePresenter.php:410
 #: 
 msgid "Describe in few sentences what this resource is about."
-msgstr "Beschreibe in ein paar Sätzen, worum es in diesem Objekt geht."
+msgstr "Beschreibe in ein paar Sätzen, worum es in dieser Ressource geht."
 
 #. GroupPresenter.php:457
 #. ResourcePresenter.php:410
@@ -296,7 +296,7 @@ msgstr "Neue Gruppen finden"
 #. default.phtml:73
 #: 
 msgid "Discover new resources"
-msgstr "Neue Objekte finden"
+msgstr "Neue Ressourcen finden"
 
 #. default.phtml:59
 #: 
@@ -401,7 +401,7 @@ msgstr "Gib einen Namen für die Gruppe ein."
 #. ResourcePresenter.php:405
 #: 
 msgid "Enter a name for the resource."
-msgstr "Gib einen Namen für das Objekt ein."
+msgstr "Gib einen Namen für die Ressource ein."
 
 #. UserPresenter.php:284
 #. UserPresenter.php:312
@@ -587,27 +587,27 @@ msgstr "Diese Gruppe existiert nicht."
 #. detail.phtml:188
 #: 
 msgid "Go to resource"
-msgstr "Zum Objekt gehen"
+msgstr "Zur Ressource gehen"
 
 #. GroupPresenter.php:956
 #: 
 msgid "Group %s has not been subscribed to resource."
-msgstr "Die Gruppe %s ist nicht mit dem Objekt verbunden."
+msgstr "Die Gruppe %s ist nicht mit der Ressource verlinkt."
 
 #. ResourcePresenter.php:316
 #: 
 msgid "Group %s is already subscribed."
-msgstr "Die Gruppe %s ist bereits verbunden."
+msgstr "Die Gruppe %s ist bereits verlinkt."
 
 #. ResourcePresenter.php:314
 #: 
 msgid "Group %s subscribed to this resource."
-msgstr "Die Gruppe %s ist mit diesem Objekt verbunden."
+msgstr "Die Gruppe %s ist mit dieser Ressource verlinkt."
 
 #. GroupPresenter.php:954
 #: 
 msgid "Group %s unsubscribed from resource."
-msgstr "Die Gruppe %s hat die Verbindung mit dem Objekt gelöst."
+msgstr "Die Gruppe %s hat die Verlinkung mit der Ressource gelöst."
 
 #. detail.phtml:199
 #: 
@@ -644,7 +644,7 @@ msgstr "Gruppeninhaber: "
 #. detail.phtml:183
 #: 
 msgid "Group resources"
-msgstr "Gruppenobjekte"
+msgstr "Gruppenressourcen"
 
 #. GroupListerControl.php:111
 #: 
@@ -696,7 +696,7 @@ msgstr "Hier kannst du die Gruppe melden, wenn du glaubst, dass sie die Regeln v
 #. detail.phtml:51
 #: 
 msgid "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
-msgstr "Hier kannst du das Objekt melden, wenn du glaubst, dass es die Regeln verletzt. Meldungen werden von unseren Moderatoren bearbeitet."
+msgstr "Hier kannst du die Ressource melden, wenn du glaubst, dass sie die Regeln verletzt. Meldungen werden von unseren Moderatoren bearbeitet."
 
 #. detail.phtml:51
 #: 
@@ -733,7 +733,7 @@ msgstr "Bild muss im JPEG- oder PNG-Format sein."
 #. setupmaintenance.phtml:9
 #: 
 msgid "Import resources from file"
-msgstr "Objekte aus einer Datei importieren"
+msgstr "Ressourcen aus einer Datei importieren"
 
 #. ResourcePresenter.php:439
 #: 
@@ -743,7 +743,7 @@ msgstr "Information:"
 #. ResourcePresenter.php:260
 #: 
 msgid "Insufficient permissions to subscribe group %s to this resource."
-msgstr "Ungenügende Berechtigung, um das Objekt mit der Gruppe %s zu verbinden."
+msgstr "Ungenügende Berechtigung, um die Ressource mit der Gruppe %s zu verlinken."
 
 #. ListerControlMain_body.phtml:20
 #. ListerControlMain_groups.phtml:18
@@ -828,7 +828,7 @@ msgstr "Diese Gruppe für jeden (Welt), nur für Benutzer dieser Website (regist
 #. ResourcePresenter.php:407
 #: 
 msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
-msgstr "Dieses Objekt für jeden (Welt), nur für Benutzer dieser Website (registriert) oder nur für mit diesem Objekt verbundene Benutzer sichtbar machen (verbunden)?"
+msgstr "Soll diese Ressource jedem (Welt), nur Benutzern dieser Website (registriert) oder nur den mit ihr verlinkten Benutzern sichtbar sein (verlinkt)?"
 
 #. edit.phtml:85
 #: 
@@ -838,7 +838,7 @@ msgstr "Gruppenmitglieder verwalten"
 #. edit.phtml:90
 #: 
 msgid "Manage subscribed resources"
-msgstr "Verbundene Objekte verwalten"
+msgstr "Verlinkte Ressourcen verwalten"
 
 #. ExternalFilter.phtml:112
 #: 
@@ -923,7 +923,7 @@ msgstr "Meine Position"
 #. default.phtml:70
 #: 
 msgid "My Resources"
-msgstr "Meine Objekte"
+msgstr "Meine Ressourcen"
 
 #. detail.phtml:192
 #: 
@@ -1017,7 +1017,7 @@ msgstr "Anzahl der Gruppen"
 #. setupmaintenance.phtml:39
 #: 
 msgid "Number of resources"
-msgstr "Anzahl der Objekte"
+msgstr "Anzahl der Ressourcen"
 
 #. setupmaintenance.phtml:21
 #: 
@@ -1195,7 +1195,7 @@ msgstr "Meldung über die Gruppe %s, Grund: %s"
 #. ResourcePresenter.php:935
 #: 
 msgid "Report about resource %s, reason: %s"
-msgstr "Meldung über das Objekt %s, Grund: %s"
+msgstr "Meldung über die Ressource %s, Grund: %s"
 
 #. UserPresenter.php:397
 #: 
@@ -1210,7 +1210,7 @@ msgstr "Gruppe melden"
 #. detail.phtml:43
 #: 
 msgid "Report resource"
-msgstr "Objekt melden"
+msgstr "Ressource melden"
 
 #. detail.phtml:43
 #: 
@@ -1241,29 +1241,29 @@ msgstr "Neues Passwort anfordern"
 #. detail.phtml:110
 #: 
 msgid "Resource owner: "
-msgstr "Objektinhaber:"
+msgstr "Ressourceninhaber:"
 
 #. ResourceListerControl.php:74
 #: 
 msgid "Resource status"
-msgstr "Objektstatus"
+msgstr "Ressourcenstatus"
 
 #. ResourcePresenter.php:406
 #: 
 msgid "Resource type:"
-msgstr "Objektart:"
+msgstr "Ressourcentyp:"
 
 #. ResourcePresenter.php:531
 #: 
 msgid "Resource updated"
-msgstr "Objekt aktualisiert"
+msgstr "Ressource aktualisiert"
 
 #. BasePresenter.php:108
 #. default.phtml:0
 #. default.phtml:35
 #: 
 msgid "Resources"
-msgstr "Objekte"
+msgstr "Ressourcen"
 
 #. default.phtml:105
 #. default.phtml:110
@@ -1315,7 +1315,7 @@ msgstr "Wähle eine Gruppe, um mehr Details zu sehen."
 #. ResourcePresenter.php:408
 #: 
 msgid "Select a language of this resource."
-msgstr "Wähle eine Sprache für dieses Objekt aus."
+msgstr "Wähle eine Sprache für diese Ressource aus."
 
 #. GroupPresenter.php:456
 #: 
@@ -1325,7 +1325,7 @@ msgstr "Wähle die Sprache, die in dieser Gruppe benutzt wird."
 #. default.phtml:131
 #: 
 msgid "Select a resource for more details."
-msgstr "Wähle ein Objekt, um mehr Details zu sehen."
+msgstr "Wähle eine Ressource, um mehr Details zu sehen."
 
 #. AddTagComponent_Group.phtml:22
 #. AddTagComponent_Resource.phtml:22
@@ -1347,12 +1347,12 @@ msgstr "Wähle einen Benutzer, um mehr Details zu sehen."
 #. detail.phtml:136
 #: 
 msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
-msgstr "Wähle eine oder mehr Gruppen, die mit diesem Objekt verbunden werden sollen. Angezeigt werden nur Gruppen, die dir gehören oder wo du ein Moderator bist."
+msgstr "Wähle eine oder mehr Gruppen, die mit dieser Ressource verlinkt werden sollen. Angezeigt werden nur Gruppen, die dir gehören oder wo du ein Moderator bist."
 
 #. detail.phtml:143
 #: 
 msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
-msgstr "Wähle eine oder mehr Objekte zur Lösung der Verbindung. Angezeigt werden nur Objekte, die mit dieser Gruppe verbunden sind. Auf der Detailseite eines Objekts kannst du Verbindungen erstellen."
+msgstr "Wähle eine oder mehr Ressourcen zur Lösung der Verlinkung. Angezeigt werden nur Ressourcen, die mit dieser Gruppe verlinkt sind. Auf der Detailseite einer Ressource kannst du Verlinkungen erstellen."
 
 #. MapContainer.phtml:331
 #: 
@@ -1423,41 +1423,41 @@ msgstr "Status"
 #. detail.phtml:121
 #: 
 msgid "Subscribe"
-msgstr "Verbinden"
+msgstr "Verlinken"
 
 #. detail.phtml:134
 #: 
 msgid "Subscribe as group"
-msgstr "Mit einer Gruppe verbinden"
+msgstr "Mit einer Gruppe verlinken"
 
 #. default.phtml:104
 #: 
 msgid "Subscribe to resource"
-msgstr "Mit Objekt verbinden"
+msgstr "Mit Ressource verlinken"
 
 #. default.phtml:147
 #. detail.phtml:297
 #: 
 msgid "Subscribed Groups"
-msgstr "Verbundene Gruppen"
+msgstr "Verlinkte Gruppen"
 
 #. default.phtml:136
 #. detail.phtml:286
 #: 
 msgid "Subscribed Users"
-msgstr "Verbundene Benutzer"
+msgstr "Verlinkte Benutzer"
 
 #. default.phtml:199
 #. detail.phtml:178
 #: 
 msgid "Subscribed to resources"
-msgstr "Verbunden mit Objekten"
+msgstr "Verlinkt mit Ressourcen"
 
 #. ListerControlMain_body.phtml:31
 #. ListerControlMain_resources.phtml:25
 #: 
 msgid "Subscribers"
-msgstr "Verbundene Benutzer"
+msgstr "Verlinkte Benutzer"
 
 #. detail.phtml:141
 #: 
@@ -1513,7 +1513,7 @@ msgstr "Schreib uns mit Beispielen, warum du diese Gruppe meldest."
 #. ResourcePresenter.php:905
 #: 
 msgid "Tell us why you report this resource, including examples:"
-msgstr "Schildere uns anhand von Beispielen, warum du dieses Objekt meldest."
+msgstr "Schildere uns anhand von Beispielen, warum du diese Ressource meldest."
 
 #. UserPresenter.php:344
 #: 
@@ -1600,7 +1600,7 @@ msgstr "Diese ist keine echte Person sondern Spam."
 #. ResourcePresenter.php:899
 #: 
 msgid "This is not a real resource but spam."
-msgstr "Dies ist keine wirkliches Objekt sondern Spam."
+msgstr "Dies ist keine wirkliche Ressource, sondern Spam."
 
 #. UserPresenter.php:340
 #: 
@@ -1615,17 +1615,17 @@ msgstr "Diese Person wurde irrtümlicherweise erstellt, oder sie ist inaktiv."
 #. ResourcePresenter.php:18
 #: 
 msgid "This resource doesn't exist."
-msgstr "Dieses Objekt existiert nicht."
+msgstr "Diese Ressource existiert nicht."
 
 #. ResourcePresenter.php:901
 #: 
 msgid "This resource violates the rules of conduct."
-msgstr "Dieses Objekt verletzt die Regeln guten Benehmens."
+msgstr "Diese Ressource verletzt die Regeln guten Benehmens."
 
 #. ResourcePresenter.php:900
 #: 
 msgid "This resource was created by mistake, or it is inactive."
-msgstr "Dieses Objekt wurde irrtümlicherweise erstellt, oder es liegt brach."
+msgstr "Diese Ressource wurde irrtümlicherweise erstellt, oder sie liegt brach."
 
 #. UserPresenter.php:27
 #: 
@@ -1660,7 +1660,7 @@ msgstr "Beliebte Gruppen"
 #. default.phtml:88
 #: 
 msgid "Top Resources"
-msgstr "Beliebte Objekte"
+msgstr "Beliebte Ressourcen"
 
 #. default.phtml:80
 #: 
@@ -1715,12 +1715,12 @@ msgstr "Blockierung dieses Benutzers aufheben"
 #. GroupPresenter.php:884
 #: 
 msgid "Unsubscribe"
-msgstr "Verbindung lösen"
+msgstr "Verlinkung lösen"
 
 #. default.phtml:114
 #: 
 msgid "Unsubscribe from resource"
-msgstr "Verbindung zum Objekt lösen"
+msgstr "Verlinkung zur Ressource lösen"
 
 #. GroupListerControl.php:81
 #. GroupUserListerControl.php:57
@@ -1850,7 +1850,7 @@ msgstr "Benutzername"
 #. default.phtml:39
 #: 
 msgid "Users"
-msgstr "Nutzer"
+msgstr "Benutzer"
 
 #. default.phtml:72
 #. default.phtml:85
@@ -1872,7 +1872,7 @@ msgstr "Zum Gruppeninhaber:"
 #. detail.phtml:110
 #: 
 msgid "View resource owner:"
-msgstr "Zum Objektinhaber:"
+msgstr "Zum Ressourceninhaber:"
 
 #. GroupPresenter.php:455
 #. ResourcePresenter.php:407
@@ -1890,7 +1890,7 @@ msgstr "Wir haben Beschwerden über unangemessenen Sprachgebrauch in deiner Grup
 #: 
 #, fuzzy
 msgid "We have received complaints about inappropriate language in your resource. Please make necessary adjustments or your resource will be deactivated."
-msgstr "Wir haben Beschwerden über einen schlechten Umgangston in deinem Objekt erhalten. Bitte sorge für Besserung, andernfalls wird das Objekt deaktiviert."
+msgstr "Wir haben Beschwerden über einen schlechten Umgangston in deiner Ressource erhalten. Bitte sorge für Besserung, andernfalls wird sie deaktiviert."
 
 #. AdministrationPresenter.php:281
 #: 
@@ -1910,7 +1910,7 @@ msgstr "Wir haben Beschwerden erhalten, dass deine Gruppe Spam enthält. Bitte l
 #. AdministrationPresenter.php:313
 #: 
 msgid "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
-msgstr "Wir haben Beschwerden erhalten, dass dein Objekt Spam enthält. Bitte lösche fragwürdige Inhalte, andernfalls wird dein Objekt deaktiviert."
+msgstr "Wir haben Beschwerden erhalten, dass deine Ressource Spam enthält. Bitte lösche fragwürdige Inhalte, andernfalls wird sie deaktiviert."
 
 #. default.phtml:42
 #: 
@@ -1948,13 +1948,13 @@ msgstr "Du darfst die Mitgliedschaften nicht sehen."
 #. detail.phtml:301
 #: 
 msgid "You are not allowed to see the subscribed groups."
-msgstr "Du bist nicht berechtigt, die verbundenen Gruppen zu sehen."
+msgstr "Du bist nicht berechtigt, die verlinkten Gruppen zu sehen."
 
 #. default.phtml:140
 #. detail.phtml:290
 #: 
 msgid "You are not allowed to see the subscribed users."
-msgstr "Du bist nicht berechtigt, die verbundenen Benutzer zu sehen."
+msgstr "Du bist nicht berechtigt, die verlinkten Benutzer zu sehen."
 
 #. default.phtml:141
 #. detail.phtml:187
@@ -1972,7 +1972,7 @@ msgstr "Du darfst diese Gruppe nicht sehen."
 #. ResourcePresenter.php:22
 #: 
 msgid "You are not allowed to view this resource."
-msgstr "Du darfst dieses Objekt nicht sehen."
+msgstr "Du darfst diese Ressource nicht sehen."
 
 #. UserPresenter.php:31
 #: 
@@ -2012,7 +2012,7 @@ msgstr "Du hast noch keine Freunde. Du kannst erst dann Nachrichten senden, nach
 #. ResourcePresenter.php:146
 #: 
 msgid "You have no permission to create a resource."
-msgstr "Du bist nicht berechtigt, ein Objekt zu erstellen."
+msgstr "Du bist nicht berechtigt, eine Ressource zu erstellen."
 
 #. GroupPresenter.php:124
 #. GroupPresenter.php:506
@@ -2023,7 +2023,7 @@ msgstr "Du bist nicht berechtigt, Gruppen zu erstellen."
 #. ResourcePresenter.php:521
 #: 
 msgid "You have no permission to create resources."
-msgstr "Du bist nicht berechtigt, Objekte zu erstellen."
+msgstr "Du bist nicht berechtigt, Ressourcen zu erstellen."
 
 #. detail.phtml:212
 #: 
@@ -2033,7 +2033,7 @@ msgstr "Du musst angemeldet sein, um Nachrichten senden zu können."
 #. detail.phtml:326
 #: 
 msgid "You need to subscribe in order to comment."
-msgstr "Du musst dich erst verbinden, um kommentieren zu können."
+msgstr "Du musst dich erst verlinken, um kommentieren zu können."
 
 #. UserPresenter.php:696
 #: 
@@ -2183,7 +2183,7 @@ msgstr "alle"
 #. ExternalFilter.php:157
 #: 
 msgid "all resources"
-msgstr "alle Objekte"
+msgstr "alle Ressourcen"
 
 #. ExternalFilter.php:193
 #: 
@@ -2266,7 +2266,7 @@ msgstr "inaktiv"
 #. UserListerControl.phtml:65
 #: 
 msgid "insert to resource"
-msgstr "zum Objekt einfügen"
+msgstr "zur Ressource hinzufügen"
 
 #. @layout.phtml:197
 #: 
@@ -2314,7 +2314,7 @@ msgstr "weitere Gruppen"
 #. ListerControlMain_resources.phtml:308
 #: 
 msgid "more resources"
-msgstr "weitere Objekte"
+msgstr "weitere Ressourcen"
 
 #. ListerControlMain_body.phtml:539
 #. ListerControlMain_users.phtml:262
@@ -2351,7 +2351,7 @@ msgstr "kein Freund"
 #. default.phtml:72
 #: 
 msgid "I am not subscribed."
-msgstr "Ich bin nicht verbunden."
+msgstr "Ich bin nicht verlinkt."
 
 #. AdministrationPresenter.php:66
 #: 
@@ -2399,7 +2399,7 @@ msgstr "Bild neu erstellen"
 #. UserListerControl.phtml:69
 #: 
 msgid "remove user from resource"
-msgstr "Benutzer von dem Objekt entfernen"
+msgstr "Benutzer von der Ressource entfernen"
 
 #. ChatLister_ajax.phtml:39
 #. ListerControlMain_body.phtml:198
@@ -2427,7 +2427,7 @@ msgstr "registriere dich hier"
 #. default.phtml:70
 #: 
 msgid "subscribed"
-msgstr "verbunden"
+msgstr "verlinkt"
 
 #. ExternalFilter.php:197
 #: 
@@ -2470,12 +2470,12 @@ msgstr "Zurück zur Liste der Meldungen"
 #. detail.phtml:9
 #: 
 msgid "Back to the list of resources"
-msgstr "Zurück zur Liste der Objekte"
+msgstr "Zurück zur Liste der Ressourcen"
 
 #. edit.phtml:38
 #: 
 msgid "Below you can add details: Describe the topics of this resource by one or more tags. These information will help other users to find your resource."
-msgstr "Unten kannst du Details hinzufügen: Beschreibe die Themen dieses Objekts durch ein oder mehr Tags. Diese Informationen werden Anderen helfen, dein Objekt zu finden."
+msgstr "Unten kannst du Details hinzufügen: Beschreibe die Themen dieser Ressource durch ein oder mehr Tags. Diese Informationen werden Anderen helfen, deine Ressource zu finden."
 
 #. @layout.phtml:211
 #: 
@@ -2491,7 +2491,7 @@ msgstr "Details der Gruppe"
 #. detail.phtml:0
 #: 
 msgid "Details of the resource"
-msgstr "Details der Objekts"
+msgstr "Details der Ressource"
 
 #. detail.phtml:0
 #: 
@@ -2621,7 +2621,7 @@ msgstr "Den Chat neu laden."
 #. detail.phtml:156
 #: 
 msgid "Resource location on a map"
-msgstr "Position des Objekts auf der Karte"
+msgstr "Position der Ressource auf der Karte"
 
 #. MapControl.phtml:380
 #. MapControl.phtml:381
@@ -2665,12 +2665,12 @@ msgstr "ist ein Projekt von"
 #. MapControl.php:43
 #: 
 msgid "resource"
-msgstr "Objekt"
+msgstr "Ressource"
 
 #. detail.phtml:18
 #: 
 msgid "I am subscribed."
-msgstr "Ich bin verbunden."
+msgstr "Ich bin verlinkt."
 
 #. MapControl.php:41
 #: 
@@ -2801,12 +2801,12 @@ msgstr "Fertig"
 #. AdministrationPresenter.php:732
 #: 
 msgid "Done importing resources. Error writing log file."
-msgstr "Import der Objekte beendet. Fehler beim Schreiben der Log-Datei."
+msgstr "Import der Ressourcen beendet. Fehler beim Schreiben der Log-Datei."
 
 #. AdministrationPresenter.php:734
 #: 
 msgid "Done importing resources. Please check the log file."
-msgstr "Import der Objekte beendet. Siehe die Log-Datei für mehr Infos."
+msgstr "Import der Ressourcen beendet. Siehe die Log-Datei für mehr Infos."
 
 #. AdministrationPresenter.php:528
 #: 
@@ -2836,7 +2836,7 @@ msgstr "Ich bin ein Gruppenmoderator."
 #. ListerControlMain_resources.phtml:106
 #: 
 msgid "I am a resource moderator."
-msgstr "Ich bin ein Resourcemoderator."
+msgstr "Ich bin ein Moderator dieser Ressource."
 
 #. ListerControlMain_groups.phtml:78
 #. ListerControlMain_resources.phtml:102
@@ -2852,7 +2852,7 @@ msgstr "Das Bild ist zu groß! Die maximale Größe ist %s"
 #. setupmaintenance.phtml:28
 #: 
 msgid "Import resources from a file"
-msgstr "Objekte aus einer Datei importieren"
+msgstr "Ressourcen aus einer Datei importieren"
 
 #. AdministrationPresenter.php:425
 #: 
@@ -2867,7 +2867,7 @@ msgstr "Briefkasten"
 #. edit.phtml:145
 #: 
 msgid "Manage subscribers of this resource"
-msgstr "Verbundene Benutzer dieses Objekts verwalten"
+msgstr "Verlinkte Benutzer dieser Ressource verwalten"
 
 #. ListerControlMain.php:386
 #: 
@@ -2948,7 +2948,7 @@ msgstr "Wähle einen Tag, der das Thema dieser Gruppe beschreibt, und klicke hin
 #: 
 #, fuzzy
 msgid "Select a tag that describes a topic that this resource is about."
-msgstr "Wähle einen Tag, der das Thema dieser Resource beschreibt, und klicke hinzufügen."
+msgstr "Wähle einen Tag, der das Thema dieser Ressource beschreibt, und klicke auf hinzufügen."
 
 #. AddTagComponent_User.phtml:23
 #: 
@@ -2975,7 +2975,7 @@ msgstr "Systemcheck beendet."
 #. StaticModel.php:83
 #: 
 msgid "System message:  You've received a warning about your resource."
-msgstr "Systemnachricht: Du haste eine Warnung wegen deines Objekts erhalten."
+msgstr "Systemnachricht: Du haste eine Warnung wegen deine Ressource erhalten."
 
 #. StaticModel.php:78
 #: 
@@ -3043,12 +3043,12 @@ msgstr "Das ist meine Gruppe."
 #. detail.phtml:109
 #: 
 msgid "This is my resource."
-msgstr "Das ist mein Objekt."
+msgstr "Das ist meine Ressource."
 
 #. ResourcePresenter.php:1072
 #: 
 msgid "This resource contains wrong information."
-msgstr "Dieses Objekt enthält falsche Informationen."
+msgstr "Diese Ressource enthält falsche Informationen."
 
 #. AdministrationPresenter.php:737
 #: 
@@ -3148,7 +3148,7 @@ msgstr "Termin"
 #. ResourcePresenter.php:181
 #: 
 msgid "link to external resource"
-msgstr "Link zum externen Objekt"
+msgstr "Link zur externen Ressource"
 
 #. ResourcePresenter.php:188
 #: 
@@ -3321,7 +3321,7 @@ msgstr "Du bist der Gruppe beigetreten."
 
 #: 
 msgid "You subscribed to the resource."
-msgstr "Du hast eine Verbindung mit dem Objekt hergestellt."
+msgstr "Du hast eine Verlinkung mit der Ressource erstellt."
 
 #: 
 msgid "You left the group."
@@ -3329,11 +3329,11 @@ msgstr "Du hast die Gruppe verlassen."
 
 #: 
 msgid "You unsubscribed from the resource."
-msgstr "Du hast deine Verbindung mit dem Objekt gelöst."
+msgstr "Du hast deine Verlinkung mit der Ressource gelöst."
 
 #: 
 msgid "The group added a resource."
-msgstr "Die Gruppe hat eine Verbindung mit dem Objekt hergestellt."
+msgstr "Die Gruppe hat eine Verlinkung mit der Ressource erstellt."
 
 #: 
 msgid "The group chat has new messages."
@@ -3341,11 +3341,11 @@ msgstr "Der Gruppenchat hat neue Nachrichten."
 
 #: 
 msgid "The resource has new comments."
-msgstr "Das Objekt hat neue Kommentare."
+msgstr "Die Ressource hat neue Kommentare."
 
 #: 
 msgid "You created a new resource."
-msgstr "Du hast eine neues Objekt erstellt."
+msgstr "Du hast eine neue Ressource erstellt."
 
 #: 
 msgid "You created a new group."
@@ -3357,7 +3357,7 @@ msgstr "Du hast dein Profil aktualisiert."
 
 #: 
 msgid "The group unsubscribed from the resource."
-msgstr "Du hast die Verbindung mit dem Objekt gelöst."
+msgstr "Du hast die Verlinkung mit der Ressource gelöst."
 
 #: 
 msgid "The group information was updated."
@@ -3365,7 +3365,7 @@ msgstr "Die Gruppeninformation wurde aktualisiert."
 
 #: 
 msgid "The resource information was updated."
-msgstr "Die Objektinformation wurde aktualisiert."
+msgstr "Die Ressourceninformation wurden aktualisiert."
 
 #: 
 msgid "Somebody tried to login with your name and a wrong password."
@@ -4275,7 +4275,7 @@ msgstr "Melden Sie sich mit Facebook an"
 #. default.phtml:152
 #: 
 msgid "subscribed events"
-msgstr "abonnierte Termine"
+msgstr "verlinkte Termine"
 
 #. default.phtml:190
 #: 
@@ -4328,9 +4328,17 @@ msgstr "Bitte erst einloggen."
 
 #: 
 msgid "never online"
-msgstr ""
+msgstr "noch nie online"
 
 #: 
 msgid "Searched globally because not enough was found around your location."
-msgstr ""
+msgstr "Globale Suche, da nicht genug in deiner Nähe gefunden wurde."
+
+#: 
+msgid "A new user has signed up."
+msgstr "Ein neuer Benutzer hat sich registriert."
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr "Inklusive aller neuer Benutzer, Gruppen und Ressourcen, die für dich sichtbar sind."
 
