@@ -3022,7 +3022,8 @@ msgstr "(တိတ္)ေခါင္းစဥ္သည္၄င္း၏ကိ�
 
 #. default.phtml:61
 #: 
-msgid "There are unread reports."
+#, fuzzy
+msgid "There are unread reports:"
 msgstr "မဖတ္ရေသးေသာသတင္းပို႔စာမ်ားရွိသည္"
 
 #. GroupPresenter.php:824
@@ -3609,12 +3610,14 @@ msgstr "ဤေထာက္ခံခ်က္မ်ားမတိက်လ်ွ
 
 #. browse.phtml:83
 #: 
-msgid "If you need to upload a new image, close this window and click on 'Upload'."
+#, fuzzy
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
 msgstr "အကယ္၍သင္သည္ပံုရိပ္အသစ္တစ္ခုကိုပို႔ရန္လုိအပ္ပါက ကြန္ပ်ဴတာၿပတင္းကိုပိတ္ပါ၊ \"upload\" ကိုနိွပ္ပါ"
 
 #. browse.phtml:84
 #: 
-msgid "Images are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+#, fuzzy
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
 msgstr "ပံုရိပ္သည္လူထုအတြက္ၿဖစ္သည္။ အကယ္၍သင္သည္္အၿခားေသာသူမ်ား ပံုရိပ္မ်ားကိုမၿမင္ေစခ်င္ပါကသင္သည္ခန္႔မွန္းရန္ခက္ေသာ ဖိုင္နာမည္ကိုေရြးခ်ယ္သင္႔သည္။"
 
 #. detail.phtml:100
@@ -3648,12 +3651,6 @@ msgstr "ဇူလိုင္"
 #: 
 msgid "Jun"
 msgstr "ဇြန္"
-
-#. detail.phtml:40
-#. detail.phtml:55
-#: 
-msgid "Last activity: "
-msgstr "ေနာက္ဆံုးလႈပ္ရွားေဆာင္ရြက္မႈ"
 
 #. AdministrationPresenter.php:429
 #: 
@@ -3725,7 +3722,8 @@ msgstr "မူကြဲအသစ္"
 
 #. browse.phtml:122
 #: 
-msgid "No images."
+#, fuzzy
+msgid "No files."
 msgstr "ပံုရိပ္မ်ားမရိွပါ"
 
 #. setupmaintenance.phtml:146
@@ -3803,7 +3801,8 @@ msgstr "ေက်းဇးူၿပဳ၍စာသားဝင္ေရာက္
 
 #. browse.phtml:74
 #: 
-msgid "Please select an image"
+#, fuzzy
+msgid "Please select a file"
 msgstr "ေက်းဇူးၿပဳ၍ပံုရိပ္တစ္ခုကိုေရြးခ်ယ္ပါ"
 
 #. setupmaintenance.phtml:136
@@ -4300,5 +4299,81 @@ msgstr ""
 
 #: 
 msgid "You see only item that you are not connected to."
+msgstr ""
+
+#: 
+msgid "View profile"
+msgstr ""
+
+#: 
+msgid "now online"
+msgstr ""
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen:"
+msgstr ""
+
+#: 
+msgid "Please sign in first."
+msgstr ""
+
+#: 
+msgid "never online"
+msgstr ""
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
+
+#: 
+msgid "A new user has signed up."
+msgstr ""
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+
+#: 
+msgid "You are not allowed to edit this resource."
+msgstr ""
+
+#: 
+msgid "The screenshot has been removed."
+msgstr ""
+
+#: 
+msgid "Files of %s"
+msgstr ""
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr ""
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr ""
+
+#: 
+msgid "Message to all users"
+msgstr ""
+
+#: 
+msgid "Noticeboard Messages"
+msgstr ""
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr ""
+
+#: 
+msgid "Please select a recipient."
 msgstr ""
 

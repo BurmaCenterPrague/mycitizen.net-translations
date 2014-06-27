@@ -18,4 +18,10 @@ List of Languages
 - Burmese/Myanmar (my_MM)
 	- Unicode
 	- ZawGyi
-	
+- Hakha
+- Hindi
+- Kachin
+- Mara
+- Matu
+- S'gaw (Karen)
+- Zolai (Tedim)

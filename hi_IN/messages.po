@@ -1,0 +1,3934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mycitizen.net\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed, 23 Apr 2014 18:19:37 +0100\n"
+"PO-Revision-Date: Thu, 29 May 2014 09:26:48 +0100\n"
+"Last-Translator: Chris\n"
+"Language-Team: mycitizen.net\n"
+"Language: Hindi (India)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Target-Locale: hi_IN\n"
+"X-Loco-Project-Id: 1666\n"
+"X-Loco-Api-Version: 1.0.7"
+
+#: loco:5357f99fb7f9261b249a9762
+msgid "1 new message"
+msgstr "1 नया सन्देश "
+
+#: loco:5357f99fb7f9261b249a978c
+msgid "1 week"
+msgstr "1 सप्ताह "
+
+#: loco:5357f99eb7f9261b249a953d
+msgid "Add"
+msgstr "जोड़ना"
+
+#: loco:5357f99eb7f9261b249a9541
+msgid "Administration"
+msgstr "प्रशासन "
+
+#: loco:5357f99eb7f9261b249a9544
+msgid "Administrator"
+msgstr "प्रशासक "
+
+#: loco:5357f99fb7f9261b249a9794
+msgid "Apr"
+msgstr "अप्रैल "
+
+#: loco:5357f99eb7f9261b249a9549
+msgid "April"
+msgstr "अप्रैल \n"
+
+#: loco:5357f99fb7f9261b249a9795
+msgid "Aug"
+msgstr "अगस्त "
+
+#: loco:5357f99eb7f9261b249a954a
+msgid "August"
+msgstr "अगस्त "
+
+#: loco:5357f99fb7f9261b249a970d
+msgid "Chyba"
+msgstr "चीबा "
+
+#: loco:5357f99eb7f9261b249a9556
+msgid "Clear"
+msgstr "रिक्त  "
+
+#: loco:5357f99eb7f9261b249a955a
+msgid "Close"
+msgstr "बंद "
+
+#: loco:5357f99eb7f9261b249a955b
+msgid "Comments"
+msgstr "प्रतिक्रियाएँ "
+
+#: loco:5357f99fb7f9261b249a9796
+msgid "Continue"
+msgstr "लगातार "
+
+#: loco:5357f99fb7f9261b249a979c
+msgid "Dec"
+msgstr "दिसंबर "
+
+#: loco:5357f99eb7f9261b249a9561
+msgid "December"
+msgstr "दिसंबर"
+
+#: loco:5357f99fb7f9261b249a9713
+msgid "Done"
+msgstr "पूरा हुआ:"
+
+#: loco:5357f99fb7f9261b249a9576
+msgid "Enabled"
+msgstr "सक्षम है"
+
+#: loco:5357f99fb7f9261b249a957b
+msgid "Error"
+msgstr "खामियाँ "
+
+#: loco:5357f99fb7f9261b249a97a6
+msgid "Feb"
+msgstr "फरवरी "
+
+#: loco:5357f99fb7f9261b249a9583
+msgid "February"
+msgstr "फरवरी "
+
+#: loco:5357f99fb7f9261b249a9584
+msgid "Filter"
+msgstr "फ़िल्टर "
+
+#: loco:5357f99fb7f9261b249a97a7
+msgid "Fri"
+msgstr "शुक्र "
+
+#: loco:5357f99fb7f9261b249a97a8
+msgid "Friday"
+msgstr "शुक्रवार "
+
+#: loco:5357f99fb7f9261b249a958a
+msgid "Friends"
+msgstr "मित्रगण "
+
+#: loco:5357f99fb7f9261b249a959f
+msgid "Groups"
+msgstr "समूह  "
+
+#: loco:5357f99fb7f9261b249a95a8
+msgid "Hours"
+msgstr "घंटों "
+
+#: loco:5357f99fb7f9261b249a97af
+msgid "Interests"
+msgstr "अभिरुचि "
+
+#: loco:5357f99fb7f9261b249a97b0
+msgid "Jan"
+msgstr "जनवरी "
+
+#: loco:5357f99fb7f9261b249a95af
+msgid "January"
+msgstr "जनवरी  "
+
+#: loco:5357f99fb7f9261b249a97b1
+msgid "Jul"
+msgstr "जुलाई "
+
+#: loco:5357f99fb7f9261b249a95b1
+msgid "July"
+msgstr "जुलाई "
+
+#: loco:5357f99fb7f9261b249a97b2
+msgid "Jun"
+msgstr "जून \n"
+
+#: loco:5357f99fb7f9261b249a95b2
+msgid "June"
+msgstr "जून "
+
+#: loco:5357f99fb7f9261b249a95b3
+msgid "Language"
+msgstr "भाषा "
+
+#: loco:5357f99fb7f9261b249a95b9
+msgid "Location"
+msgstr "स्थान (क्षेत्र)"
+
+#: loco:5357f99fb7f9261b249a95ba
+msgid "Login"
+msgstr "लोगिन "
+
+#: loco:5357f99fb7f9261b249a971f
+msgid "Mailbox"
+msgstr "मेलबॉक्स "
+
+#: loco:5357f99fb7f9261b249a95bf
+msgid "Map"
+msgstr "मानचित्र "
+
+#: loco:5357f99fb7f9261b249a97b6
+msgid "Mar"
+msgstr "मार्च "
+
+#: loco:5357f99fb7f9261b249a95c0
+msgid "March"
+msgstr "मार्च "
+
+#: loco:5357f99fb7f9261b249a95c2
+msgid "May"
+msgstr "मई "
+
+#: loco:5357f99fb7f9261b249a95c6
+msgid "Members"
+msgstr "सदस्यों  "
+
+#: loco:5357f99fb7f9261b249a95c8
+msgid "Minutes"
+msgstr "मिनट "
+
+#: loco:5357f99fb7f9261b249a95c9
+msgid "Moderator"
+msgstr "नियंत्रक "
+
+#: loco:5357f99fb7f9261b249a97b7
+msgid "Mon"
+msgstr "सोम "
+
+#: loco:5357f99fb7f9261b249a97b8
+msgid "Monday"
+msgstr "सोमवार "
+
+#: loco:5357f99fb7f9261b249a9787
+msgid "Month"
+msgstr "माह"
+
+#: loco:5357f99fb7f9261b249a95d0
+msgid "Name"
+msgstr "नाम "
+
+#: loco:5357f99fb7f9261b249a9721
+msgid "Normal"
+msgstr "सामान्य "
+
+#: loco:5357f9a0b7f9261b249a97c3
+msgid "Nov"
+msgstr "नवंबर "
+
+#: loco:5357f99fb7f9261b249a95d7
+msgid "November"
+msgstr "नवम्बर "
+
+#: loco:5357f99fb7f9261b249a95d8
+msgid "Now"
+msgstr "अब "
+
+#: loco:5357f9a0b7f9261b249a97c4
+msgid "Oct"
+msgstr "अक्टूबर "
+
+#: loco:5357f99fb7f9261b249a95dc
+msgid "October"
+msgstr "अक्टूबर "
+
+#: loco:5357f99fb7f9261b249a95dd
+msgid "On"
+msgstr "ओन "
+
+#: loco:5357f99fb7f9261b249a95e1
+msgid "Owner"
+msgstr "मालिक "
+
+#: loco:5357f99fb7f9261b249a95ed
+msgid "Post"
+msgstr "पोस्ट "
+
+#: loco:5357f99fb7f9261b249a9764
+msgid "Quote"
+msgstr "उद्धरण "
+
+#: loco:5357f9a0b7f9261b249a97d2
+msgid "Reload"
+msgstr "रीलोड "
+
+#: loco:5357f99fb7f9261b249a95f5
+msgid "Remove"
+msgstr "हटाना "
+
+#: loco:5357f99fb7f9261b249a95f7
+msgid "Replies"
+msgstr "जबाबें "
+
+#: loco:5357f99fb7f9261b249a95fe
+msgid "Reports"
+msgstr "रिपोर्ट्स "
+
+#: loco:5357f99fb7f9261b249a972a
+msgid "Reset"
+msgstr "रिसेट "
+
+#: loco:5357f99fb7f9261b249a9606
+msgid "Resources"
+msgstr "संसाधन "
+
+#: loco:5357f9a0b7f9261b249a97d4
+msgid "Result"
+msgstr "परिणाम  "
+
+#: loco:5357f99fb7f9261b249a9608
+msgid "Role"
+msgstr "रोल(भूमिका)"
+
+#: loco:5357f9a0b7f9261b249a97d5
+msgid "Sat"
+msgstr "शनि "
+
+#: loco:5357f9a0b7f9261b249a97d6
+msgid "Saturday"
+msgstr "शनिवार "
+
+#: loco:5357f99fb7f9261b249a9609
+msgid "Search"
+msgstr "खोज "
+
+#: loco:5357f99fb7f9261b249a960b
+msgid "Seconds"
+msgstr "सेकण्ड्स "
+
+#: loco:5357f99fb7f9261b249a9618
+msgid "Send"
+msgstr "भेंजें "
+
+#: loco:5357f9a0b7f9261b249a97db
+msgid "Sep"
+msgstr "सितम्बर "
+
+#: loco:5357f99fb7f9261b249a961a
+msgid "September"
+msgstr "सितम्बर  "
+
+#: loco:5357f99fb7f9261b249a961b
+msgid "Settings"
+msgstr "सेटिंग "
+
+#: loco:5357f99fb7f9261b249a9731
+msgid "Statistics"
+msgstr "सांख्यिकी "
+
+#: loco:5357f99fb7f9261b249a9621
+msgid "Status"
+msgstr "स्थिति "
+
+#: loco:5357f9a0b7f9261b249a97de
+msgid "Submit"
+msgstr "जमा "
+
+#: loco:5357f99fb7f9261b249a9622
+msgid "Subscribe"
+msgstr "सब्स्क्राइबर "
+
+#: loco:5357f99fb7f9261b249a9628
+msgid "Subscribers"
+msgstr "सब्स्क्राइबरस "
+
+#: loco:5357f9a0b7f9261b249a97e0
+msgid "Sun"
+msgstr "रवि "
+
+#: loco:5357f9a0b7f9261b249a97e1
+msgid "Sunday"
+msgstr "रविवार "
+
+#: loco:5357f99fb7f9261b249a962a
+msgid "Surname"
+msgstr "उपनाम"
+
+#: loco:5357f99fb7f9261b249a962e
+msgid "Tag"
+msgstr "टैग "
+
+#: loco:5357f99fb7f9261b249a9630
+msgid "Tags"
+msgstr "टैगस "
+
+#: loco:5357f99fb7f9261b249a9736
+msgid "Test"
+msgstr "परख "
+
+#: loco:5357f9a0b7f9261b249a97e3
+msgid "Text"
+msgstr "विषय "
+
+#: loco:5357f9a0b7f9261b249a97ea
+msgid "Thu"
+msgstr "गुरु"
+
+#: loco:5357f9a0b7f9261b249a97eb
+msgid "Thursday"
+msgstr "गुरुवार "
+
+#: loco:5357f99fb7f9261b249a964a
+msgid "Time"
+msgstr "समय "
+
+#: loco:5357f99fb7f9261b249a9784
+msgid "Today"
+msgstr "आज "
+
+#: loco:5357f9a0b7f9261b249a97ec
+msgid "Topics"
+msgstr "बिषय \n"
+
+#: loco:5357f99fb7f9261b249a9651
+msgid "Trash"
+msgstr "कूड़ादान (फालतू)"
+
+#: loco:5357f9a0b7f9261b249a97ed
+msgid "Tue"
+msgstr "मंगल"
+
+#: loco:5357f9a0b7f9261b249a97ee
+msgid "Tuesday"
+msgstr "मंगलवार "
+
+#: loco:5357f99fb7f9261b249a9654
+msgid "Type"
+msgstr "टाइप "
+
+#: loco:5357f99fb7f9261b249a9743
+msgid "Unread"
+msgstr "बिना पढ़ा "
+
+#: loco:5357f99fb7f9261b249a9658
+msgid "Unsubscribe"
+msgstr "अनसब्सक्राइब "
+
+#: loco:5357f99fb7f9261b249a965a
+msgid "Update"
+msgstr "सुधार करना "
+
+#: loco:5357f99fb7f9261b249a966d
+msgid "Users"
+msgstr "उपभोक्तागण \n"
+
+#: loco:5357f9a0b7f9261b249a97f0
+msgid "Wed"
+msgstr "बुध "
+
+#: loco:5357f9a0b7f9261b249a97f1
+msgid "Wednesday"
+msgstr "बुधवार "
+
+#: loco:5357f99fb7f9261b249a9786
+msgid "Week"
+msgstr "सप्ताह "
+
+#: loco:5357f99fb7f9261b249a9678
+msgid "Welcome"
+msgstr "स्वागत "
+
+#: loco:5357f99fb7f9261b249a9785
+msgid "Yesterday"
+msgstr "बिता कल"
+
+#: loco:536750bc8509cbb0c7ffc664
+msgid "A message from your group %s at %s"
+msgstr "एक सन्देश आप के ग्रुप से %s पर %s "
+
+#: loco:5357f99fb7f9261b249a978d
+msgid "A message from your group %s"
+msgstr "आप के समूह से एक सन्देश  %s"
+
+#: loco:5357f99fb7f9261b249a978e
+msgid "A new chat message was posted in the group."
+msgstr ""
+"एक नया चैट सन्देश इस समूह पर "
+"पोस्ट किया गया."
+
+#: loco:5357f99fb7f9261b249a978f
+msgid "A new group was created."
+msgstr "एक नए समूह का रचना किया गया "
+
+#: loco:5357f99fb7f9261b249a9790
+msgid "A new resource was created."
+msgstr ""
+"एक नए संसाधन का  रचना किया गया "
+"\n"
+
+#: loco:5357f9a0b7f9261b249a9829
+msgid "A new user has signed up."
+msgstr ""
+"एक नया उपयोगकर्ता ने भाग लिया "
+"है "
+
+#: loco:5357f99eb7f9261b249a953a
+msgid "Accept friendship"
+msgstr "स्वीकार मित्रता "
+
+#: loco:5357f99eb7f9261b249a953b
+msgid "Accept friendship request"
+msgstr " मित्रता आग्रह स्वीकार "
+
+#: loco:5357f99fb7f9261b249a9791
+msgid "Access Denied"
+msgstr "पहुँच की मनाही "
+
+#: loco:5357f99eb7f9261b249a953c
+msgid "Access level"
+msgstr "पहुँच स्तर "
+
+#: loco:5357f99fb7f9261b249a96a2
+msgid "active"
+msgstr "एक्टिव "
+
+#: loco:5357f99fb7f9261b249a9705
+msgid "Add a Tag"
+msgstr "टैग जोड़ें "
+
+#: loco:5357f99fb7f9261b249a96a3
+msgid "add new tag"
+msgstr "जोड़ें नया टैग "
+
+#: loco:5357f99eb7f9261b249a953e
+msgid "Add or remove tags"
+msgstr "जोड़ना या हटाने का स्तर "
+
+#: loco:5357f99eb7f9261b249a953f
+msgid "Add tag"
+msgstr " उपनाम जोड़ना "
+
+#: loco:5357f99fb7f9261b249a9706
+msgid "Add the tags one by one."
+msgstr "एक के बाद एक टैग जोड़ें."
+
+#: loco:5357f99eb7f9261b249a9540
+msgid "Address cannot be found."
+msgstr "पता नहीं पाया गया "
+
+#: loco:5357f99fb7f9261b249a96a4
+msgid "administators"
+msgstr "प्रशासकगण "
+
+#: loco:5357f99fb7f9261b249a9707
+msgid "Administration - Create new tag"
+msgstr "प्रसाशन - नया टैग क्रिएट करें  "
+
+#: loco:5357f99fb7f9261b249a9708
+msgid "Administration - Reports"
+msgstr "प्रसाशन - रिपोर्ट्स     "
+
+#: loco:5357f99eb7f9261b249a9542
+msgid "Administration - Settings"
+msgstr "प्रशासन समायोजन "
+
+#: loco:5357f99eb7f9261b249a9543
+msgid "Administration - Setup and Maintenance"
+msgstr "प्रशासन: व्यवस्थित रख रखाव "
+
+#: loco:5357f99fb7f9261b249a9709
+msgid "Administration - Tags"
+msgstr "प्रसाशन - टैग्स   \n"
+
+#: loco:5357f99fb7f9261b249a970a
+msgid "Administration - Web Statistics"
+msgstr "प्रसाशन - वेब सांख्यिकी  "
+
+#: loco:5357f99fb7f9261b249a96a5
+msgid "administrator"
+msgstr "प्रशासक "
+
+#: loco:5357f99eb7f9261b249a9545
+msgid "Administrator with id 1 cannot be changed"
+msgstr ""
+"ID 1 वाल प्रशासक नहीं बदला जा "
+"सकता है \n"
+
+#: loco:5357f99fb7f9261b249a974c
+msgid "administrators"
+msgstr "प्रसाशक गण "
+
+#: loco:5357f99fb7f9261b249a9792
+msgid "Alarm:"
+msgstr "घंटी:"
+
+#: loco:5357f99fb7f9261b249a96a6
+msgid "all"
+msgstr "सभी "
+
+#: loco:5357f99fb7f9261b249a9793
+msgid "All-day event"
+msgstr "दिनभर का कार्यक्रम "
+
+#: loco:5357f99fb7f9261b249a96a7
+msgid "all resources"
+msgstr "सभी संसाधन "
+
+#: loco:5357f99fb7f9261b249a96a8
+msgid "all tags"
+msgstr "सभी टैग "
+
+#: loco:5357f99eb7f9261b249a9546
+msgid "Already have an account? Sign in below."
+msgstr ""
+"पहले से ही अकाउंट मौजूद है? "
+"निचे साइन इन करें.\n"
+
+#: loco:5357f99eb7f9261b249a9547
+msgid "An email has been sent to you with further instructions."
+msgstr ""
+"आगे की सुचना के लिए आप को एक "
+"ईमेल भेंजे जा चूका है.\n"
+
+#: loco:5357f99fb7f9261b249a96ea
+msgid ""
+"AND: Find only items where <i>all</i> conditions are met.<br />OR: Find items "
+"where <i>any</i> of the selected conditions are met."
+msgstr ""
+"और: सिर्फ आइटम को पाएं जहाँ<i> "
+"सभी </i> परिस्थितियां ठीक हों. <br "
+"/> या:सिर्फ आइटम को पाएं जहाँ<i> "
+"कोई <>/i मई से चुनी हुई "
+"परिस्थितयां ठीक हों."
+
+#: loco:5357f99eb7f9261b249a9548
+msgid "Apply filter"
+msgstr "फ़िल्टर प्रयोग करें \n"
+
+#: loco:5357f99fb7f9261b249a970b
+msgid "Apply the filter and show the results."
+msgstr ""
+"फ़िल्टर उपयोग करें और रिजल्ट "
+"दिखाए."
+
+#: loco:53651c318509cbb0c7ffb9cb
+msgid "Too many emails? You can change the schedule on your [profile page](%s)."
+msgstr "बहुत सारे ईमेल ?"
+
+#: loco:5357f99fb7f9261b249a9766
+msgid "Are you sure?"
+msgstr " क्या आप स्योरे हैं"
+
+#: loco:5357f99fb7f9261b249a96a9
+msgid "auto reload"
+msgstr "ऑटो रीलोड "
+
+#: loco:5357f99eb7f9261b249a954b
+msgid "Automatically reload in regular intervals if something new has been posted."
+msgstr ""
+"अगर कुछ नया पोस्ट किया जायेगा "
+"तो वह एक अंतराल के बाद अपने आप "
+"लोड हो जायेगा.\n"
+
+#: loco:5357f99fb7f9261b249a970c
+msgid ""
+"Avatars are small images that will be visible with your name. Here you can "
+"upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr ""
+"अवतार छोटे चित्र में है जो की "
+"आप के नाम के साथ दृष्ट्व्य है. "
+"यहाँ पर आप अपना अवतार अपलोड "
+"कर सकते हैं(अधि. 96s, कमसे काम 96s). "
+"अगले स्टेप में आप चित्र को "
+"क्रॉप कर सकते है. "
+
+#: loco:5357f9a0b7f9261b249a9801
+msgid "back"
+msgstr "वापस "
+
+#: loco:5357f99eb7f9261b249a954c
+msgid "Back to list of groups."
+msgstr "समूह सूची  पर वापस \n"
+
+#: loco:5357f99eb7f9261b249a954d
+msgid "Back to list of users."
+msgstr "उपभोक्ता सूची  पर वापस.\n"
+
+#: loco:5357f99fb7f9261b249a96d4
+msgid "Back to the list of messages"
+msgstr "वापस सन्देश सूची पर जाएँ \n"
+
+#: loco:5357f99fb7f9261b249a96d5
+msgid "Back to the list of reports"
+msgstr "वापस रिपोर्ट सूची पर जाएँ "
+
+#: loco:5357f99fb7f9261b249a96d6
+msgid "Back to the list of resources"
+msgstr "वापस संसाधन सूची पर जाएँ "
+
+#: loco:5357f99fb7f9261b249a974d
+msgid "banned"
+msgstr "प्रतिबन्ध लगाना "
+
+#: loco:5357f99eb7f9261b249a954e
+msgid ""
+"Below you can add details: Describe the topics of this resource by one or "
+"more tags. These information will help other users to find your resource."
+msgstr ""
+"आप निचे विस्तार से जोड़ सकते "
+"हैं:एक या ज्यादे टैग द्वारा "
+"संसाधन के बिषय में वर्णन "
+"करें। यह जानकारियाँ  दूसरे "
+"उपभोक्ताओं को संसाधन ढूंढने "
+"में मदद करेगी."
+
+#: loco:5357f99fb7f9261b249a96d7
+msgid "By using this platform you accept our Terms of Use and our Privacy policy."
+msgstr ""
+"इस प्लेटफॉम ये उपयोग द्वारा "
+"प्राइवेसी शर्तों को स्वीकार "
+"करें "
+
+#: loco:5357f99fb7f9261b249a96aa
+msgid "cancel and return"
+msgstr "रद्द और वापस "
+
+#: loco:5357f99eb7f9261b249a954f
+msgid "Cancel friendship"
+msgstr "मित्रता रद्द करना \n"
+
+#: loco:5357f99eb7f9261b249a9550
+msgid "Cancel subscription"
+msgstr "ग्राहकी रद्द करना \n"
+
+#: loco:5357f99eb7f9261b249a9551
+msgid "Cannot find what you are searching?"
+msgstr ""
+"आप जो ढूंढ  रहे हैं वह नहीं मिल "
+"सकता है?\n"
+
+#: loco:5357f99fb7f9261b249a974e
+msgid "change"
+msgstr "बदला "
+
+#: loco:5357f99eb7f9261b249a9552
+msgid "Change lost password"
+msgstr "खोया पासवर्ड बदलना \n"
+
+#: loco:5357f99eb7f9261b249a9553
+msgid "Change password"
+msgstr " पासवर्ड बदलना \n"
+
+#: loco:5357f99eb7f9261b249a9554
+msgid "Change the filter"
+msgstr "फ़िल्टर बदलना \n"
+
+#: loco:5357f99fb7f9261b249a974f
+msgid "chat messages"
+msgstr "चैट सन्देश."
+
+#: loco:536f6e948509cbb0c70013e9
+msgid "Chat window turned off."
+msgstr "गपसप करने वाला खिड़की बंद है."
+
+#: loco:536f6e848509cbb0c70013e7
+msgid "Chat window turned on. If you don't see it, please refresh the page."
+msgstr ""
+"गपसप करने वाला खिड़की खुला है."
+"यदि आप नहीं देख पा  रहे है, "
+"कृपया  "
+
+#: loco:5357f99eb7f9261b249a9555
+msgid "Choose from the menus above."
+msgstr "ऊपर विषय सूची  से चुनें."
+
+#: loco:5357f99eb7f9261b249a9557
+msgid "Clear Filter"
+msgstr "रिक्त फ़िल्टर \n"
+
+#: loco:5357f99fb7f9261b249a96ab
+msgid "clear map"
+msgstr "मानचित्र साफ "
+
+#: loco:5357f99eb7f9261b249a9558
+msgid "Click here if you forgot your password."
+msgstr ""
+"यहां क्लिक करें यदि आप अपना "
+"पासवर्ड भूल गए हैं.\n"
+
+#: loco:5357f99fb7f9261b249a970e
+msgid "Click here to continue"
+msgstr ""
+"जारी रखने के लिए यहाँ क्लिक "
+"करें."
+
+#: loco:5357f99eb7f9261b249a9559
+msgid "Click inside the image and select your avatar."
+msgstr ""
+"तस्वीर पर क्लिक करें अपने "
+"फोटो के लिए."
+
+#: loco:5357f99fb7f9261b249a96eb
+msgid ""
+"Click inside the map to set the center. Click a second time to set the search "
+"radius."
+msgstr ""
+"मानचित्र के मध्य में क्लिक "
+"करें. दूसरी बार सर्च रेडियस "
+"को सेट करने के लिए क्लिक करें. "
+
+#: loco:5357f99fb7f9261b249a970f
+msgid ""
+"Click inside the map to set the location. If the location is already set, you "
+"first need to clear the map: <b class='icon-clear'></b>."
+msgstr ""
+"मानचित्र के अंदर क्लिक करें "
+"लोकेशन सेट करने के लिए. यदि "
+"लोकेशन पहले से सेट है, अफ्ले "
+"मानचित्र को क्लियर करने की "
+"आवश्यकता है:<b class='icon-clear'></b>.  "
+
+#: loco:536247358509cbb0c7ffaf00
+msgid "click to rename"
+msgstr "पुनः नाम के लिए क्लिक करें "
+
+#: loco:5357f9a0b7f9261b249a9802
+msgid "close"
+msgstr "बंद "
+
+#: loco:5357f99eb7f9261b249a955c
+msgid "Comments are only visible when you are signed in."
+msgstr ""
+"प्रतिक्रियाएँ तभी दिखेंगी "
+"जब आप साइन इन होंगे."
+
+#: loco:536f6efb8509cbb0c70013eb
+msgid "Compose"
+msgstr "रचना करना "
+
+#: loco:5357f99eb7f9261b249a955d
+msgid "Connect filters with"
+msgstr "फ़िल्टर के साथ जोड़े "
+
+#: loco:53674f5f8509cbb0c7ffc65c
+msgid "Continue to this [group] (%s)."
+msgstr "इसे जारी रखें [समूह] (%s)"
+
+#: loco:53674f678509cbb0c7ffc65e
+msgid "Continue to this [resource] (%s)."
+msgstr "इसे जारी रखें [संसाधन] (%s)"
+
+#: loco:53674f548509cbb0c7ffc65a
+msgid "Continue to this [user] (%s)."
+msgstr "इसे जारी रखें [उपयोगकर्ता ] (%s)"
+
+#: loco:5357f99eb7f9261b249a955e
+msgid ""
+"Copy this link and send it to people who you would like to join. This link is "
+"like a key to this group."
+msgstr ""
+"जो लोग जुड़ना चाहते हैं उन्हें "
+"यह लिंक कॉपी करके भेंजे! यह "
+"लिंक एक तरह से समूह की चाभी है."
+
+#: loco:5357f99fb7f9261b249a96ac
+msgid "create"
+msgstr "क्रिएट "
+
+#: loco:5357f99fb7f9261b249a9799
+msgid "Create a new event?"
+msgstr "नए घटना की रचना करें?\n"
+
+#: loco:5357f99fb7f9261b249a9797
+msgid "Create Group"
+msgstr " समूह की रचना करें "
+
+#: loco:5357f99eb7f9261b249a955f
+msgid "Create new group"
+msgstr "नया समूह बनाएं "
+
+#: loco:5357f99eb7f9261b249a9560
+msgid "Create new resource"
+msgstr "नया समूह संसाधन बनाएं "
+
+#: loco:5357f99fb7f9261b249a9798
+msgid "Create Resource"
+msgstr " संसाधन की रचना करें "
+
+#: loco:5357f99fb7f9261b249a9750
+msgid "creation rights removed"
+msgstr "क्रिएशन राइट रिमूव "
+
+#: loco:5357f99fb7f9261b249a9710
+msgid "Database error."
+msgstr "डेटाबेस की गलती."
+
+#: loco:5357f99fb7f9261b249a979a
+msgid "Database size"
+msgstr "डेटाबेस नाप "
+
+#: loco:5357f9a0b7f9261b249a9803
+msgid "day"
+msgstr "दिन "
+
+#: loco:5357f99fb7f9261b249a96ad
+msgid "deactivated"
+msgstr "निष्क्रिय है "
+
+#: loco:5357f99fb7f9261b249a979b
+msgid "Dear %s"
+msgstr "प्रिय %s"
+
+#: loco:5357f9a0b7f9261b249a9804
+msgid "delete"
+msgstr "मिटाना "
+
+#: loco:5357f99eb7f9261b249a9562
+msgid "Describe in few sentences what this group is about."
+msgstr ""
+"वर्णन करें कुछ लाइन की समूह "
+"क्या हैं के बारे में.\n"
+
+#: loco:5357f99eb7f9261b249a9563
+msgid "Describe in few sentences what this resource is about."
+msgstr ""
+" संसाधन क्या हैं के बारे में "
+"वर्णन करें कुछ लाइन."
+
+#: loco:5357f99eb7f9261b249a9564
+msgid "Description:"
+msgstr "विवरण "
+
+#: loco:5357f99fb7f9261b249a96ae
+msgid "detail"
+msgstr "विस्तार से "
+
+#: loco:5357f99fb7f9261b249a96d8
+msgid "Details of the group"
+msgstr "समूह का विवरण "
+
+#: loco:5357f99fb7f9261b249a96d9
+msgid "Details of the resource"
+msgstr "संसाधन का विवरण "
+
+#: loco:5357f99fb7f9261b249a96da
+msgid "Details of the user"
+msgstr "उपभोक्ता का विवरण "
+
+#: loco:5357f99fb7f9261b249a979d
+msgid "Different end time"
+msgstr "अलग समाप्ति समय "
+
+#: loco:5357f99eb7f9261b249a9565
+msgid "Discover new groups"
+msgstr "नया समूह खोजें "
+
+#: loco:5357f99eb7f9261b249a9566
+msgid "Discover new resources"
+msgstr "नया संसाधन खोजें "
+
+#: loco:5357f99eb7f9261b249a9567
+msgid "Discover new users"
+msgstr "नया उपभोक्ता खोजें "
+
+#: loco:5357f99fb7f9261b249a979e
+msgid "Do you really want to delete this file?"
+msgstr ""
+"क्या आप वास्तव में यह फाइल "
+"मिटाना चाहते है."
+
+#: loco:5357f99fb7f9261b249a9711
+msgid "Do you really want to delete this message?"
+msgstr ""
+"क्या आप वास्तव में इस सन्देश "
+"को मिटाना चाहते हैं?"
+
+#: loco:5357f99eb7f9261b249a9568
+msgid ""
+"Do you want be visible to everyone (world), only to registered users "
+"(registered) or only to your friends (friends)?"
+msgstr ""
+"क्या आप सभी को दिखना चाहते "
+"हैं (दुनिया), सिर्फ पंजीकृत "
+"उपभोक्ता (पंजीकृत) या सिर्फ "
+"आप के मित्र लोग (मित्र)?"
+
+#: loco:5357f99fb7f9261b249a9751
+msgid "document"
+msgstr "डाक्यूमेंट "
+
+#: loco:5357f99fb7f9261b249a9712
+msgid "Documentation:"
+msgstr "डाक्यूमेंटेशन:"
+
+#: loco:5357f99fb7f9261b249a9714
+msgid "Done importing resources. Error writing log file."
+msgstr ""
+"संसाधन आयत करना पूरा हुआ.लॉग "
+"फाइल लिखने में गलती."
+
+#: loco:5357f99fb7f9261b249a9715
+msgid "Done importing resources. Please check the log file."
+msgstr ""
+"संसाधन आयत करना पूरा हुआ. "
+"कृपया लॉग फाइल चेक करें."
+
+#: loco:5357f99fb7f9261b249a9716
+msgid "Done updating locales."
+msgstr "लोकल अपडेट पूरा हुआ."
+
+#: loco:5357f99eb7f9261b249a9569
+msgid "Download the mobile application"
+msgstr "डाउनलोड मोबाइल एप्लीकेसन  "
+
+#: loco:5357f99fb7f9261b249a96af
+msgid "edit"
+msgstr "परिवर्तन करना "
+
+#: loco:5357f99fb7f9261b249a9597
+msgid "Edit Group"
+msgstr "एडिट समूह "
+
+#: loco:5357f99fb7f9261b249a976f
+msgid "Edit profile"
+msgstr ""
+"\n"
+"एडिट  प्रोफाइल   "
+
+#: loco:5357f99fb7f9261b249a979f
+msgid "Edit Resource"
+msgstr "एडिट संसाधन "
+
+#: loco:5357f99eb7f9261b249a956a
+msgid "Edit the group image"
+msgstr "बदलाव करना समूह चित्र में "
+
+#: loco:5357f99eb7f9261b249a956b
+msgid "Edit the location"
+msgstr "लोकेसन में बदलाव "
+
+#: loco:5357f99eb7f9261b249a956c
+msgid "Edit your avatar"
+msgstr "चित्र बदलना "
+
+#: loco:5357f99eb7f9261b249a956d
+msgid "Edit your location"
+msgstr "अपना लोकेशन बदलना "
+
+#: loco:5357f99fb7f9261b249a9574
+msgid "Email:"
+msgstr "ईमेल:"
+
+#: loco:5357f99eb7f9261b249a956e
+msgid "Email change on Mycitizen.net"
+msgstr "ईमेल बदलना माईसिटीजन.नेट पर  "
+
+#: loco:5357f99fb7f9261b249a956f
+msgid "The email address couldn't be changed!"
+msgstr ""
+"ईमेल नहीं बदल जा सकता है "
+"बदलना!"
+
+#: loco:5357f99fb7f9261b249a9570
+msgid "The email address couldn't be changed! The link is not active anymore."
+msgstr ""
+"ईमेल नहीं बदल जा सकता है "
+"बदलना! लिंक अब बिल्कुल "
+"क्रियाशील नहीं है."
+
+#: loco:5357f99fb7f9261b249a97a0
+msgid "Email has been succesfully changed."
+msgstr ""
+"ईमेल सफलतापूर्वक बदला जा "
+"चूका है "
+
+#: loco:5357f99fb7f9261b249a9571
+msgid "Email has been successfully changed."
+msgstr "ईमेल सफलता पूर्वक बदला गया."
+
+#: loco:5357f99fb7f9261b249a97a1
+msgid "This email address is already registered with another account."
+msgstr ""
+"दूसरे अकाउंट पर यह ईमेल पहले "
+"से ही पंजीकृत है."
+
+#: loco:5357f99fb7f9261b249a97a2
+msgid "Emails on unread messages:"
+msgstr "इमेल्स अपठित सन्देश पर:"
+
+#: loco:5357f99fb7f9261b249a9575
+msgid "Empty Trash"
+msgstr "ट्रैश खाली है "
+
+#: loco:5357f99fb7f9261b249a97a3
+msgid "End:"
+msgstr "समाप्त:\n"
+
+#: loco:5357f99fb7f9261b249a9577
+msgid ""
+"Enter a key that will be used for inviting members into this group. Use "
+"letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr ""
+"एक कोड लिखें जो की आपके समूह "
+"में से सदस्यों को आमंत्रित "
+"करने में काम आयेगा, उपयोग "
+"करें शब्द,अंक और \"-\", कमसे काम ५ "
+"लम्बाई के"
+
+#: loco:5357f99fb7f9261b249a9578
+msgid "Enter a name for the group."
+msgstr "एक नाम लिखें समूह के लिए. "
+
+#: loco:5357f99fb7f9261b249a9579
+msgid "Enter a name for the resource."
+msgstr "एक नाम लिखें संसाधन के लिए. "
+
+#: loco:5357f99fb7f9261b249a957a
+msgid "Entered passwords are not the same."
+msgstr ""
+"लिखा गया पासवर्ड एक सामान "
+"नहीं है. "
+
+#: loco:5357f99eb7f9261b249a9537
+msgid "(error)"
+msgstr "(त्रुटी) "
+
+#: loco:5357f99fb7f9261b249a957c
+msgid "Error deleting image from cache: "
+msgstr " खामियां चित्र मिटाना cache से. "
+
+#: loco:5357f99fb7f9261b249a957d
+msgid "Error loading chat. Are you logged in?"
+msgstr ""
+"खामियां लोडिंग चैट, क्या आप "
+"लगद इन है?"
+
+#: loco:5357f99fb7f9261b249a957e
+msgid "Error recreating image."
+msgstr ""
+"खामियां दुबारा चित्र बनाने "
+"में. "
+
+#: loco:5357f99fb7f9261b249a957f
+msgid "Error submitting form."
+msgstr "खामियां फॉर्म जमा करने में. "
+
+#: loco:5357f99fb7f9261b249a9580
+msgid "Error writing image: "
+msgstr "खामियां चित्र लिखने में:"
+
+#: loco:5357f99fb7f9261b249a9752
+msgid "event"
+msgstr "इवेंट "
+
+#: loco:5357f99fb7f9261b249a9581
+msgid "Event description:"
+msgstr "घटना का विवरण:"
+
+#: loco:5357f99fb7f9261b249a97a4
+msgid "Event Details"
+msgstr "घटना का विवरण "
+
+#: loco:5357f99fb7f9261b249a97a5
+msgid "Event end time:"
+msgstr "घटना के समाप्त होने का समय "
+
+#: loco:5357f99fb7f9261b249a9582
+msgid "Event time:"
+msgstr "घटना का समय:"
+
+#: loco:536246d58509cbb0c7ffaefd
+msgid "File '%s' already exists."
+msgstr "फाइल '%s' पहले से मौजूद है "
+
+#: loco:536246c58509cbb0c7ffaefb
+msgid "File '%s' not found."
+msgstr "फाइल '%s' नहीं पाया गया "
+
+#: loco:5357f9a0b7f9261b249a982d
+msgid "Files of %s"
+msgstr "फाइल का '%s'"
+
+#: loco:5357f99fb7f9261b249a9585
+msgid "Filter by name"
+msgstr " फिल्टर बाय नाम "
+
+#: loco:5357f99fb7f9261b249a9586
+msgid "Filter is off."
+msgstr " फिल्टर बंद है "
+
+#: loco:5357f99fb7f9261b249a9587
+msgid "Filter is on."
+msgstr " फिल्टर चालू है."
+
+#: loco:536b24958509cbb0c7fff4e6
+msgid "Find a list of your activities [on your home page] (%s)."
+msgstr ""
+"ढूंढें अपने गतिविधि का लिस्ट "
+"[अपने होम पेज से ]"
+
+#: loco:5357f99fb7f9261b249a9717
+msgid "Find more information [on the page of the group] (%s)."
+msgstr ""
+"अधिक जानकारियाँ पाएं [समूह के "
+"पन्ने पर] (%s)"
+
+#: loco:53674f6e8509cbb0c7ffc660
+msgid "Find more information [here] (%s)."
+msgstr "और जानकारियाँ ढूंढो [यहाँ] (%s)"
+
+#: loco:5357f99fb7f9261b249a9588
+msgid "Finish your registration at Mycitizen.net"
+msgstr ""
+"माई सिटीजन डाट  नेट पर अपना "
+"पंजीकरण पूरा करें "
+
+#: loco:5357f99fb7f9261b249a9589
+msgid "Finished cropping and resizing."
+msgstr ""
+"क्रॉपिंग और रिसाइज़िंग पूरा "
+"करें."
+
+#: loco:5357f99fb7f9261b249a9718
+msgid "Found unused locale '%s', removing from database."
+msgstr ""
+"पाया गया बिना उपयोग किया "
+"सामान्य '%s', डेटाबेस से हटाया "
+"जारहा है. "
+
+#: loco:5357f99fb7f9261b249a96b0
+msgid "friend"
+msgstr "मित्र "
+
+#: loco:5357f99fb7f9261b249a958b
+msgid "Friendship accepted"
+msgstr "मित्रता स्वीकार किया "
+
+#: loco:5357f99fb7f9261b249a958c
+msgid "Friendship canceled"
+msgstr "मित्रता रद्द किया "
+
+#: loco:5357f99fb7f9261b249a958d
+msgid "Friendship request"
+msgstr "मित्रता के लिए आग्रह "
+
+#: loco:5357f99fb7f9261b249a958e
+msgid "Friendship request rejected."
+msgstr "मित्रता का आग्रह ख़ारिज  "
+
+#: loco:5357f99fb7f9261b249a958f
+msgid "Friendship request sent."
+msgstr "मित्रता का आग्रह भेंजा गया "
+
+#: loco:5357f99fb7f9261b249a96b1
+msgid "from_email"
+msgstr "से_ईमेल"
+
+#: loco:5357f9a0b7f9261b249a9805
+msgid "g:ia"
+msgstr "g:ia"
+
+#: loco:5357f99fb7f9261b249a96db
+msgid "GD (images) supported"
+msgstr "GD (चित्र) समर्थित "
+
+#: loco:5357f99fb7f9261b249a96dc
+msgid "Gettext supported"
+msgstr "गेट टेक्स्ट समर्थित "
+
+#: loco:5357f99fb7f9261b249a9590
+msgid "Given group does not exist."
+msgstr "दिया गया समूह मौजूद नहीं है. "
+
+#: loco:5357f99fb7f9261b249a9591
+msgid "Go to resource"
+msgstr "संसाधन पर जाएं "
+
+#: loco:5357f99fb7f9261b249a96b2
+msgid "gps_default_latitude"
+msgstr "gps_डिफ़ॉल्ट _अक्षांश "
+
+#: loco:5357f99fb7f9261b249a96b3
+msgid "gps_default_longitude"
+msgstr "gps_डिफ़ॉल्ट_देशांतर"
+
+#: loco:5357f99fb7f9261b249a96f7
+msgid "group"
+msgstr "समूह "
+
+#: loco:5357f99fb7f9261b249a9596
+msgid "Group chat"
+msgstr "समूह चैट "
+
+#: loco:5357f99fb7f9261b249a9598
+msgid "Group key:"
+msgstr "समूह चाभी:"
+
+#: loco:5357f99fb7f9261b249a9599
+msgid "Group location on a map"
+msgstr "समूह का लोकेसन मानचित्र पर "
+
+#: loco:5357f99fb7f9261b249a959a
+msgid "Group members"
+msgstr "समूह के सदस्य "
+
+#: loco:5357f99fb7f9261b249a97a9
+msgid "Group name cannot be empty!"
+msgstr ""
+"समूह का नाम रिक्त नहीं छोड़ा "
+"जा सकता है!"
+
+#: loco:5357f99fb7f9261b249a959b
+msgid "Group owner: "
+msgstr "समूह मालिक "
+
+#: loco:5357f99fb7f9261b249a959c
+msgid "Group resources"
+msgstr "समूह संसाधन "
+
+#: loco:5357f99fb7f9261b249a959d
+msgid "Group status"
+msgstr "समूह स्थिति "
+
+#: loco:5357f99fb7f9261b249a959e
+msgid "Group updated"
+msgstr "समूह आधुनिकीकरण हो गया है "
+
+#: loco:5357f99fb7f9261b249a9592
+msgid "Group %s has not been subscribed to resource."
+msgstr ""
+"समूह %s अभी तक इस संसाधन के लिए "
+"सब्सक्राइब नहीं किया गया है."
+
+#: loco:5357f99fb7f9261b249a9593
+msgid "Group %s is already subscribed."
+msgstr ""
+"समूह %s पहले से ही सब्सक्राइब "
+"है."
+
+#: loco:5357f99fb7f9261b249a9594
+msgid "Group %s subscribed to this resource."
+msgstr ""
+"समूह %sअनसब्सक्राइब है इस "
+"संसाधन के लिए. "
+
+#: loco:5357f99fb7f9261b249a9595
+msgid "Group %s unsubscribed from resource."
+msgstr ""
+"समूह %s अनसब्सक्राइब है "
+"संसाधन से."
+
+#: loco:536510928509cbb0c7ffb9c9
+msgid ""
+"Hello %s,\n"
+"\n"
+"Somebody has requested an email change on Mycitizen.net. The new email will "
+"be: %s\n"
+"\n"
+"If you think that this is wrong, please [contact the support] (%s)."
+msgstr ""
+"हेलो %s किसी ने ईमेल बदलने के "
+"लिए आग्रह किया  है "
+
+#: loco:5357f99fb7f9261b249a95a2
+msgid ""
+"Hello %s,\n"
+"\n"
+"Thank you for signing up at Mycitizen.net!\\nTo finish your registration click "
+"[here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr ""
+"हेलो %s,  धन्यवाद माई सिटीजन."
+"नेट पर साइनिंग ऑप के लिए  अपना "
+"पंजीकरण पूरा करने के लिए निचे "
+"लिंक पर क्लिक करें!"
+
+#: loco:5357f99fb7f9261b249a95a1
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested a password change on Mycitizen.net.\\nTo finish your "
+"request click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr ""
+"हेलो %s,  आप ने पासवर्ड चेंज के "
+"लिए आग्रह माई सिटीजन . नेट पर "
+"किया है! अपना आग्रह पूरा करने "
+"के लिए निचे लिंक पर क्लिक "
+"करें!"
+
+#: loco:5357f99fb7f9261b249a95a0
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested an email change on Mycitizen.net.\\nTo finish your request "
+"click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr ""
+"हेलो %s, आप ने ईमेल चेंज के लिए "
+"आग्रह माय सिटीजन.नेट पर किया "
+"है अपना आग्रह पूरा करने के "
+"लिए निचे लिंक पर क्लिक करे."
+
+#: loco:536b24628509cbb0c7fff4e4
+msgid "Here is an overview of what has happened since your last visit:"
+msgstr ""
+"एक सिंहावलोकन आप जब से हैं "
+"यहाँ पर क्या कुछ हुआ है:"
+
+#: loco:5357f99fb7f9261b249a95a3
+msgid ""
+"Here you can report the group if you think it has violated the rules. Reports "
+"will be processed by our moderators."
+msgstr ""
+"यहाँ पर आप समूह की शिकायत कर "
+"सकते है, यदि आप को लगता है की "
+"यह नियम को तोड़ता है. शिकायत "
+"मॉडरेटर द्वारा आगे बढ़ाया "
+"जायेगा."
+
+#: loco:5357f99fb7f9261b249a95a4
+msgid ""
+"Here you can report the resource if you think it has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+"यहाँ पर आप संसाधन की शिकायत "
+"कर सकते है, यदि आप को लगता है "
+"की यह नियम को तोड़ता है. शिकायत "
+"मॉडरेटर द्वारा आगे बढ़ाया "
+"जायेगा."
+
+#: loco:5357f99fb7f9261b249a95a5
+msgid ""
+"Here you can report the user if you think her or she has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+"यहाँ पर आप उपभोक्ता की शिकायत "
+"कर सकते है, यदि आप को लगता है "
+"की यह नियम को तोड़ता है. शिकायत "
+"मॉडरेटर द्वारा आगे बढ़ाया "
+"जायेगा."
+
+#: loco:5357f99fb7f9261b249a95a6
+msgid "Hidden group"
+msgstr "छुपा हुआ समूह "
+
+#: loco:5357f99fb7f9261b249a95a7
+msgid "Hidden user"
+msgstr "छुपा हुआ उपभोक्ता "
+
+#: loco:5357f9a0b7f9261b249a9806
+msgid "home"
+msgstr "घर "
+
+#: loco:5357f99fb7f9261b249a97aa
+msgid "Homepage:"
+msgstr "होमपेज "
+
+#: loco:5357f99fb7f9261b249a97ab
+msgid "How to contact them"
+msgstr "उन लोगों से संपर्क कैसे करें?"
+
+#: loco:5357f99fb7f9261b249a9719
+msgid "I am a group moderator."
+msgstr "मैं समूह मॉडरेटर हूँ."
+
+#: loco:5357f99fb7f9261b249a96b9
+msgid "I am a member."
+msgstr "मैं सदस्य हूँ."
+
+#: loco:5357f99fb7f9261b249a971a
+msgid "I am a resource moderator."
+msgstr "मैं संसाधन मॉडरेटर हूँ."
+
+#: loco:5357f99fb7f9261b249a96c2
+msgid "I am not a member."
+msgstr "मै सदस्य नहीं हूँ "
+
+#: loco:5357f99fb7f9261b249a96c4
+msgid "I am not subscribed."
+msgstr "मैंने सब्सक्राइब नहीं किया "
+
+#: loco:5357f99fb7f9261b249a96fa
+msgid "I am subscribed."
+msgstr "मैं सब्स्क्राइब्ड हूँ "
+
+#: loco:5357f99fb7f9261b249a971b
+msgid "I am the owner."
+msgstr "मैं मालिक हूँ."
+
+#: loco:5357f99fb7f9261b249a97ac
+msgid ""
+"If these recommendations are not precise, you could try to find better tags "
+"to describe your interests. You can change your tags on your profile page."
+msgstr ""
+"यदि यह अनुशंसा उचित नहीं है "
+"तब आप एक बेहतर टैग ढूंढें जो "
+"की आप के रूचि की टिक ढंग से "
+"व्याख्या कर सके. आप अपना टैग "
+"बदल सकता है अपने प्रोफाइल पर "
+"जा कर."
+
+#: loco:5357f99fb7f9261b249a95a9
+msgid "If you are new here, please %s sign up %s."
+msgstr ""
+"यदि आप नए हैं यहाँ, कृपया %s "
+"साइन ऑप %s"
+
+#: loco:5357f99fb7f9261b249a97ad
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
+msgstr ""
+"यदि आप को नया फाइल अपलोड करने "
+"की आवश्यकता है तो यह विंडो "
+"बंद करके \"उपडोड\" पर क्लिक करें."
+
+#: loco:5357f99fb7f9261b249a96ec
+msgid "Image is too big! Max. size is for upload is 2048x2048"
+msgstr ""
+"तस्वीर बहुत बड़ी है! अधिकतम "
+"साइज अपलोड के लिए है 2048x2048"
+
+#: loco:5357f99fb7f9261b249a971c
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr ""
+"चित्र बहुत बड़ा है! अधिकतम "
+"साइज अपलोड करने के लिए है %s"
+
+#: loco:5357f99fb7f9261b249a95aa
+msgid "Image must be in JPEG or PNG format."
+msgstr ""
+"यह अनिवार्य है की तस्वीर JPEG या "
+"PNG में ही हो. "
+
+#: loco:5357f99fb7f9261b249a971d
+msgid "Import resources from a file"
+msgstr "संसाधन को फाइल से आयत करना."
+
+#: loco:5357f99fb7f9261b249a95ab
+msgid "Import resources from file"
+msgstr "फाइल से संसाधन को आयत करें "
+
+#: loco:5357f99fb7f9261b249a96b4
+msgid "inactive"
+msgstr "निष्क्रिय "
+
+#: loco:5357f99eb7f9261b249a9538
+msgid "(inappropriate language)"
+msgstr "अनुपयुक्त भाषा "
+
+#: loco:5357f9a0b7f9261b249a982a
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+"सभी उपयोगकर्ता, समूह एवं "
+"संसाधन को शामिल करें जिन्हें "
+"आप देखना चाहते हैं "
+
+#: loco:5357f99fb7f9261b249a95ac
+msgid "Information:"
+msgstr "जानकारियाँ:"
+
+#: loco:5357f9a0b7f9261b249a9807
+msgid "insert"
+msgstr "डाल  देना "
+
+#: loco:5357f99fb7f9261b249a96b5
+msgid "insert to resource"
+msgstr "संसाधन में डालना "
+
+#: loco:5357f99fb7f9261b249a95ad
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr ""
+"अपर्याप्त अनुमति इस संसाधन "
+"से समूह %s को सब्स्क्रिब करने "
+"की. "
+
+#: loco:5357f99fb7f9261b249a96f8
+msgid "is a product of"
+msgstr "क्या एक उत्पाद है का "
+
+#: loco:5357f99fb7f9261b249a95ae
+msgid "Is active"
+msgstr "क्रियाशील है"
+
+#: loco:5357f99fb7f9261b249a95b0
+msgid "Join group"
+msgstr "समूह से जुड़ें "
+
+#: loco:5357f9a0b7f9261b249a9808
+msgid "l, j F Y"
+msgstr "l,j F Y"
+
+#: loco:5357f9a0b7f9261b249a9809
+msgid "l, j F Y, g:ia T"
+msgstr "l, j F Y, g:ia T"
+
+#: loco:5357f99fb7f9261b249a95b4
+msgid "Language:"
+msgstr "भाषा:"
+
+#: loco:5357f99fb7f9261b249a971e
+msgid "Language code"
+msgstr "भाषा कोड "
+
+#: loco:5357f99fb7f9261b249a95b5
+msgid "Last activity:"
+msgstr "अंतिम गतिविधि:"
+
+#: loco:5357f9a0b7f9261b249a9825
+msgid "Last seen:"
+msgstr "अंतिम बार देखा गया "
+
+#: loco:5357f9a0b7f9261b249a9824
+msgid "Last seen less than 10 mins ago."
+msgstr "10 मिनट पहले अंतिम बार देखा गया "
+
+#: loco:5357f9a0b7f9261b249a9823
+msgid "Last seen less than 5 mins ago."
+msgstr "5 मिनट पहले अंतिम बार देखा गया "
+
+#: loco:5357f99fb7f9261b249a95b6
+msgid "Leave group"
+msgstr "समूह छोड़ना "
+
+#: loco:5357f99fb7f9261b249a96b6
+msgid "license"
+msgstr "लाइसेंस "
+
+#: loco:5357f99fb7f9261b249a9753
+msgid "link to external resource"
+msgstr ""
+"बाहरी संसाधन को लिंक करने के "
+"लिए "
+
+#: loco:5357f99fb7f9261b249a95b7
+msgid "Link to invite new members"
+msgstr ""
+"नए सदस्य को आमंत्रित करने का "
+"लिंक "
+
+#: loco:5357f99fb7f9261b249a9754
+msgid "live-video on Bambuser"
+msgstr "लाइव-विडिओ बम्बूसार पर "
+
+#: loco:5357f99fb7f9261b249a9789
+msgid "load more..."
+msgstr "और अधिक लोड करें..."
+
+#: loco:5357f99fb7f9261b249a95b8
+msgid "Loading chat.."
+msgstr "लोडिंग चाट.."
+
+#: loco:5357f99fb7f9261b249a97b3
+msgid "Maintenance mode activated."
+msgstr "रखरखाव मोड सक्रियित है "
+
+#: loco:5357f99fb7f9261b249a97b4
+msgid "Maintenance mode active."
+msgstr "रखरखाव मोड सक्रिय है "
+
+#: loco:5357f99fb7f9261b249a97b5
+msgid "Maintenance mode deactivated."
+msgstr "रखरखाव मोड निष्क्रिय है."
+
+#: loco:5357f99fb7f9261b249a95bb
+msgid ""
+"Make the group visible to everyone (world), only users of this website "
+"(registered) or to members of this group (members)."
+msgstr ""
+"समूह को सभी के देखनेयोग्य "
+"बनाएं (विश्व), सिर्फ उपभोक्ता "
+"इस वेबसाइट(पंजीकृत) या इस "
+"समूह के सदस्यों "
+
+#: loco:5357f99fb7f9261b249a95bc
+msgid ""
+"Make the resource visible to everyone (world), only users of this website "
+"(registered) or to subscribers of this resource (subscribers)."
+msgstr ""
+"समूह को सभी के देखने योग्य "
+"बनाएं(दुनिया),सिर्फ इस "
+"वेबसाइट के उपभोक्ता(पंजीकृत) "
+"या इस संसाधन के सब्स्क्रिबेर "
+"को "
+
+#: loco:5357f99fb7f9261b249a95bd
+msgid "Manage members of this group"
+msgstr "इस समूह के सदस्यों का प्रबंधन"
+
+#: loco:5357f99fb7f9261b249a95be
+msgid "Manage subscribed resources"
+msgstr ""
+"संसाधन के ग्राहकों का "
+"प्रबंधन "
+
+#: loco:5357f99fb7f9261b249a9720
+msgid "Manage subscribers of this resource"
+msgstr ""
+"इस संसाधन के सब्स्क्राइबर को "
+"मैनेज करें "
+
+#: loco:5357f99fb7f9261b249a96b7
+msgid "mark as read"
+msgstr "पढ़ने के लिए चिन्हित "
+
+#: loco:5357f99fb7f9261b249a96b8
+msgid "mark as unread"
+msgstr "अपठनीय के लिए चिन्हित "
+
+#: loco:5357f9a0b7f9261b249a980a
+msgid "max. once per day"
+msgstr "अधिकतम एक बार हर दिन "
+
+#: loco:5357f9a0b7f9261b249a980b
+msgid "max. once per hour"
+msgstr "अधिकतम एक बार हर घण्टे   "
+
+#: loco:5357f9a0b7f9261b249a980c
+msgid "max. once per week"
+msgstr "अधिकतम एक बार सप्ताह में  "
+
+#: loco:5357f99fb7f9261b249a95c1
+msgid "Maximum image size is %s"
+msgstr "अधिकतम नाप चित्र का %s"
+
+#: loco:5357f99fb7f9261b249a95c3
+msgid "Media ID:"
+msgstr "मिडिया ID:"
+
+#: loco:5357f99fb7f9261b249a95c4
+msgid "Media type:"
+msgstr "मिडिया प्रकार:"
+
+#: loco:5357f99fb7f9261b249a95c5
+msgid "Member of groups"
+msgstr "समूह के सदस्य "
+
+#: loco:5357f99fb7f9261b249a95c7
+msgid "message"
+msgstr "सन्देश:"
+
+#: loco:5357f99fb7f9261b249a96dd
+msgid "Message not displayed because the user has been deactivated."
+msgstr ""
+"उपभोक्ता के निष्क्रिय होने "
+"के कारण सन्देश प्रदर्शित "
+"नहीं हो रहा है."
+
+#: loco:5357f9a0b7f9261b249a9830
+msgid "Message to all users"
+msgstr ""
+"सभी उपयोगकर्ताओं के लिए "
+"सन्देश "
+
+#: loco:5357f99fb7f9261b249a96ba
+msgid "moderator"
+msgstr "मॉडरेटर "
+
+#: loco:5357f99fb7f9261b249a96bb
+msgid "moderators"
+msgstr "मॉडरेटर्स "
+
+#: loco:5357f9a0b7f9261b249a980d
+msgid "month"
+msgstr "महीना"
+
+#: loco:5357f99fb7f9261b249a96bc
+msgid "more groups"
+msgstr "अधिक समूह"
+
+#: loco:5357f99fb7f9261b249a97b9
+msgid "More information and download"
+msgstr "अधिक जानकारियां और डाऊनलोड "
+
+#: loco:5357f99fb7f9261b249a96bd
+msgid "more resources"
+msgstr "अधिक संसाधन"
+
+#: loco:5357f99fb7f9261b249a95ca
+msgid "More than one user with the same id found."
+msgstr ""
+"एक ही ID के एक से अधिक उपभोक्ता "
+"पाये गए. "
+
+#: loco:5357f99fb7f9261b249a96be
+msgid "more users"
+msgstr "अधिक उपभोक्ता "
+
+#: loco:5357f9a0b7f9261b249a980e
+msgid "move down"
+msgstr "निचे हटाना "
+
+#: loco:5357f99fb7f9261b249a96bf
+msgid "move to trash"
+msgstr "कूड़ेदान में डालें "
+
+#: loco:5357f9a0b7f9261b249a980f
+msgid "move up"
+msgstr "ऊपर हटाना "
+
+#: loco:5357f99fb7f9261b249a97ba
+msgid "My Activity"
+msgstr "मेरी गतिविधि "
+
+#: loco:5357f99fb7f9261b249a968f
+msgid "My Connections"
+msgstr "मेरा कनेक्शन "
+
+#: loco:5357f99fb7f9261b249a97bb
+msgid "My Events"
+msgstr "मेरा इवेंट "
+
+#: loco:5357f99fb7f9261b249a96c0
+msgid "my friend"
+msgstr "मेरा मित्र "
+
+#: loco:5357f99fb7f9261b249a95cb
+msgid "My friends"
+msgstr "मेरे दोस्त "
+
+#: loco:5357f99fb7f9261b249a95cc
+msgid "My Groups"
+msgstr "मेरे समूह "
+
+#: loco:5357f99fb7f9261b249a95cd
+msgid "My Location"
+msgstr "मेरे क्षेत्र "
+
+#: loco:5357f99fb7f9261b249a95cf
+msgid "My real position"
+msgstr "मेरी वास्तविक स्थिति "
+
+#: loco:5357f99fb7f9261b249a97bc
+msgid "My Recommendations"
+msgstr "मेरी अनुशंसा "
+
+#: loco:5357f99fb7f9261b249a95ce
+msgid "My Resources"
+msgstr "मेरे संसाधन "
+
+#: loco:5357f99fb7f9261b249a97bd
+msgctxt "No need to translate."
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: loco:5357f99fb7f9261b249a95d1
+msgid "Name:"
+msgstr "नाम: "
+
+#: loco:5357f99fb7f9261b249a95d2
+msgid "Needs to be created."
+msgstr "बनाने  की आवश्यकता है "
+
+#: loco:5357f9a0b7f9261b249a9827
+msgid "never online"
+msgstr "ऑनलाइन कभी नहीं "
+
+#: loco:5357f99fb7f9261b249a95d3
+msgid "New messages"
+msgstr "नया सन्देश "
+
+#: loco:5357f99fb7f9261b249a97be
+msgid "New version:"
+msgstr "नया संस्करण"
+
+#: loco:5357f9a0b7f9261b249a9810
+msgid "no"
+msgstr "नहीं "
+
+#: loco:5357f9a0b7f9261b249a9811
+msgid "no alert"
+msgstr "चेतावनी नहीं "
+
+#: loco:5357f99fb7f9261b249a97bf
+msgid "No files."
+msgstr "फाइल नहीं है "
+
+#: loco:5357f99fb7f9261b249a96c1
+msgid "no friend"
+msgstr "मित्र नहीं "
+
+#: loco:5357f99fb7f9261b249a96de
+msgid "No messages"
+msgstr "सन्देश नहीं "
+
+#: loco:5357f99fb7f9261b249a97c0
+msgid "No problem found."
+msgstr "कोई गलती नहीं पाया गया."
+
+#: loco:5357f99fb7f9261b249a95d4
+msgid "No tags"
+msgstr "टैग नहीं  "
+
+#: loco:5357f99fb7f9261b249a95d5
+msgid "Normal user"
+msgstr "सामान्य उपभोक्ता "
+
+#: loco:5357f99fb7f9261b249a96c3
+msgid "not my friend"
+msgstr "मेरा दोस्त नहीं "
+
+#: loco:5357f99fb7f9261b249a97c1
+msgid "Note:"
+msgstr "नोट: "
+
+#: loco:5357f99fb7f9261b249a95d6
+msgid "Nothing found."
+msgstr "कुछ भी नहीं पाया गया "
+
+#: loco:5357f99fb7f9261b249a96ed
+msgid "Nothing to display"
+msgstr ""
+"कुछ भी डिस्प्ले के लिए नहीं "
+"है."
+
+#: loco:5357f9a0b7f9261b249a9831
+msgid "Noticeboard Messages"
+msgstr "सूचनापटल सन्देश "
+
+#: loco:5357f99fb7f9261b249a9722
+msgid "Notification from %s"
+msgstr "अधिसूचना %s से "
+
+#: loco:5357f9a0b7f9261b249a97c2
+msgid "Notification Settings"
+msgstr "नोटिफिकेसन सेटिंग "
+
+#: loco:5357f99fb7f9261b249a9723
+msgid "Notify members:"
+msgstr "सदस्यों को खबर देना "
+
+#: loco:5357f9a0b7f9261b249a9812
+msgid "now"
+msgstr "अब "
+
+#: loco:5357f99fb7f9261b249a9724
+msgid ""
+"Now is the best time to complete your profile. You can enter your name, your "
+"location and tags for your interests."
+msgstr ""
+"यह सबसे अच्छा समय है अपना "
+"प्रोफाइल पूरा करने का. आप "
+"अपना नाम, लोकेशन और रूचि वाला "
+"टैग इंटर करें."
+
+#: loco:5357f9a0b7f9261b249a9822
+msgid "now online"
+msgstr "अभी ऑन लाइन है "
+
+#: loco:5357f99fb7f9261b249a95d9
+msgid "Number of groups"
+msgstr "समूहों की संख्या "
+
+#: loco:5357f99fb7f9261b249a95da
+msgid "Number of resources"
+msgstr "संसाधनों की संख्या "
+
+#: loco:5357f99fb7f9261b249a95db
+msgid "Number of users"
+msgstr "उपभोक्ताओं की संख्या "
+
+#: loco:5357f99fb7f9261b249a96c5
+msgctxt "No need to translate."
+msgid "object_creation_min_time"
+msgstr "object_creation_min_time"
+
+#: loco:5357f9a0b7f9261b249a9813
+msgid "off"
+msgstr "बंद "
+
+#: loco:5357f99fb7f9261b249a95de
+msgid "On invitation only"
+msgstr "सिर्फ आमंत्रण पर "
+
+#: loco:5357f99fb7f9261b249a95df
+msgid "Only administrators can visit this section!"
+msgstr ""
+"सिर्फ प्रसाशक ही इस विभाग में "
+"जा सकते हैं!"
+
+#: loco:5357f99fb7f9261b249a95e0
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr ""
+"सिर्फ अक्षर, अंक औरb'-', कमसे काम "
+"5 लम्बाई के. "
+
+#: loco:5357f99fb7f9261b249a96c6
+msgid "only visible to friends"
+msgstr "सिर्फ मित्र को दिखाई दे "
+
+#: loco:5357f99fb7f9261b249a96c7
+msgid "only visible to members"
+msgstr "सिर्फ सदस्य को दिखाई दे "
+
+#: loco:5357f99fb7f9261b249a96c8
+msgid "only visible to registered users"
+msgstr ""
+"सिर्फ पंजीकृत उपभोक्ता को "
+"दिखाई दे "
+
+#: loco:5357f9a0b7f9261b249a9814
+msgid "only visible to subscribers"
+msgstr ""
+"सिर्फ सब्सक्राइबर के दृस्टि "
+"के लिए "
+
+#: loco:5357f9a0b7f9261b249a9815
+msgid "only visible to you"
+msgstr "सिर्फ आप के दृस्टि के लिए "
+
+#: loco:5357f99fb7f9261b249a9755
+msgid "organization"
+msgstr "संस्था "
+
+#: loco:5357f9a0b7f9261b249a97c5
+msgid "Over one month old"
+msgstr "एक माह से अधिक पुराना"
+
+#: loco:5357f9a0b7f9261b249a97c6
+msgid "Over six months old"
+msgstr "छह माह से अधिक पुराना"
+
+#: loco:5357f9a0b7f9261b249a97c7
+msgid "Over two months old"
+msgstr "दो माह से अधिक पुराना"
+
+#: loco:5357f9a0b7f9261b249a9816
+msgid "own events"
+msgstr "स्वयं का कार्यक्रम "
+
+#: loco:5357f99fb7f9261b249a96c9
+msgid "owner"
+msgstr "मालिक "
+
+#: loco:5357f9a0b7f9261b249a97c8
+msgid "Page Not Found"
+msgstr "पेज नहीं पाया गया "
+
+#: loco:5357f99fb7f9261b249a95e2
+msgid "Parent level:"
+msgstr "उत्पादक स्तर:"
+
+#: loco:5357f99fb7f9261b249a95e3
+msgid "Parent tag:"
+msgstr "उत्पादक tag:"
+
+#: loco:5357f99fb7f9261b249a95e7
+msgid "Password:"
+msgstr "पासवर्ड:"
+
+#: loco:5357f99fb7f9261b249a95e4
+msgid "Password again:"
+msgstr "पासवर्ड फिर से: "
+
+#: loco:5357f99fb7f9261b249a95e5
+msgid "Password change on Mycitizen.net"
+msgstr ""
+"पासवर्ड बदलना माई सिटीजन.नेट "
+"पर "
+
+#: loco:5357f99fb7f9261b249a95e6
+msgid "The password couldn't be changed! Please try again later."
+msgstr ""
+"पासवर्ड नहीं बदला जा सकता है! "
+"पुनः प्रयास करें. "
+
+#: loco:5357f99fb7f9261b249a96e0
+msgid "Permission to create items"
+msgstr "पद रचना के लिए अनुमति "
+
+#: loco:5357f99fb7f9261b249a95e8
+msgid "Phone:"
+msgstr "फ़ोन:"
+
+#: loco:5357f99fb7f9261b249a9725
+msgid "PHP max execution time"
+msgstr "PHP अधिकतम कार्यान्वयन समय "
+
+#: loco:5357f99fb7f9261b249a9726
+msgid "PHP memory limit"
+msgstr "PHP मेमोरी सीमा "
+
+#: loco:5357f99fb7f9261b249a9727
+msgid "PHP memory usage"
+msgstr "PHP मेमोरी खपत "
+
+#: loco:5357f99fb7f9261b249a96df
+msgid "PHP Version"
+msgstr "PHP संस्करण "
+
+#: loco:5357f9a0b7f9261b249a9817
+msgid "pixel"
+msgstr "पिक्सेल "
+
+#: loco:5357f99fb7f9261b249a976a
+msgid "Please answer the security question"
+msgstr ""
+"कृपया सुरक्षा सवाल का जबाब "
+"दें"
+
+#: loco:5357f9a0b7f9261b249a97c9
+msgid "Please check now your profile and enter a description and tags."
+msgstr ""
+"कृपया अपना प्रोफाइल चेक करें "
+"और विवरण तथा टैग लिखें."
+
+#: loco:5357f99fb7f9261b249a95e9
+msgid "Please enter some text."
+msgstr "कृपया कुछ लाइन लिखें."
+
+#: loco:5362190c8509cbb0c7ffaef9
+msgid "Please enter the new file name:"
+msgstr "कृपया नया फाइल नाम लिखें "
+
+#: loco:5357f9a0b7f9261b249a97ca
+msgid "Please enter the text!"
+msgstr "कृपया टेक्स्ट लिखें!"
+
+#: loco:5357f99fb7f9261b249a96ee
+msgid "Please enter your new password"
+msgstr ""
+"कृपया अपना नया पासवर्ड इंटर "
+"करें \n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a95ea
+msgid "Please give us some details."
+msgstr "कृपया कुछ विवरण दें."
+
+#: loco:5357f99fb7f9261b249a95eb
+msgid "Please go to the edit screen and generate a link."
+msgstr ""
+"कृपया एडिट स्क्रीन पर जाएं, "
+"और एक लिक जेनरेट करें.  "
+
+#: loco:5357f99fb7f9261b249a9728
+msgid ""
+"Please paste here the <u>underlined</u> part of the url for the media that "
+"you want to add:"
+msgstr ""
+"कृपया यहाँ चिपकाएं <u> "
+"रेखांकित</u> हिस्सा url का मिडिया "
+"के लिए जिसे आप जोड़ना चाहते है: "
+
+#: loco:5357f9a0b7f9261b249a97cb
+msgid "Please select a file"
+msgstr "कृपया एक फाइल चुनें "
+
+#: loco:5360ab408509cbb0c7ff9de3
+msgid "Please select a recipient"
+msgstr "पाने वाले को चुनें "
+
+#: loco:5357f99fb7f9261b249a95ec
+msgid "Please select first a part of the image."
+msgstr ""
+"कृपया पहले चित्र का हिस्सा "
+"चुनें."
+
+#: loco:5357f9a0b7f9261b249a9826
+msgid "Please sign in first."
+msgstr "कृपया पहले साइन इन "
+
+#: loco:5357f99fb7f9261b249a9770
+msgid "Please try again later."
+msgstr ""
+"कृपया बाद में पुनः प्रयास "
+"करें"
+
+#: loco:5357f99fb7f9261b249a96ef
+msgid "Please use only the English alphabet."
+msgstr ""
+"कृपया सिर्फ अंग्रेजी "
+"वर्णमाल का उपयोग करें."
+
+#: loco:53664a338509cbb0c7ffbd4c
+msgid "Please welcome our new member: %s has joined this group."
+msgstr ""
+"कृपया इस समूह में नये सदस्य "
+"का स्वागत करें:"
+
+#: loco:5357f99fb7f9261b249a95ee
+msgid "Post new comment"
+msgstr "पोस्ट नया प्रतिक्रिया "
+
+#: loco:5357f99fb7f9261b249a95ef
+msgid "Post reply"
+msgstr "पोस्ट का जबाब "
+
+#: loco:5357f99fb7f9261b249a96e1
+msgid "Privacy policy"
+msgstr "प्राइवेसी नीति "
+
+#: loco:5357f99fb7f9261b249a9756
+msgid "private messages"
+msgstr "व्यक्तिगत सन्देश "
+
+#: loco:5357f9a0b7f9261b249a97cc
+msgid "Problem found"
+msgstr "गलती पाया गया "
+
+#: loco:5357f9a0b7f9261b249a97cd
+msgid "Purge unconfirmed users"
+msgstr "अवैध उपभोक्ता "
+
+#: loco:5357f9a0b7f9261b249a9818
+msgid "read or write messages"
+msgstr "सन्देश पढ़ना या लिखना "
+
+#: loco:53674f448509cbb0c7ffc658
+msgid "Read your messages in your [inbox] (%s)."
+msgstr "अपना सन्देश पढ़े [इनबॉक्स] (%s)"
+
+#: loco:5357f99fb7f9261b249a95f0
+msgid "Reason:"
+msgstr "कारण:"
+
+#: loco:5357f99fb7f9261b249a9788
+msgid "Recent activity at %s"
+msgstr "नया गतिविधि %s"
+
+#: loco:5357f9a0b7f9261b249a97ce
+msgid "Recommended Groups"
+msgstr "स्वीकार किया गया समूह "
+
+#: loco:5357f9a0b7f9261b249a97cf
+msgid "Recommended Resources"
+msgstr "स्वीकार किया गया संसाधन "
+
+#: loco:5357f9a0b7f9261b249a97d0
+msgid "Recommended Users"
+msgstr "स्वीकार किया गया उपभोक्ता  "
+
+#: loco:5357f99fb7f9261b249a96ca
+msgid "regenerate image"
+msgstr "चित्र को दुबारा उत्पन्न करना "
+
+#: loco:5357f99fb7f9261b249a95f3
+msgid ""
+"Registration has been successful. A message has been sent to your email with "
+"further instructions how to activate your account."
+msgstr ""
+"पंजीकरण सफलता पूर्वक पूरा हो "
+"गया है. आप के ईमेल पर एक संदेश "
+"भेंजे गया है की आप किस तरह से "
+"अपना अकॉउंट एक्टिवेट करें.  "
+
+#: loco:5357f99fb7f9261b249a95f4
+msgid "Reject friendship request"
+msgstr "मित्रता आग्रह ख़ारिज किया  गया "
+
+#: loco:5357f9a0b7f9261b249a97d1
+msgid "Release information:"
+msgstr "जानकारियाँ बताना "
+
+#: loco:5357f99fb7f9261b249a96f0
+msgid "Reload the chat."
+msgstr "रीलोड चार्ट "
+
+#: loco:5357f99fb7f9261b249a9757
+msgid "Remember me"
+msgstr "मुझे याद रखें "
+
+#: loco:5357f99fb7f9261b249a9729
+msgid "Remove this message."
+msgstr "इस सन्देश को मिटायें."
+
+#: loco:5357f99fb7f9261b249a96cb
+msgid "remove user from resource"
+msgstr ""
+"उपभोक्ता को संसाधन में से "
+"हटाना "
+
+#: loco:5357f99fb7f9261b249a95f6
+msgid "Repeat password:"
+msgstr "पासवर्ड रिपीट:"
+
+#: loco:5357f99fb7f9261b249a96cc
+msgid "reply"
+msgstr "जबाब "
+
+#: loco:5357f99fb7f9261b249a95f8
+msgid "Report about group %s, reason: %s"
+msgstr ""
+"समूह %s, के बारे में रिपोर्ट  "
+"कारण: %s"
+
+#: loco:5357f99fb7f9261b249a95f9
+msgid "Report about resource %s, reason: %s"
+msgstr ""
+" रिपोर्ट संसाधन %s, के बारे में  "
+"कारण %s"
+
+#: loco:5357f99fb7f9261b249a95fa
+msgid "Report about user %s, reason: %s"
+msgstr ""
+" रिपोर्ट उपभोक्ता %s, के बारे "
+"में कारण %s "
+
+#: loco:5357f99fb7f9261b249a95fb
+msgid "Report group"
+msgstr " रिपोर्ट समूह "
+
+#: loco:5357f99fb7f9261b249a95fc
+msgid "Report resource"
+msgstr " रिपोर्ट संसाधन "
+
+#: loco:5357f99fb7f9261b249a95fd
+msgid "Report user"
+msgstr " रिपोर्ट उपभोक्ता "
+
+#: loco:5357f99fb7f9261b249a95ff
+msgid "Request friendship"
+msgstr "मित्रता आग्रह"
+
+#: loco:5357f99fb7f9261b249a9600
+msgid "Request friendship again"
+msgstr "पुनः: मित्रता आग्रह"
+
+#: loco:5357f99fb7f9261b249a9601
+msgid "Request new password"
+msgstr "आग्रह नए पासवर्ड का "
+
+#: loco:5357f99fb7f9261b249a972b
+msgid "Reset the filter and show the entire list."
+msgstr ""
+"फ़िल्टर को रिसेट करें और पुरे "
+"सूचि को दिखाएँ."
+
+#: loco:5357f99fb7f9261b249a976e
+msgid ""
+"Reset the search.<ul><li>The first click resets the search on this page."
+"</li><li>The second click resets the search on all pages.</li></ul>"
+msgstr ""
+"खोज को रिसेट करें<ul><li> पहला "
+"क्लिक खोज को रिसेट करने के "
+"लिए इस पेज पर </li><li> दूसरा क्लिक "
+"खोज को रिसेट  करने के लिए सभी "
+"पेजों पर </li></ul>  "
+
+#: loco:5357f9a0b7f9261b249a9819
+msgid "reset to initial selection"
+msgstr ""
+"प्रारंभिक चुनाव की पुनः ठीक "
+"करना "
+
+#: loco:5357f99fb7f9261b249a96f9
+msgid "resource"
+msgstr "उपभोक्ता "
+
+#: loco:5357f99fb7f9261b249a96f1
+msgid "Resource location on a map"
+msgstr "मानचित्र पर संसाधन की स्थिति "
+
+#: loco:5357f9a0b7f9261b249a97d3
+msgid "Resource name cannot be empty!"
+msgstr ""
+"संसाधन नाम खली नहीं छोड़ा जा "
+"सकता है!"
+
+#: loco:5357f99fb7f9261b249a9602
+msgid "Resource owner: "
+msgstr "संसाधन का मालिक:"
+
+#: loco:5357f99fb7f9261b249a9603
+msgid "Resource status"
+msgstr "संसाधन की स्थिति "
+
+#: loco:5357f99fb7f9261b249a9604
+msgid "Resource type:"
+msgstr "संसाधन का प्रकार:"
+
+#: loco:5357f99fb7f9261b249a9605
+msgid "Resource updated"
+msgstr "संसाधन अपडेटेड "
+
+#: loco:5357f99fb7f9261b249a96cd
+msgid "restore from trash"
+msgstr "पुनः जमा करना फालतू में से "
+
+#: loco:5357f99fb7f9261b249a96e2
+msgid "Restrict your search to a location"
+msgstr ""
+"एक लोकेशन के लिए अपना खोज "
+"प्रतिबंधित करें "
+
+#: loco:5357f99fb7f9261b249a972c
+msgid "Return to the home screen."
+msgstr "होम स्क्रीन पर वापस आना "
+
+#: loco:5357f99fb7f9261b249a9607
+msgid "Revoke request"
+msgstr "रद्द करने का आग्रह "
+
+#: loco:5357f99fb7f9261b249a972d
+msgid "Screenshot processing."
+msgstr "स्क्रीनशूट प्रोसेसिंग."
+
+#: loco:5357f99fb7f9261b249a960a
+msgid "Search Comments"
+msgstr "प्रतिक्रिया खोज "
+
+#: loco:5357f99fb7f9261b249a96e3
+msgid "Search for a place"
+msgstr "खोज एक स्थान का "
+
+#: loco:5357f99fb7f9261b249a96e4
+msgid "Search for similar topics like your interests and around your location."
+msgstr ""
+"अपने लोकेशन के आसपास इसी तरह "
+"के अन्य विषय ढूंढें जिसमें की "
+"आप की रूचि है."
+
+#: loco:5357f9a0b7f9261b249a97d7
+msgid "Searched around your location."
+msgstr ""
+"अपने लोकेशन के चारों ओर खोज "
+"गया."
+
+#: loco:5357f9a0b7f9261b249a9828
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
+"विश्व व्यापी रूप से ढूंढा गया "
+"क्योंकि आप के स्थान पर "
+"पर्याप्त नहीं पाया गया !"
+
+#: loco:5357f99fb7f9261b249a9767
+msgid "Security Question"
+msgstr ""
+"सुरक्षा सवाल \n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a960c
+msgid "See details about the user and respond to the request."
+msgstr ""
+"उपभोक्ता के बारे में विवरण "
+"देखे एवं उसके आग्रह का जबाब "
+"दें."
+
+#: loco:5357f99fb7f9261b249a960e
+msgid "Select a group for more details."
+msgstr ""
+"अधिक विवरण के लिए एक समूह का "
+"चयन करें."
+
+#: loco:5357f99fb7f9261b249a960f
+msgid "Select a language of this resource."
+msgstr ""
+"इस संसाधन के लिए एक भाषा का "
+"चयन करें."
+
+#: loco:5357f99fb7f9261b249a9610
+msgid "Select a language that will be used in this group for communication."
+msgstr ""
+"एक भाषा का चयन करें जो की इस "
+"समूह से संपर्क के लिए उपयोग "
+"हो. "
+
+#: loco:5357f99fb7f9261b249a9611
+msgid "Select a resource for more details."
+msgstr ""
+"अधिक विवरण के लिए एक संसाधन "
+"को चुने "
+
+#: loco:5357f99fb7f9261b249a9612
+msgid "Select a tag"
+msgstr "एक टैग चुनें "
+
+#: loco:5357f99fb7f9261b249a972e
+msgid "Select a tag that describes a topic that this group is about."
+msgstr ""
+"एक टैग चुनें जो की आप के समूह "
+"के टॉपिक के बारे में विस्तृत "
+"रूप से बताये."
+
+#: loco:5357f99fb7f9261b249a972f
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr ""
+"एक टैग चुनें जो की आप के "
+"संसाधन के टॉपिक के बारे में "
+"विस्तृत रूप से बताये."
+
+#: loco:5357f99fb7f9261b249a9730
+msgid "Select a tag that describes one of your interests."
+msgstr ""
+"एक टैग चुनें जो की आप के रूचि "
+"के बारे में बताये."
+
+#: loco:5357f99fb7f9261b249a9613
+msgid "Select a time"
+msgstr ""
+"समय चुनें\n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a9614
+msgid "Select a user for more details."
+msgstr ""
+"अधिक विवरण के लिए उपभोक्ता "
+"चुनें."
+
+#: loco:5357f99fb7f9261b249a9615
+msgid ""
+"Select one or more groups to subscribe to this resource. Only groups are "
+"displayed that you own or where you have at least moderator permissions."
+msgstr ""
+"इस संसाधन से सब्सक्राइब करने "
+"के लिए एक या अधिक समूह को "
+"चुनें. सिर्फ वही समूह "
+"प्रदर्शित होगा जिसके की आप "
+"मालिक हैया फिर जिसके लिए आप "
+"के पास मॉडरेटर की अनुमति है."
+
+#: loco:5357f99fb7f9261b249a9616
+msgid ""
+"Select one or more resources to unsubscribe. Only resources are displayed "
+"that this group is subscribed to. You can subscribe to resources on the "
+"detail page of a resource."
+msgstr ""
+"अनसब्सक्राइब करने के लीये एक "
+"या अधिक संसाधन को चुनें. "
+"सिर्फ वही संसाधन प्रदर्शित "
+"होगा जिस समूह के लिए वह "
+"सब्स्क्राइब है.आप संसाधन को "
+"सब्सक्राइब  कर सकते है, "
+"संसाधन के डिटेल पेज से. "
+
+#: loco:5357f99fb7f9261b249a960d
+msgid "Select Parent Level"
+msgstr "पैरेंट स्तर चुनें "
+
+#: loco:5357f99fb7f9261b249a9617
+msgid "Selected Location"
+msgstr "चुना गया लोकेसन "
+
+#: loco:5357f99fb7f9261b249a9619
+msgid "Send a message to a friend"
+msgstr "एक मित्र को एक सन्देश भेंजें"
+
+#: loco:5357f9a0b7f9261b249a97d8
+msgid "Send a message to all members"
+msgstr ""
+"एक सन्देश भेंजे सभी सदस्यों "
+"को "
+
+#: loco:5357f99fb7f9261b249a9763
+msgid "Send a private message to %s"
+msgstr ""
+"एक व्यक्तिगत सन्देश भेजें को "
+"%s"
+
+#: loco:5357f9a0b7f9261b249a97d9
+msgid "Send them a local message."
+msgstr ""
+"एक सामान्य सन्देश उन लोगों को "
+" भेंजे "
+
+#: loco:5357f9a0b7f9261b249a97da
+msgid "Send them an email."
+msgstr "एक ईमेल उन लोगों को  भेंजे."
+
+#: loco:5357f99fb7f9261b249a96ce
+msgid "Setup and Maintenance"
+msgstr "सेटअप और रख रखाव "
+
+#: loco:5357f99fb7f9261b249a976d
+msgid ""
+"Show only messages by senders with matching names.<ul><li>Type to search only "
+"on this page.</li><li>Type and press enter to search on all pages.</li></ul>"
+msgstr ""
+"सिर्फ भेजने वालों के संदेशों "
+"नामों के मिलान के हिसाब से "
+"दिखाएँ. <ul><il>सिर्फ  इस पेज पर "
+"टाइप करें खोज के लिए.</li><li>टाइप "
+"और इंटर करें सभी पेजों पर खोज "
+"के लिए.</li><ul>"
+
+#: loco:5357f99fb7f9261b249a96f2
+msgid "Show the location where you are right now."
+msgstr ""
+"अपनी स्थिति दिखाएँ की अभी "
+"कहाँ पर आप हैं."
+
+#: loco:5357f99fb7f9261b249a961c
+msgid "Sign in"
+msgstr "साइन इन "
+
+#: loco:5357f99fb7f9261b249a9769
+msgid "Sign in is disabled. Please try again later."
+msgstr ""
+"साइन इन  डिसेबल्ड है. कृपया "
+"पुनः बाद में प्रयास करें."
+
+#: loco:5357f9a0b7f9261b249a981a
+msgid "sign in with Facebook"
+msgstr "फेसबुक के साथ साइन इन करना "
+
+#: loco:5357f99fb7f9261b249a961d
+msgid "Sign out"
+msgstr "साइन आउट "
+
+#: loco:5357f99fb7f9261b249a961e
+msgid "sign up"
+msgstr "साइन अप"
+
+#: loco:5357f99fb7f9261b249a9768
+msgid "Sign up is disabled. Please try again later."
+msgstr ""
+"साइनअप डिसेबल्ड है. कृपया "
+"पुनः बाद में प्रयास करें."
+
+#: loco:5357f99fb7f9261b249a96e5
+msgid "Similar to me"
+msgstr "मेरे लिए भी इसी तरह का "
+
+#: loco:5357f99fb7f9261b249a961f
+msgid "Software version:"
+msgstr "सॉफ्टवेर संस्करण:"
+
+#: loco:5357f99fb7f9261b249a9783
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr ""
+"कोई कोशिश कर रहा है आप के नाम "
+"से और गलत पासवर्ड से लॉगिन "
+"करने की."
+
+#: loco:5357f99fb7f9261b249a9758
+msgid "sound on Soundcloud"
+msgstr "ध्वनि साउंडक्लाउड पर "
+
+#: loco:5357f99eb7f9261b249a9539
+msgid "(spam)"
+msgstr "(बेकार )"
+
+#: loco:5357f99fb7f9261b249a9620
+msgid "Specified user not found."
+msgstr ""
+"स्पेसिफाइड उपभोक्ता नहीं "
+"पाया गया."
+
+#: loco:5357f9a0b7f9261b249a97dc
+msgid ""
+"Stand by for scheduled maintenance in %s minutes and %s seconds. Please "
+"finish your activities."
+msgstr ""
+"सामान्य मरम्मत के लिए स्टैंड "
+"बाई में मिनट %s सेकंड %s. कृपया "
+"अपना कार्य पूर्ण  करलें "
+
+#: loco:5357f9a0b7f9261b249a97dd
+msgid "Start:"
+msgstr "शुरू:"
+
+#: loco:5357f99fb7f9261b249a9623
+msgid "Subscribe as group"
+msgstr "सब्सक्राइब एक समूह के रूप में "
+
+#: loco:5357f99fb7f9261b249a9624
+msgid "Subscribe to resource"
+msgstr "सब्सक्राइब संसाधन से "
+
+#: loco:5357f99fb7f9261b249a96cf
+msgid "subscribed"
+msgstr "सब्सक्राइब्ड "
+
+#: loco:5357f9a0b7f9261b249a981b
+msgid "subscribed events"
+msgstr "कार्यक्रम स्वीकार करना "
+
+#: loco:5357f99fb7f9261b249a9625
+msgid "Subscribed Groups"
+msgstr "सब्स्क्राइब्ड समूह  "
+
+#: loco:5357f99fb7f9261b249a9627
+msgid "Subscribed to resources"
+msgstr "सब्स्क्राइब्ड संसाधन से  "
+
+#: loco:5357f99fb7f9261b249a9626
+msgid "Subscribed Users"
+msgstr "सब्स्क्राइब्ड उपभोक्ता  "
+
+#: loco:5357f99fb7f9261b249a9629
+msgid "Subscriptions as group"
+msgstr ""
+"सब्स्क्रिप्सन एक समूह के रूप "
+"में "
+
+#: loco:5357f9a0b7f9261b249a97df
+msgid "Success!"
+msgstr "सफल "
+
+#: loco:5357f99fb7f9261b249a962b
+msgid "Surname:"
+msgstr "उपनाम:"
+
+#: loco:5357f99fb7f9261b249a962c
+msgid "System check"
+msgstr "सिस्टम चेक "
+
+#: loco:5357f99fb7f9261b249a9732
+msgid "System check finished."
+msgstr "सिस्टम चेक समाप्त हुआ."
+
+#: loco:5357f9a0b7f9261b249a97e2
+msgid "System check finished. Find the results below."
+msgstr ""
+"सिस्टम चेक होगया है. निचे "
+"अपना परिणाम देखें "
+
+#: loco:5357f99fb7f9261b249a962d
+msgid "System message: Warning!!!"
+msgstr "सिस्टम सन्देश: चेतावनी!!! "
+
+#: loco:5357f99fb7f9261b249a9734
+msgid "System message: You've received a warning."
+msgstr ""
+"सिस्टम सन्देश: आप को एक "
+"चेतावनी प्राप्त हुआ है."
+
+#: loco:5357f99fb7f9261b249a9733
+msgid "System message: You've received a warning about your group."
+msgstr ""
+"सिस्टम सन्देश: आप को आप के "
+"समूह के बारे में एक चेतावनी "
+"प्राप्त हुआ है."
+
+#: loco:5357f99fb7f9261b249a962f
+msgid "Tag name:"
+msgstr "टैग नाम:"
+
+#: loco:5357f99fb7f9261b249a9735
+msgid "Tag \"%s\" saved."
+msgstr ""
+"टैग \"%s\" सेव्ड.\n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a96d0
+msgid "tag_name"
+msgstr "टैग_नाम "
+
+#: loco:5357f99fb7f9261b249a9631
+msgid "Tell us why you report this group, including examples:"
+msgstr ""
+"बताएं की क्यों आप ने इस समूह "
+"को रिपोर्ट किया, उदाहरण:"
+
+#: loco:5357f99fb7f9261b249a9632
+msgid "Tell us why you report this resource, including examples:"
+msgstr ""
+"बताएं की क्यों आप ने इस "
+"संसाधन को रिपोर्ट किया, "
+"उदाहरण के साथ:"
+
+#: loco:5357f99fb7f9261b249a9633
+msgid "Tell us why you report this user, including examples:"
+msgstr ""
+"बताएं की क्यों आप ने इस "
+"उपभोक्ता को रिपोर्ट किया, "
+"उदाहरण के साथ "
+
+#: loco:5357f99fb7f9261b249a978a
+msgid "Terms of Use"
+msgstr "उपयोग की शर्तें "
+
+#: loco:5357f99fb7f9261b249a9737
+msgid "Test locale"
+msgstr "परख स्थानीय "
+
+#: loco:5357f99fb7f9261b249a9738
+msgid "Test the import in a dry run"
+msgstr "आयत की परख सूखे दौड़ में "
+
+#: loco:5357f99fb7f9261b249a9634
+msgid "Text:"
+msgstr "टेक्स्ट:"
+
+#: loco:5357f99fb7f9261b249a9765
+msgid "The administrator asks you to answer a security question before you can enter."
+msgstr ""
+"आप के एंटर करने से पहले "
+"प्रसाशक आप से सुरक्षा जबाब "
+"पूछेगा."
+
+#: loco:5357f99fb7f9261b249a96f3
+msgid "The chat is only visible to group members."
+msgstr ""
+"चार्ट सिर्फ समूह के सदस्य के "
+"दृष्ट्व्य में है."
+
+#: loco:5357f9a0b7f9261b249a981f
+msgid "The following items could be interesting for you:"
+msgstr ""
+"निम्नलिखित चीझें आप के लिए "
+"उपयोगी हो सकते हैं "
+
+#: loco:53664a438509cbb0c7ffbd4e
+msgid "%s has left the group. Good-bye!"
+msgstr "%s समूह छोड़ दिया! अलविदा"
+
+#: loco:5357f99fb7f9261b249a977a
+msgid "The group added a resource."
+msgstr "समूह ने एक संसाधन जोड़ा है."
+
+#: loco:5357f99fb7f9261b249a977b
+msgid "The group chat has new messages."
+msgstr "समूह चैट के पास नया सन्देश है."
+
+#: loco:53664a018509cbb0c7ffbd48
+msgid "The group has subscribed to the resource %s."
+msgstr ""
+" इस समूह को जोड़ा दिया गया है "
+"संसाधन से %s."
+
+#: loco:53664a168509cbb0c7ffbd4a
+msgid "The group has unsubscribed from the following resources:"
+msgstr ""
+"निम्न संसाधन से इस समूह को "
+"हटा दिया गया है "
+
+#: loco:5357f99fb7f9261b249a9781
+msgid "The group information was updated."
+msgstr ""
+"समूह की जानकारियाँ अपडेट की "
+"जा चुकी है."
+
+#: loco:5357f9a0b7f9261b249a97e4
+msgid "The group unsubscribed from a resource."
+msgstr ""
+"संसाधन से यह समूह अन "
+"सब्स्क्रिब हैं"
+
+#: loco:5357f99fb7f9261b249a9780
+msgid "The group unsubscribed from the resource."
+msgstr ""
+"समूह उनसबस्क्राइब है इस "
+"संसाधन से."
+
+#: loco:5357f9a0b7f9261b249a97e5
+msgid "The group was updated."
+msgstr "समूह अपडेटेड था."
+
+#: loco:5357f99fb7f9261b249a9739
+msgid "The image is too big! Max. size for upload is %s"
+msgstr ""
+"चित्र बहुत बड़ा है!! अधिक से "
+"अधिक साइज अपलोड के लिए %s"
+
+#: loco:5357f99fb7f9261b249a96f4
+msgid "The image is too big! Max. size is for upload is %s"
+msgstr ""
+"तस्वीर बहुत बड़ी है! अधिकतम "
+"साइज अपलोड के लिए है %s "
+
+#: loco:5357f99fb7f9261b249a973a
+msgid "The image is too small! Min. size for upload is %s"
+msgstr ""
+"चित्र बहुत छोटा हैll! कम से कम "
+"साइज अपलोड के लिए %s"
+
+#: loco:5357f99fb7f9261b249a9635
+msgid "The image is too small. Minimum size is %s."
+msgstr ""
+"यह इमेज बहुत छोटा है, कम से कम "
+"साइज %s."
+
+#: loco:5357f99fb7f9261b249a9636
+msgid ""
+"The main language you want to use. You will still be able to see other "
+"languages."
+msgstr ""
+"मुख्या भाषा जिसे आप युस करना "
+"चाहते हैं. अब भी आप सक्षम है की "
+"दूसरा भाषा देख सके."
+
+#: loco:5357f99fb7f9261b249a9637
+msgid "The minimal length of your username is %s characters."
+msgstr ""
+"आप के यूजरनाम की लम्बाई कम से "
+"कम %s अक्षर है. "
+
+#: loco:5357f99fb7f9261b249a976c
+msgid ""
+"The page you requested could not be found. Please correct the address, return "
+"to the previous page, or go back home."
+msgstr ""
+"आप ने जिस पेज का आग्रह किया है "
+"वह  पाया नहीं गया. कृपया "
+"अड्रेस सही करें. वापस पहले "
+"पेज  पर जाएं. या वापस होम पर "
+"जाएं."
+
+#: loco:5357f9a0b7f9261b249a97e6
+msgid "The password is wrong."
+msgstr "पासवर्ड गलत है."
+
+#: loco:5357f99fb7f9261b249a95f1
+msgid "The registration couldn't be finished! The link is not active anymore."
+msgstr ""
+"पंजीकरण पूरा नहीं हो सकता हैं!"
+" लिंक अब एक्टिव नहीं है."
+
+#: loco:5357f99fb7f9261b249a95f2
+msgid "The registration has been successful. You can now sign in."
+msgstr ""
+"पंजीकरण सफलता पूर्वक पूरा हो "
+"गया है. अब आप साइन इन कर सकते "
+"है."
+
+#: loco:5357f99fb7f9261b249a977c
+msgid "The resource has new comments."
+msgstr "संसाधन के पास नया टिपण्णी है."
+
+#: loco:5357f99fb7f9261b249a9782
+msgid "The resource information was updated."
+msgstr ""
+"संसाधन की जानकारियाँ अपडेट "
+"की जा चुकी है."
+
+#: loco:5357f9a0b7f9261b249a97e7
+msgid "The resource was updated."
+msgstr "संसाधन अपडेटेड था."
+
+#: loco:5357f9a0b7f9261b249a982c
+msgid "The screenshot has been removed."
+msgstr "स्क्रीनशॉट हटाया जा चूका है "
+
+#: loco:5357f99fb7f9261b249a973b
+msgid "The tag cannot be its own parent."
+msgstr ""
+"टैग अपने पेरेंट्स का नहीं हो "
+"सकता है."
+
+#: loco:5357f99fb7f9261b249a9638
+msgid "The username cannot be changed."
+msgstr "यूजर नाम नहीं बदल जा सकता है."
+
+#: loco:5357f99fb7f9261b249a973c
+msgid "There are unread reports:"
+msgstr "अपठित रिपोर्ट्स हैं:"
+
+#: loco:5357f9a0b7f9261b249a97e8
+msgid ""
+"There has been an error sending the confirmation email. Please try again in a "
+"while."
+msgstr ""
+"कन्फोर्मेसन ईमेल भेजते समय "
+"कुछ कमी रह गया है, कृपया कुछ "
+"छणों में पुनः प्रयास करें."
+
+#: loco:5357f99fb7f9261b249a97ae
+msgid ""
+"These files are public. If you want to prevent others from seeing them, you "
+"should choose a file name that is hard to guess."
+msgstr ""
+"यह आम फाइल है.यदि आप दूसरों को "
+"दिखाना नहीं चाहते है तो एक "
+"ऐसा फाइल नाम चुनें जो की कोई न "
+"सोच सके."
+
+#: loco:5357f9a0b7f9261b249a9832
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr ""
+"इस सन्देश  को क्रिया कलाप की "
+"प्रवाह में दिखाया गया है सभी "
+"उपयोग कर्ताओं के लिये!"
+
+#: loco:5357f99fb7f9261b249a9639
+msgid "This email address is already used for another account."
+msgstr ""
+"दूसरे अकाउंट के लिए यह ईमेल "
+"पहले से ही उपयोग में है."
+
+#: loco:5357f99fb7f9261b249a963a
+msgid "This email address is not registered in our system!"
+msgstr ""
+"हमारे सिस्टम में ये ईमेल "
+"पंजीकृत नहीं."
+
+#: loco:5357f99fb7f9261b249a963b
+msgid "This email address is not valid. Please check it and try again."
+msgstr ""
+"यह ईमेल वैध नहीं है, कृपया "
+"जाँच करके पुनः प्रयास करें."
+
+#: loco:5357f99fb7f9261b249a963c
+msgid ""
+"This group can only be viewed by members. Users need to have the key below to "
+"become members."
+msgstr ""
+"सिर्फ सदस्यों द्वारा ही इस "
+"समूह को देखा जा सकता हैं, "
+"सदस्य बनने के लिए उपभोक्ता के "
+"पास key below की आवश्यकता है. "
+
+#: loco:5357f99fb7f9261b249a973d
+msgid "This group contains wrong information."
+msgstr ""
+"इस समूह मैं गलत जानकारियाँ "
+"मौजूद हैं."
+
+#: loco:5357f99fb7f9261b249a963d
+msgid "This group doesn't have a key."
+msgstr "इस समूह के पास key नहीं है."
+
+#: loco:5357f99fb7f9261b249a963e
+msgid "This group violates the rules of conduct."
+msgstr ""
+"यह समूह चलाने के नियम को "
+"तोड़ता है "
+
+#: loco:5357f99fb7f9261b249a963f
+msgid "This group was created by mistake, or it is inactive."
+msgstr ""
+"इस समूह की रचना गलती से हुई है "
+"या फिर  इनक्टिव है."
+
+#: loco:5357f99fb7f9261b249a973e
+msgid "This is my group."
+msgstr "यह मेरा समूह है."
+
+#: loco:5357f99fb7f9261b249a9640
+msgid "This is my profile."
+msgstr "यह मेरा प्रोफाइल है "
+
+#: loco:5357f99fb7f9261b249a973f
+msgid "This is my resource."
+msgstr "यह मेरा संसाधन है."
+
+#: loco:5357f99fb7f9261b249a9641
+msgid "This is not a real group but spam."
+msgstr ""
+"यह वास्तविक समूह नहीं है "
+"बल्कि फालतू है."
+
+#: loco:5357f99fb7f9261b249a9642
+msgid "This is not a real person but spam."
+msgstr ""
+"यह वास्तविक व्यक्ति नहीं है "
+"बल्कि फालतू है."
+
+#: loco:5357f99fb7f9261b249a9643
+msgid "This is not a real resource but spam."
+msgstr ""
+"यह वास्तविक संसाधन नहीं है "
+"बल्कि फालतू है."
+
+#: loco:5357f99fb7f9261b249a9644
+msgid "This person violates the rules of conduct."
+msgstr ""
+"यह व्यक्ति नियम को तोड़ता है "
+"कंडक्ट करने के.\n"
+
+#: loco:5357f9a0b7f9261b249a97e9
+msgid "This person was created by mistake."
+msgstr ""
+"यह व्यक्ति गलती से क्रिएटेड "
+"किया गया था."
+
+#: loco:5357f99fb7f9261b249a9645
+msgid "This person was created by mistake, or he/she is inactive."
+msgstr ""
+"इस व्यक्ति की रचना गलती से "
+"हुई थी या फिर यह इनक्टिव है."
+
+#: loco:5357f99fb7f9261b249a9740
+msgid "This resource contains wrong information."
+msgstr ""
+"इस संसाधन में गलत जानकारियाँ "
+"मौजूद हैं."
+
+#: loco:5357f99fb7f9261b249a9646
+msgid "This resource doesn't exist."
+msgstr "यह संसाधन मौजूद नहीं है."
+
+#: loco:5357f99fb7f9261b249a9647
+msgid "This resource violates the rules of conduct."
+msgstr ""
+"यह संसाधन नियम को तोड़ता है "
+"कंडक्ट करने के."
+
+#: loco:5357f99fb7f9261b249a9648
+msgid "This resource was created by mistake, or it is inactive."
+msgstr ""
+"इस संसाधन की रचना गलती से हुई "
+"थी या फिर यह इनक्टिव है."
+
+#: loco:5357f99fb7f9261b249a9649
+msgid "This user doesn't exist."
+msgstr "यह उपभोक्ता मौजूद नहीं है."
+
+#: loco:5357f99fb7f9261b249a9741
+msgid "This was just a dry run - nothing was saved."
+msgstr ""
+"यह केवल ड्राई रन था. कुछ भी सेव "
+"नहीं हुआ है."
+
+#: loco:5357f99fb7f9261b249a96f5
+msgid "Time:"
+msgstr "समय:"
+
+#: loco:5357f99fb7f9261b249a964b
+msgid "Time Zone"
+msgstr "टाइम ज़ोन "
+
+#: loco:5357f99fb7f9261b249a964d
+msgid "To:"
+msgstr "टू:"
+
+#: loco:5357f99fb7f9261b249a964c
+msgid "To this address we will send a request to confirm your registration."
+msgstr ""
+"इस पते पर हम आप के पंजीकरण के "
+"आग्रह की कन्फोर्मेसन "
+"भेंजेंगे."
+
+#: loco:5357f9a0b7f9261b249a981c
+msgid "today"
+msgstr "आज "
+
+#: loco:5357f99fb7f9261b249a964e
+msgid "Top Groups"
+msgstr "ऊपरी समूह "
+
+#: loco:5357f99fb7f9261b249a96d1
+msgid "top level"
+msgstr "ऊपरी स्तर "
+
+#: loco:5357f99fb7f9261b249a964f
+msgid "Top Resources"
+msgstr "ऊपरी संसाधन "
+
+#: loco:5357f99fb7f9261b249a9650
+msgid "Top Users"
+msgstr "ऊपरी उपभोक्ता "
+
+#: loco:5357f99fb7f9261b249a9759
+msgid "total"
+msgstr "टोटल "
+
+#: loco:5357f99fb7f9261b249a9652
+msgid "Trash emptied."
+msgstr "कूड़ादान खाली है."
+
+#: loco:5357f99fb7f9261b249a9653
+msgid "Try a different filter."
+msgstr ""
+"एक अलग फ़िल्टर के लिए प्रयास "
+"करें."
+
+#: loco:5357f99fb7f9261b249a9657
+msgid "Unblock this user"
+msgstr "इस उपभोक्ता को अनब्लॉक करें "
+
+#: loco:5357f9a0b7f9261b249a981d
+msgid "unfinished registration"
+msgstr "अपूर्ण  पंजीकरण "
+
+#: loco:5357f99fb7f9261b249a9659
+msgid "Unsubscribe from resource"
+msgstr "अनसब्सक्राइब संसाधन से "
+
+#: loco:5357f99fb7f9261b249a9744
+msgid "Update languages"
+msgstr "अपडेट भाषाओँ "
+
+#: loco:5357f99fb7f9261b249a965b
+msgid "Upload Avatar:"
+msgstr "अपलोड अवतार:"
+
+#: loco:5357f99fb7f9261b249a965c
+msgid "Upload group image:"
+msgstr "अपलोड समूह चित्र:"
+
+#: loco:5357f99fb7f9261b249a9742
+msgid "URL doesn't seem to exist"
+msgstr "URL अस्तित्व में नहीं "
+
+#: loco:5357f99fb7f9261b249a9655
+msgid "URL must start with http:// or https://!"
+msgstr ""
+"URL शुरू अनिवार्य रूप से http:// या "
+"https://!"
+
+#: loco:5357f99fb7f9261b249a9656
+msgid "URL to external source:"
+msgstr "URL आंतरिक स्रोत से: "
+
+#: loco:5357f99fb7f9261b249a96f6
+msgid "Use the filter to narrow down the list of items"
+msgstr ""
+"सूचि के आइटम्स को नैरो डाउन "
+"करने के लिए फ़िल्टर का उपयोग "
+"करें "
+
+#: loco:5357f99fb7f9261b249a96fb
+msgid "user"
+msgstr "उपभोक्ता "
+
+#: loco:5357f99fb7f9261b249a9745
+msgid "User Forum:"
+msgstr "यूजर फोरम:"
+
+#: loco:5357f99fb7f9261b249a96e6
+msgid "User has been deactivated"
+msgstr "उपभोक्ता निष्क्रिय हो गया है "
+
+#: loco:5357f99fb7f9261b249a9663
+msgid "User lost password"
+msgstr "उपभोक्ता पासवर्ड भूल गया है "
+
+#: loco:5357f99fb7f9261b249a9664
+msgid "User permissions"
+msgstr "उपभोक्ता की अनुमति "
+
+#: loco:5357f99fb7f9261b249a9665
+msgid "User permissions changed."
+msgstr "उपभोक्ता की अनुमति बदल गई है."
+
+#: loco:5357f99fb7f9261b249a96e7
+msgid "User role"
+msgstr "उपभोक्ता की भूमिका "
+
+#: loco:5357f99fb7f9261b249a9666
+msgid "User signin"
+msgstr "उपभोक्ता साइनइन \n"
+
+#: loco:5357f99fb7f9261b249a9661
+msgid "User Signup"
+msgstr "उपभोक्ता साइनअप "
+
+#: loco:5357f99fb7f9261b249a9662
+msgid "User status"
+msgstr "उपभोक्ता की स्थिति "
+
+#: loco:5357f99fb7f9261b249a9667
+msgid "User update"
+msgstr "उपभोक्ता अपडेट "
+
+#: loco:5357f99fb7f9261b249a9668
+msgid "User updated"
+msgstr "उपभोक्ता अपडेटेड  "
+
+#: loco:5357f99fb7f9261b249a9669
+msgid "User with the same name already exists."
+msgstr ""
+"उपभोक्ता पहले से ही इस नाम से "
+"मौजूद है."
+
+#: loco:5357f99fb7f9261b249a965d
+msgid "User %s accepted your friendship."
+msgstr ""
+"उपभोक्ता %s आप के मित्रता को "
+"स्वीकार किया "
+
+#: loco:5357f99fb7f9261b249a965e
+msgid "User %s canceled your friendship."
+msgstr ""
+"उपभोक्ता %s आप के मित्रता को "
+"अस्वीकार किया."
+
+#: loco:5357f99fb7f9261b249a965f
+msgid "User %s rejected your friendship."
+msgstr ""
+"उपभोक्ता %s आप के मित्रता को "
+"ख़ारिज किया "
+
+#: loco:5357f99fb7f9261b249a9660
+msgid "User %s requested your friendship."
+msgstr ""
+"उपभोक्ता %s आप से मित्रता का "
+"आग्रह करता है. "
+
+#: loco:5357f99fb7f9261b249a966c
+msgid "Username:"
+msgstr "यूज़रनेम:"
+
+#: loco:5357f99fb7f9261b249a966b
+msgid "Username cannot be empty!"
+msgstr ""
+"यूज़रनेम खाली नहीं छोड़ा जा "
+"सकता है!"
+
+#: loco:5357f99fb7f9261b249a966a
+msgid "User's location on a map"
+msgstr ""
+"मानचित्र पर उपभोक्ताक की "
+"स्थिति "
+
+#: loco:5357f99fb7f9261b249a975a
+msgid "video on Vimeo"
+msgstr "विडिओ विमको पर "
+
+#: loco:5357f99fb7f9261b249a975b
+msgid "video on YouTube"
+msgstr "विडिओ यूट्यूब पर "
+
+#: loco:5357f99fb7f9261b249a9746
+msgid "View big screenshot"
+msgstr "देखें बड़ा स्क्रीनशॉट."
+
+#: loco:5357f99fb7f9261b249a966e
+msgid "View details."
+msgstr "विवरण देखें "
+
+#: loco:5357f99fb7f9261b249a966f
+msgid "View group owner:"
+msgstr " देखें समूह के मालिक को:"
+
+#: loco:5357f9a0b7f9261b249a9821
+msgid "View profile"
+msgstr "प्रलेख देखें "
+
+#: loco:5357f99fb7f9261b249a9670
+msgid "View resource owner:"
+msgstr " देखें संसाधन के मालिक को: "
+
+#: loco:5357f99fb7f9261b249a975c
+msgid "visbility 'friends'"
+msgstr "दृष्ट्या \"मित्रों \""
+
+#: loco:5357f99fb7f9261b249a975d
+msgid "visbility 'members'"
+msgstr "दृष्ट्या \"सदस्यों \""
+
+#: loco:5357f99fb7f9261b249a975e
+msgid "visbility 'registered'"
+msgstr "दृष्ट्या \"पंजीकृत \""
+
+#: loco:5357f99fb7f9261b249a975f
+msgid "visbility 'susbcribed'"
+msgstr "दृष्ट्या \"सब्स्क्राइब्ड \""
+
+#: loco:5357f99fb7f9261b249a9760
+msgid "visbility 'world'"
+msgstr "दृष्ट्या \"विश्व \""
+
+#: loco:5357f99fb7f9261b249a9671
+msgid "Visibility:"
+msgstr "दृष्टया "
+
+#: loco:5357f99fb7f9261b249a96d2
+msgid "visible to the world"
+msgstr "विश्व के दृष्ट्व्य "
+
+#: loco:5357f9a0b7f9261b249a97ef
+msgid "Visit Homepage"
+msgstr "मुख्य पृष्ठ पर जाना "
+
+#: loco:5357f99fb7f9261b249a9673
+msgid ""
+"We have received complaints about inappropriate language in your group. "
+"Please make neccessary adjustments or your group will be deactivated."
+msgstr ""
+"आप के संसाधन  में अनुपयुक्त "
+"भाषा के बारे हमें शिकायत "
+"प्राप्त हुआ है. कृपया आवश्यक "
+"तालमेल बनाएं या आप के संसाधन "
+"को डिएक्टींवेट कर दिया "
+"जायेगा."
+
+#: loco:5357f99fb7f9261b249a9672
+msgid ""
+"We have received complaints about inapproprite language in your group. Please "
+"make neccessary adjustments or your group will be deactivated."
+msgstr ""
+"आप के समूह में अनुपयुक्त भाषा "
+"के बारे हमें शिकायत प्राप्त "
+"हुआ है. कृपया आवश्यक तालमेल "
+"बनाएं या आप के समूह को "
+"डिएक्टींवेट कर दिया जायेगा."
+
+#: loco:5357f99fb7f9261b249a9674
+msgid ""
+"We have received complaints about you spaming other users. Please stop or "
+"your account will be deactivated."
+msgstr ""
+"आप के बारे हमें शिकायत "
+"प्राप्त हुआ हैकी आप दूसरे "
+"उपभोक्ता को स्पैमिंग करते है. "
+"कृपया इस गतिविधि को बंद करें "
+"या आप का अकॉउंट डिएक्टींवेट "
+"कर दिया जायेगा."
+
+#: loco:5357f99fb7f9261b249a9675
+msgid ""
+"We have received complaints that you use inappropriate language. Please stop "
+"or your account will be deactivated."
+msgstr ""
+"आप के बारे हमें शिकायत "
+"प्राप्त हुआ हैकी आप "
+"अनुपयुक्त भाषा युस करते है. "
+"कृपया इस गतिविधि को बंद करें "
+"या आप का अकॉउंट डिएक्टींवेट "
+"कर दिया जायेगा."
+
+#: loco:5357f99fb7f9261b249a9676
+msgid ""
+"We have received complaints that your group contains spam. Please delete "
+"inappropriate content or your group will be deactivated."
+msgstr ""
+"हमें शिकायत प्राप्त हुआ है की "
+"आप के समूह में स्पैम शामिल है, "
+"कृपया अनावश्यक सामग्री को "
+"मिटा दें या आप का समूह "
+"डिएक्टींवेट कर दिया जायेगा."
+
+#: loco:5357f99fb7f9261b249a9677
+msgid ""
+"We have received complaints that your resource contains spam. Please delete "
+"inappropriate content or your resource will be deactivated."
+msgstr ""
+"हमें शिकायत प्राप्त हुआ है की "
+"आप के संसाधन में स्पैम शामिल "
+"है, कृपया अनावश्यक सामग्री को "
+"मिटा दें या आप का संसाधन "
+"डिएक्टींवेट कर दिया जायेगा."
+
+#: loco:5357f99fb7f9261b249a9771
+msgid ""
+"We have resent your confirmation email - just in case you didn't get it "
+"before."
+msgstr ""
+"हम न. आप को कन्फोर्मेसन ईमेल "
+"पुनः भेंज दिया- सिर्फ  इसलिए "
+"की पहले वाला आप को नहीं मिला "
+"होगा "
+
+#: loco:5357f99fb7f9261b249a9747
+msgid "Web Statistics"
+msgstr "वेब सांख्यिकी "
+
+#: loco:5357f9a0b7f9261b249a981e
+msgid "week"
+msgstr "सप्ताह "
+
+#: loco:5357f99fb7f9261b249a9679
+msgid "Write some lines about your life, your work and your interests."
+msgstr ""
+"अपने जीवन के बारे में कुछ "
+"लाइन लिखें,आप का कार्य और आप "
+"की रूचि."
+
+#: loco:5357f99fb7f9261b249a967a
+msgid "Wrong email format!"
+msgstr "गलत ईमेल फॉर्मेट!"
+
+#: loco:5357f99fb7f9261b249a96d3
+msgid "wrote"
+msgstr "लिखा था "
+
+#: loco:5357f99fb7f9261b249a9761
+msgid "%s new messages"
+msgstr "%s नया सन्देश "
+
+#: loco:5357f99fb7f9261b249a978b
+msgid "%d user(s) purged."
+msgstr "%d उपभोक्ता(s) Purged."
+
+#: loco:5357f99fb7f9261b249a9773
+msgid "You accepted %s's friendship."
+msgstr ""
+"आप ने स्वीकार किया%s's से "
+"मित्रता "
+
+#: loco:5357f99fb7f9261b249a9748
+msgid "You are a moderator on this platform."
+msgstr ""
+"इस प्लेटफॉर्म पर आप एक "
+"मॉडरेटर हैं."
+
+#: loco:5357f99fb7f9261b249a967b
+msgid "You are already a member."
+msgstr "आप पहले से ही एक सदस्य हैं."
+
+#: loco:5357f99fb7f9261b249a9749
+msgid "You are an administrator on this platform."
+msgstr ""
+"इस प्लेटफॉर्म पर आप एक "
+"प्रसाशक हैं."
+
+#: loco:5357f9a0b7f9261b249a97f2
+msgid "You are not allowed to edit this group."
+msgstr ""
+"इस समूह को बदलने की अनुमति आप "
+"को नहीं है.\n"
+
+#: loco:5357f9a0b7f9261b249a982b
+msgid "You are not allowed to edit this resource."
+msgstr ""
+"आप को संसाधन बदलने की अनुमति "
+"नहीं है "
+
+#: loco:5357f9a0b7f9261b249a97f3
+msgid "You are not allowed to edit this user."
+msgstr ""
+"इस उपभोक्ता को बदलने की "
+"अनुमति आप को नहीं है."
+
+#: loco:5357f99fb7f9261b249a967c
+msgid "You are not allowed to see the members."
+msgstr ""
+"आप को अनुमति नहीं है दूसरे "
+"सदस्यों को देखने की."
+
+#: loco:5357f99fb7f9261b249a967d
+msgid "You are not allowed to see the memberships."
+msgstr ""
+"आप को अनुमति नहीं है सदस्यता "
+"को देखने की. "
+
+#: loco:5357f99fb7f9261b249a967e
+msgid "You are not allowed to see the subscribed groups."
+msgstr ""
+"आप को आज्ञा नहीं है "
+"सब्स्क्राइब्ड  समूह को देखने "
+"की."
+
+#: loco:5357f99fb7f9261b249a967f
+msgid "You are not allowed to see the subscribed users."
+msgstr ""
+"आप को आज्ञा नहीं है "
+"सब्स्क्राइब्ड उपभोक्ता को "
+"देखने की."
+
+#: loco:5357f99fb7f9261b249a9680
+msgid "You are not allowed to see the subscriptions."
+msgstr ""
+"आप को आज्ञा नहीं है "
+"सब्स्क्रिप्सन को देखने की."
+
+#: loco:5357f99fb7f9261b249a9681
+msgid "You are not allowed to view this group."
+msgstr ""
+"आप को आज्ञा नहीं है इस समूह को "
+"देखने की."
+
+#: loco:5357f99fb7f9261b249a9682
+msgid "You are not allowed to view this resource."
+msgstr ""
+"आप को आज्ञा नहीं है इस संसाधन "
+"को देखने की."
+
+#: loco:5357f99fb7f9261b249a9683
+msgid "You are not allowed to view this user."
+msgstr ""
+"आप को आज्ञा नहीं है इस "
+"उपभोक्ता को देखने की."
+
+#: loco:5357f99fb7f9261b249a9684
+msgid "You can only send messages to friends."
+msgstr ""
+"आप सिर्फ सन्देश भेंज सकते है "
+"दोस्तों को. "
+
+#: loco:5357f9a0b7f9261b249a97f4
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr ""
+"जब आप के पास अनपढ़ा सन्देश "
+"इनबॉक्स में होगा तब आप को "
+"ईमेल आ सकता है! "
+
+#: loco:5357f99fb7f9261b249a9775
+msgid "You canceled the friendship with %s."
+msgstr "आप ने %s से मित्रता रद्द किया. "
+
+#: loco:5357f99fb7f9261b249a977e
+msgid "You created a new group."
+msgstr "आप ने नए समूह की रचना की है."
+
+#: loco:5357f99fb7f9261b249a977d
+msgid "You created a new resource."
+msgstr "आप ने नए संसाधनकी रचना की है."
+
+#: loco:5357f99fb7f9261b249a9685
+msgid "You currently block this user."
+msgstr ""
+"आप ने अभी इस उपभोक्ता को "
+"ब्लॉक कर रखा है."
+
+#: loco:5357f99fb7f9261b249a976b
+msgid ""
+"You do not have permission to view this page. Please try contact the web site "
+"administrator if you believe you should be able to view this page."
+msgstr ""
+"आप के पास अनुमति नहीं है इस "
+"पेज पर जाने की. यदि आप को लगता "
+"है की आप को इस पेज पर जाना "
+"चाहिए तो कृपया वेब साइट के "
+"प्रसाशक से संपर्क करने का "
+"प्रयास करें."
+
+#: loco:5357f9a0b7f9261b249a97f5
+msgid "You entered the wrong captcha."
+msgstr "आप ने गलत captcha एंटर किया हैं. "
+
+#: loco:5357f9a0b7f9261b249a97f6
+msgid ""
+"You first need to confirm your registration. Please check your email account "
+"and click on the link of the confirmation email."
+msgstr ""
+"पहले आप अपने  पंजीकरण की "
+"पुष्टि करें. कृपया अपना ईमेल "
+"पहले चेक करें एवं पुष्टिकरण "
+"लिंक पर क्लिक करें."
+
+#: loco:536528108509cbb0c7ffb9ce
+msgid "You have 1 unread message!"
+msgstr ""
+"आप के पास बिना पढ़ा हुआ एक "
+"सन्देश है! "
+
+#: loco:5357f99fb7f9261b249a9686
+msgid "You have entered a wrong key."
+msgstr "आप ने गलत की डाला है."
+
+#: loco:5357f99fb7f9261b249a9687
+msgid "You have joined the group."
+msgstr "आप ने समूह ज्वाइन किया है."
+
+#: loco:536750938509cbb0c7ffc662
+msgid "You have unread messages at %s"
+msgstr "आप के पास  एक नया सन्देश है पर %s"
+
+#: loco:5357f99fb7f9261b249a9688
+msgid ""
+"You have no friends yet. You can start sending messages only after someone "
+"has accepted your friendship request."
+msgstr ""
+"आप के पास अभी तक कोई दोस्त "
+"नहीं है. आप के मित्रता आग्रह "
+"को किसी के द्वारा स्वीकार "
+"करने के बाद ही आप सन्देश "
+"भेजना प्रारम्भ कर सकते हैं. "
+
+#: loco:5357f99fb7f9261b249a9689
+msgid "You have no permission to create a resource."
+msgstr ""
+"आप को अनुमति नहीं है एक "
+"संसाधन क्रिएट करने की.\n"
+
+#: loco:5357f99fb7f9261b249a968a
+msgid "You have no permission to create groups."
+msgstr ""
+"आप को अनुमति नहीं है समूह  "
+"क्रिएट करने की."
+
+#: loco:5357f9a0b7f9261b249a97f7
+msgid "You have no permission to create public resources."
+msgstr ""
+"आम जनता के लिए संसाधन बनाने "
+"की अनुमति आप को नहीं है."
+
+#: loco:5357f99fb7f9261b249a968b
+msgid "You have no permission to create resources."
+msgstr ""
+"आप को अनुमति नहीं है  "
+"संसाधनों को क्रिएट करने की."
+
+#: loco:53657da28509cbb0c7ffb9d4
+msgid "You receive this email because you have signed up at %s."
+msgstr ""
+"आप ने यह ईमेल पाया है क्यों की "
+"आप ने साइनड अप किया है "
+
+#: loco:5357f9a0b7f9261b249a97f8
+msgid "You have %d unread messages!"
+msgstr ""
+"आप के पास %s बिना पढ़ा हुआ "
+"सन्देश है! "
+
+#: loco:5357f99fb7f9261b249a9776
+msgid "You joined the group."
+msgstr "आप समूह में शामिल हुए."
+
+#: loco:5357f99fb7f9261b249a9778
+msgid "You left the group."
+msgstr "आप के समूह छोड़ दिया "
+
+#: loco:5357f99fb7f9261b249a968c
+msgid "You need to log in to send messages."
+msgstr ""
+"आप को लॉग इन करने की जरुरत है "
+"सन्देश भेजने के लिए."
+
+#: loco:5357f99fb7f9261b249a968d
+msgid "You need to subscribe in order to comment."
+msgstr ""
+"आप को सब्सक्राइब करने की "
+"जरुरत है कॉमेंट के लिए."
+
+#: loco:5357f9a0b7f9261b249a97f9
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr ""
+"आप को सन्देश मिलेगा समूह \"%s\" के "
+"एक सदस्य के रूप में "
+
+#: loco:5357f99fb7f9261b249a9774
+msgid "You rejected %s's friendship."
+msgstr "आप ने ख़ारिज किया %s's से मित्रता. "
+
+#: loco:5357f99fb7f9261b249a968e
+msgid ""
+"You requested a change of your email address. A message with a link was sent "
+"to your old address. The new address will be activated once you confirmed the "
+"change."
+msgstr ""
+"आप ने एक ईमेल अड्रेस बदलने का "
+"आग्रह किया है. एक सन्देश एक "
+"लिंक के साथ आप के पुराने ईमेल "
+"पर भेंजा जा जुका है. आप के "
+"बदलने के कन्फर्मेशन मिलने के "
+"बाद आप का नया ईमेल एक्टिवेट "
+"जो जायेगा "
+
+#: loco:5357f99fb7f9261b249a9772
+msgid "You requested %s's friendship."
+msgstr "आप ने आग्रह किया %s's से मित्रता "
+
+#: loco:5357f9a0b7f9261b249a9820
+msgid "You see only item that you are not connected to."
+msgstr ""
+"जिससे आप कनेक्टेड नहीं हैं  "
+"वाही आइटम आप देख सकते है."
+
+#: loco:5357f9a0b7f9261b249a97fa
+msgid "You signed up."
+msgstr "आप साइनड अप."
+
+#: loco:5357f99fb7f9261b249a9777
+msgid "You subscribed to the resource."
+msgstr "आप संसाधन से सब्सक्राइब है."
+
+#: loco:5357f99fb7f9261b249a9779
+msgid "You unsubscribed from the resource."
+msgstr "आप संसाधन से अनसब्सक्राइब है."
+
+#: loco:5357f99fb7f9261b249a977f
+msgid "You updated your profile."
+msgstr "आप अपडेट करें अपना प्रोफाइल "
+
+#: loco:5357f99fb7f9261b249a9691
+msgid ""
+"Your account has been deactivated. If you think that this is a mistake, "
+"please contact the support at %s."
+msgstr ""
+"आप का अकॉउंट डिएक्टिवटे किया "
+"गया. यदि आप को लगता है की यह एक "
+"गलती है, कृपया सहयोग से "
+"संपर्क करें %s."
+
+#: loco:5357f99fb7f9261b249a9693
+msgid "Your email:"
+msgstr "आप का ईमेल:"
+
+#: loco:5357f99fb7f9261b249a9692
+msgid ""
+"Your email address is known at www.stopforumspam.com as spam source and was "
+"blocked."
+msgstr ""
+"आप का email   www.stopforumspam.com स्पैम के रूप "
+"में जाना गया और ब्लॉक्ड किया "
+"गया. "
+
+#: loco:5357f99fb7f9261b249a974a
+msgid ""
+"Your email address or IP is known at www.stopforumspam.com as spam source and "
+"was blocked."
+msgstr ""
+"आप का ईमेल या IP जाना जाता है www."
+"stopfourmspam.com स्पाम स्रोत के रूप में "
+"और ब्लॉक किया गया है."
+
+#: loco:5357f9a0b7f9261b249a97fb
+msgid "Your Facebook account doesn't have an email address."
+msgstr ""
+"आप के फसबूक अकाउंट में ईमेल "
+"अड्रेस नहीं है "
+
+#: loco:5357f99fb7f9261b249a9694
+msgid ""
+"Your image still needs to be cropped to the right dimensions before you can "
+"continue!"
+msgstr ""
+"शुरू करने से पहले आप का "
+"तस्वीर अब भी क्रॉप करने की "
+"जरुरत है, सही डाइमेंशन के लिए!"
+
+#: loco:5357f99fb7f9261b249a9695
+msgid "Your image still needs to be resized before you can continue!"
+msgstr ""
+"शुरू करने से पहले अब भी आप के  "
+"तस्वीर को रिसाइज़ करने की "
+"जरुरत है."
+
+#: loco:5357f99fb7f9261b249a9690
+msgid "Your IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr ""
+"आप का IP www.stopforumspam.com स्पैम के रूप "
+"में जाना गया और ब्लॉक्ड किया "
+"गया.   "
+
+#: loco:5357f99fb7f9261b249a9696
+msgid "Your message has been sent."
+msgstr "आप का सन्देश भेंजा जा चूका है."
+
+#: loco:5357f9a0b7f9261b249a97fc
+msgid "Your message has been sent to the members of this group."
+msgstr ""
+"समूह के सदस्यों को आप का "
+"सन्देश भेंजे जा चूका है."
+
+#: loco:5357f99fb7f9261b249a974b
+msgid "Your message was empty."
+msgstr "आप का सन्देश खाली है."
+
+#: loco:5357f99fb7f9261b249a9697
+msgid "Your messages"
+msgstr ""
+"\n"
+"आप का सन्देश "
+
+#: loco:5357f99fb7f9261b249a9699
+msgid "The password has been successfully changed."
+msgstr ""
+"आप का पासवर्ड सफलता पूर्वक "
+"बदला जा चूका है.\n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a9698
+msgid "Your password has been successfully changed, you can now log in."
+msgstr ""
+"आप का पासवर्ड सफलता पूर्वक "
+"बदला जा चूका है. आप अब लॉग ऑन "
+"कर सकते है. \n"
+"\n"
+
+#: loco:5357f99fb7f9261b249a969a
+msgid ""
+"Your password must be at least 8 characters long and contain at least one "
+"lower-case letter, one upper-case letter and one number."
+msgstr ""
+"आप के पासवर्ड की लम्बाई 8 "
+"करेक्टर की होनी चाहिए साथ में "
+"एक लोवर केस अक्षर, एक ऊपर केस "
+"अक्षर और एक अंक. "
+
+#: loco:5357f99fb7f9261b249a969e
+msgid "Your password must contain at least one lower-case letter."
+msgstr ""
+"आप के पासवर्ड में कम से कम एक "
+"लोवर केस अक्षर शामिल होना "
+"चाहिए."
+
+#: loco:5357f99fb7f9261b249a969d
+msgid "Your password must contain at least one number."
+msgstr ""
+"\n"
+"आप के पासवर्ड में कम से कम एक "
+"अंक शामिल होना चाहिए."
+
+#: loco:5357f9a0b7f9261b249a97fd
+msgid "Your password must contain at least one small letter."
+msgstr ""
+"आप के पासवर्ड में काम से काम "
+"एक छोटा अक्षर होना चाहिए."
+
+#: loco:5357f99fb7f9261b249a969c
+msgid "Your password must contain at least one upper-case letter."
+msgstr ""
+"आप के पासवर्ड में कम से कम एक "
+"अपर  अक्षर शामिल होना चाहिए."
+
+#: loco:5357f99fb7f9261b249a969b
+msgid "Your password must contain at least %s characters."
+msgstr ""
+"आप के पासवर्ड में कम से कम %s एक "
+"संकेत चिन्ह भी होना चाहिए. "
+
+#: loco:5357f99fb7f9261b249a969f
+msgid "Your passwords are different."
+msgstr "आप का पासवर्ड अलग है."
+
+#: loco:5357f9a0b7f9261b249a982e
+msgid "Your permissions of the group were changed."
+msgstr ""
+"समूह बदला जा चूका है आप के "
+"अनुमति से "
+
+#: loco:5357f9a0b7f9261b249a982f
+msgid "Your permissions of the resource were changed."
+msgstr ""
+"संसाधन बदला जा चूका है आप के "
+"अनुमति से "
+
+#: loco:5357f9a0b7f9261b249a97fe
+msgid "Your permissions only allow to create private resources."
+msgstr ""
+"आप का आज्ञा निजी संसाधन बनाने "
+"की अनुमति देगा."
+
+#: loco:5357f99fb7f9261b249a96a0
+msgid "Your report has been received."
+msgstr ""
+"आप का रिपोर्ट प्राप्त हो गया "
+"है."
+
+#: loco:5357f9a0b7f9261b249a97ff
+msgid "Your software is up to date."
+msgstr ""
+"आप का सॉफ्टवेयर बिलकुल ठीक "
+"ठाक है. "
+
+#: loco:5357f99fb7f9261b249a96a1
+msgid "Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr ""
+"\n"
+"आप का यूसर नाम में सिर्फ "
+"अक्षर, अंक, स्पेस, डेश और "
+"अंडरस्कोर होता है. "
+
+#: loco:5357f9a0b7f9261b249a9800
+msgid "Your website, blog or Facebook profile."
+msgstr ""
+"आप का वेबसाइट, ब्लॉग या "
+"फेसबूक प्रोफाइल "
+
+#: loco:5357f99fb7f9261b249a96e8
+msgid "zoom in"
+msgstr "जूम इन "
+
+#: loco:5357f99fb7f9261b249a96e9
+msgid "zoom out"
+msgstr "जूम आउट "
+
+#: loco:5357f99fb7f9261b249a96fc
+msgid "1"
+msgstr "1"
+
+#: loco:5357f99fb7f9261b249a96fd
+msgid "2"
+msgstr "2"
+
+#: loco:5357f99fb7f9261b249a96fe
+msgid "3"
+msgstr "3"
+
+#: loco:5357f99fb7f9261b249a96ff
+msgid "4"
+msgstr "4"
+
+#: loco:5357f99fb7f9261b249a9700
+msgid "5"
+msgstr "5"
+
+#: loco:5357f99fb7f9261b249a9701
+msgid "6"
+msgstr "6"
+
+#: loco:5357f99fb7f9261b249a9702
+msgid "7"
+msgstr "7"
+
+#: loco:5357f99fb7f9261b249a9703
+msgid "8"
+msgstr "8"
+
+#: loco:5357f99fb7f9261b249a9704
+msgid "9"
+msgstr "9"

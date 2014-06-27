@@ -1908,7 +1908,7 @@ msgstr "mai lu ai/ mu lu ai."
 #. AdministrationPresenter.php:299
 #: 
 msgid "We have received complaints about inapproprite language in your group. Please make neccessary adjustments or your group will be deactivated."
-msgstr "Anhte ni gaw na a uhpung kaw nhtap htuk ai tsun shaga ga hte seng nna \n"
+msgstr "Anhte ni gaw na a uhpung kaw nhtap htuk ai tsun shaga ga hte seng nna shawk shana ai lam hpe anhte ni hkap la ngut sai.chyeju hte ra ai lam ni hpe jaw ai hku nna galaw u. shing nrai yang na a uhpung hpe jasum shangun na ra ai.\n"
 ""
 
 #. AdministrationPresenter.php:319
@@ -1942,7 +1942,7 @@ msgstr "Anhte ni gaw na a rudi ruhpang kaw nhkap la ai laika /ndau shabra laika 
 #. default.phtml:42
 #: 
 msgid "Welcome"
-msgstr "Hkap tau la ai "
+msgstr "Hkap tau la ai. "
 
 #. UserPresenter.php:637
 #: 
@@ -2884,7 +2884,7 @@ msgstr "Sumla gaw kaba dik ai. hkrang shadang hpe %s sa u."
 #. setupmaintenance.phtml:28
 #: 
 msgid "Import resources from a file"
-msgstr ""
+msgstr "file kaw nna rudi ruhpang jahpan ni hpe bang la ai."
 
 #. AdministrationPresenter.php:425
 #: 
@@ -2972,17 +2972,20 @@ msgstr ""
 
 #. AddTagComponent_Group.phtml:23
 #: 
-msgid "Select a tag that describes a topic that this group is about and click add."
+#, fuzzy
+msgid "Select a tag that describes a topic that this group is about."
 msgstr "Ndai uhpung a gabaw a lam hpe  madun na file hpe lata nna (add) kaw dip u."
 
 #. AddTagComponent_Resource.phtml:23
 #: 
-msgid "Select a tag that describes a topic that this resource is about and click add."
+#, fuzzy
+msgid "Select a tag that describes a topic that this resource is about."
 msgstr "Ndai rudi ruhpang a gabaw a lam hpe madun na file hpe lata nna (add) kaw dip u."
 
 #. AddTagComponent_User.phtml:23
 #: 
-msgid "Select a tag that describes one of your interests and click add."
+#, fuzzy
+msgid "Select a tag that describes one of your interests."
 msgstr "Na a myit lawm lam ni kaw na langai  hpe madun na file hpe lata nna add kaw dip u."
 
 #. AdministrationPresenter.php:238
@@ -3054,7 +3057,8 @@ msgstr "Gabaw(tag) gaw  madu na kanu kawa nre ai."
 
 #. default.phtml:61
 #: 
-msgid "There are unread reports."
+#, fuzzy
+msgid "There are unread reports:"
 msgstr "Nhti shi ai shiga ni nga ai."
 
 #. GroupPresenter.php:824
@@ -3642,12 +3646,14 @@ msgstr "Ndai madi shadaw ai lam ni njaw taw yang na a myit lawm lam hpe madun na
 
 #. browse.phtml:83
 #: 
-msgid "If you need to upload a new image, close this window and click on 'Upload'."
+#, fuzzy
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
 msgstr "Lama na nang gaw sumla nnan langai hpe sa na matu ra yang kompyuta hpe pat u.\"Upload\" hpe dip u."
 
 #. browse.phtml:84
 #: 
-msgid "Images are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+#, fuzzy
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
 msgstr "Sumla gaw shawa masha ni a matu re ai.lama na nang gaw kaga masha ni sumla ni hpe nkam mu shangun yang nang gaw tak yak ai file mying hpe lata mai ai. "
 
 #. detail.phtml:100
@@ -3681,12 +3687,6 @@ msgstr "Jul"
 #: 
 msgid "Jun"
 msgstr "Jun"
-
-#. detail.phtml:40
-#. detail.phtml:55
-#: 
-msgid "Last activity: "
-msgstr "hpang jahtum na shamu shamawt lam"
 
 #. AdministrationPresenter.php:429
 #: 
@@ -3758,7 +3758,8 @@ msgstr "kasi nnan"
 
 #. browse.phtml:122
 #: 
-msgid "No images."
+#, fuzzy
+msgid "No files."
 msgstr "Sumla ni nnga ai"
 
 #. setupmaintenance.phtml:146
@@ -3836,19 +3837,20 @@ msgstr "Chyeju hte laika shang u."
 
 #. browse.phtml:74
 #: 
-msgid "Please select an image"
+#, fuzzy
+msgid "Please select a file"
 msgstr "Chyeju hte sumla ngai hpe lata u."
 
 #. setupmaintenance.phtml:136
 #. setupmaintenance.phtml:141
 #: 
 msgid "Problem found"
-msgstr ""
+msgstr "mang hkang byin shangun ai jahpan lamang ni"
 
 #. setupmaintenance.phtml:152
 #: 
 msgid "Purge unconfirmed users"
-msgstr ""
+msgstr "Ngrin ai jailang ai ni hpe shapraw kau u."
 
 #. @layout.phtml:232
 #: 
@@ -4009,7 +4011,7 @@ msgstr "Shut na sa dat ai email re majaw chyeju hte bai shakut u."
 #. UserPresenter.php:601
 #: 
 msgid "This person was created by mistake."
-msgstr ""
+msgstr "Ndai masha gaw shut ai hku shalat shapraw hkum ai."
 
 #. default.phtml:198
 #. create.phtml:34
@@ -4329,9 +4331,85 @@ msgstr "Laban bat"
 
 #: 
 msgid "The following items could be interesting for you:"
-msgstr ""
+msgstr "npu na jahpan lamang ni gaw nang hpe myit lawm shangun na ra ai."
 
 #: 
 msgid "You see only item that you are not connected to."
+msgstr "nang matut mahkai da ai shara kaw na sha jahpan lamang ni hpe  mu lu na ra ai."
+
+#: 
+msgid "View profile"
+msgstr ""
+
+#: 
+msgid "now online"
+msgstr ""
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen:"
+msgstr ""
+
+#: 
+msgid "Please sign in first."
+msgstr ""
+
+#: 
+msgid "never online"
+msgstr ""
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
+
+#: 
+msgid "A new user has signed up."
+msgstr ""
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+
+#: 
+msgid "You are not allowed to edit this resource."
+msgstr ""
+
+#: 
+msgid "The screenshot has been removed."
+msgstr ""
+
+#: 
+msgid "Files of %s"
+msgstr ""
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr ""
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr ""
+
+#: 
+msgid "Message to all users"
+msgstr ""
+
+#: 
+msgid "Noticeboard Messages"
+msgstr ""
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr ""
+
+#: 
+msgid "Please select a recipient."
 msgstr ""
 

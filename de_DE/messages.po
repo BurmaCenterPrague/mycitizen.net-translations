@@ -3025,7 +3025,8 @@ msgstr "Der Tag kann nicht zu sich selbst übergeordnet sein."
 
 #. default.phtml:61
 #: 
-msgid "There are unread reports."
+#, fuzzy
+msgid "There are unread reports:"
 msgstr "Es gibt ungelesene Meldungen."
 
 #. GroupPresenter.php:824
@@ -3613,13 +3614,15 @@ msgstr "Wenn diese Empfehlungen nicht zutreffen, kannst du versuchen, deine Inte
 
 #. browse.phtml:83
 #: 
-msgid "If you need to upload a new image, close this window and click on 'Upload'."
-msgstr "Wenn du ein neues Bild hochladen willst, schließe dieses Fenster und klicke auf \"Upload\"."
+#, fuzzy
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
+msgstr "Wenn du eine neue Datei hochladen willst, schließe dieses Fenster und klicke auf \"Upload\"."
 
 #. browse.phtml:84
 #: 
-msgid "Images are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
-msgstr "Bilder sind öffentlich. Wenn andere Personen sie nicht sehen sollen, dann wähle einen Dateinamen, der schwer zu erraten ist."
+#, fuzzy
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+msgstr "Dateien sind öffentlich. Wenn andere Personen sie nicht sehen sollen, dann wähle einen Dateinamen, der schwer zu erraten ist."
 
 #. detail.phtml:100
 #: 
@@ -3723,8 +3726,9 @@ msgstr "Neue Version:"
 
 #. browse.phtml:122
 #: 
-msgid "No images."
-msgstr "Keine Bilder."
+#, fuzzy
+msgid "No files."
+msgstr "Keine Dateien."
 
 #. setupmaintenance.phtml:146
 #: 
@@ -3801,8 +3805,9 @@ msgstr "Bitte gib den Text ein!"
 
 #. browse.phtml:74
 #: 
-msgid "Please select an image"
-msgstr "Bitte wähle ein Bild"
+#, fuzzy
+msgid "Please select a file"
+msgstr "Bitte wähle eine Datei"
 
 #. setupmaintenance.phtml:136
 #. setupmaintenance.phtml:141
@@ -4341,4 +4346,40 @@ msgstr "Ein neuer Benutzer hat sich registriert."
 #: 
 msgid "Include all new users, groups and resources that you are allowed to view."
 msgstr "Inklusive aller neuer Benutzer, Gruppen und Ressourcen, die für dich sichtbar sind."
+
+#: 
+msgid "You are not allowed to edit this resource."
+msgstr "Du bist nicht berechtigt diese Ressource zu bearbeiten."
+
+#: 
+msgid "The screenshot has been removed."
+msgstr "Der Screenshot wurde entfernt."
+
+#: 
+msgid "Files of %s"
+msgstr "Dateien von %s"
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr "Deine Berechtigungen für die Gruppe wurden geändert."
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr "Deine Berechtigungen für die Ressource wurden geändert."
+
+#: 
+msgid "Message to all users"
+msgstr "Nachricht an alle Benutzer"
+
+#: 
+msgid "Noticeboard Messages"
+msgstr "Bekanntmachungen"
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr "Diese Nachrichten werden in der Liste der Aktivitäten der Benutzer gezeigt."
+
+#: 
+msgid "Please select a recipient."
+msgstr "Bitte wähle einen Empfänger."
 

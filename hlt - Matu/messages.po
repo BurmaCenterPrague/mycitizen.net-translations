@@ -2944,17 +2944,20 @@ msgstr "Screenshot processing"
 
 #. AddTagComponent_Group.phtml:23
 #: 
-msgid "Select a tag that describes a topic that this group is about and click add."
+#, fuzzy
+msgid "Select a tag that describes a topic that this group is about."
 msgstr "Hekah group kawng aka thui tag te tuek lamtah Tom thil te duep."
 
 #. AddTagComponent_Resource.phtml:23
 #: 
-msgid "Select a tag that describes a topic that this resource is about and click add."
+#, fuzzy
+msgid "Select a tag that describes a topic that this resource is about."
 msgstr "Hekah hnopai kawng aka thui tag te tuek lamtah Tom thil te duep."
 
 #. AddTagComponent_User.phtml:23
 #: 
-msgid "Select a tag that describes one of your interests and click add."
+#, fuzzy
+msgid "Select a tag that describes one of your interests."
 msgstr "Namah kah ngaih akawng tag te tuek lamtah Tom thil te duep."
 
 #. AdministrationPresenter.php:238
@@ -3026,7 +3029,8 @@ msgstr "The tag cannot be its own parent."
 
 #. default.phtml:61
 #: 
-msgid "There are unread reports."
+#, fuzzy
+msgid "There are unread reports:"
 msgstr "Na tae hlan report cana om."
 
 #. GroupPresenter.php:824
@@ -3613,12 +3617,12 @@ msgstr ""
 
 #. browse.phtml:83
 #: 
-msgid "If you need to upload a new image, close this window and click on 'Upload'."
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
 msgstr ""
 
 #. browse.phtml:84
 #: 
-msgid "Images are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
 msgstr ""
 
 #. detail.phtml:100
@@ -3652,12 +3656,6 @@ msgstr "Jul"
 #: 
 msgid "Jun"
 msgstr "Jun"
-
-#. detail.phtml:40
-#. detail.phtml:55
-#: 
-msgid "Last activity: "
-msgstr "Ahnu bik hnnosai: "
 
 #. AdministrationPresenter.php:429
 #: 
@@ -3729,7 +3727,8 @@ msgstr "Version athai:"
 
 #. browse.phtml:122
 #: 
-msgid "No images."
+#, fuzzy
+msgid "No files."
 msgstr "Mueihlip ompawh:"
 
 #. setupmaintenance.phtml:146
@@ -3807,7 +3806,8 @@ msgstr "Rhen naneh ca tael!"
 
 #. browse.phtml:74
 #: 
-msgid "Please select an image"
+#, fuzzy
+msgid "Please select a file"
 msgstr "Rhen naneh Mueihlip tuek"
 
 #. setupmaintenance.phtml:136
@@ -4304,5 +4304,77 @@ msgstr ""
 
 #: 
 msgid "You see only item that you are not connected to."
+msgstr ""
+
+#: 
+msgid "View profile"
+msgstr ""
+
+#: 
+msgid "now online"
+msgstr ""
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr ""
+
+#: 
+msgid "Last seen:"
+msgstr ""
+
+#: 
+msgid "Please sign in first."
+msgstr ""
+
+#: 
+msgid "never online"
+msgstr ""
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
+
+#: 
+msgid "A new user has signed up."
+msgstr ""
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+
+#: 
+msgid "You are not allowed to edit this resource."
+msgstr ""
+
+#: 
+msgid "The screenshot has been removed."
+msgstr ""
+
+#: 
+msgid "Files of %s"
+msgstr ""
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr ""
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr ""
+
+#: 
+msgid "Message to all users"
+msgstr ""
+
+#: 
+msgid "Noticeboard Messages"
+msgstr ""
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
 msgstr ""
 
