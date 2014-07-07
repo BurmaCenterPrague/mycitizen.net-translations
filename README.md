@@ -13,15 +13,24 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 List of Languages
 -----------------
+base:
+- English (en)
 
-- English (en_US)
-- Burmese/Myanmar (my_MM)
+translations:
+- Burmese/Myanmar
 	- Unicode
 	- ZawGyi
+- German
 - Hakha
 - Hindi
-- Kachin
+- Jingpho (Kachin)
 - Mara
 - Matu
 - S'gaw (Karen)
 - Zolai (Tedim)
+
+
+Credits
+-------
+
+https://mycitizen.net/about:thanks#translators
