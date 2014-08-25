@@ -1,0 +1,4503 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: mycitizen.net base\n"
+"Language: zh-TW\n"
+
+#. GroupPresenter.php:824
+#. ResourcePresenter.php:930
+#. UserPresenter.php:391
+#: 
+msgid "(error)"
+msgstr "（错误）"
+
+#. GroupPresenter.php:825
+#. ResourcePresenter.php:931
+#. UserPresenter.php:392
+#: 
+msgid "(inappropriate language)"
+msgstr "（不合适的语言）"
+
+#. GroupPresenter.php:823
+#. ResourcePresenter.php:929
+#. UserPresenter.php:390
+#: 
+msgid "(spam)"
+msgstr "(垃圾)"
+
+#. detail.phtml:133
+#: 
+msgid "Accept friendship"
+msgstr "接受朋友"
+
+#. default.phtml:126
+#. default.phtml:143
+#. detail.phtml:139
+#: 
+msgid "Accept friendship request"
+msgstr "接受朋友邀请"
+
+#. AddTagComponent_Group.phtml:59
+#. AddTagComponent_Resource.phtml:59
+#. AddTagComponent_User.phtml:58
+#. ContainerTreeSelectControl.phtml:66
+#. AdministrationPresenter.php:86
+#: 
+msgid "Add"
+msgstr "添加"
+
+#. edit.phtml:51
+#. edit.phtml:38
+#. edit.phtml:71
+#: 
+msgid "Add or remove tags"
+msgstr "添加或删除标签"
+
+#. AdministrationPresenter.php:169
+#: 
+msgid "Add tag"
+msgstr "添加标签"
+
+#. MapContainer.phtml:63
+#. MapControl.phtml:63
+#: 
+msgid "Address cannot be found."
+msgstr "无法找到地址"
+
+#. @layout.phtml:154
+#. default.phtml:111
+#. default.phtml:121
+#. default.phtml:158
+#: 
+msgid "Administration"
+msgstr "管理"
+
+#. settings.phtml:0
+#: 
+msgid "Administration - Settings"
+msgstr "管理员－设置"
+
+#. setupmaintenance.phtml:0
+#: 
+msgid "Administration - Setup and Maintenance"
+msgstr "管理员－安装与维护"
+
+#. UserPresenter.php:1184
+#. UserPresenter.php:1189
+#: 
+msgid "Administrator"
+msgstr "管理员"
+
+#. UserPresenter.php:1224
+#: 
+msgid "Administrator with id 1 cannot be changed"
+msgstr "ID为1的管理员无法被改变"
+
+#. login.phtml:9
+#: 
+msgid "Already have an account? Sign in below."
+msgstr "已经拥有账号？从下方登录。"
+
+#. UserPresenter.php:433
+#: 
+msgid "An email has been sent to you with further instructions."
+msgstr "一封有进一步指示的邮件已发送给您。"
+
+#. ExternalFilter.php:202
+#: 
+msgid "Apply Filter"
+msgstr "应用过滤"
+
+#. edit.phtml:14
+#: 
+msgid "April"
+msgstr "四月"
+
+#. edit.phtml:14
+#: 
+msgid "August"
+msgstr "八月"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "Automatically reload in regular intervals if something new has been posted."
+msgstr "如果有更新的话，自动定期重载。"
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of groups."
+msgstr "后退到群组列表。"
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of users."
+msgstr "后退到用户列表。"
+
+#. edit.phtml:48
+#: 
+msgid "Below you can add details: Describe the topics of this group by one or more tags. If your group is located in a particular town, you can mark it on a map. These information will help other users to find your group."
+msgstr ""
+
+#. default.phtml:150
+#. detail.phtml:146
+#: 
+msgid "Cancel friendship"
+msgstr "取消朋友"
+
+#. detail.phtml:127
+#: 
+msgid "Cancel subscription"
+msgstr "取消订阅"
+
+#. ListerControlMain_body.phtml:532
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Cannot find what you are searching?"
+msgstr "无法找到您搜索的内容？"
+
+#. changelostpassword.phtml:0
+#: 
+msgid "Change lost password"
+msgstr "修改丢失的密码"
+
+#. UserPresenter.php:285
+#. UserPresenter.php:313
+#. changepassword.phtml:0
+#. edit.phtml:59
+#: 
+msgid "Change password"
+msgstr "修改密码"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_groups.phtml:229
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#. ListerControlMain_users.phtml:205
+#: 
+msgid "Change the filter"
+msgstr "修改过滤器"
+
+#. ChatLister_body.phtml:4
+#. detail.phtml:339
+#. messages.phtml:13
+#: 
+msgid "Clear"
+msgstr "清除"
+
+#. ExternalFilter.php:201
+#: 
+msgid "Clear Filter"
+msgstr "清除过滤器"
+
+#. login.phtml:22
+#: 
+msgid "Click here if you forgot your password."
+msgstr "如果您忘记密码，点击此处。"
+
+#. edit.phtml:20
+#. edit.phtml:18
+#: 
+msgid "Click inside the image and select your avatar."
+msgstr "点击图标并选择头像。"
+
+#. detail.phtml:312
+#: 
+msgid "Comments"
+msgstr "评论"
+
+#. detail.phtml:388
+#: 
+msgid "Comments are only visible when you are signed in."
+msgstr "评论只有在您登录以后才可见。"
+
+#. ExternalFilter.php:168
+#: 
+msgid "Connect filters with"
+msgstr "连接过滤器到"
+
+#. detail.phtml:117
+#: 
+msgid "Copy this link and send it to people who you would like to join. This link is like a key to this group."
+msgstr "拷贝此链接并发送给您想让对方加入的人。这个链接就像是这个群组的钥匙。"
+
+#. GroupPresenter.php:465
+#. create.phtml:0
+#: 
+msgid "Create new group"
+msgstr "创建新群组"
+
+#. ResourcePresenter.php:477
+#: 
+msgid "Create new resource"
+msgstr "创建新资源"
+
+#. edit.phtml:14
+#: 
+msgid "December"
+msgstr "十二月"
+
+#. GroupPresenter.php:457
+#: 
+msgid "Describe in few sentences what this group is about."
+msgstr "用一小段话说明这个群组的目的。"
+
+#. ResourcePresenter.php:410
+#: 
+msgid "Describe in few sentences what this resource is about."
+msgstr "用一小段话说明这个资源的目的。"
+
+#. GroupPresenter.php:457
+#. ResourcePresenter.php:410
+#. UserPresenter.php:637
+#: 
+msgid "Description:"
+msgstr "描述："
+
+#. default.phtml:66
+#: 
+msgid "Discover new groups"
+msgstr "发现新的群组"
+
+#. default.phtml:73
+#: 
+msgid "Discover new resources"
+msgstr "发现新的资源"
+
+#. default.phtml:59
+#: 
+msgid "Discover new users"
+msgstr "发现新的用户"
+
+#. UserPresenter.php:635
+#: 
+msgid "Do you want be visible to everyone (world), only to registered users (registered) or only to your friends (friends)?"
+msgstr "您是想对所有人可见（全世界），仅对注册用户可见（注册的），还是仅对朋友可见（朋友）？"
+
+#. edit.phtml:12
+#: 
+msgid "Edit the group image"
+msgstr "编辑群组图标"
+
+#. edit.phtml:35
+#. edit.phtml:24
+#: 
+msgid "Edit the location"
+msgstr "编辑地点"
+
+#. edit.phtml:10
+#: 
+msgid "Edit your avatar"
+msgstr "编辑个人头像"
+
+#. edit.phtml:32
+#: 
+msgid "Edit your location"
+msgstr "编辑您的地点"
+
+#. User.php:331
+#: 
+msgid "Email change on Mycitizen.net"
+msgstr "Mycitizen.net邮件改变"
+
+#. UserPresenter.php:112
+#. UserPresenter.php:125
+#: 
+msgid "Email has been successfully changed."
+msgstr "邮件已经成功更改。"
+
+#. UserPresenter.php:470
+#. UserPresenter.php:634
+#: 
+msgid "Email:"
+msgstr "邮件："
+
+#. ListerControlMain.php:642
+#: 
+msgid "Empty Trash"
+msgstr "清空垃圾箱"
+
+#. GroupUserListerControl.phtml:19
+#. ResourceListerControl.phtml:11
+#. default.phtml:113
+#. default.phtml:123
+#. default.phtml:165
+#: 
+msgid "Enabled"
+msgstr "已启用"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr "输入一个用于邀请会员到该群组的密码。密码包含字母，数字和\"-\"，并且最少有5个字符。"
+
+#. GroupPresenter.php:454
+#: 
+msgid "Enter a name for the group."
+msgstr "输入群组的名字。"
+
+#. ResourcePresenter.php:405
+#: 
+msgid "Enter a name for the resource."
+msgstr "输入资源的名字。"
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Entered passwords are not the same."
+msgstr "输入的密码不一致。"
+
+#. RestServer.php:433
+#: 
+msgid "Error"
+msgstr "错误"
+
+#. BasePresenter.php:211
+#: 
+msgid "Error deleting image from cache."
+msgstr "从缓存重删除图片出错。"
+
+#. ChatLister_body.phtml:95
+#. ChatLister_body.phtml:130
+#. ChatLister_body.phtml:136
+#: 
+msgid "Error loading chat. Are you logged in?"
+msgstr "加载聊天出错。您登录了吗？"
+
+#. GroupListerControl.php:82
+#. GroupListerControl.php:113
+#. GroupUserListerControl.php:58
+#. GroupUserListerControl.php:98
+#. ListerControlMain.php:366
+#. ListerControlMain.php:416
+#. ListerControlMain.php:457
+#. MapControl.php:62
+#. ResourceGroupListerControl.php:45
+#. ResourceGroupListerControl.php:81
+#. ResourceListerControl.php:42
+#. ResourceListerControl.php:77
+#. ResourceMemberListerControl.php:45
+#. ResourceMemberListerControl.php:81
+#. TagListerControl.php:161
+#. UserListerControl.php:67
+#. UserListerControl.php:108
+#. AdministrationPresenter.php:87
+#. AdministrationPresenter.php:217
+#. GroupPresenter.php:226
+#. GroupPresenter.php:486
+#. GroupPresenter.php:759
+#. GroupPresenter.php:801
+#. GroupPresenter.php:885
+#. ResourcePresenter.php:193
+#. ResourcePresenter.php:242
+#. ResourcePresenter.php:482
+#. ResourcePresenter.php:867
+#. ResourcePresenter.php:907
+#. UserPresenter.php:271
+#. UserPresenter.php:286
+#. UserPresenter.php:314
+#. UserPresenter.php:346
+#. UserPresenter.php:418
+#. UserPresenter.php:476
+#. UserPresenter.php:568
+#. UserPresenter.php:640
+#. UserPresenter.php:1090
+#. UserPresenter.php:1203
+#: 
+msgid "Error submitting form."
+msgstr "提交表单出错。"
+
+#. BasePresenter.php:279
+#: 
+msgid "Error writing image: "
+msgstr "存写图片出错："
+
+#. ResourcePresenter.php:428
+#: 
+msgid "Event description:"
+msgstr "事件描述："
+
+#. ResourcePresenter.php:431
+#: 
+msgid "Event time:"
+msgstr "事件时间："
+
+#. edit.phtml:14
+#: 
+msgid "February"
+msgstr "二月"
+
+#. GroupListerControl.php:112
+#. MapControl.php:61
+#. TagListerControl.php:160
+#: 
+msgid "Filter"
+msgstr "过滤"
+
+#. ChatLister_body.phtml:3
+#. detail.phtml:338
+#. messages.phtml:12
+#: 
+msgid "Filter by name"
+msgstr "文件名过滤"
+
+#. ListerControlMain.php:100
+#: 
+msgid "Filter is off."
+msgstr "过滤已关闭。"
+
+#. User.php:258
+#: 
+msgid "Finish your registration at Mycitizen.net"
+msgstr "在Mycitizen.net上完成注册"
+
+#. GroupPresenter.php:1135
+#. UserPresenter.php:1499
+#: 
+msgid "Finished cropping and resizing."
+msgstr "剪切与缩放完成。"
+
+#. ListerControlMain_body.phtml:27
+#. ListerControlMain_users.phtml:22
+#: 
+msgid "Friends"
+msgstr "朋友"
+
+#. StaticModel.php:44
+#: 
+msgid "Friendship accepted"
+msgstr "朋友已接受"
+
+#. StaticModel.php:52
+#: 
+msgid "Friendship canceled"
+msgstr "朋友已取消"
+
+#. StaticModel.php:40
+#: 
+msgid "Friendship request"
+msgstr "朋友请求"
+
+#. StaticModel.php:48
+#. default.phtml:110
+#: 
+msgid "Friendship request rejected"
+msgstr ""
+
+#. detail.phtml:118
+#: 
+msgid "Friendship request rejected."
+msgstr "朋友请求被拒绝"
+
+#. default.phtml:105
+#: 
+msgid "Friendship request sent"
+msgstr ""
+
+#. detail.phtml:113
+#: 
+msgid "Friendship request sent."
+msgstr "朋友请求已发送"
+
+#. GroupPresenter.php:25
+#: 
+msgid "Given group does not exist."
+msgstr "指定群组不存在。"
+
+#. detail.phtml:173
+#. detail.phtml:178
+#. detail.phtml:183
+#. detail.phtml:188
+#: 
+msgid "Go to resource"
+msgstr "前往资源"
+
+#. GroupPresenter.php:956
+#: 
+msgid "Group %s has not been subscribed to resource."
+msgstr "群%s 未订阅资源。"
+
+#. ResourcePresenter.php:316
+#: 
+msgid "Group %s is already subscribed."
+msgstr "群%s 已订阅。"
+
+#. ResourcePresenter.php:314
+#: 
+msgid "Group %s subscribed to this resource."
+msgstr "群%s 已订阅该资源。"
+
+#. GroupPresenter.php:954
+#: 
+msgid "Group %s unsubscribed from resource."
+msgstr "群%s 取消订阅资源。"
+
+#. detail.phtml:199
+#: 
+msgid "Group chat"
+msgstr "群组聊天"
+
+#. edit.phtml:0
+#: 
+msgid "Edit Group"
+msgstr "编辑群组"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Group key:"
+msgstr "群组关键字："
+
+#. detail.phtml:161
+#: 
+msgid "Group location on a map"
+msgstr "群组在地图上的位置"
+
+#. default.phtml:126
+#. detail.phtml:172
+#: 
+msgid "Group members"
+msgstr "群会员"
+
+#. detail.phtml:104
+#: 
+msgid "Group owner: "
+msgstr "群拥有者："
+
+#. default.phtml:137
+#. detail.phtml:183
+#: 
+msgid "Group resources"
+msgstr "群资源"
+
+#. GroupPresenter.php:526
+#: 
+msgid "Group updated"
+msgstr "群已更新"
+
+#. BasePresenter.php:89
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Groups"
+msgstr "群组"
+
+#. detail.phtml:48
+#: 
+msgid "Here you can report the group if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "如果您认为该群组违反规则请再次举报。举报将由版主处理。"
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "如果您认为该资源违反规则请再次举报。举报将由版主处理。"
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
+msgstr "如果您认为该用户违反规则请再次举报。举报将由版主处理。"
+
+#. ListerControlMain_groups.phtml:69
+#: 
+msgid "Hidden group"
+msgstr "隐藏群组"
+
+#. ListerControlMain_users.phtml:64
+#: 
+msgid "Hidden user"
+msgstr "隐藏用户"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Image must be in JPEG or PNG format."
+msgstr "图片必须是JPEG或PNG格式。"
+
+#. ResourcePresenter.php:439
+#: 
+msgid "Information:"
+msgstr "信息："
+
+#. ResourcePresenter.php:260
+#: 
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr "权限不够让群组%s订阅该资源。"
+
+#. ListerControlMain_body.phtml:20
+#. ListerControlMain_groups.phtml:18
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:16
+#: 
+msgid "Is active"
+msgstr "启用"
+
+#. edit.phtml:14
+#: 
+msgid "January"
+msgstr "一月"
+
+#. default.phtml:93
+#. detail.phtml:130
+#: 
+msgid "Join group"
+msgstr "加入群组"
+
+#. edit.phtml:14
+#: 
+msgid "July"
+msgstr "七月"
+
+#. edit.phtml:14
+#: 
+msgid "June"
+msgstr "六月"
+
+#. ExternalFilter.php:189
+#: 
+msgid "Language"
+msgstr "语言"
+
+#. GroupPresenter.php:456
+#. ResourcePresenter.php:408
+#. UserPresenter.php:636
+#: 
+msgid "Language:"
+msgstr "语言："
+
+#. detail.phtml:32
+#. detail.phtml:34
+#. detail.phtml:35
+#: 
+msgid "Last activity:"
+msgstr ""
+
+#. default.phtml:104
+#. detail.phtml:134
+#: 
+msgid "Leave group"
+msgstr "离开群组"
+
+#. detail.phtml:114
+#: 
+msgid "Link to invite new members"
+msgstr "邀请新会员的链接"
+
+#. ChatLister_body.phtml:159
+#: 
+msgid "Loading chat.."
+msgstr "加载聊天。。。"
+
+#. MapControl.php:60
+#: 
+msgid "Location"
+msgstr "位置"
+
+#. GroupPresenter.php:455
+#: 
+msgid "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
+msgstr "使群组对任何人可见(world)，仅注册用户可见 (registered)，或会员可见(members)。"
+
+#. ResourcePresenter.php:407
+#: 
+msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
+msgstr "使资源对任何人可见(world)，仅注册用户可见 (registered)，或会员可见(members)。"
+
+#. edit.phtml:85
+#: 
+msgid "Manage members of this group"
+msgstr "管理该群的会员"
+
+#. edit.phtml:90
+#: 
+msgid "Manage subscribed resources"
+msgstr "管理订阅的资源"
+
+#. ExternalFilter.phtml:112
+#: 
+msgid "Map"
+msgstr "地图"
+
+#. edit.phtml:14
+#: 
+msgid "March"
+msgstr "三月"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Maximum image size is %s"
+msgstr "最大的图片大小为%s"
+
+#. edit.phtml:14
+#: 
+msgid "May"
+msgstr "五月"
+
+#. ResourcePresenter.php:474
+#: 
+msgid "Media ID:"
+msgstr "媒体ID："
+
+#. ResourcePresenter.php:473
+#: 
+msgid "Media type:"
+msgstr "媒体类型："
+
+#. default.phtml:188
+#. detail.phtml:167
+#: 
+msgid "Member of groups"
+msgstr "群组会员"
+
+#. ListerControlMain_body.phtml:29
+#. ListerControlMain_groups.phtml:23
+#: 
+msgid "Members"
+msgstr "会员"
+
+#. UserPresenter.php:1183
+#: 
+msgid "Moderator"
+msgstr "版主"
+
+#. User.php:22
+#: 
+msgid "More than one user with the same id found."
+msgstr "同样的id被发现了"
+
+#. default.phtml:56
+#: 
+msgid "My Friends"
+msgstr ""
+
+#. default.phtml:63
+#: 
+msgid "My Groups"
+msgstr "我的群组"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:351
+#: 
+msgid "My Location"
+msgstr "我的地址"
+
+#. default.phtml:70
+#: 
+msgid "My Resources"
+msgstr "我的资源"
+
+#. detail.phtml:192
+#: 
+msgid "My friends"
+msgstr "我的朋友"
+
+#. MapContainer.phtml:31
+#. MapContainer.phtml:283
+#. MapControl.phtml:32
+#: 
+msgid "My real position"
+msgstr "我的实际位置"
+
+#. ExternalFilter.php:172
+#. GroupListerControl.php:105
+#. Groupresourcewidget_body.phtml:8
+#. GroupUserListerControl.php:83
+#. GroupUserListerControl.phtml:10
+#. ListerControlMain_body.phtml:9
+#. ListerControlMain_groups.phtml:8
+#. ListerControlMain_resources.phtml:8
+#. ListerControlMain_users.phtml:8
+#. ResourceListerControl.php:68
+#. ResourceListerControl.phtml:8
+#. ResourceMemberListerControl.php:66
+#. TagListerControl.php:159
+#. UserListerControl.php:93
+#. UserListerControl.phtml:11
+#: 
+msgid "Name"
+msgstr "名字"
+
+#. GroupPresenter.php:454
+#. ResourcePresenter.php:405
+#. UserPresenter.php:630
+#: 
+msgid "Name:"
+msgstr "名字："
+
+#. edit.phtml:15
+#. edit.phtml:16
+#. edit.phtml:13
+#. edit.phtml:14
+#: 
+msgid "Needs to be created."
+msgstr "必须先创建。"
+
+#. BasePresenter.php:47
+#. BasePresenter.php:47
+#. BasePresenter.php:151
+#. BasePresenter.php:151
+#: 
+msgid "New messages"
+msgstr "新消息"
+
+#. ListerControlMain.php:359
+#. UserPresenter.php:1182
+#: 
+msgid "Normal user"
+msgstr "正常用户"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing found."
+msgstr "没有发现任何东西。"
+
+#. edit.phtml:14
+#: 
+msgid "November"
+msgstr "十一月"
+
+#. edit.phtml:14
+#: 
+msgid "October"
+msgstr "十月"
+
+#. default.phtml:91
+#: 
+msgid "On invitation only"
+msgstr "仅凭邀请"
+
+#. AdministrationPresenter.php:44
+#. AdministrationPresenter.php:75
+#: 
+msgid "Only administrators can visit this section!"
+msgstr "只有管理员才可访问此部分！"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "只有字幕，数字和'-'，最小长度为5."
+
+#. Groupresourcewidget_body.phtml:35
+#. ListerControlMain_body.phtml:284
+#. ListerControlMain_body.phtml:317
+#. ListerControlMain_groups.phtml:99
+#. ListerControlMain_groups.phtml:128
+#. ListerControlMain_resources.phtml:117
+#. ListerControlMain_resources.phtml:150
+#. ListerControlMain_users.phtml:76
+#. ListerControlMain_users.phtml:105
+#: 
+msgid "Owner"
+msgstr "所有人"
+
+#. TagListerControl.php:123
+#: 
+msgid "Parent level:"
+msgstr "父级："
+
+#. AdministrationPresenter.php:85
+#: 
+msgid "Parent tag:"
+msgstr "父标签："
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Password again:"
+msgstr "再次输入密码："
+
+#. User.php:298
+#: 
+msgid "Password change on Mycitizen.net"
+msgstr "密码在Mycitizen.net改变"
+
+#. UserPresenter.php:269
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Password:"
+msgstr "密码："
+
+#. UserPresenter.php:632
+#: 
+msgid "Phone:"
+msgstr "电话："
+
+#. GroupPresenter.php:224
+#: 
+msgid "Please enter some text."
+msgstr "请输入文本"
+
+#. GroupPresenter.php:799
+#. ResourcePresenter.php:905
+#. UserPresenter.php:344
+#: 
+msgid "Please give us some details."
+msgstr "请提供细节。"
+
+#. detail.phtml:119
+#: 
+msgid "Please go to the edit screen and generate a link."
+msgstr "请前往编辑屏幕并生成一个链接。"
+
+#. @layout.phtml:92
+#: 
+msgid "Please select first a part of the image."
+msgstr "请选择图片的一部分。"
+
+#. ResourcePresenter.php:192
+#: 
+msgid "Post"
+msgstr "帖"
+
+#. detail.phtml:322
+#: 
+msgid "Post new comment"
+msgstr "发布新评论"
+
+#. detail.phtml:320
+#: 
+msgid "Post reply"
+msgstr "发布回复"
+
+#. GroupPresenter.php:798
+#. ResourcePresenter.php:904
+#. UserPresenter.php:343
+#: 
+msgid "Reason:"
+msgstr "理由："
+
+#. UserPresenter.php:103
+#: 
+msgid "The registration couldn't be finished! Link is not active anymore."
+msgstr "注册无法完成！链接已经失效。"
+
+#. UserPresenter.php:99
+#: 
+msgid "The registration has been successful. You can now sign in."
+msgstr "注册已经成功。您现在可以登录。"
+
+#. UserPresenter.php:530
+#: 
+msgid "Registration has been successful. A message has been sent to your email with further instructions how to activate your account."
+msgstr "注册成功。一条新信息已经发送到您的邮箱，告诉您进行下一步去激活您的账号。"
+
+#. default.phtml:144
+#. detail.phtml:140
+#: 
+msgid "Reject friendship request"
+msgstr "拒绝朋友请求"
+
+#. TagListerControl.php:125
+#: 
+msgid "Remove"
+msgstr "移除"
+
+#. UserPresenter.php:472
+#: 
+msgid "Repeat password:"
+msgstr "重复密码："
+
+#. detail.phtml:310
+#: 
+msgid "Replies"
+msgstr "回复"
+
+#. GroupPresenter.php:829
+#: 
+msgid "Report about group %s, reason: %s"
+msgstr "关于群组%s的报告，理由%s"
+
+#. ResourcePresenter.php:935
+#: 
+msgid "Report about resource %s, reason: %s"
+msgstr "关于资源%s的报告，理由%s"
+
+#. UserPresenter.php:397
+#: 
+msgid "Report about user %s, reason: %s"
+msgstr "关于用户%s的报告，理由%s"
+
+#. detail.phtml:40
+#: 
+msgid "Report group"
+msgstr "报告群组"
+
+#. detail.phtml:43
+#: 
+msgid "Report resource"
+msgstr "报告资源"
+
+#. detail.phtml:43
+#: 
+msgid "Report user"
+msgstr "报告用户"
+
+#. AdministrationPresenter.php:193
+#: 
+msgid "Reports"
+msgstr "报告"
+
+#. default.phtml:99
+#. detail.phtml:108
+#: 
+msgid "Request friendship"
+msgstr "请求朋友"
+
+#. UserPresenter.php:417
+#: 
+msgid "Request new password"
+msgstr "申请新密码"
+
+#. detail.phtml:110
+#: 
+msgid "Resource owner: "
+msgstr "资源拥有者："
+
+#. ResourcePresenter.php:406
+#: 
+msgid "Resource type:"
+msgstr "资源类型："
+
+#. ResourcePresenter.php:531
+#: 
+msgid "Resource updated"
+msgstr "资源已更新"
+
+#. BasePresenter.php:108
+#. default.phtml:0
+#. default.phtml:35
+#: 
+msgid "Resources"
+msgstr "资源"
+
+#. default.phtml:105
+#. default.phtml:110
+#. detail.phtml:113
+#. detail.phtml:118
+#: 
+msgid "Revoke request"
+msgstr "收回请求"
+
+#. ListerControlMain_body.phtml:16
+#. ListerControlMain_groups.phtml:14
+#. ListerControlMain_resources.phtml:15
+#. ListerControlMain_users.phtml:13
+#: 
+msgid "Role"
+msgstr "角色"
+
+#. detail.phtml:335
+#: 
+msgid "Search Comments"
+msgstr "搜索评论"
+
+#. detail.phtml:167
+#: 
+msgid "See details about the user and respond to the request."
+msgstr "查看用户详细信息和对请求的回复。"
+
+#. ContainerTreeSelectControl.phtml:22
+#: 
+msgid "Select Parent Level"
+msgstr "选择上一级"
+
+#. default.phtml:121
+#: 
+msgid "Select a group for more details."
+msgstr "选择一个群组获取细节。"
+
+#. ResourcePresenter.php:408
+#: 
+msgid "Select a language of this resource."
+msgstr "为此资源选择一种语言。"
+
+#. GroupPresenter.php:456
+#: 
+msgid "Select a language that will be used in this group for communication."
+msgstr "选择在本群组中使用的语言。"
+
+#. default.phtml:131
+#: 
+msgid "Select a resource for more details."
+msgstr "选择一个资源获取细节。"
+
+#. AddTagComponent_Group.phtml:22
+#. AddTagComponent_Resource.phtml:22
+#. AddTagComponent_User.phtml:22
+#: 
+msgid "Select a tag"
+msgstr "选择一个标签"
+
+#. default.phtml:182
+#: 
+msgid "Select a user for more details."
+msgstr "选择一个用户获取细节。"
+
+#. detail.phtml:136
+#: 
+msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
+msgstr "选择一个或多个群组来订阅该资源。只有您拥有的群组或者您有管理权限的群组会显示。"
+
+#. detail.phtml:143
+#: 
+msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
+msgstr "选择一个或多个资源来取消。只有该群组订阅的资源会显示。您可以在资源的详细页面订阅资源。"
+
+#. MapContainer.phtml:331
+#: 
+msgid "Selected Location"
+msgstr "选择位置"
+
+#. AdministrationPresenter.php:216
+#. GroupPresenter.php:228
+#. GroupPresenter.php:800
+#. ResourcePresenter.php:906
+#. UserPresenter.php:345
+#. UserPresenter.php:567
+#. UserPresenter.php:1089
+#: 
+msgid "Send"
+msgstr "发送"
+
+#. messages.phtml:4
+#: 
+msgid "Send a message to a friend"
+msgstr "给朋友发送信息"
+
+#. edit.phtml:14
+#: 
+msgid "September"
+msgstr "九月"
+
+#. AdministrationPresenter.php:176
+#: 
+msgid "Settings"
+msgstr "设置"
+
+#. UserPresenter.php:270
+#. @layout.phtml:145
+#: 
+msgid "Sign in"
+msgstr "登录"
+
+#. @layout.phtml:141
+#. login.phtml:4
+#: 
+msgid "Sign out"
+msgstr "退出"
+
+#. UserPresenter.php:475
+#. @layout.phtml:146
+#: 
+msgid "Sign up"
+msgstr "注册"
+
+#. settings.phtml:8
+#: 
+msgid "Software version:"
+msgstr "软件版本："
+
+#. User.php:26
+#: 
+msgid "Specified user not found."
+msgstr "指定的用户未找到。"
+
+#. ExternalFilter.php:182
+#. UserListerControl.phtml:22
+#: 
+msgid "Status"
+msgstr "状态"
+
+#. ResourcePresenter.php:241
+#. detail.phtml:121
+#: 
+msgid "Subscribe"
+msgstr "订阅"
+
+#. detail.phtml:134
+#: 
+msgid "Subscribe as group"
+msgstr "以群组定于"
+
+#. default.phtml:104
+#: 
+msgid "Subscribe to resource"
+msgstr "订阅资源"
+
+#. default.phtml:147
+#. detail.phtml:297
+#: 
+msgid "Subscribed Groups"
+msgstr "订阅的群组"
+
+#. default.phtml:136
+#. detail.phtml:286
+#: 
+msgid "Subscribed Users"
+msgstr "订阅的用户"
+
+#. default.phtml:199
+#. detail.phtml:178
+#: 
+msgid "Subscribed to resources"
+msgstr "已经订阅了资源"
+
+#. ListerControlMain_body.phtml:31
+#. ListerControlMain_resources.phtml:25
+#: 
+msgid "Subscribers"
+msgstr "订阅者"
+
+#. detail.phtml:141
+#: 
+msgid "Subscriptions as group"
+msgstr "以群组身份的订阅"
+
+#. UserPresenter.php:631
+#: 
+msgid "Surname:"
+msgstr "姓："
+
+#. setupmaintenance.phtml:15
+#: 
+msgid "System check"
+msgstr "系统检查"
+
+#. AddTagComponent_Group.phtml:28
+#. AddTagComponent_Resource.phtml:28
+#: 
+msgid "Tag"
+msgstr "标签"
+
+#. TagListerControl.php:121
+#. AdministrationPresenter.php:84
+#: 
+msgid "Tag name:"
+msgstr "标签名字："
+
+#. AddTagComponent_User.phtml:27
+#. ExternalFilter.phtml:78
+#. AdministrationPresenter.php:162
+#: 
+msgid "Tags"
+msgstr "标签"
+
+#. GroupPresenter.php:799
+#: 
+msgid "Tell us why you report this group, including examples:"
+msgstr "告诉我们为什么您举报该群组，包括示例："
+
+#. ResourcePresenter.php:905
+#: 
+msgid "Tell us why you report this resource, including examples:"
+msgstr "告诉我们为什么您举报该资源，包括示例："
+
+#. UserPresenter.php:344
+#: 
+msgid "Tell us why you report this user, including examples:"
+msgstr "告诉我们为什么您举报该用户，包括示例："
+
+#. ResourcePresenter.php:449
+#. UserPresenter.php:1087
+#: 
+msgid "Text:"
+msgstr "文本："
+
+#. GroupPresenter.php:193
+#. UserPresenter.php:208
+#: 
+msgid "The image is too small. Minimum size is %s."
+msgstr "图片太小！最小上传大小是%s"
+
+#. UserPresenter.php:636
+#: 
+msgid "The main language you want to use. You will still be able to see other languages."
+msgstr "您要使用的主要语言。您还是可以看见其他语言。"
+
+#. UserPresenter.php:469
+#: 
+msgid "The minimal length of your username is %s characters."
+msgstr "您的用户名最短长度为%s。"
+
+#. UserPresenter.php:628
+#: 
+msgid "The username cannot be changed."
+msgstr "用户名无法改变。"
+
+#. detail.phtml:115
+#: 
+msgid "This group can only be viewed by members. Users need to have the key below to become members."
+msgstr "该群组只能被会员看到。用户必须使用下面的密钥成为会员。"
+
+#. GroupPresenter.php:1175
+#: 
+msgid "This group doesn't have a key."
+msgstr "该群没有密钥。"
+
+#. GroupPresenter.php:795
+#: 
+msgid "This group violates the rules of conduct."
+msgstr "该群组违反了行为规则。"
+
+#. detail.phtml:10
+#: 
+msgid "This is my profile."
+msgstr "这是我的个人资料。"
+
+#. GroupPresenter.php:793
+#: 
+msgid "This is not a real group but spam."
+msgstr "这不是一个真正的群组，这是垃圾邮件。"
+
+#. UserPresenter.php:338
+#: 
+msgid "This is not a real person but spam."
+msgstr "这不是一个真正的人，这是垃圾邮件。"
+
+#. ResourcePresenter.php:899
+#: 
+msgid "This is not a real resource but spam."
+msgstr "这不是一个真正的资源，这是垃圾邮件。"
+
+#. UserPresenter.php:340
+#: 
+msgid "This person violates the rules of conduct."
+msgstr "这个人违反了行为规则。"
+
+#. ResourcePresenter.php:18
+#: 
+msgid "This resource doesn't exist."
+msgstr "资源不存在。"
+
+#. ResourcePresenter.php:901
+#: 
+msgid "This resource violates the rules of conduct."
+msgstr "这个资源违反了行为规则。"
+
+#. UserPresenter.php:27
+#: 
+msgid "This user doesn't exist."
+msgstr "该用户不存在。"
+
+#. UserPresenter.php:470
+#: 
+msgid "To this address we will send a request to confirm your registration."
+msgstr "我们将发送一个请求到这个地址去确认您的注册。"
+
+#. UserPresenter.php:1086
+#: 
+msgid "To:"
+msgstr "到："
+
+#. default.phtml:84
+#: 
+msgid "Top Groups"
+msgstr "顶级群组"
+
+#. default.phtml:88
+#: 
+msgid "Top Resources"
+msgstr "顶级资源"
+
+#. default.phtml:80
+#: 
+msgid "Top Users"
+msgstr "顶级用户"
+
+#. ExternalFilter.php:180
+#: 
+msgid "Trash"
+msgstr "垃圾"
+
+#. ListerControlMain.php:657
+#: 
+msgid "Trash emptied."
+msgstr "垃圾箱已经清空。"
+
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Try a different filter."
+msgstr "试一试不同的过滤器。"
+
+#. ExternalFilter.php:191
+#. ResourceListerControl.php:75
+#: 
+msgid "Type"
+msgstr "输入"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL must start with http:// or https://!"
+msgstr "URL必须以 http://或https://开始!"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL to external source:"
+msgstr "外部资源的URL："
+
+#. default.phtml:120
+#. detail.phtml:127
+#: 
+msgid "Unblock this user"
+msgstr "解禁此用户"
+
+#. GroupPresenter.php:884
+#: 
+msgid "Unsubscribe"
+msgstr "取消订阅"
+
+#. default.phtml:114
+#: 
+msgid "Unsubscribe from resource"
+msgstr "取消订阅资源"
+
+#. GroupListerControl.php:81
+#. GroupUserListerControl.php:57
+#. ListerControlMain.php:365
+#. ListerControlMain.php:415
+#. ListerControlMain.php:456
+#. ResourceGroupListerControl.php:44
+#. ResourceListerControl.php:41
+#. ResourceMemberListerControl.php:44
+#. TagListerControl.php:124
+#. UserListerControl.php:66
+#. GroupPresenter.php:482
+#. GroupPresenter.php:758
+#. ResourcePresenter.php:480
+#. ResourcePresenter.php:866
+#. UserPresenter.php:654
+#. UserPresenter.php:1201
+#: 
+msgid "Update"
+msgstr "更新"
+
+#. UserPresenter.php:638
+#: 
+msgid "Upload Avatar:"
+msgstr "上传头像："
+
+#. GroupPresenter.php:458
+#: 
+msgid "Upload group image:"
+msgstr "上传群组图片："
+
+#. StaticModel.php:43
+#: 
+msgid "User %s accepted your friendship."
+msgstr "用户%s接收您为朋友。"
+
+#. StaticModel.php:51
+#: 
+msgid "User %s canceled your friendship."
+msgstr "用户%s取消您为朋友。"
+
+#. StaticModel.php:47
+#: 
+msgid "User %s rejected your friendship."
+msgstr "用户%s拒绝您为朋友。"
+
+#. StaticModel.php:39
+#: 
+msgid "User %s requested your friendship."
+msgstr "用户%s请求您为朋友。"
+
+#. register.phtml:0
+#: 
+msgid "User Signup"
+msgstr "用户注册"
+
+#. lostpassword.phtml:0
+#: 
+msgid "User lost password"
+msgstr "用户丢失密码"
+
+#. UserPresenter.php:1237
+#: 
+msgid "User permissions changed."
+msgstr "用户权限更改。"
+
+#. login.phtml:0
+#: 
+msgid "User signin"
+msgstr "用户登录"
+
+#. edit.phtml:0
+#: 
+msgid "User update"
+msgstr "用户更新"
+
+#. UserPresenter.php:720
+#: 
+msgid "User updated"
+msgstr "用户被更新"
+
+#. UserPresenter.php:492
+#: 
+msgid "User with the same name already exists."
+msgstr "同样名字的用户已经存在。"
+
+#. detail.phtml:156
+#: 
+msgid "User's location on a map"
+msgstr "用户在地图上的位置"
+
+#. UserPresenter.php:469
+#: 
+msgid "Username cannot be empty!"
+msgstr "用户名不可为空！"
+
+#. UserPresenter.php:268
+#. UserPresenter.php:469
+#. UserPresenter.php:625
+#: 
+msgid "Username:"
+msgstr "用户名："
+
+#. BasePresenter.php:82
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Users"
+msgstr "用户"
+
+#. detail.phtml:104
+#: 
+msgid "View group owner:"
+msgstr "查看群组拥有者："
+
+#. detail.phtml:110
+#: 
+msgid "View resource owner:"
+msgstr "查看资源拥有者："
+
+#. GroupPresenter.php:455
+#. ResourcePresenter.php:407
+#. UserPresenter.php:635
+#: 
+msgid "Visibility:"
+msgstr "可见度："
+
+#. AdministrationPresenter.php:319
+#: 
+msgid "We have received complaints about inappropriate language in your resource. Please make necessary adjustments or your resource will be deactivated."
+msgstr "我们收到了对您资源中不合适的言论的投诉。请进行必要的处理，否则我们将禁止您的资源。"
+
+#. AdministrationPresenter.php:281
+#: 
+msgid "We have received complaints about you spaming other users. Please stop or your account will be deactivated."
+msgstr "我们收到了对您发送垃圾邮件的投诉。请立即停止否则我们将禁止您的账号。"
+
+#. AdministrationPresenter.php:287
+#: 
+msgid "We have received complaints that you use inappropriate language. Please stop or your account will be deactivated."
+msgstr "我们收到了对您使用不合适言论的投诉。请立即停止否则我们将禁止您的账号。"
+
+#. AdministrationPresenter.php:293
+#: 
+msgid "We have received complaints that your group contains spam. Please delete inappropriate content or your group will be deactivated."
+msgstr "我们收到了对您群组中有垃圾邮件的投诉。请删除垃圾邮件，否则我们将禁止您的群组。"
+
+#. AdministrationPresenter.php:313
+#: 
+msgid "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
+msgstr "我们收到了对您资源中有垃圾邮件的投诉。请删除垃圾邮件，否则我们将禁止您的资源。"
+
+#. default.phtml:42
+#: 
+msgid "Welcome"
+msgstr "欢迎"
+
+#. UserPresenter.php:637
+#: 
+msgid "Write some lines about your life, your work and your interests."
+msgstr "写一些关于您生活，工作，和个人兴趣的东西。"
+
+#. UserPresenter.php:470
+#: 
+msgid "Wrong email format!"
+msgstr "错误的邮件格式！"
+
+#. GroupPresenter.php:1164
+#: 
+msgid "You are already a member."
+msgstr "您已经是会员了。"
+
+#. default.phtml:130
+#. detail.phtml:176
+#: 
+msgid "You are not allowed to see the members."
+msgstr "您不被允许查看该会员。"
+
+#. default.phtml:192
+#. detail.phtml:171
+#: 
+msgid "You are not allowed to see the memberships."
+msgstr "您不被允许查看会员信息。"
+
+#. default.phtml:151
+#. detail.phtml:301
+#: 
+msgid "You are not allowed to see the subscribed groups."
+msgstr "您不被允许查看订阅的群组。"
+
+#. default.phtml:140
+#. detail.phtml:290
+#: 
+msgid "You are not allowed to see the subscribed users."
+msgstr "您不被允许查看订阅的用户。"
+
+#. default.phtml:141
+#. detail.phtml:187
+#. default.phtml:203
+#. detail.phtml:182
+#: 
+msgid "You are not allowed to see the subscriptions."
+msgstr "您不被允许查看订阅信息。"
+
+#. GroupPresenter.php:29
+#: 
+msgid "You are not allowed to view this group."
+msgstr "您不被允许查看该群组。"
+
+#. ResourcePresenter.php:22
+#: 
+msgid "You are not allowed to view this resource."
+msgstr "您不被允许查看该资源。"
+
+#. UserPresenter.php:31
+#: 
+msgid "You are not allowed to view this user."
+msgstr "您不被允许查看该用户。"
+
+#. detail.phtml:210
+#: 
+msgid "You can only send messages to friends."
+msgstr "您只能给朋友发送信息。"
+
+#. detail.phtml:123
+#: 
+msgid "You currently block this user."
+msgstr "您当前屏蔽了该用户。"
+
+#. GroupPresenter.php:1181
+#: 
+msgid "You have entered a wrong key."
+msgstr "您输入了错误的密钥。"
+
+#. GroupPresenter.php:1191
+#: 
+msgid "You have joined the group."
+msgstr "您加入了群组。"
+
+#. messages.phtml:6
+#: 
+msgid "You have no friends yet. You can start sending messages only after someone has accepted your friendship request."
+msgstr "您还没有朋友。只有当别人接受您的朋友请求后您才可以发送信息。"
+
+#. GroupPresenter.php:124
+#. GroupPresenter.php:506
+#: 
+msgid "You have no permission to create groups."
+msgstr "您没有权限来创建群组。"
+
+#. detail.phtml:212
+#: 
+msgid "You need to log in to send messages."
+msgstr "您必须登录才可发送信息。"
+
+#. detail.phtml:326
+#: 
+msgid "You need to subscribe in order to comment."
+msgstr "您必须订阅才可以评论。"
+
+#. UserPresenter.php:696
+#: 
+msgid "You requested a change of your email address. A message with a link was sent to your old address. The new address will be activated once you confirmed the change."
+msgstr "您请求改变邮件地址。一个含有链接的邮件已经发送给您了。当您确认更改后，新邮件地址会被启用。"
+
+#. default.phtml:53
+#: 
+msgid "My Connections"
+msgstr "我的连接"
+
+#. BasePresenter.php:29
+#: 
+msgid "Your account has been deactivated. If you think that this is a mistake, please contact the support at %s."
+msgstr "您的账号已经被停用。如果您觉得有错误，请联系客户服务%s。"
+
+#. UserPresenter.php:416
+#: 
+msgid "Your email:"
+msgstr "您的邮件地址："
+
+#. GroupPresenter.php:210
+#. UserPresenter.php:225
+#: 
+msgid "Your image still needs to be cropped to the right dimensions before you can continue!"
+msgstr "在继续之前，您需要剪切图片到合适大小！"
+
+#. GroupPresenter.php:203
+#. UserPresenter.php:218
+#: 
+msgid "Your image still needs to be resized before you can continue!"
+msgstr "在继续之前，您的图片需要调整大小！"
+
+#. messages.phtml:0
+#. messages.phtml:10
+#: 
+msgid "Your messages"
+msgstr "您的消息"
+
+#. UserPresenter.php:298
+#: 
+msgid "Your password has been successfully changed, you can now log in."
+msgstr "您已经成功地修改了密码，现在可以登录了。 "
+
+#. UserPresenter.php:471
+#: 
+msgid "Your password must be at least 8 characters long and contain at least one lower-case letter, one upper-case letter and one number."
+msgstr "您的密码必须至少8个字符长，而且包含至少一个小写字母，一个大写字母和一个数字。"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least %s characters."
+msgstr "您的密码必须包含至少%s个字符。"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one upper-case letter."
+msgstr "您的密码必须包含至少一个大写字母。"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one number."
+msgstr "您的密码必须包含至少一个数字。"
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one lower-case letter."
+msgstr "您的密码必须包含至少一个小写字母。"
+
+#. UserPresenter.php:472
+#: 
+msgid "Your passwords are different."
+msgstr "您的密码不同。"
+
+#. GroupPresenter.php:840
+#. ResourcePresenter.php:946
+#. UserPresenter.php:409
+#: 
+msgid "Your report has been received."
+msgstr "您的报告已经收到。"
+
+#. UserPresenter.php:469
+#: 
+msgid "Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr "您的用户名只能包含字母，数字，空格，破折号和下划线！"
+
+#. ExternalFilter.php:175
+#: 
+msgid "active"
+msgstr "活跃的"
+
+#. GroupPresenter.php:272
+#. ResourcePresenter.php:355
+#. UserPresenter.php:552
+#. UserPresenter.php:556
+#: 
+msgid "add new tag"
+msgstr "添加新标签"
+
+#. ListerControlMain_body.phtml:247
+#. ListerControlMain_body.phtml:265
+#. ListerControlMain_groups.phtml:83
+#. ListerControlMain_resources.phtml:102
+#: 
+msgid "administrator"
+msgstr "管理员"
+
+#. ExternalFilter.php:174
+#. ExternalFilter.php:187
+#: 
+msgid "all"
+msgstr "全部"
+
+#. ExternalFilter.php:157
+#: 
+msgid "all resources"
+msgstr "所有资源"
+
+#. ExternalFilter.php:193
+#: 
+msgid "all tags"
+msgstr "所有标签"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "auto reload"
+msgstr "重载声频"
+
+#. edit.phtml:7
+#. edit.phtml:31
+#. edit.phtml:5
+#: 
+msgid "cancel and return"
+msgstr "取消和返回"
+
+#. MapContainer.phtml:324
+#. MapControl.phtml:345
+#: 
+msgid "clear map"
+msgstr "清除地图"
+
+#. BasePresenter.php:100
+#. BasePresenter.php:118
+#: 
+msgid "create"
+msgstr "创建"
+
+#. setupmaintenance.phtml:30
+#. setupmaintenance.phtml:36
+#. setupmaintenance.phtml:42
+#: 
+msgid "deactivated"
+msgstr "已禁用"
+
+#. ResourceListerControl.phtml:37
+#. default.phtml:52
+#. detail.phtml:37
+#. default.phtml:63
+#. detail.phtml:40
+#. default.phtml:53
+#. detail.phtml:40
+#: 
+msgid "edit"
+msgstr "编辑"
+
+#. AdministrationPresenter.php:60
+#: 
+msgid "from_email"
+msgstr ""
+
+#. AdministrationPresenter.php:62
+#: 
+msgid "gps_default_latitude"
+msgstr ""
+
+#. AdministrationPresenter.php:64
+#: 
+msgid "gps_default_longitude"
+msgstr ""
+
+#. ExternalFilter.php:176
+#: 
+msgid "inactive"
+msgstr "未启用"
+
+#. @layout.phtml:197
+#: 
+msgid "license"
+msgstr "许可"
+
+#. ListerControlMain_body.phtml:449
+#. ListerControlMain_messages.phtml:93
+#: 
+msgid "mark as read"
+msgstr "标记已读"
+
+#. ListerControlMain_body.phtml:453
+#. ListerControlMain_messages.phtml:94
+#: 
+msgid "mark as unread"
+msgstr "标记未读"
+
+#. default.phtml:58
+#: 
+msgid "I am a member."
+msgstr "我是会员。"
+
+#. ChatLister_ajax.phtml:30
+#. ListerControlMain_body.phtml:251
+#. ListerControlMain_body.phtml:269
+#. ListerControlMain_groups.phtml:87
+#. ListerControlMain_resources.phtml:106
+#: 
+msgid "moderator"
+msgstr "管理员"
+
+#. setupmaintenance.phtml:27
+#: 
+msgid "moderators"
+msgstr "管理员"
+
+#. ListerControlMain_body.phtml:541
+#. ListerControlMain_groups.phtml:285
+#: 
+msgid "more groups"
+msgstr "更多群组"
+
+#. ListerControlMain_body.phtml:543
+#. ListerControlMain_resources.phtml:308
+#: 
+msgid "more resources"
+msgstr "更多资源"
+
+#. ListerControlMain_body.phtml:539
+#. ListerControlMain_users.phtml:262
+#: 
+msgid "more users"
+msgstr "更多用户"
+
+#. ListerControlMain_body.phtml:441
+#. ListerControlMain_messages.phtml:73
+#: 
+msgid "move to trash"
+msgstr "删除"
+
+#. detail.phtml:12
+#: 
+msgid "my friend"
+msgstr "我的朋友"
+
+#. default.phtml:62
+#: 
+msgid "no friend"
+msgstr "没有朋友"
+
+#. default.phtml:60
+#: 
+msgid "I am not a member."
+msgstr "我不是会员。"
+
+#. detail.phtml:12
+#: 
+msgid "not my friend"
+msgstr "不是我的朋友"
+
+#. default.phtml:72
+#: 
+msgid "I am not subscribed."
+msgstr "我没有订阅。"
+
+#. AdministrationPresenter.php:66
+#: 
+msgid "object_creation_min_time"
+msgstr ""
+
+#. default.phtml:81
+#. detail.phtml:26
+#. default.phtml:72
+#. detail.phtml:22
+#: 
+msgid "only visible to friends"
+msgstr "仅对朋友可见"
+
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "only visible to members"
+msgstr "仅对会员可见"
+
+#. default.phtml:66
+#. detail.phtml:16
+#. default.phtml:79
+#. detail.phtml:24
+#. default.phtml:70
+#. detail.phtml:20
+#: 
+msgid "only visible to registered users"
+msgstr "仅对注册用户可见"
+
+#. detail.phtml:27
+#. detail.phtml:31
+#: 
+msgid "regenerate image"
+msgstr "重新生成图片"
+
+#. ChatLister_ajax.phtml:39
+#. ListerControlMain_body.phtml:198
+#. ListerControlMain_messages.phtml:113
+#: 
+msgid "reply"
+msgstr "回复"
+
+#. ListerControlMain_body.phtml:445
+#. ListerControlMain_messages.phtml:77
+#: 
+msgid "restore from trash"
+msgstr "从垃圾站复原"
+
+#. ExternalFilter.php:197
+#: 
+msgid "tag_name"
+msgstr ""
+
+#. ContainerTreeSelectControl.phtml:27
+#. ContainerTreeSelectControl.phtml:29
+#: 
+msgid "top level"
+msgstr "顶级级别"
+
+#. default.phtml:64
+#. detail.phtml:14
+#. default.phtml:77
+#. detail.phtml:22
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "visible to the world"
+msgstr "对全世界可见"
+
+#. detail.phtml:5
+#: 
+msgid "Back to the list of messages"
+msgstr "后退到消息列表。 "
+
+#. detail.phtml:7
+#: 
+msgid "Back to the list of reports"
+msgstr "后退到报告列表。"
+
+#. detail.phtml:9
+#: 
+msgid "Back to the list of resources"
+msgstr "后退到资源列表。 "
+
+#. edit.phtml:38
+#: 
+msgid "Below you can add details: Describe the topics of this resource by one or more tags. These information will help other users to find your resource."
+msgstr "下面您可以添加细节：用一个或多个标签来标记资源的主题。这些信息可以帮助其他用户找到您的资源。"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the group"
+msgstr "群组细节"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the resource"
+msgstr "资源细节"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the user"
+msgstr "用户细节"
+
+#. setupmaintenance.phtml:24
+#: 
+msgid "GD (images) supported"
+msgstr "支持GD (图片)"
+
+#. ChatLister_ajax.phtml:47
+#. ListerControlMain_messages.phtml:112
+#: 
+msgid "Message not displayed because the user has been deactivated."
+msgstr "消息未显示因为该用户未激活"
+
+#. ListerControlMain_messages.phtml:119
+#: 
+msgid "No messages"
+msgstr "没有消息"
+
+#. setupmaintenance.phtml:18
+#: 
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#. default.phtml:169
+#. detail.phtml:173
+#: 
+msgid "Permission to create items"
+msgstr "创建条目的权限"
+
+#. @layout.phtml:211
+#: 
+msgid "Privacy policy"
+msgstr "隐私条款"
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Restrict your search to a location"
+msgstr "将您的搜索局限于一个位置"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:395
+#: 
+msgid "Search for a place"
+msgstr "所搜一个地方"
+
+#. ExternalFilter.phtml:149
+#: 
+msgid "Search for similar topics like your interests and around your location."
+msgstr "搜索跟您兴趣类似且在您周围位置的话题"
+
+#. ExternalFilter.php:207
+#: 
+msgid "Similar to me"
+msgstr "类似我的"
+
+#. ChatLister_ajax.phtml:43
+#. ListerControlMain_messages.phtml:108
+#: 
+msgid "User has been deactivated"
+msgstr "用户已经禁用"
+
+#. default.phtml:160
+#. detail.phtml:164
+#: 
+msgid "User role"
+msgstr "用户身份"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom in"
+msgstr "放大"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom out"
+msgstr "缩小"
+
+#. ExternalFilter.phtml:139
+#: 
+msgid "AND: Find only items where <i>all</i> conditions are met.<br />OR: Find items where <i>any</i> of the selected conditions are met."
+msgstr "并且： 仅仅找到 满足<i>所有</i>条件的条目。<br />或者： 找到满足<i>任何</i>一个选择条件的条目。"
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Click inside the map to set the center. Click a second time to set the search radius."
+msgstr "点击地图以设置中心。再次点击以选择搜索半径。"
+
+#. ListerControlMain_groups.phtml:217
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing to display"
+msgstr "没有东西显示"
+
+#. changepassword.phtml:3
+#: 
+msgid "Please enter your new password"
+msgstr "请输入新密码"
+
+#. UserPresenter.php:474
+#: 
+msgid "Please use only the English alphabet."
+msgstr "请仅使用英语字母。"
+
+#. ChatLister_body.phtml:9
+#: 
+msgid "Reload the chat."
+msgstr "重载聊天。"
+
+#. detail.phtml:156
+#: 
+msgid "Resource location on a map"
+msgstr "资源在地图上的位置"
+
+#. MapControl.phtml:380
+#. MapControl.phtml:381
+#: 
+msgid "Show the location where you are right now."
+msgstr "显示您选择的位置。"
+
+#. detail.phtml:224
+#: 
+msgid "The chat is only visible to group members."
+msgstr "聊天只在群组会员间可见。"
+
+#. detail.phtml:222
+#: 
+msgid "Time:"
+msgstr "事件："
+
+#. default.phtml:6
+#. default.phtml:6
+#. default.phtml:6
+#: 
+msgid "Use the filter to narrow down the list of items"
+msgstr "用过滤器来减少条目列表"
+
+#. MapControl.php:42
+#: 
+msgid "group"
+msgstr "群组数"
+
+#. @layout.phtml:224
+#: 
+msgid "is a product of"
+msgstr "产品来自"
+
+#. MapControl.php:43
+#: 
+msgid "resource"
+msgstr "资源数"
+
+#. detail.phtml:18
+#: 
+msgid "I am subscribed."
+msgstr "我已订阅。"
+
+#. MapControl.php:41
+#: 
+msgid "user"
+msgstr "用户"
+
+#. tag.phtml:21
+#: 
+msgid "Add a Tag"
+msgstr "添加一个标签"
+
+#. edit.phtml:68
+#. edit.phtml:107
+#. edit.phtml:85
+#: 
+msgid "Add the tags one by one."
+msgstr "逐个添加标签"
+
+#. tag.phtml:15
+#: 
+msgid "Administration - Create new tag"
+msgstr "管理员－创建新标签"
+
+#. reports.phtml:14
+#: 
+msgid "Administration - Reports"
+msgstr "管理员－报告"
+
+#. tags.phtml:15
+#: 
+msgid "Administration - Tags"
+msgstr "管理员－标签"
+
+#. piwik.phtml:14
+#: 
+msgid "Administration - Web Statistics"
+msgstr "管理员－网站统计"
+
+#. ExternalFilter.phtml:70
+#: 
+msgid "Apply the filter and show the results."
+msgstr "应用过滤并显示结果。"
+
+#. GroupPresenter.php:485
+#: 
+msgid "Avatars are small images that will be visible with your group. Here you can upload an avatar for your group (min. %s, max. %s). In the next step you can crop it."
+msgstr ""
+
+#. UserPresenter.php:646
+#: 
+msgid "Avatars are small images that will be visible with your name. Here you can upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr "头像是跟您名字一起可见的小图标. 您在这里可以上传头像 (最小 %s, 最大 %s). 下一步您可以裁剪它。"
+
+#. default.phtml:64
+#: 
+msgid "Click here to continue"
+msgstr "点击此处继续。"
+
+#. MapControl.phtml:394
+#: 
+msgid "Click inside the map to set the location. If the location is already set, you first need to clear the map: <b class='icon-clear'></b>."
+msgstr "点击地图以设置位置。如果位置已设置，您首先要清除地图：<b class='icon-clear'></b>."
+
+#. AdministrationPresenter.php:523
+#: 
+msgid "Database error."
+msgstr "数据库错误。"
+
+#. ChatLister_ajax.phtml:163
+#. ListerControlMain_messages.phtml:208
+#: 
+msgid "Do you really want to delete this message?"
+msgstr "您确定要删除此消息吗？"
+
+#. setupmaintenance.phtml:112
+#: 
+msgid "Documentation:"
+msgstr "文档："
+
+#. ContainerTreeSelectControl.phtml:66
+#: 
+msgid "Done"
+msgstr "完成"
+
+#. AdministrationPresenter.php:732
+#: 
+msgid "Done importing resources. Error writing log file."
+msgstr "导入资源完成。写入记录文件出错。"
+
+#. AdministrationPresenter.php:734
+#: 
+msgid "Done importing resources. Please check the log file."
+msgstr "导入资源完成。请查看记录文件。"
+
+#. AdministrationPresenter.php:528
+#: 
+msgid "Done updating locales."
+msgstr "更新地域完成。"
+
+#. @layout.phtml:168
+#: 
+msgid "Download the mobile application"
+msgstr "下载移动应用程序"
+
+#. AdministrationPresenter.php:520
+#: 
+msgid "Found unused locale '%s', removing from database."
+msgstr "找到未使用过的地域 '%s'，从数据库中移除。"
+
+#. ListerControlMain_groups.phtml:82
+#: 
+msgid "I am a group moderator."
+msgstr "我是群组管理员。"
+
+#. ListerControlMain_resources.phtml:106
+#: 
+msgid "I am a resource moderator."
+msgstr "我是资源管理员。"
+
+#. ListerControlMain_groups.phtml:78
+#. ListerControlMain_resources.phtml:102
+#: 
+msgid "I am the owner."
+msgstr "我是拥有人。"
+
+#. UserPresenter.php:721
+#: 
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr "图片太大！最大的上传尺寸为%s。"
+
+#. setupmaintenance.phtml:28
+#: 
+msgid "Import resources from a file"
+msgstr "从文件里导入资源"
+
+#. ExternalFilter.php:195
+#: 
+msgid "Mailbox"
+msgstr "邮箱"
+
+#. edit.phtml:145
+#: 
+msgid "Manage subscribers of this resource"
+msgstr "管理该资源的订阅者"
+
+#. ListerControlMain.php:386
+#: 
+msgid "Normal"
+msgstr "正常"
+
+#. BasePresenter.php:420
+#: 
+msgid "Notification from %s"
+msgstr "来自%s的通知"
+
+#. default.phtml:64
+#: 
+msgid "Now is the best time to complete your profile. You can enter your name, your location and tags for your interests."
+msgstr "您可以现在完成您的个人资料。您可以输入姓名，地址还有兴趣标签。"
+
+#. setupmaintenance.phtml:64
+#: 
+msgid "PHP max execution time"
+msgstr "PHP最大的运行事件"
+
+#. setupmaintenance.phtml:67
+#: 
+msgid "PHP memory limit"
+msgstr "PHP的内存限制"
+
+#. setupmaintenance.phtml:72
+#: 
+msgid "PHP memory usage"
+msgstr "PHP的内存使用"
+
+#. ResourcePresenter.php:548
+#: 
+msgid "Please paste here the <u>underlined</u> part of the url for the media that you want to add:"
+msgstr "请在<u>下划线</u>处粘贴您想添加的媒体链接："
+
+#. ChatLister_ajax.phtml:33
+#. ListerControlMain_messages.phtml:77
+#: 
+msgid "Remove this message."
+msgstr "移除次信息"
+
+#. TagListerControl.php:175
+#: 
+msgid "Reset"
+msgstr "重置"
+
+#. ExternalFilter.phtml:80
+#: 
+msgid "Reset the filter and show the entire list."
+msgstr "恢复过滤器并且显示整个列表"
+
+#. @layout.phtml:199
+#: 
+msgid "Return to the home screen."
+msgstr "回到主屏幕。"
+
+#. ResourcePresenter.php:645
+#. ResourcePresenter.php:675
+#: 
+msgid "Screenshot processing."
+msgstr "截屏处理中。"
+
+#. AddTagComponent_Group.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this group is about."
+msgstr "选择一个描述该群组相关的话题的标签。"
+
+#. AddTagComponent_Resource.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr "选择一个描述该资源相关的话题的标签。"
+
+#. AddTagComponent_User.phtml:23
+#: 
+msgid "Select a tag that describes one of your interests."
+msgstr "选择一个描述您的兴趣的标签。"
+
+#. AdministrationPresenter.php:238
+#. setupmaintenance.phtml:20
+#: 
+msgid "Setup and Maintenance"
+msgstr "设置与维护"
+
+#. AdministrationPresenter.php:187
+#: 
+msgid "Statistics"
+msgstr "统计"
+
+#. StaticModel.php:83
+#: 
+msgid "System message:  You've received a warning about your resource."
+msgstr ""
+
+#. StaticModel.php:78
+#: 
+msgid "System message: You've received a warning about your group."
+msgstr "系统信息：您收到一个关于您群组的警告。"
+
+#. StaticModel.php:73
+#: 
+msgid "System message: You've received a warning."
+msgstr "系统信息：您收到一个警告。"
+
+#. AdministrationPresenter.php:130
+#: 
+msgid "Tag \"%s\" saved."
+msgstr "标签\"%s\"已保存。"
+
+#. setupmaintenance.phtml:41
+#: 
+msgid "Test the import in a dry run"
+msgstr "在演习中测试导入"
+
+#. GroupPresenter.php:547
+#. UserPresenter.php:723
+#: 
+msgid "The image is too small! Min. size for upload is %s"
+msgstr "图片太小！最小上传大小是%s"
+
+#. AdministrationPresenter.php:109
+#: 
+msgid "The tag cannot be its own parent."
+msgstr "标签不能是自己的父标签。"
+
+#. default.phtml:61
+#: 
+msgid "There are unread reports:"
+msgstr "未读的报告："
+
+#. GroupPresenter.php:824
+#: 
+msgid "This group contains wrong information."
+msgstr "该群有错误信息。"
+
+#. default.phtml:107
+#. detail.phtml:114
+#: 
+msgid "This is my group."
+msgstr "这是我的群组。"
+
+#. default.phtml:119
+#. detail.phtml:109
+#: 
+msgid "This is my resource."
+msgstr "这是我的资源。"
+
+#. ResourcePresenter.php:1072
+#: 
+msgid "This resource contains wrong information."
+msgstr "资源信息有错误。"
+
+#. AdministrationPresenter.php:737
+#: 
+msgid "This was just a dry run - nothing was saved."
+msgstr "这仅仅是一个测试－没有任何东西被保存。"
+
+#. ResourcePresenter.php:650
+#: 
+msgid "URL doesn't seem to exist"
+msgstr "URL不存在"
+
+#. ExternalFilter.php:194
+#: 
+msgid "Unread"
+msgstr "未读"
+
+#. setupmaintenance.phtml:46
+#: 
+msgid "Update languages"
+msgstr "更新语言"
+
+#. setupmaintenance.phtml:115
+#: 
+msgid "User Forum:"
+msgstr "用户论坛："
+
+#. ResourcePresenter.php:236
+#: 
+msgid "View big screenshot"
+msgstr "查看大的截屏"
+
+#. AdministrationPresenter.php:355
+#: 
+msgid "We have received complaints about inappropriate language in your group. Please make neccessary adjustments or your group will be deactivated."
+msgstr ""
+
+#. AdministrationPresenter.php:197
+#: 
+msgid "Web Statistics"
+msgstr "网站统计"
+
+#. BasePresenter.php:97
+#: 
+msgid "You are a moderator on this platform."
+msgstr "您在这个平台上是版主。"
+
+#. BasePresenter.php:98
+#: 
+msgid "You are an administrator on this platform."
+msgstr "您在这个平台上是管理员。"
+
+#. UserPresenter.php:527
+#: 
+msgid "Your email or IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "您的邮件或ip在www.stopforumspam.com上是垃圾来源，已经被屏蔽了。"
+
+#. default.phtml:27
+#: 
+msgid "administrators"
+msgstr "管理员"
+
+#. default.phtml:39
+#: 
+msgid "banned"
+msgstr "被禁止"
+
+#. ContainerTreeSelectControl.phtml:2
+#: 
+msgid "change"
+msgstr "修改"
+
+#. default.phtml:96
+#: 
+msgid "chat messages"
+msgstr "聊天消息"
+
+#. default.phtml:33
+#: 
+msgid "creation rights removed"
+msgstr "创建权限已移除"
+
+#. ResourcePresenter.php:180
+#: 
+msgid "document"
+msgstr "文档"
+
+#. ResourcePresenter.php:178
+#: 
+msgid "event"
+msgstr "事件"
+
+#. ResourcePresenter.php:181
+#: 
+msgid "link to external resource"
+msgstr "链接到外部资源"
+
+#. ResourcePresenter.php:188
+#: 
+msgid "live-video on Bambuser"
+msgstr "Bambuser上的现场视频"
+
+#. ResourcePresenter.php:177
+#: 
+msgid "message"
+msgstr "消息"
+
+#. ResourcePresenter.php:179
+#: 
+msgid "organization"
+msgstr "组织"
+
+#. default.phtml:93
+#: 
+msgid "private messages"
+msgstr "私人信息"
+
+#. ResourcePresenter.php:185
+#: 
+msgid "sound on Soundcloud"
+msgstr "Soundcloud的声音"
+
+#. default.phtml:24
+#. default.phtml:55
+#. default.phtml:74
+#: 
+msgid "total"
+msgstr "所有"
+
+#. ResourcePresenter.php:187
+#: 
+msgid "video on Vimeo"
+msgstr "Vimeo上的视频"
+
+#. ResourcePresenter.php:186
+#: 
+msgid "video on YouTube"
+msgstr "YouTube上的视频"
+
+#. default.phtml:48
+#: 
+msgid "visbility 'friends'"
+msgstr "可见度'朋友'"
+
+#. default.phtml:67
+#: 
+msgid "visbility 'members'"
+msgstr "可见度'会员'"
+
+#. default.phtml:45
+#. default.phtml:64
+#. default.phtml:83
+#: 
+msgid "visbility 'registered'"
+msgstr "可见度'注册'"
+
+#. default.phtml:86
+#: 
+msgid "visbility 'susbcribed'"
+msgstr "可见度'订阅'"
+
+#. default.phtml:42
+#. default.phtml:61
+#. default.phtml:80
+#: 
+msgid "visbility 'world'"
+msgstr "可见度'全世界'"
+
+#: 
+msgid "%s new messages"
+msgstr "%s新信息"
+
+#: 
+msgid "1 new message"
+msgstr "一条新消息"
+
+#: 
+msgid "Quote"
+msgstr "引用"
+
+#: 
+msgid "The administrator asks you to answer a security question before you can enter."
+msgstr "管理员要求您回答安全问题后才可进入。"
+
+#: 
+msgid "Are you sure?"
+msgstr "您确定吗？"
+
+#: 
+msgid "Security Question"
+msgstr "安全问题"
+
+#: 
+msgid "Sign up is disabled. Please try again later."
+msgstr "注册被禁止。请稍后重试。"
+
+#: 
+msgid "Sign in is disabled. Please try again later."
+msgstr "登录被禁止。请稍后重试。"
+
+#: 
+msgid "Please answer the security question"
+msgstr "请回答安全问题"
+
+#: 
+msgid "You do not have permission to view this page. Please try contact the web site administrator if you believe you should be able to view this page."
+msgstr "您没有权限查看该页面。如果您认为您应该可以查看，请联系网站管理员。"
+
+#: 
+msgid "The page you requested could not be found. Please correct the address, return to the previous page, or go back home."
+msgstr "您请求的页面找不到。请更正地址，回到前个页面，或者回到主页。"
+
+#: 
+msgid "Show only messages by senders with matching names.<ul><li>Type to search only on this page.</li><li>Type and press enter to search on all pages.</li></ul>"
+msgstr "只显示匹配名字的发送人的信息。<ul><li>在此搜索本页。</li><li>在此搜索所有页面。</li></ul>"
+
+#: 
+msgid "Edit profile"
+msgstr "编辑个人资料"
+
+#: 
+msgid "Remember me"
+msgstr "记住我"
+
+#: 
+msgid "We have resent your confirmation email - just in case you didn't get it before."
+msgstr "为了防止您以前没有收到，我们重新发送了您的确认邮件。"
+
+#: 
+msgid "You canceled the friendship with %s."
+msgstr "您取消了与%s的朋友关系。"
+
+#: 
+msgid "You joined the group."
+msgstr "您加入了群组。"
+
+#: 
+msgid "You subscribed to the resource."
+msgstr "您订阅了资源。"
+
+#: 
+msgid "You left the group."
+msgstr "您离开了该群组。"
+
+#: 
+msgid "You unsubscribed from the resource."
+msgstr "您取消了订阅资源。"
+
+#: 
+msgid "The group added a resource."
+msgstr "该组已经添加一个资源。"
+
+#: 
+msgid "The resource has new comments."
+msgstr "资源有新评论。"
+
+#: 
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr "有人视图用您的名字和错误的密码登录。"
+
+#: 
+msgid "Today"
+msgstr "今天"
+
+#: 
+msgid "Yesterday"
+msgstr "昨天"
+
+#: 
+msgid "Week"
+msgstr "周"
+
+#: 
+msgid "Month"
+msgstr "月"
+
+#: 
+msgid "Recent activity"
+msgstr "最近活动"
+
+#: 
+msgid "load more..."
+msgstr "加载更多。。。"
+
+#: 
+msgid "Terms of Use"
+msgstr "使用条款"
+
+#. AdministrationPresenter.php:678
+#: 
+msgid "%d user(s) purged."
+msgstr "%s用户被清除"
+
+#. ResourcePresenter.php:180
+#. ResourcePresenter.php:245
+#. ResourcePresenter.php:646
+#: 
+msgid "1 week"
+msgstr "一周"
+
+#. GroupPresenter.php:1071
+#. GroupPresenter.php:1080
+#: 
+msgid "A message from your group %s"
+msgstr "来自您的群组%s的信息"
+
+#. HomePagePresenter.php:541
+#: 
+msgid "A new chat message was posted in the group."
+msgstr "群组里有新发布的聊天信息。"
+
+#. HomePagePresenter.php:543
+#: 
+msgid "A new group was created."
+msgstr "一个新的群组创建了。"
+
+#. HomePagePresenter.php:544
+#: 
+msgid "A new resource was created."
+msgstr "一个新的资源创建了。"
+
+#. 403.phtml:14
+#. 403.phtml:18
+#: 
+msgid "Access Denied"
+msgstr "访问被拒"
+
+#. BasePresenter.php:286
+#: 
+msgid "0"
+msgstr ""
+
+#. ResourcePresenter.php:648
+#. detail.phtml:265
+#: 
+msgid "Alarm:"
+msgstr "警告："
+
+#. ResourcePresenter.php:629
+#: 
+msgid "All day event"
+msgstr ""
+
+#. HomePagePresenter.php:628
+#. default.phtml:126
+#. detail.phtml:260
+#: 
+msgid "All-day event"
+msgstr "全天事件"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Apr"
+msgstr "四月"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Aug"
+msgstr "八月"
+
+#. UserPresenter.php:916
+#: 
+msgid "Continue"
+msgstr "继续"
+
+#. create.phtml:13
+#: 
+msgid "Create Group"
+msgstr "创建群组"
+
+#. create.phtml:13
+#: 
+msgid "Create Resource"
+msgstr "创建新资源"
+
+#. default.phtml:174
+#: 
+msgid "Create a new event?"
+msgstr "创建一个新事件？"
+
+#. setupmaintenance.phtml:34
+#: 
+msgid "Database size"
+msgstr "数据库大小"
+
+#. StaticModel.php:137
+#. BasePresenter.php:647
+#: 
+msgid "Dear %s"
+msgstr "亲爱的%s"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Dec"
+msgstr "十二月"
+
+#. ResourcePresenter.php:633
+#: 
+msgid "Different end time"
+msgstr "不同的截止时间"
+
+#. browse.phtml:46
+#: 
+msgid "Do you really want to delete this file?"
+msgstr "您确定要删除此文件吗？"
+
+#. edit.phtml:13
+#: 
+msgid "Edit Resource"
+msgstr "编辑资源"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "Emails on unread messages:"
+msgstr "关于未读消息的邮件："
+
+#. default.phtml:121
+#. detail.phtml:255
+#: 
+msgid "End:"
+msgstr "结束："
+
+#. detail.phtml:247
+#: 
+msgid "Event Details"
+msgstr "事件细节"
+
+#. ResourcePresenter.php:634
+#: 
+msgid "Event end time:"
+msgstr "事件结束时间："
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Feb"
+msgstr "二月"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Fri"
+msgstr "周五"
+
+#. default.phtml:197
+#: 
+msgid "Friday"
+msgstr "周五"
+
+#. GroupPresenter.php:552
+#: 
+msgid "Group name cannot be empty!"
+msgstr "群组名字不可为空！"
+
+#. UserPresenter.php:1072
+#: 
+msgid "Homepage:"
+msgstr "首页："
+
+#. GroupPresenter.php:1036
+#: 
+msgid "How to contact them"
+msgstr "如何联系他们"
+
+#. default.phtml:134
+#: 
+msgid "If these recommendations are not precise, you could try to find better tags to describe your interests. You can change your tags on your profile page."
+msgstr "如果这些推荐不准确，您可以试着用更好的标签描述您的兴趣。您的标签在个人资料里面更改。"
+
+#. browse.phtml:83
+#: 
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
+msgstr "如果您想上传一个新文件，关闭此窗口并且点击上传。"
+
+#. browse.phtml:84
+#: 
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+msgstr "文件是公开的。如果您不想别人看到该文件，请选择一个难猜到的文件名。"
+
+#. detail.phtml:100
+#: 
+msgid "Interests"
+msgstr "兴趣"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jan"
+msgstr "一月"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jul"
+msgstr "七月"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jun"
+msgstr "六月"
+
+#. AdministrationPresenter.php:429
+#: 
+msgid "Maintenance mode activated."
+msgstr "维护模式已启动。"
+
+#. BasePresenter.php:88
+#: 
+msgid "Maintenance mode active."
+msgstr "当前是维护模式。"
+
+#. AdministrationPresenter.php:422
+#: 
+msgid "Maintenance mode deactivated."
+msgstr "维护模式已关闭。"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Mar"
+msgstr "三月"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Mon"
+msgstr "周一"
+
+#. default.phtml:196
+#: 
+msgid "Monday"
+msgstr "周一"
+
+#. setupmaintenance.phtml:80
+#: 
+msgid "More information and download"
+msgstr "更多消息和下载"
+
+#. default.phtml:84
+#: 
+msgid "My Activity"
+msgstr "我的活动"
+
+#. default.phtml:85
+#: 
+msgid "My Events"
+msgstr "我的事件"
+
+#. default.phtml:83
+#: 
+msgid "My Recommendations"
+msgstr "我的推荐"
+
+#. setupmaintenance.phtml:31
+#: 
+msgid "MySQL Version"
+msgstr "MySQL版本"
+
+#. setupmaintenance.phtml:74
+#: 
+msgid "New version:"
+msgstr "新版本："
+
+#. browse.phtml:122
+#: 
+msgid "No files."
+msgstr "没有文件"
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "No problem found."
+msgstr "没有发现问题。"
+
+#. detail.phtml:107
+#. detail.phtml:122
+#. detail.phtml:121
+#: 
+msgid "No tags"
+msgstr "没有标签"
+
+#. browse.phtml:84
+#: 
+msgid "Note:"
+msgstr "注意："
+
+#. messages.phtml:47
+#. messages.phtml:51
+#: 
+msgid "Notification Settings"
+msgstr "通知设置"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Nov"
+msgstr "十一月"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Oct"
+msgstr "十月"
+
+#. setupmaintenance.phtml:153
+#: 
+msgid "Over one month old"
+msgstr "一个月以上"
+
+#. setupmaintenance.phtml:155
+#: 
+msgid "Over six months old"
+msgstr "六个月以上"
+
+#. setupmaintenance.phtml:154
+#: 
+msgid "Over two months old"
+msgstr "两个月以上"
+
+#. 404.phtml:14
+#. 404.phtml:18
+#: 
+msgid "Page Not Found"
+msgstr "页面找不到"
+
+#. UserPresenter.php:2197
+#: 
+msgid "Please check now your profile and enter a description and tags."
+msgstr "请检查个人资料并输入描述和标签"
+
+#. UserPresenter.php:788
+#. UserPresenter.php:914
+#: 
+msgid "Please enter the text!"
+msgstr "请输入文本！"
+
+#. browse.phtml:74
+#: 
+msgid "Please select a file"
+msgstr "请选择一个文件"
+
+#. setupmaintenance.phtml:136
+#. setupmaintenance.phtml:141
+#: 
+msgid "Problem found"
+msgstr "发现问题"
+
+#. setupmaintenance.phtml:152
+#: 
+msgid "Purge unconfirmed users"
+msgstr "清除未确认的用户"
+
+#. @layout.phtml:232
+#: 
+msgid "Recent Activity"
+msgstr "最近活动"
+
+#. default.phtml:120
+#: 
+msgid "Recommended Groups"
+msgstr "推荐群组"
+
+#. default.phtml:127
+#: 
+msgid "Recommended Resources"
+msgstr "推荐资源"
+
+#. default.phtml:113
+#: 
+msgid "Recommended Users"
+msgstr "推荐用户"
+
+#. setupmaintenance.phtml:77
+#: 
+msgid "Release information:"
+msgstr "开放信息："
+
+#. messages.phtml:46
+#: 
+msgid "Reload"
+msgstr "重新加载"
+
+#. ResourcePresenter.php:592
+#: 
+msgid "Resource name cannot be empty!"
+msgstr "资源名字不可为空"
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "Result"
+msgstr "结果"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sat"
+msgstr "周六"
+
+#. default.phtml:197
+#: 
+msgid "Saturday"
+msgstr "周六"
+
+#. ListerControlMain_groups.phtml:19
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:19
+#: 
+msgid "Searched around your location."
+msgstr "搜索您周围。"
+
+#. detail.phtml:229
+#. detail.phtml:231
+#: 
+msgid "Send a message to all members"
+msgstr "给所有会员发送信息"
+
+#. GroupPresenter.php:1032
+#: 
+msgid "Send them a local message."
+msgstr "给他们发送一条本地信息。"
+
+#. GroupPresenter.php:1033
+#: 
+msgid "Send them an email."
+msgstr "给他们发送一封邮件。"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Sep"
+msgstr "九月"
+
+#. BasePresenter.php:80
+#: 
+msgid "Stand by for scheduled maintenance in %s minutes and %s seconds. Please finish your activities."
+msgstr "等待%s分%s后的规划好的维护。请完成您的活动。"
+
+#. default.phtml:119
+#. detail.phtml:253
+#: 
+msgid "Start:"
+msgstr "开始："
+
+#. AdministrationPresenter.php:391
+#: 
+msgid "Submit"
+msgstr "提交"
+
+#. UserPresenter.php:2196
+#: 
+msgid "Success!"
+msgstr "成功！"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sun"
+msgstr "周日"
+
+#. default.phtml:196
+#: 
+msgid "Sunday"
+msgstr "周日"
+
+#. AdministrationPresenter.php:656
+#: 
+msgid "System check finished. Find the results below."
+msgstr "系统检查完成。下面是检查结果。"
+
+#. GroupPresenter.php:1037
+#: 
+msgid "Text"
+msgstr "文本"
+
+#. HomePagePresenter.php:546
+#: 
+msgid "The group unsubscribed from a resource."
+msgstr "群组取消订阅一个资源。"
+
+#. HomePagePresenter.php:547
+#: 
+msgid "The group was updated."
+msgstr "群组被更新。"
+
+#. UserAuthenticator.php:42
+#: 
+msgid "The password is wrong."
+msgstr "密码错误。"
+
+#. HomePagePresenter.php:548
+#: 
+msgid "The resource was updated."
+msgstr "资源被更新。"
+
+#. UserPresenter.php:897
+#: 
+msgid "There has been an error sending the confirmation email. Please try again in a while."
+msgstr "发生确认邮件出错，请稍后再试。"
+
+#. UserPresenter.php:601
+#: 
+msgid "This person was created by mistake."
+msgstr "这个人是错误建立的。"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Thu"
+msgstr "周四"
+
+#. default.phtml:197
+#: 
+msgid "Thursday"
+msgstr "周四"
+
+#. detail.phtml:86
+#. detail.phtml:101
+#: 
+msgid "Topics"
+msgstr "话题"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Tue"
+msgstr "周二"
+
+#. default.phtml:196
+#: 
+msgid "Tuesday"
+msgstr "周二"
+
+#. detail.phtml:189
+#: 
+msgid "Visit Homepage"
+msgstr "访问主页"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Wed"
+msgstr "周三"
+
+#. default.phtml:196
+#: 
+msgid "Wednesday"
+msgstr "周三"
+
+#. HomePagePresenter.php:518
+#: 
+msgid "You accepted %s's friendship."
+msgstr "您接受了%s为朋友"
+
+#. GroupPresenter.php:1282
+#: 
+msgid "You are not allowed to edit this group."
+msgstr "您不被允许修改这个群组。"
+
+#. UserPresenter.php:1970
+#: 
+msgid "You are not allowed to edit this user."
+msgstr "您不被允许修改这个用户。"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr "当您有未读信息时可接收邮件。"
+
+#. UserPresenter.php:822
+#. UserPresenter.php:945
+#: 
+msgid "You entered the wrong captcha."
+msgstr "您输入了错误的验证图片。"
+
+#. BasePresenter.php:120
+#: 
+msgid "You first need to confirm your registration. Please check your email account and click on the link of the confirmation email."
+msgstr "您需要先确认您的注册。请查看您的邮件并点击链接。"
+
+#. ResourcePresenter.php:771
+#: 
+msgid "You have no permission to create public resources."
+msgstr "您没有权限来创建公共资源。"
+
+#. BasePresenter.php:609
+#: 
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr "您作为群%s的会员收到了该信息。"
+
+#. HomePagePresenter.php:525
+#: 
+msgid "You rejected %s's friendship."
+msgstr "您拒绝了%s为朋友。"
+
+#. HomePagePresenter.php:511
+#: 
+msgid "You requested %s's friendship."
+msgstr "您请求了%s为朋友。"
+
+#. HomePagePresenter.php:505
+#: 
+msgid "You signed up."
+msgstr "您注册了。"
+
+#. UserPresenter.php:2091
+#: 
+msgid "Your Facebook account doesn't have an email address."
+msgstr "您的 Facebook账号没有邮件地址。"
+
+#. GroupPresenter.php:1101
+#: 
+msgid "Your message has been sent to the members of this group."
+msgstr "您的消息已经发送给群组成员了。"
+
+#. UserPresenter.php:783
+#: 
+msgid "Your password must contain at least one small letter."
+msgstr "您的密码必须包含至少一个小写字母。"
+
+#. ResourcePresenter.php:569
+#: 
+msgid "Your permissions only allow to create private resources."
+msgstr "您的权限仅允许创建私有资源。"
+
+#. setupmaintenance.phtml:84
+#: 
+msgid "Your software is up to date."
+msgstr "您的软件已经是最新版本。"
+
+#. UserPresenter.php:1072
+#: 
+msgid "Your website, blog or Facebook profile."
+msgstr "您的网站，博客，或Facebook个人资料。"
+
+#. 403.phtml:27
+#. 404.phtml:27
+#: 
+msgid "back"
+msgstr "后退"
+
+#. browse.phtml:78
+#: 
+msgid "close"
+msgstr "关闭"
+
+#. default.phtml:193
+#: 
+msgid "day"
+msgstr "天"
+
+#. browse.phtml:103
+#: 
+msgid "delete"
+msgstr "删除"
+
+#. HomePagePresenter.php:632
+#. HomePagePresenter.php:635
+#: 
+msgid "g:ia"
+msgstr "g:ia"
+
+#. 403.phtml:28
+#. 404.phtml:28
+#: 
+msgid "home"
+msgstr "主页"
+
+#. browse.phtml:107
+#: 
+msgid "insert"
+msgstr "插入"
+
+#. ResourcePresenter.php:163
+#. ResourcePresenter.php:164
+#. ResourcePresenter.php:228
+#. ResourcePresenter.php:229
+#: 
+msgid "l, j F Y"
+msgstr "l, j F Y"
+
+#. ResourcePresenter.php:166
+#. ResourcePresenter.php:167
+#. ResourcePresenter.php:231
+#. ResourcePresenter.php:232
+#: 
+msgid "l, j F Y, g:ia T"
+msgstr "l, j F Y, g:ia T"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per day"
+msgstr "最多一天一次"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per hour"
+msgstr "最多每小时一次"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per week"
+msgstr "最多一周一次"
+
+#. default.phtml:191
+#: 
+msgid "month"
+msgstr "月"
+
+#. TagListerControl.phtml:49
+#: 
+msgid "move down"
+msgstr "下移"
+
+#. TagListerControl.phtml:48
+#: 
+msgid "move up"
+msgstr "上移"
+
+#. UserPresenter.php:1069
+#: 
+msgid "no"
+msgstr "不"
+
+#. ResourcePresenter.php:171
+#. ResourcePresenter.php:236
+#. ResourcePresenter.php:637
+#: 
+msgid "no alert"
+msgstr "没有警告"
+
+#. create.phtml:19
+#. create.phtml:22
+#. edit.phtml:19
+#. edit.phtml:22
+#: 
+msgid "now"
+msgstr "现在"
+
+#. UserPresenter.php:481
+#: 
+msgid "off"
+msgstr "关闭"
+
+#. default.phtml:98
+#. detail.phtml:46
+#: 
+msgid "only visible to subscribers"
+msgstr "仅对订阅者可见"
+
+#. default.phtml:96
+#. detail.phtml:44
+#: 
+msgid "only visible to you"
+msgstr "仅对您可见"
+
+#. default.phtml:151
+#: 
+msgid "own events"
+msgstr "自己的事件"
+
+#. browse.phtml:109
+#: 
+msgid "pixel"
+msgstr "像素"
+
+#. @layout.phtml:201
+#: 
+msgid "read or write messages"
+msgstr "读或写信息"
+
+#. create.phtml:20
+#. edit.phtml:20
+#: 
+msgid "reset to initial selection"
+msgstr "恢复到最初的选择"
+
+#. login.phtml:49
+#. register.phtml:37
+#: 
+msgid "sign in with Facebook"
+msgstr "从Facebook登录"
+
+#. default.phtml:152
+#: 
+msgid "subscribed events"
+msgstr "订阅的事件"
+
+#. default.phtml:190
+#: 
+msgid "today"
+msgstr "今天"
+
+#. default.phtml:38
+#: 
+msgid "unfinished registration"
+msgstr "未完成的注册"
+
+#. default.phtml:192
+#: 
+msgid "week"
+msgstr "周"
+
+#: 
+msgid "The following items could be interesting for you:"
+msgstr "您可能对下面的条目感兴趣："
+
+#: 
+msgid "You see only item that you are not connected to."
+msgstr "您只能看见您未连接的条目。"
+
+#: 
+msgid "now online"
+msgstr "现在在线"
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr "最近上线于5分钟前。"
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr "最近上线于10分钟前。"
+
+#: 
+msgid "Last seen:"
+msgstr "最近上线："
+
+#: 
+msgid "never online"
+msgstr "从未在线"
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr "全球所搜因为您的周围搜索范围不够。"
+
+#: 
+msgid "A new user has signed up."
+msgstr "一个新用户注册了。"
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr "包括所有您被允许查看的新用户，群组和资源。"
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr "您已经改变群组的权限。"
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr "您已经改变资源的权限。"
+
+#: 
+msgid "Message to all users"
+msgstr "给所有用户的消息"
+
+#: 
+msgid "Noticeboard Messages"
+msgstr "公告板消息"
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr "这些信息会在所有用户的活动列表里显示。"
+
+#. ResourcePresenter.php:474
+#: 
+msgid "%d result(s) found"
+msgstr "%s找到的结果"
+
+#. Group.php:693
+#: 
+msgid "%s has left the group. Good-bye!"
+msgstr "%s已经离开群组。再见！"
+
+#. Cron.php:235
+#: 
+msgid "A message from your group %s at %s"
+msgstr "来自您的群组%s于 %s的信息"
+
+#. edit.phtml:60
+#. edit.phtml:113
+#. edit.phtml:83
+#: 
+msgid "Additional Information"
+msgstr "其他信息"
+
+#. noticeboard.phtml:13
+#: 
+msgid "Administration - Noticeboard"
+msgstr "管理员－公告板"
+
+#. edit.phtml:22
+#. edit.phtml:97
+#. edit.phtml:21
+#: 
+msgid "Basic Information"
+msgstr "基本信息"
+
+#. browse.phtml:13
+#. browse.phtml:194
+#: 
+msgid "Browse Resources"
+msgstr "浏览资源"
+
+#. @layout.phtml:345
+#: 
+msgid "By using this platform you accept our Terms of Use and our Privacy policy."
+msgstr "使用本平台表示你接受我们的使用条款和隐私政策。"
+
+#. BasePresenter.php:86
+#: 
+msgid "Chat window turned off."
+msgstr "聊天窗口已关闭。"
+
+#. BasePresenter.php:86
+#: 
+msgid "Chat window turned on."
+msgstr "聊天窗口已打开。"
+
+#. browse.phtml:102
+#. browse.phtml:104
+#: 
+msgid "Click to subscribe."
+msgstr "点击订阅。"
+
+#. browse.phtml:102
+#. browse.phtml:104
+#: 
+msgid "Click to unsubscribe."
+msgstr "点击取消订阅。"
+
+#. popup_chat.phtml:59
+#: 
+msgid "Compose"
+msgstr "撰写"
+
+#. Cron.php:158
+#: 
+msgid "Continue to this [group] (%s)."
+msgstr "继续到此 [group] (%s)."
+
+#. Cron.php:164
+#: 
+msgid "Continue to this [resource] (%s)."
+msgstr "继续到此 [resource] (%s)."
+
+#. Cron.php:152
+#: 
+msgid "Continue to this [user] (%s)."
+msgstr "继续到此 [user] (%s)."
+
+#. setupmaintenance.phtml:104
+#: 
+msgid "Cron URL:"
+msgstr "Cron URL:"
+
+#. browse.phtml:206
+#: 
+msgid "Document"
+msgstr "文件"
+
+#. ResourcePresenter.php:1129
+#: 
+msgid "Error processing screenshot."
+msgstr "处理截屏出错。"
+
+#. BasePresenter.php:1376
+#. UserPresenter.php:2007
+#: 
+msgid "Error sending message."
+msgstr "发送消息出错。"
+
+#. browse.phtml:204
+#: 
+msgid "Event"
+msgstr "事件"
+
+#. BasePresenter.php:898
+#: 
+msgid "File '%s' already exists."
+msgstr "文件'%s'已存在。"
+
+#. BasePresenter.php:847
+#. BasePresenter.php:894
+#: 
+msgid "File '%s' not found."
+msgstr "文件'%s'未找到。"
+
+#. browse.phtml:18
+#: 
+msgid "File Browser"
+msgstr "文件浏览器"
+
+#. Cron.php:92
+#: 
+msgid "Find a list of your activities [on your home page] (%s)."
+msgstr "查询活动列表 [在您的首页] (%s)。"
+
+#. Cron.php:238
+#: 
+msgid "Find more information [on the page of the group] (%s)."
+msgstr "获取更多信息 [在群组的首页] (%s)。"
+
+#. User.php:618
+#: 
+msgid "Hello %s,\n"
+"\n"
+"Somebody has requested an email change on Mycitizen.net. The new email will be: %s\n"
+"\n"
+"If you think that this is wrong, please [contact the support] (%s)."
+msgstr "您好 %s,\n"
+"\n"
+"有人在Mycitizen.net请求更改邮件地址。新地址为:%s 如果您认为有误，请联系[联系服务台] (%s)."
+
+#. User.php:454
+#: 
+msgid "Hello %s,\n"
+"\n"
+"Thank you for signing up at Mycitizen.net!\n"
+"To finish your registration click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "您好 %s,\n"
+"\n"
+"感谢您在Mycitizen.net上注册。请点击[此处] (%s)完成，或者拷贝下面的链接到浏览器：\n"
+" %s"
+
+#. User.php:552
+#: 
+msgid "Hello %s,\n"
+"\n"
+"You have requested a password change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "您好 %s,\n"
+"\n"
+"您在Mycitizen.net上请求更改密码。请点击[此处] (%s)完成，或者拷贝下面的链接到浏览器：\n"
+" %s"
+
+#. User.php:608
+#: 
+msgid "Hello %s,\n"
+"\n"
+"You have requested an email change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "您好 %s,\n"
+"\n"
+"您在Mycitizen.net上请求更改邮件地址。请点击[此处] (%s)完成，或者拷贝下面的链接到浏览器：\n"
+" %s"
+
+#. Cron.php:89
+#: 
+msgid "Here is an overview of what has happened since your last visit:"
+msgstr "这里是自从您上次访问以来所发生事件的概要："
+
+#. detail.phtml:234
+#. detail.phtml:240
+#. detail.phtml:275
+#: 
+msgid "Information"
+msgstr "信息"
+
+#. detail.phtml:40
+#. detail.phtml:55
+#: 
+msgid "Last activity: "
+msgstr "最近活动："
+
+#. default.phtml:92
+#: 
+msgid "Messages"
+msgstr "消息"
+
+#. ListerControlMain.php:402
+#: 
+msgid "More tags"
+msgstr "更多标签"
+
+#. ResourcePresenter.php:345
+#. ResourcePresenter.php:472
+#: 
+msgid "Nothing found"
+msgstr ""
+
+#. AdministrationPresenter.php:366
+#: 
+msgid "Notice Board"
+msgstr "公告板"
+
+#. browse.phtml:205
+#: 
+msgid "Organization"
+msgstr "组织"
+
+#. browse.phtml:208
+#: 
+msgid "Other"
+msgstr "其他"
+
+#. ResourcePresenter.php:345
+#. browse.phtml:74
+#. browse.phtml:262
+#: 
+msgid "Please enter some tags."
+msgstr "请输入标签。"
+
+#. browse.phtml:42
+#: 
+msgid "Please enter the new file name:"
+msgstr "请输入新文件名："
+
+#. popup_chat.phtml:373
+#. BasePresenter.php:1429
+#. UserPresenter.php:1768
+#. messages.phtml:290
+#: 
+msgid "Please select a recipient"
+msgstr "请选择一个接收人"
+
+#. Group.php:692
+#: 
+msgid "Please welcome our new member: %s has joined this group."
+msgstr "欢饮新会员: %s的加入。"
+
+#. detail.phtml:266
+#. messages.phtml:19
+#: 
+msgid "Private messaging has been disabled by the chat window. Reload page to re-enable"
+msgstr "聊天窗口禁止发私人信息。请重新载入以解禁。"
+
+#. setupmaintenance.phtml:142
+#: 
+msgid "Purge entire cache"
+msgstr "清除所有缓存"
+
+#. Cron.php:67
+#: 
+msgid "Read your messages in your [inbox] (%s)."
+msgstr "阅读您［收件箱］(%s)的信息"
+
+#. Cron.php:171
+#: 
+msgid "Recent activity at %s"
+msgstr "于%s的最近活动"
+
+#. browse.phtml:256
+#: 
+msgid "Remove all faded items."
+msgstr "移除所有淡出的条目。"
+
+#. ChatLister_body.phtml:19
+#: 
+msgid "Reset the search.<ul><li>The first click resets the search on this page.</li><li>The second click resets the search on all pages. </li></ul>"
+msgstr "恢复查询。<ul><li>第一次点击恢复本页的查询</li><li>第二次点击恢复所有页面的查询 </li></ul>"
+
+#. browse.phtml:225
+#: 
+msgid "Save as view"
+msgstr "保存为视图"
+
+#. detail.phtml:210
+#. detail.phtml:216
+#. detail.phtml:222
+#. detail.phtml:228
+#: 
+msgid "Screenshot"
+msgstr "截屏"
+
+#. ResourcePresenter.php:1131
+#: 
+msgid "Screenshot already exists."
+msgstr "截屏已经存在。"
+
+#. ResourcePresenter.php:1092
+#: 
+msgid "Screenshot processing"
+msgstr ""
+
+#. setupmaintenance.phtml:107
+#: 
+msgid "Set up a cron on an external service:"
+msgstr "在一个外部资源上设置cron："
+
+#. browse.phtml:219
+#: 
+msgid "Sort by Last Activity"
+msgstr "按最后的活动排序"
+
+#. browse.phtml:218
+#: 
+msgid "Sort by Name"
+msgstr "按名字排序"
+
+#. browse.phtml:220
+#: 
+msgid "Sort by Subscribers"
+msgstr "按订阅者排序"
+
+#. BasePresenter.php:1248
+#: 
+msgid "Tag not found."
+msgstr "标签未找到。"
+
+#. popup_chat.phtml:36
+#: 
+msgid "The chat window is not available."
+msgstr ""
+
+#. UserPresenter.php:288
+#. UserPresenter.php:292
+#: 
+msgid "The email address couldn't be changed! The link is not active anymore."
+msgstr "该邮件地址无法更改！链接已经失效。"
+
+#. UserPresenter.php:282
+#. UserPresenter.php:313
+#: 
+msgid "The email address has been succesfully changed."
+msgstr "邮件地址已经成功改变。"
+
+#. UserPresenter.php:1009
+#: 
+msgid "The email address is not valid. Please check it and try again."
+msgstr "邮件地址无效。请检查后再试。"
+
+#. UserPresenter.php:316
+#: 
+msgid "The email couldn't be changed!"
+msgstr "邮件无法改变。"
+
+#. default.phtml:81
+#. detail.phtml:248
+#: 
+msgid "The event is in the future."
+msgstr "这是一个未来的事件。"
+
+#. default.phtml:82
+#. detail.phtml:249
+#: 
+msgid "The event is over."
+msgstr "事件已完成。"
+
+#. default.phtml:80
+#. detail.phtml:247
+#: 
+msgid "The event is upcoming."
+msgstr "事件即将发生。"
+
+#. Group.php:691
+#: 
+msgid "The group has subscribed to the resource %s."
+msgstr "群组订阅了资源%s。"
+
+#. Group.php:699
+#: 
+msgid "The group has unsubscribed from the following resources:"
+msgstr "群组已经取消订阅下述资源："
+
+#. UserPresenter.php:826
+#: 
+msgid "The password couldn't be changed! Please try again later."
+msgstr "密码无法改变！请稍后再改。"
+
+#. UserPresenter.php:773
+#: 
+msgid "The password couldn't be changed! Try again later."
+msgstr "密码无法改变！请稍后再试。"
+
+#. UserPresenter.php:820
+#. UserPresenter.php:822
+#: 
+msgid "The password has been successfully changed."
+msgstr "密码已经成功改变。"
+
+#. UserPresenter.php:247
+#. UserPresenter.php:251
+#: 
+msgid "The registration couldn't be finished! The link is not active anymore."
+msgstr "注册无法完成！链接已经失效。"
+
+#. UserPresenter.php:396
+#: 
+msgid "There is a problem with your avatar."
+msgstr "您的头像有问题。"
+
+#. UserPresenter.php:1002
+#. UserPresenter.php:2143
+#: 
+msgid "This email address is already registered with another account."
+msgstr "该邮件地址已经被另一个账号所注册。"
+
+#. UserPresenter.php:1226
+#: 
+msgid "This email address is already used for another account."
+msgstr "邮件地址已经被另一个账号使用。"
+
+#. UserPresenter.php:727
+#: 
+msgid "This email address is not registered in our system!"
+msgstr "邮件地址没有在我们的系统里注册。"
+
+#. UserPresenter.php:1230
+#: 
+msgid "This email address is not valid. Please check it and try again."
+msgstr "邮件地址无效。请检查后再试。"
+
+#. UserPresenter.php:715
+#: 
+msgid "This username is not registered in our system!"
+msgstr "该用户没有在我们的系统中注册。"
+
+#. Cron.php:146
+#. Cron.php:170
+#: 
+msgid "Too many emails? You can change the schedule on your [profile page](%s)."
+msgstr "邮件太多？ 您可以改变您在 [profile page](%s)上的日程."
+
+#. UserPresenter.php:170
+#. UserPresenter.php:201
+#. UserPresenter.php:444
+#. UserPresenter.php:510
+#. UserPresenter.php:525
+#. UserPresenter.php:570
+#. UserPresenter.php:703
+#. UserPresenter.php:762
+#. UserPresenter.php:967
+#. UserPresenter.php:1078
+#: 
+msgid "Too many failed login attempts. Please try again later."
+msgstr "失败的登录次数太多。请稍后再试。"
+
+#. Cron.php:245
+#: 
+msgid "Too many messages? You can change the schedule on your [profile page](%s)."
+msgstr "信息太多？您看在[个人资料](%s)里修改频率。"
+
+#. popup_chat.phtml:21
+#. detail.phtml:263
+#. detail.phtml:276
+#. messages.phtml:38
+#: 
+msgid "Type your text here."
+msgstr "在此键入您的文本。"
+
+#. browse.phtml:207
+#: 
+msgid "Video/Audio"
+msgstr "视频／音频"
+
+#. ListerControlMain_messages.phtml:194
+#. PMLister_ajax.phtml:128
+#. PMLister_ajax_slim.phtml:128
+#: 
+msgid "You can reply only to friends."
+msgstr "您只能回复朋友。"
+
+#. Cron.php:64
+#: 
+msgid "You have %d unread messages!"
+msgstr "您有%d未读信息！"
+
+#. Cron.php:62
+#: 
+msgid "You have 1 unread message!"
+msgstr "您有一条未读信息。"
+
+#. BasePresenter.php:1391
+#. UserPresenter.php:2022
+#: 
+msgid "You have just said that."
+msgstr "您刚刚说过了。"
+
+#. Cron.php:147
+#: 
+msgid "You have unread messages at %s"
+msgstr "您有%s的未读信息。"
+
+#. ResourcePresenter.php:614
+#: 
+msgid "You just said that."
+msgstr "您刚刚说过了。"
+
+#. StaticModel.php:427
+#: 
+msgid "You receive this email because you have signed up at %s."
+msgstr "您因注册了%s而收到该邮件。"
+
+#. UserPresenter.php:2149
+#: 
+msgid "Your email address or IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "您的邮件或ip在www.stopforumspam.com上是垃圾来源，已经被屏蔽了。"
+
+#. UserPresenter.php:680
+#: 
+msgid "Your email or username:"
+msgstr "您的邮件或用户名："
+
+#. Activity.php:344
+#: 
+msgid "Your password was changed."
+msgstr "您的密码已经修改了。"
+
+#. Activity.php:339
+#: 
+msgid "Your profile was updated."
+msgstr "您的个人资料已经更新。"
+
+#. StaticModel.php:435
+#. StaticModel.php:442
+#: 
+msgid "Yours,"
+msgstr "此致"
+
+#. ListerControlMain.php:377
+#: 
+msgid "audio"
+msgstr "声频"
+
+#. BasePresenter.php:493
+#: 
+msgid "browse"
+msgstr "浏览"
+
+#. MapControl.php:68
+#: 
+msgid "center"
+msgstr "中心"
+
+#. browse.phtml:256
+#: 
+msgid "clean up"
+msgstr "清理"
+
+#. browse.phtml:94
+#: 
+msgid "click to rename"
+msgstr "点击以重命名"
+
+#. edit.phtml:44
+#. edit.phtml:43
+#: 
+msgid "crop and resize"
+msgstr "剪裁及缩放"
+
+#. WidgetPresenter.php:533
+#: 
+msgid "d.m.Y H:i:s"
+msgstr "d.m.Y H:i:s"
+
+#. browse.phtml:114
+#: 
+msgid "external link"
+msgstr "外部链接"
+
+#. browse.phtml:109
+#: 
+msgid "fade or unfade"
+msgstr "变淡还是不变淡"
+
+#. ListerControlMain.php:166
+#. ListerControlMain.php:172
+#. ListerControlMain.php:178
+#. StaticModel.php:282
+#. StaticModel.php:288
+#. StaticModel.php:294
+#. StaticModel.php:345
+#. StaticModel.php:351
+#. StaticModel.php:357
+#. BasePresenter.php:292
+#. BasePresenter.php:298
+#. BasePresenter.php:304
+#: 
+msgid "go to '%s'"
+msgstr "前往'%s'"
+
+#. @layout.phtml:239
+#: 
+msgid "go to your profile"
+msgstr "前往您的个人资料"
+
+#. BasePresenter.php:1165
+#. GroupPresenter.php:59
+#. ResourcePresenter.php:74
+#. UserPresenter.php:90
+#. UserPresenter.php:1497
+#: 
+msgid "j.n.Y"
+msgstr "j.n.Y"
+
+#. browse.phtml:99
+#: 
+msgid "number of susbcribers"
+msgstr "订阅数"
+
+#. Resource.php:528
+#: 
+msgid "other"
+msgstr "其余"
+
+#. browse.phtml:255
+#: 
+msgid "print"
+msgstr "打印"
+
+#. ResourcePresenter.php:851
+#: 
+msgid "private event"
+msgstr "私人事件"
+
+#. ResourcePresenter.php:856
+#: 
+msgid "registered"
+msgstr "注册"
+
+#. edit.phtml:174
+#: 
+msgid "remove screenshot"
+msgstr "移除截屏"
+
+#. browse.phtml:227
+#: 
+msgid "save"
+msgstr "保存"
+
+#. ListerControlMain.php:184
+#. StaticModel.php:300
+#. StaticModel.php:363
+#. BasePresenter.php:310
+#: 
+msgid "search for '%s'"
+msgstr "搜索'%s'"
+
+#. ResourcePresenter.php:857
+#: 
+msgid "subscribers"
+msgstr "订阅者"
+
+#. browse.phtml:19
+#. browse.phtml:72
+#: 
+msgid "tag1, tag2, ..."
+msgstr "标签1，标签2，。。。"
+
+#. Resource.php:526
+#: 
+msgid "text information"
+msgstr "文本信息"
+
+#. @layout.phtml:240
+#: 
+msgid "toggle chat window"
+msgstr "开关聊天窗口"
+
+#. ListerControlMain.php:377
+#: 
+msgid "video"
+msgstr "视频"
+
+#. Resource.php:527
+#: 
+msgid "video/audio"
+msgstr "视频／音频"
+
+#. ResourcePresenter.php:855
+#: 
+msgid "world"
+msgstr "世界"
+
+#. User.php:1131
+#: 
+msgid "yesterday"
+msgstr "昨天"
+
+#: 
+msgid "We have contacted the server. Please wait.."
+msgstr ""
+
+#: 
+msgid "Hidden:"
+msgstr ""
+
