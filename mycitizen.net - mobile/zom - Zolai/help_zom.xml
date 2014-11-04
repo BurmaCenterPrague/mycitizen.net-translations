@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<help>
+    <login>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Sazian Hongin</h2>
+<div>Hih app na zat masak ciil in, nangma' thute na guanthuahna mun "Kipan Ding hita" ("Getting Started") acih na mun na lut masak kul hi. Hi teng na mankhit teh, sazian na hong zom thei hi.<br /> Kuankhiatna phual kibang ii sebsite ah minkhum khin nahih leh, tua na zatmin leh thusim-kammal mah na zang pah thei hi.<br /> "Hong phawkin" acih na mek leh tua Dashboard pan sazian na khak mateng in na thulehla te aneng atawng in na gelh kikkik kul nawnlo hi
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </login>
+    <get_started>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Kuankhiatna phual teelna</h2>
+<div>Hih na zat ma-in, kuankhiatna phual khat pepeuh tawh na kizop kul hi.<br /> A omsa kuankhiatna phual te pan na teel thei a, ahihkeileh a address na gelh tawm thei hi. A address omzia te pen  <em>www.example.com</em>, "http://" ahihkeileh "https://" lo tawh leh slash kaih lo tawh. Kuankhiatna omsa te khat na zat leh, a gelhna ding mun awng sak in.
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </get_started>
+    <get_started_2>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Deihzawk teelna</h2>
+<div>Na zatnop kampau leh agamla tehna (kilometers ahihkeileh tai) teel in.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </get_started_2>
+    <get_started_3>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Sazian Hongin or Sazianthak Bawlin</h2>
+<div>Na tel kuankhiatna phuala ah sazian na neih khit leh na hong suak pah thei hi. Tua ahih kei leh, sazian thak khat na hon masak kul ding hi.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </get_started_3>
+    <register>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Sazianthak Bawlin</h2>
+<div>Zatmin khat, thusim-kammal khat, leh email address gelh in. Mycitizen.net ah na min sazian na zattheih ma in na email tawh ong kikhak nahvawh khat ah kipsakna na neih masak kul ding hi.<br /> Tua thusim-kammal pen atawmpen mal 8 sau ding a, nambat, laimal gol leh laimal neu te kigawm hi thei hi.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </register>
+    <forgotten_password>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Thusim-kammal Mangngilh</h2>
+<div>mycitizen.net min sazian-a na zat email gelh in. Nahvawh khat tawh kithuah email khat na ngah ding a, thusim-kammal laiha athak khat bawlna mun na meek kul ding hi.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </forgotten_password>
+    <main>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Azangte, Kipawlnate leh Anaakte</h2>
+<div>Hih pen a laimai bulpi ahi hi. Haihkhiatna na khak leh, azang khempeuh, kipawlna khempeuh leh anaak khempeuh na mu ding hi. Haihkhiana na hon leh, na haihkhiatna ah na thuahte tawh kituak teng bek na mu ding hi.<br /> Atawlam ah {<FILTER>haihkhiatna}, a {<DASHBOARD>dashboard} ahihkeileh nangma' {<MESSAGES>Laikhakte} na hong thei hi. Tua amekna te' mel (color) in amau dinmun ong lak uh hi.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </main>
+    <filter>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Haihkhiatna</h2>
+<div>Haihkhiatna in azangte, kipawlna leh anaak teng tungah kizang hi. Zatdan ding nam tampi om hi:<br />
+<ul>
+<li> "Ka kizoppih teng bek" mek leng, na lawm teng, pawlmi nahih na kipawlna teng, leh thulela lakna ding anaak teng ong kigualsuk ding hi.</li>
+<li>Na ut leh min malkhat khen, nahvawh leh kampau teel, gamlim tungah mun ciamteh thei hi teh {<FILTER_MAP>amun tawh haihkhiatna}. Na khet na guan teng tawh kituak khempeuh ong kigual ding hi. Hih "amun tawh haihkhiatna" pen na phone internet tawh akizop leh bek kizang thei hi.</li>
+<li> "Suggest" tung na mek leh, haihkhiatna in na thulela guan teng dan in ong om ding hi. Ong kigualsuk teng pen nangma' lunglut teng tawh kinaihuai teng mah ong suak ding hi.</li>
+<li>"reset" mek leeng mun khempeuh ong siangsak hi.</li>
+        </ul>
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </filter>
+    <filter_map>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Amun zui-in haihkhia in</h2>
+<div>Hih laimai tungah gamlim tunga akizonna mun na teel thei hi.
+<ul>
+<li>Nangma' omna mun lak in, GPS ahihkeileh network pan akingah leh.</li>
+<li>Akiteel zonna mun ii laizang lak in.</li>
+<li>Akiteel zonna mun ii laizang ciaptehna koihna dingin hong in. Gamlim liansak-neusak na ah kilehkikna dingin khak in.</li>
+<li>Zonna mun ciaptehna lakhia in.</li>
+<li>Zonna mun ii radius khel na dingin pangsawn zang in.</li>
+</ul>
+Zonna mun na ciapteh khit ciang, {haihkhiatna} omna laimai ah kileh inla haihkhiatna zang in.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </filter_map>
+    <dashboard>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Dashboard</h2>
+        <div>Dashboard tungah dinmun bulpi teng na mu dinghi. A thupi pen in kizopna hoihlehhoihlo ahi hi.<br /> Anuai-a zatheih ding teng zong na zang thei hi:
+    <ul>
+    <li>{<PROFILE>Na thulelate puahin}.</li>
+    <li>{<CREATE_GROUP>}Kipawlna khat phuan in - pawlmi suahzawh tawlkhat khitciang bek kingah.</li>
+    <li>Kuankhiatna phual pan thulela lakik in</li>
+    <li>Pusuak (zatmin leh thusim-kammal mangngilh). Muanhuaina lakin ka khawlziau nop leh, phone ii "back" mek in.</li>
+        </ul>
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </dashboard>
+    <messages>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Laikhakte</h2>
+<div>Laikhak omna ah athak bek alak leh paihkhiatsa te bek alak cih haihkhiatna nih om hi. Azangte thu vekpi kilakna laimai bek pan in laikhak thak na khak thei ding hi.</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </messages>
+    <user_detail>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>User Details</h2>
+        <div>
+             
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </user_detail>
+    <group_detail>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Group Details</h2>
+        <div>
+             
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </group_detail>
+    <resource_detail>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Resource Details</h2>
+        <div>
+             
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </resource_detail>
+    <profile>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Ka Thu</h2>
+<div>Hitak ah nangma' aituam thulela ahi min ahihkeileh na kigendan, na mansuan, nahvawh laite(lunglutte ahihkeileh na lunglut thulu) leh na omna mun te na puah thei hi. (Hih mun pen midang ten zong muthei ding uh hi - tulian a na omna mun ahih leh mulo ding uh hi.)</div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </profile>
+    <create_group>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Creating a Group</h2>
+        <div>
+             
+        </div>
+    <br/><br/>{<ABOUT>Thulela atamzaw in}
+        ]]>
+    </create_group>
+    <about>
+        <![CDATA[
+        <h1>Huhna</h1>
+    <h2>Athu</h2>
+    Mycitizen.net pen khuatual mite hihna peuhah kipanpihna dingin man ngenlo a kimuhkhopna mun ahi hi. Hi web leh mobile a kizang software pen met doklo a nasepna te mah ahi hi.
+<div>Huhna na kisap beh leh, hih te en in {{<https://mycitizen.net/manual:start>zatdanhilhnate}} of {{<https://mycitizen.net>mycitizen.net}} ahih keileh {{<http://"+DEPLOYMENT_URL+"/support>dotna dong}}.
+<br /><br /><br />
+(c) 2013ff. Burma Center Prague<br />
+License: GPLv3<br /><br />
+Hih nasep pen Czech gam ii Gamdang kizopna zum pan huhna tawh Gam-ukna Kikhelte Huhna Vaigeelna panin kipanpih hi.</div>
+        ]]>
+    </about>
+    <map>
+        <![CDATA[
+        <h1>Help</h1>
+	<h2>Using the map</h2>
+		Coming soon
+        <div>
+
+        </div>
+        ]]>
+    </map>
+</help>

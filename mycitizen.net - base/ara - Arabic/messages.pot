@@ -1,0 +1,3810 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: mycitizen.net base\n"
+"Report-Msgid-Bugs-To: Chris\n"
+"POT-Creation-Date: Sat, 21 Jun 2014 11:15:32 +0100\n"
+"PO-Revision-Date: 2014-08-06 05:49-0800\n"
+"Last-Translator: Sara <strans.mail@gmail.com>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Project-Id: 1666\n"
+"X-Loco-Api-Version: 1.0.7\n"
+
+#: loco:5357f99fb7f9261b249a9762
+msgid "1 new message"
+msgstr "رسالة جديدة "
+
+#: loco:5357f99fb7f9261b249a978c
+msgid "1 week"
+msgstr "اسبوع"
+
+#: loco:5357f99eb7f9261b249a953d
+msgid "Add"
+msgstr "اضافه"
+
+#: loco:5357f99eb7f9261b249a9541
+msgid "Administration"
+msgstr "ادارة"
+
+#: loco:5357f99eb7f9261b249a9544
+msgid "Administrator"
+msgstr "مدير"
+
+#: loco:5357f99fb7f9261b249a9794
+msgid "Apr"
+msgstr "ابريل"
+
+#: loco:5357f99eb7f9261b249a9549
+msgid "April"
+msgstr "ابريل"
+
+#: loco:5357f99fb7f9261b249a9795
+msgid "Aug"
+msgstr "اغسطس"
+
+#: loco:5357f99eb7f9261b249a954a
+msgid "August"
+msgstr "اغسطس"
+
+# This word should be removed from file as stated on the mycitizen instructions for translators
+#: loco:5357f99fb7f9261b249a970d
+msgid "Chyba"
+msgstr "Chyba"
+
+#: loco:5357f99eb7f9261b249a9556
+msgid "Clear"
+msgstr "مسح"
+
+#: loco:5357f99eb7f9261b249a955a
+msgid "Close"
+msgstr "اغلاق"
+
+#: loco:5357f99eb7f9261b249a955b
+msgid "Comments"
+msgstr "ملاحظات"
+
+#: loco:53a55adaff90b259b57a95c9
+msgid "Compose"
+msgstr "تأليف"
+
+#: loco:5357f99fb7f9261b249a9796
+msgid "Continue"
+msgstr "استمرار"
+
+#: loco:5357f99fb7f9261b249a979c
+msgid "Dec"
+msgstr "ديسمبر"
+
+#: loco:5357f99eb7f9261b249a9561
+msgid "December"
+msgstr "ديسمبر"
+
+#: loco:53a55adbff90b259b57a960c
+msgid "Document"
+msgstr "وثيقة"
+
+#: loco:5357f99fb7f9261b249a9713
+msgid "Done"
+msgstr "انهاء"
+
+#: loco:5357f99fb7f9261b249a9576
+msgid "Enabled"
+msgstr "مفعل"
+
+#: loco:5357f99fb7f9261b249a957b
+msgid "Error"
+msgstr "خطأ"
+
+#: loco:53a55addff90b259b57a964f
+msgid "Event"
+msgstr "حدث"
+
+#: loco:5357f99fb7f9261b249a97a6
+msgid "Feb"
+msgstr "فبراير"
+
+#: loco:5357f99fb7f9261b249a9583
+msgid "February"
+msgstr "فبراير"
+
+#: loco:5357f99fb7f9261b249a9584
+msgid "Filter"
+msgstr "ترشيح"
+
+#: loco:5357f99fb7f9261b249a97a7
+msgid "Fri"
+msgstr "الجمعة"
+
+#: loco:5357f99fb7f9261b249a97a8
+msgid "Friday"
+msgstr "الجمعة"
+
+#: loco:5357f99fb7f9261b249a958a
+msgid "Friends"
+msgstr "اصدقاء"
+
+#: loco:5357f99fb7f9261b249a959f
+msgid "Groups"
+msgstr "مجاميع"
+
+#: loco:5357f99fb7f9261b249a95a8
+msgid "Hours"
+msgstr "ساعات"
+
+#: loco:53a55ae0ff90b259b57a96dc
+msgid "Information"
+msgstr "معلومات"
+
+#: loco:5357f99fb7f9261b249a97af
+msgid "Interests"
+msgstr "اهتمامات"
+
+#: loco:5357f99fb7f9261b249a97b0
+msgid "Jan"
+msgstr "يناير"
+
+#: loco:5357f99fb7f9261b249a95af
+msgid "January"
+msgstr "يناير"
+
+#: loco:5357f99fb7f9261b249a97b1
+msgid "Jul"
+msgstr "يوليو"
+
+#: loco:5357f99fb7f9261b249a95b1
+msgid "July"
+msgstr "يوليو"
+
+#: loco:5357f99fb7f9261b249a97b2
+msgid "Jun"
+msgstr "يونيو"
+
+#: loco:5357f99fb7f9261b249a95b2
+msgid "June"
+msgstr "يونيو"
+
+#: loco:5357f99fb7f9261b249a95b3
+msgid "Language"
+msgstr "لغة"
+
+#: loco:5357f99fb7f9261b249a95b9
+msgid "Location"
+msgstr "موقع"
+
+#: loco:5357f99fb7f9261b249a95ba
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: loco:5357f99fb7f9261b249a971f
+msgid "Mailbox"
+msgstr "صندوق بريد"
+
+#: loco:5357f99fb7f9261b249a95bf
+msgid "Map"
+msgstr "خارطة"
+
+#: loco:5357f99fb7f9261b249a97b6
+msgid "Mar"
+msgstr "مارس"
+
+#: loco:5357f99fb7f9261b249a95c0
+msgid "March"
+msgstr "مارس"
+
+#: loco:5357f99fb7f9261b249a95c2
+msgid "May"
+msgstr "مايو"
+
+#: loco:5357f99fb7f9261b249a95c6
+msgid "Members"
+msgstr "اعضاء"
+
+#: loco:53a55ae1ff90b259b57a9731
+msgid "Messages"
+msgstr "رسائل"
+
+#: loco:5357f99fb7f9261b249a95c8
+msgid "Minutes"
+msgstr "دقائق"
+
+#: loco:5357f99fb7f9261b249a95c9
+msgid "Moderator"
+msgstr "وسيط"
+
+#: loco:5357f99fb7f9261b249a97b7
+msgid "Mon"
+msgstr "الاثنين"
+
+#: loco:5357f99fb7f9261b249a97b8
+msgid "Monday"
+msgstr "الاثنين"
+
+#: loco:5357f99fb7f9261b249a9787
+msgid "Month"
+msgstr "شهر"
+
+#: loco:5357f99fb7f9261b249a95d0
+msgid "Name"
+msgstr "اسم"
+
+#: loco:5357f99fb7f9261b249a9721
+msgid "Normal"
+msgstr "عادي"
+
+#: loco:5357f9a0b7f9261b249a97c3
+msgid "Nov"
+msgstr "نوفمبر"
+
+#: loco:5357f99fb7f9261b249a95d7
+msgid "November"
+msgstr "نوفمبر"
+
+#: loco:5357f99fb7f9261b249a95d8
+msgid "Now"
+msgstr "الان"
+
+#: loco:5357f9a0b7f9261b249a97c4
+msgid "Oct"
+msgstr "اكتوبر"
+
+#: loco:5357f99fb7f9261b249a95dc
+msgid "October"
+msgstr "اكتوبر"
+
+#: loco:5357f99fb7f9261b249a95dd
+msgid "On"
+msgstr "على"
+
+#: loco:53a55ae3ff90b259b57a978c
+msgid "Organization"
+msgstr "منظمة"
+
+#: loco:53a55ae3ff90b259b57a978f
+msgid "Other"
+msgstr "اخرى"
+
+#: loco:5357f99fb7f9261b249a95e1
+msgid "Owner"
+msgstr "مالك"
+
+#: loco:5357f99fb7f9261b249a95ed
+msgid "Post"
+msgstr "نشر"
+
+#: loco:5357f99fb7f9261b249a9764
+msgid "Quote"
+msgstr "قول"
+
+#: loco:5357f9a0b7f9261b249a97d2
+msgid "Reload"
+msgstr "اعادة تحميل"
+
+#: loco:5357f99fb7f9261b249a95f5
+msgid "Remove"
+msgstr "ازالة"
+
+#: loco:5357f99fb7f9261b249a95f7
+msgid "Replies"
+msgstr "ردود"
+
+#: loco:5357f99fb7f9261b249a95fe
+msgid "Reports"
+msgstr "تقارير"
+
+#: loco:5357f99fb7f9261b249a972a
+msgid "Reset"
+msgstr "تصفير"
+
+#: loco:5357f99fb7f9261b249a9606
+msgid "Resources"
+msgstr "مصادر"
+
+#: loco:5357f9a0b7f9261b249a97d4
+msgid "Result"
+msgstr "نتيجة"
+
+#: loco:5357f99fb7f9261b249a9608
+msgid "Role"
+msgstr "دور"
+
+#: loco:5357f9a0b7f9261b249a97d5
+msgid "Sat"
+msgstr "السبت"
+
+#: loco:5357f9a0b7f9261b249a97d6
+msgid "Saturday"
+msgstr "السبت"
+
+#: loco:53a55ae7ff90b259b57a9842
+msgid "Screenshot"
+msgstr "صورة شاشة"
+
+#: loco:5357f99fb7f9261b249a9609
+msgid "Search"
+msgstr "بحث"
+
+#: loco:5357f99fb7f9261b249a960b
+msgid "Seconds"
+msgstr "ثواني"
+
+#: loco:5357f99fb7f9261b249a9618
+msgid "Send"
+msgstr "ارسال"
+
+#: loco:5357f9a0b7f9261b249a97db
+msgid "Sep"
+msgstr "سبتمبر"
+
+#: loco:5357f99fb7f9261b249a961a
+msgid "September"
+msgstr "سبتمبر"
+
+#: loco:5357f99fb7f9261b249a961b
+msgid "Settings"
+msgstr "اعدادات"
+
+#: loco:5357f99fb7f9261b249a9731
+msgid "Statistics"
+msgstr "احصائيات"
+
+#: loco:5357f99fb7f9261b249a9621
+msgid "Status"
+msgstr "حالة"
+
+#: loco:5357f9a0b7f9261b249a97de
+msgid "Submit"
+msgstr "ارسال"
+
+#: loco:5357f99fb7f9261b249a9622
+msgid "Subscribe"
+msgstr "اشتراك"
+
+#: loco:5357f99fb7f9261b249a9628
+msgid "Subscribers"
+msgstr "مشتركين"
+
+#: loco:5357f9a0b7f9261b249a97e0
+msgid "Sun"
+msgstr "الاحد"
+
+#: loco:5357f9a0b7f9261b249a97e1
+msgid "Sunday"
+msgstr "الاحد"
+
+#: loco:5357f99fb7f9261b249a962a
+msgid "Surname"
+msgstr "اللقب"
+
+#: loco:5357f99fb7f9261b249a962e
+msgid "Tag"
+msgstr "صنف"
+
+#: loco:5357f99fb7f9261b249a9630
+msgid "Tags"
+msgstr "اصناف"
+
+#: loco:5357f99fb7f9261b249a9736
+msgid "Test"
+msgstr "اختبار"
+
+#: loco:5357f9a0b7f9261b249a97e3
+msgid "Text"
+msgstr "كتابة"
+
+#: loco:5357f9a0b7f9261b249a97ea
+msgid "Thu"
+msgstr "الخميس"
+
+#: loco:5357f9a0b7f9261b249a97eb
+msgid "Thursday"
+msgstr "الخميس"
+
+#: loco:5357f99fb7f9261b249a964a
+msgid "Time"
+msgstr "وقت"
+
+#: loco:5357f99fb7f9261b249a9784
+msgid "Today"
+msgstr "اليوم"
+
+#: loco:5357f9a0b7f9261b249a97ec
+msgid "Topics"
+msgstr "مواضيع"
+
+#: loco:5357f99fb7f9261b249a9651
+msgid "Trash"
+msgstr "مهملات"
+
+#: loco:5357f9a0b7f9261b249a97ed
+msgid "Tue"
+msgstr "الثلاثاء"
+
+#: loco:5357f9a0b7f9261b249a97ee
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: loco:5357f99fb7f9261b249a9654
+msgid "Type"
+msgstr "نوع"
+
+#: loco:5357f99fb7f9261b249a9743
+msgid "Unread"
+msgstr "غير مقروء"
+
+#: loco:5357f99fb7f9261b249a9658
+msgid "Unsubscribe"
+msgstr "انهاء اشتراك"
+
+#: loco:5357f99fb7f9261b249a965a
+msgid "Update"
+msgstr "تحديث"
+
+#: loco:5357f99fb7f9261b249a966d
+msgid "Users"
+msgstr "مستخدمين"
+
+#: loco:5357f9a0b7f9261b249a97f0
+msgid "Wed"
+msgstr "الاربعاء"
+
+#: loco:5357f9a0b7f9261b249a97f1
+msgid "Wednesday"
+msgstr "الاربعاء"
+
+#: loco:5357f99fb7f9261b249a9786
+msgid "Week"
+msgstr "اسبوع"
+
+#: loco:5357f99fb7f9261b249a9678
+msgid "Welcome"
+msgstr "ترحيب"
+
+#: loco:5357f99fb7f9261b249a9785
+msgid "Yesterday"
+msgstr "امس"
+
+#: loco:536750bc8509cbb0c7ffc664
+msgid "A message from your group %s at %s"
+msgstr "  s%  في  s% رسالة من مجموعة"
+
+#: loco:5357f99fb7f9261b249a978d
+msgid "A message from your group %s"
+msgstr "%s رسالة من مجموعتك "
+
+#: loco:5357f99fb7f9261b249a978e
+msgid "A new chat message was posted in the group."
+msgstr "رسالة حوارية جديدة تم نشرها في المجموعة"
+
+#: loco:5357f99fb7f9261b249a978f
+msgid "A new group was created."
+msgstr "تم خلق مجموعة جديدة"
+
+#: loco:5357f99fb7f9261b249a9790
+msgid "A new resource was created."
+msgstr "تم خلق مورد جديد"
+
+#: loco:5357f9a0b7f9261b249a9829
+msgid "A new user has signed up."
+msgstr "تم تسجيل مستخدم جديد"
+
+#: loco:5357f99eb7f9261b249a953a
+msgid "Accept friendship"
+msgstr "قبول الصداقة"
+
+#: loco:5357f99eb7f9261b249a953b
+msgid "Accept friendship request"
+msgstr "قبول طلب الصداقة"
+
+#: loco:5357f99fb7f9261b249a9791
+msgid "Access Denied"
+msgstr "الدخول مرفوض"
+
+#: loco:5357f99eb7f9261b249a953c
+msgid "Access level"
+msgstr "مستوى الدخول"
+
+#: loco:5357f99fb7f9261b249a96a2
+msgid "active"
+msgstr "فعال"
+
+#: loco:5357f99fb7f9261b249a9705
+msgid "Add a Tag"
+msgstr "اضافة صنف"
+
+#: loco:5357f99fb7f9261b249a96a3
+msgid "add new tag"
+msgstr "اضافة صنف جديد"
+
+#: loco:5357f99eb7f9261b249a953e
+msgid "Add or remove tags"
+msgstr "اضافة او ازالة اصناف"
+
+#: loco:5357f99eb7f9261b249a953f
+msgid "Add tag"
+msgstr "اضافة صنف"
+
+#: loco:5357f99fb7f9261b249a9706
+msgid "Add the tags one by one."
+msgstr "اضافة الاصناف واحدة بواحدة"
+
+#: loco:53a55ad8ff90b259b57a9556
+msgid "Additional Information"
+msgstr "معلومات اضافية"
+
+#: loco:5357f99eb7f9261b249a9540
+msgid "Address cannot be found."
+msgstr "العنوان غير موجود"
+
+#: loco:5357f99fb7f9261b249a96a4
+msgid "administators"
+msgstr "اداريين"
+
+#: loco:5357f99fb7f9261b249a9707
+msgid "Administration - Create new tag"
+msgstr "ادارة - خلق صنف جديد"
+
+#: loco:53a55ad8ff90b259b57a955f
+msgid "Administration - Noticeboard"
+msgstr "ادراة - لوحة اعلانات"
+
+#: loco:5357f99fb7f9261b249a9708
+msgid "Administration - Reports"
+msgstr "ادارة - تقارير"
+
+#: loco:5357f99eb7f9261b249a9542
+msgid "Administration - Settings"
+msgstr "ادارة - اعدادات"
+
+#: loco:5357f99eb7f9261b249a9543
+msgid "Administration - Setup and Maintenance"
+msgstr "ادارة - اعداد وصيانة"
+
+#: loco:5357f99fb7f9261b249a9709
+msgid "Administration - Tags"
+msgstr "ادارة - اصناف"
+
+#: loco:5357f99fb7f9261b249a970a
+msgid "Administration - Web Statistics"
+msgstr "ادارة - احصائيات الشبكة"
+
+#: loco:5357f99fb7f9261b249a96a5
+msgid "administrator"
+msgstr "مدير"
+
+#: loco:5357f99eb7f9261b249a9545
+msgid "Administrator with id 1 cannot be changed"
+msgstr "المدير صاحب المعرف 1 غير قابل للتغيير"
+
+#: loco:5357f99fb7f9261b249a974c
+msgid "administrators"
+msgstr "مدراء"
+
+#: loco:5357f99fb7f9261b249a9792
+msgid "Alarm:"
+msgstr ":انذار"
+
+#: loco:5357f99fb7f9261b249a96a6
+msgid "all"
+msgstr "الكل"
+
+#: loco:5357f99fb7f9261b249a9793
+msgid "All-day event"
+msgstr "حدث يستغرق يوم كامل"
+
+#: loco:5357f99fb7f9261b249a96a7
+msgid "all resources"
+msgstr "جميع المصادر"
+
+#: loco:5357f99fb7f9261b249a96a8
+msgid "all tags"
+msgstr "حميع الاصناف"
+
+#: loco:5357f99eb7f9261b249a9546
+msgid "Already have an account? Sign in below."
+msgstr "لديك حساب مسبق؟ سجل للدخول ادناه"
+
+#: loco:5357f99eb7f9261b249a9547
+msgid "An email has been sent to you with further instructions."
+msgstr "تم ارسال رسالة اليك عبر البريد الالكتروني تحتوي تعليمات مقبلة"
+
+#: loco:5357f99fb7f9261b249a96ea
+msgid ""
+"AND: Find only items where <i>all</i> conditions are met.<br />OR: Find "
+"items where <i>any</i> of the selected conditions are met."
+msgstr ""
+"   من الشروط المختارة تطابقها. </i>اي<i />  او:    تجد المواد التي <br /> "
+"الشروط تطابقها. </i> كل<i> و:     تجد المواد التي "
+
+#: loco:5357f99eb7f9261b249a9548
+msgid "Apply Filter"
+msgstr "طبق الترشيح"
+
+#: loco:5357f99fb7f9261b249a970b
+msgid "Apply the filter and show the results."
+msgstr "طبق الترشيح واعرض النتائج"
+
+#: loco:53651c318509cbb0c7ffb9cb
+msgid ""
+"Too many emails? You can change the schedule on your [profile page](%s)."
+msgstr ""
+" (%s) عدد الرسائل يفوق ما تريده؟ يمكنك تغيير الجدولة في [ صفحة الملف ] "
+"الخاصة بك "
+
+#: loco:5357f99fb7f9261b249a9766
+msgid "Are you sure?"
+msgstr "هل انت متأكد؟"
+
+#: loco:53a55af2ff90b259b57a9aab
+msgid "audio"
+msgstr "صوت"
+
+#: loco:5357f99fb7f9261b249a96a9
+msgid "auto reload"
+msgstr "اعادة تحميل الي"
+
+#: loco:5357f99eb7f9261b249a954b
+msgid ""
+"Automatically reload in regular intervals if something new has been posted."
+msgstr "قم باعادة التحميل بفترات منتظمة عند نشر معلومات جديدة"
+
+# line breaks had to be added to stop the sentances from being rearanged (left to right, right to left)
+#: loco:5357f99fb7f9261b249a970c
+msgid ""
+"Avatars are small images that will be visible with your name. Here you can "
+"upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr ""
+" (حد اعلى s%حد ادنى%s ) .في الخطوة القادمة يمكنك ازالة حافات الصورة. \n"
+" الرمز الشخصي هو صورة صغيرة ستعرض مع اسمك. \n"
+" هنا يمكنك تحميل الرمز الشخصي الخاص بك"
+
+#: loco:5357f9a0b7f9261b249a9801
+msgid "back"
+msgstr "رجوع"
+
+#: loco:5357f99eb7f9261b249a954c
+msgid "Back to list of groups."
+msgstr "عودة الى قائمة المجاميع"
+
+#: loco:5357f99eb7f9261b249a954d
+msgid "Back to list of users."
+msgstr "عودة الى قائمة المستخدمين"
+
+#: loco:5357f99fb7f9261b249a96d4
+msgid "Back to the list of messages"
+msgstr "عودة الى قائمة الرسائل"
+
+#: loco:5357f99fb7f9261b249a96d5
+msgid "Back to the list of reports"
+msgstr "عودة  الى قائمة التقارير"
+
+#: loco:5357f99fb7f9261b249a96d6
+msgid "Back to the list of resources"
+msgstr "عودة الى قائمة الموارد"
+
+#: loco:5357f99fb7f9261b249a974d
+msgid "banned"
+msgstr "منعت"
+
+#: loco:53a55ad9ff90b259b57a9594
+msgid "Basic Information"
+msgstr "معلومات اساسية"
+
+#: loco:5357f99eb7f9261b249a954e
+msgid ""
+"Below you can add details: Describe the topics of this resource by one or "
+"more tags. These information will help other users to find your resource."
+msgstr ""
+"في الاسفل يمكنك اضافة تفاصيل: اشرح طبيعة المواضيع لهذا المصادرعن طريق صنف او "
+"اكثر. هذه المعلومات ستساعد الاخرين على ايجاد مصدرك"
+
+#: loco:5386f268ff90b259b5790ed7
+msgid "browse"
+msgstr "تصفح"
+
+#: loco:53a55ad9ff90b259b57a9599
+msgid "Browse Resources"
+msgstr "تصفح المصادر"
+
+#: loco:53a55ad9ff90b259b57a959c
+msgid ""
+"By using this platform you accept our Terms of Use and our Privacy policy."
+msgstr ""
+"بتصفحك لهذا الموقع توافق على شروط الاستخدام وسياسة الخصوصية الموضوعة من قبلنا"
+
+#: loco:5357f99fb7f9261b249a96aa
+msgid "cancel and return"
+msgstr "الغاء ورجوع"
+
+#: loco:5357f99eb7f9261b249a954f
+msgid "Cancel friendship"
+msgstr "الغاء صداقة"
+
+#: loco:5357f99eb7f9261b249a9550
+msgid "Cancel subscription"
+msgstr "الغاء اشتراك"
+
+#: loco:5357f99eb7f9261b249a9551
+msgid "Cannot find what you are searching?"
+msgstr "لا تستطيع ايجاد ما تبحث عنه؟"
+
+#: loco:53a55af3ff90b259b57a9ab8
+msgid "center"
+msgstr "مركز"
+
+#: loco:5357f99fb7f9261b249a974e
+msgid "change"
+msgstr "تغيير"
+
+#: loco:5357f99eb7f9261b249a9552
+msgid "Change lost password"
+msgstr "تغيير كلمة سر ضائعة"
+
+#: loco:5357f99eb7f9261b249a9553
+msgid "Change password"
+msgstr "تغيير كلمة سر"
+
+#: loco:5357f99eb7f9261b249a9554
+msgid "Change the filter"
+msgstr "تغيير الفلتر"
+
+#: loco:5357f99fb7f9261b249a974f
+msgid "chat messages"
+msgstr "رسائل الحوار"
+
+#: loco:53a55adaff90b259b57a95ab
+msgid "Chat window turned off."
+msgstr "شباك الحوارمعطل"
+
+#: loco:53a55adaff90b259b57a95ae
+msgid "Chat window turned on."
+msgstr "شباك الحوار يعمل"
+
+#: loco:536f6e848509cbb0c70013e7
+msgid "Chat window turned on. If you don't see it, please refresh the page."
+msgstr "شباك الحوار يعمل. اذا لم تراه، يرجى اعادة تحميل الصفحة."
+
+#: loco:5357f99eb7f9261b249a9555
+msgid "Choose from the menus above."
+msgstr ".اختر من القوائم اعلاه"
+
+#: loco:53a55af3ff90b259b57a9abf
+msgid "clean up"
+msgstr "تنظيف"
+
+#: loco:5357f99eb7f9261b249a9557
+msgid "Clear Filter"
+msgstr "تنظيف الفلتر"
+
+#: loco:5357f99fb7f9261b249a96ab
+msgid "clear map"
+msgstr "تنظيف الخارطة"
+
+#: loco:5357f99eb7f9261b249a9558
+msgid "Click here if you forgot your password."
+msgstr "انقر هنا اذا نسيت كلمة السر"
+
+#: loco:5357f99fb7f9261b249a970e
+msgid "Click here to continue"
+msgstr "انقر هنا للاستمرار"
+
+#: loco:5357f99eb7f9261b249a9559
+msgid "Click inside the image and select your avatar."
+msgstr ".انقر في داخل الصورة لاختيار الصورة الرمزية الخاص بك"
+
+#: loco:5357f99fb7f9261b249a96eb
+msgid ""
+"Click inside the map to set the center. Click a second time to set the "
+"search radius."
+msgstr ".انقر في داخل الخريطة لتحديد المركز. انقر مرة ثانية لاختيار قطر البحث"
+
+#: loco:5357f99fb7f9261b249a970f
+msgid ""
+"Click inside the map to set the location. If the location is already set, "
+"you first need to clear the map: <b class='icon-clear'></b>."
+msgstr ""
+": <b class='icon-clear'></b> انقر في داخل الخريطة لاختيار الموقع. اذا سبق "
+"تحديد الموقع، يجب عليك تنظيف الخارطة"
+
+#: loco:536247358509cbb0c7ffaf00
+msgid "click to rename"
+msgstr "انقر لاعادة التسمية"
+
+#: loco:53a55adaff90b259b57a95bf
+msgid "Click to subscribe."
+msgstr "انقر للاشتراك"
+
+#: loco:53a55adaff90b259b57a95c2
+msgid "Click to unsubscribe."
+msgstr "انقر لالغاء الاشتراك"
+
+#: loco:5357f9a0b7f9261b249a9802
+msgid "close"
+msgstr "اغلاق"
+
+#: loco:5357f99eb7f9261b249a955c
+msgid "Comments are only visible when you are signed in."
+msgstr ".الملاحظات تصبح مرئية فقط بعد تسجيلك للدخول"
+
+#: loco:5357f99eb7f9261b249a955d
+msgid "Connect filters with"
+msgstr "اربط المرشحات بــ"
+
+#: loco:53674f5f8509cbb0c7ffc65c
+msgid "Continue to this [group] (%s)."
+msgstr ". (%s) [ انتقل الى هذه الـ [المجموعة"
+
+#: loco:53674f678509cbb0c7ffc65e
+msgid "Continue to this [resource] (%s)."
+msgstr ".(%s)[ انتقل الى هذا [المصدر"
+
+#: loco:53674f548509cbb0c7ffc65a
+msgid "Continue to this [user] (%s)."
+msgstr ".(%s)[ انتقل الى هذا [المستخدم"
+
+#: loco:5357f99eb7f9261b249a955e
+msgid ""
+"Copy this link and send it to people who you would like to join. This link "
+"is like a key to this group."
+msgstr ""
+".انسخ هذه الوصلة وارسلها الى الاشخاص الذين ترغب بانضمامهم. هذه الوصلة بمثابة "
+"المفتاح لهذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a96ac
+msgid "create"
+msgstr "خلق"
+
+#: loco:5357f99fb7f9261b249a9799
+msgid "Create a new event?"
+msgstr "خلق حدث جديد"
+
+#: loco:5357f99fb7f9261b249a9797
+msgid "Create Group"
+msgstr "خلق مجموعة"
+
+#: loco:5357f99eb7f9261b249a955f
+msgid "Create new group"
+msgstr "خلق مجموعة جديدة"
+
+#: loco:5357f99eb7f9261b249a9560
+msgid "Create new resource"
+msgstr "خلق مصدر جديد"
+
+#: loco:5357f99fb7f9261b249a9798
+msgid "Create Resource"
+msgstr "خلق مصدر"
+
+#: loco:5357f99fb7f9261b249a9750
+msgid "creation rights removed"
+msgstr "تم ازالة حقوق الخلق"
+
+#: loco:53a55adbff90b259b57a95e5
+msgid "Cron URL:"
+msgstr ": Cron وصلة "
+
+#: loco:53a55af3ff90b259b57a9acc
+msgid "crop and resize"
+msgstr "ازالة الحواف وتغيير الحجم"
+
+#: loco:53a55af3ff90b259b57a9acf
+msgid "d.m.Y H:i:s"
+msgstr "يوم. شهر. سنة ساعة: دقيقة: ثانية"
+
+#: loco:5357f99fb7f9261b249a9710
+msgid "Database error."
+msgstr ".خطأ في قاعدة البيانات"
+
+#: loco:5357f99fb7f9261b249a979a
+msgid "Database size"
+msgstr "حجم قاعدة البيانات"
+
+#: loco:5357f9a0b7f9261b249a9803
+msgid "day"
+msgstr "يوم"
+
+#: loco:5357f99fb7f9261b249a96ad
+msgid "deactivated"
+msgstr "الغي حسابه"
+
+#: loco:5357f99fb7f9261b249a979b
+msgid "Dear %s"
+msgstr "%s عزيزي،عزيزتي "
+
+#: loco:5357f9a0b7f9261b249a9804
+msgid "delete"
+msgstr "مسح"
+
+#: loco:5357f99eb7f9261b249a9562
+msgid "Describe in few sentences what this group is about."
+msgstr ".ببضعة عبارات وضح هدف هذه المجموعة"
+
+#: loco:5357f99eb7f9261b249a9563
+msgid "Describe in few sentences what this resource is about."
+msgstr ".ببضعة عبارات وضح هدف هذا المصدر"
+
+#: loco:5357f99eb7f9261b249a9564
+msgid "Description:"
+msgstr ":وصف"
+
+#: loco:5357f99fb7f9261b249a96ae
+msgid "detail"
+msgstr "تفصيل"
+
+#: loco:5357f99fb7f9261b249a96d8
+msgid "Details of the group"
+msgstr "تفاصيل المجموعة"
+
+#: loco:5357f99fb7f9261b249a96d9
+msgid "Details of the resource"
+msgstr "تفاصيل المصدر"
+
+#: loco:5357f99fb7f9261b249a96da
+msgid "Details of the user"
+msgstr "تفاصيل المستخدم"
+
+#: loco:5357f99fb7f9261b249a979d
+msgid "Different end time"
+msgstr "وقت انتهاء مختلف"
+
+#: loco:5357f99eb7f9261b249a9565
+msgid "Discover new groups"
+msgstr "استكشف مجاميع جديدة"
+
+#: loco:5357f99eb7f9261b249a9566
+msgid "Discover new resources"
+msgstr "استكشف مصادر جديدة"
+
+#: loco:5357f99eb7f9261b249a9567
+msgid "Discover new users"
+msgstr "استكشف مستخدمين جدد"
+
+#: loco:5357f99fb7f9261b249a979e
+msgid "Do you really want to delete this file?"
+msgstr "هل تريد حقا مسح هذا الملف"
+
+#: loco:5357f99fb7f9261b249a9711
+msgid "Do you really want to delete this message?"
+msgstr "هل تريد حقا مسح هذه الرسالة"
+
+#: loco:5357f99eb7f9261b249a9568
+msgid ""
+"Do you want be visible to everyone (world), only to registered users "
+"(registered) or only to your friends (friends)?"
+msgstr ""
+"هل تريد ان تكون مرئيا للجميع (العالم)، او فقط للمستخدمين المسجلين (مسجلين) "
+"او فقط الى اصدقاءك (اصدقاء)؟"
+
+#: loco:5357f99fb7f9261b249a9751
+msgid "document"
+msgstr "وثيقة"
+
+#: loco:5357f99fb7f9261b249a9712
+msgid "Documentation:"
+msgstr "توثيق"
+
+#: loco:5357f99fb7f9261b249a9714
+msgid "Done importing resources. Error writing log file."
+msgstr "تم استيراد المصادر. حدث خطأاثناء كتابة ملف السجل"
+
+#: loco:5357f99fb7f9261b249a9715
+msgid "Done importing resources. Please check the log file."
+msgstr "تم استيراد المصادر يرجى الاطلاع على ملف السجل"
+
+#: loco:5357f99fb7f9261b249a9716
+msgid "Done updating locales."
+msgstr "تم الانتهاء من تحديث اللغة"
+
+#: loco:5357f99eb7f9261b249a9569
+msgid "Download the mobile application"
+msgstr "قم بتحميل برنامج الموبايل"
+
+#: loco:5357f99fb7f9261b249a96af
+msgid "edit"
+msgstr "تحرير"
+
+#: loco:5357f99fb7f9261b249a9597
+msgid "Edit Group"
+msgstr "تحرير المجموعة"
+
+#: loco:5357f99fb7f9261b249a976f
+msgid "Edit profile"
+msgstr "تحرير الصفحةالشخصية"
+
+#: loco:5357f99fb7f9261b249a979f
+msgid "Edit Resource"
+msgstr "تحرير المصادر"
+
+#: loco:5357f99eb7f9261b249a956a
+msgid "Edit the group image"
+msgstr "تحرير صورة المجموعة"
+
+#: loco:5357f99eb7f9261b249a956b
+msgid "Edit the location"
+msgstr "تحرير الموقع"
+
+#: loco:5357f99eb7f9261b249a956c
+msgid "Edit your avatar"
+msgstr "تحرير الصورة الرمزية"
+
+#: loco:5357f99eb7f9261b249a956d
+msgid "Edit your location"
+msgstr "تحرير موقعك"
+
+#: loco:5357f99fb7f9261b249a9574
+msgid "Email:"
+msgstr "البريد الالكتروني"
+
+#: loco:5357f99eb7f9261b249a956e
+msgid "Email change on Mycitizen.net"
+msgstr " Mycitizen.netتغيير عنوان البريد الالكتروني على شبكة "
+
+#: loco:5357f99fb7f9261b249a956f
+msgid "The email address couldn't be changed!"
+msgstr "!لا يمكن تغيير عنوان البريد الالكتروني"
+
+#: loco:5357f99fb7f9261b249a9570
+msgid "The email address couldn't be changed! The link is not active anymore."
+msgstr "لا يمكن تغيير عنوان البريد الالكتروني! الوصلة لم تعد نشطة"
+
+#: loco:5357f99fb7f9261b249a97a0
+msgid "Email has been succesfully changed."
+msgstr "عنوان البريد الالكتروني تم تحديثة بنجاح"
+
+#: loco:5357f99fb7f9261b249a9571
+msgid "Email has been successfully changed."
+msgstr "عنوان البريد الالكتروني تم تغييره بنجاح"
+
+#: loco:5357f99fb7f9261b249a97a1
+msgid "This email address is already registered with another account."
+msgstr ".هذا العنوان الالكتروني قد سبق تسجيله مع حساب اخر"
+
+#: loco:5357f99fb7f9261b249a97a2
+msgid "Emails on unread messages:"
+msgstr "رسائل بريد الكترونية حول رسائل غير مقروءة"
+
+#: loco:5357f99fb7f9261b249a9575
+msgid "Empty Trash"
+msgstr "افراغ المهملات"
+
+#: loco:5357f99fb7f9261b249a97a3
+msgid "End:"
+msgstr ":النهاية"
+
+#: loco:5357f99fb7f9261b249a9577
+msgid ""
+"Enter a key that will be used for inviting members into this group. Use "
+"letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr ""
+".ادخل المفتاح الذي سيستخدم لدعوة الاعضاء الة هذه المجمووعة. استخدم الاحرف، "
+"الارقام ورمز،  \"-\"  بطول لا يقل عن 5"
+
+#: loco:5357f99fb7f9261b249a9578
+msgid "Enter a name for the group."
+msgstr ".ادخل اسم للمجموعة"
+
+#: loco:5357f99fb7f9261b249a9579
+msgid "Enter a name for the resource."
+msgstr ".ادخل اسم للمصدر"
+
+#: loco:5357f99fb7f9261b249a957a
+msgid "Entered passwords are not the same."
+msgstr ".كلمات السر المدخلة لا تتطابق"
+
+#: loco:5357f99eb7f9261b249a9537
+msgid "(error)"
+msgstr "(خطأ)"
+
+#: loco:5357f99fb7f9261b249a957c
+msgid "Error deleting image from cache."
+msgstr ".خطأ مسح الصورة من الذاكرة"
+
+#: loco:5357f99fb7f9261b249a957d
+msgid "Error loading chat. Are you logged in?"
+msgstr "خطأ تحميل الحوار. هل قمت بالتسجيل للدخول؟"
+
+#: loco:53a55addff90b259b57a9645
+msgid "Error processing screenshot."
+msgstr ".خطأ معالجة صورة الشاشة"
+
+#: loco:5357f99fb7f9261b249a957e
+msgid "Error recreating image."
+msgstr ".خطأ اعادة خلق الصورة"
+
+#: loco:53a55addff90b259b57a9648
+msgid "Error sending message."
+msgstr ".خطأ ارسال الرسالة"
+
+#: loco:5357f99fb7f9261b249a957f
+msgid "Error submitting form."
+msgstr ".خطأ تحميل الاستمارة"
+
+#: loco:5357f99fb7f9261b249a9580
+msgid "Error writing image: "
+msgstr ":خطأ كتابه الصورة"
+
+#: loco:5357f99fb7f9261b249a9752
+msgid "event"
+msgstr "حدث"
+
+#: loco:5357f99fb7f9261b249a9581
+msgid "Event description:"
+msgstr ":وصف الحدث"
+
+#: loco:5357f99fb7f9261b249a97a4
+msgid "Event Details"
+msgstr "تفاصيل الحدث"
+
+#: loco:5357f99fb7f9261b249a97a5
+msgid "Event end time:"
+msgstr ":وقت انتهاء الحدث"
+
+#: loco:5357f99fb7f9261b249a9582
+msgid "Event time:"
+msgstr ":وقت الحدث"
+
+#: loco:53a55af3ff90b259b57a9ade
+msgid "external link"
+msgstr "وصلة خارجية"
+
+#: loco:53a55af3ff90b259b57a9ae1
+msgid "fade or unfade"
+msgstr "تبهيت او اعادة الوضوح"
+
+#: loco:53a55addff90b259b57a9664
+msgid "File Browser"
+msgstr "متصفح الملفات"
+
+#: loco:536246d58509cbb0c7ffaefd
+msgid "File '%s' already exists."
+msgstr ".موجود اصلا '%s' الملف"
+
+#: loco:536246c58509cbb0c7ffaefb
+msgid "File '%s' not found."
+msgstr ".غير موجود '%s' الملف"
+
+#: loco:5357f9a0b7f9261b249a982d
+msgid "Files of %s"
+msgstr " %s ملفات"
+
+#: loco:5357f99fb7f9261b249a9585
+msgid "Filter by name"
+msgstr "ترشيح بواسطة الاسم"
+
+#: loco:5357f99fb7f9261b249a9586
+msgid "Filter is off."
+msgstr ".الترشيح معطل"
+
+#: loco:5357f99fb7f9261b249a9587
+msgid "Filter is on."
+msgstr "الترشيح يعمل"
+
+#: loco:536b24958509cbb0c7fff4e6
+msgid "Find a list of your activities [on your home page] (%s)."
+msgstr ". (%s) [جد قائمة فعالياتك [على صفحتك الرئيسية "
+
+#: loco:5357f99fb7f9261b249a9717
+msgid "Find more information [on the page of the group] (%s)."
+msgstr ". (%s) [جد المزيد من المعلومات [على صفحة المجموعة "
+
+#: loco:53674f6e8509cbb0c7ffc660
+msgid "Find more information [here] (%s)."
+msgstr " .(%s) [جد المزيد من المعلومات [هنا "
+
+#: loco:5357f99fb7f9261b249a9588
+msgid "Finish your registration at Mycitizen.net"
+msgstr "Mycitizen.net انهي عملية تسجيلك في شبكة "
+
+#: loco:5357f99fb7f9261b249a9589
+msgid "Finished cropping and resizing."
+msgstr ".تم الانتهاء من ارالة الحواف وتغيير الحجم"
+
+#: loco:5357f99fb7f9261b249a9718
+msgid "Found unused locale '%s', removing from database."
+msgstr ""
+".غير مستخدمة، سيتم ازالتها من قاعدة البيانات  '%s' تم ايجاد محددات لغة ومنطقة"
+
+#: loco:5357f99fb7f9261b249a96b0
+msgid "friend"
+msgstr "صديق"
+
+#: loco:5357f99fb7f9261b249a958b
+msgid "Friendship accepted"
+msgstr "تم قبول الصداقة"
+
+#: loco:5357f99fb7f9261b249a958c
+msgid "Friendship canceled"
+msgstr "الصداقة الغيت"
+
+#: loco:5357f99fb7f9261b249a958d
+msgid "Friendship request"
+msgstr "تم طلب الصداقة"
+
+#: loco:5357f99fb7f9261b249a958e
+msgid "Friendship request rejected."
+msgstr "طلب الصداقة مرفوض"
+
+#: loco:5357f99fb7f9261b249a958f
+msgid "Friendship request sent."
+msgstr ".تم ارسال طلب الصداقة"
+
+#: loco:5357f99fb7f9261b249a96b1
+msgid "from_email"
+msgstr "من رسالة بريد الكتروني"
+
+#: loco:5357f9a0b7f9261b249a9805
+msgid "g:ia"
+msgstr "g:ia"
+
+#: loco:5357f99fb7f9261b249a96db
+msgid "GD (images) supported"
+msgstr "GD (images) supported"
+
+#: loco:5357f99fb7f9261b249a96dc
+msgid "Gettext supported"
+msgstr "Gettext supported"
+
+#: loco:5357f99fb7f9261b249a9590
+msgid "Given group does not exist."
+msgstr ".المجموعة غير موجودة"
+
+#: loco:5357f99fb7f9261b249a9591
+msgid "Go to resource"
+msgstr "اذهب الى المصدر"
+
+#: loco:53a55af4ff90b259b57a9ae8
+msgid "go to '%s'"
+msgstr ".(%s) انتقل الى "
+
+#: loco:53a55af4ff90b259b57a9aeb
+msgid "go to your profile"
+msgstr "اذهب الى صفحة ملفك الخاص"
+
+#: loco:5357f99fb7f9261b249a96b2
+msgid "gps_default_latitude"
+msgstr "خط العرض المحدد مسبقا"
+
+#: loco:5357f99fb7f9261b249a96b3
+msgid "gps_default_longitude"
+msgstr "خط الطول المحدد مسبقا"
+
+#: loco:5357f99fb7f9261b249a96f7
+msgid "group"
+msgstr "مجموعة"
+
+#: loco:5357f99fb7f9261b249a9596
+msgid "Group chat"
+msgstr "حوار جماعي"
+
+#: loco:5357f99fb7f9261b249a9598
+msgid "Group key:"
+msgstr ":مفتاح المجموعة"
+
+#: loco:5357f99fb7f9261b249a9599
+msgid "Group location on a map"
+msgstr "موقع المجموعة على الخارطة"
+
+#: loco:5357f99fb7f9261b249a959a
+msgid "Group members"
+msgstr "اعضاء المجموعة"
+
+#: loco:5357f99fb7f9261b249a97a9
+msgid "Group name cannot be empty!"
+msgstr "!اسم المجموعة لا يمكن تركه خاليا"
+
+#: loco:5357f99fb7f9261b249a959b
+msgid "Group owner: "
+msgstr ":صاحب المجموعة"
+
+#: loco:5357f99fb7f9261b249a959c
+msgid "Group resources"
+msgstr "مصادر المجموعة"
+
+#: loco:5357f99fb7f9261b249a959d
+msgid "Group status"
+msgstr "حالة المجموعة"
+
+#: loco:5357f99fb7f9261b249a959e
+msgid "Group updated"
+msgstr "تحديث المجموعة"
+
+#: loco:5357f99fb7f9261b249a9592
+msgid "Group %s has not been subscribed to resource."
+msgstr ".لم يتم لم تشترك بالمصدر %s المجموعة "
+
+#: loco:5357f99fb7f9261b249a9593
+msgid "Group %s is already subscribed."
+msgstr ".مشتركة مسبقا %s  المجموعة "
+
+#: loco:5357f99fb7f9261b249a9594
+msgid "Group %s subscribed to this resource."
+msgstr ".مشتركة بهذا المصدر %s المجموعة "
+
+#: loco:5357f99fb7f9261b249a9595
+msgid "Group %s unsubscribed from resource."
+msgstr ".الغيت الاشتراك بالمصدر %s المجموعة "
+
+#: loco:536510928509cbb0c7ffb9c9
+msgid ""
+"Hello %s,\n"
+"\n"
+"Somebody has requested an email change on Mycitizen.net. The new email will "
+"be: %s\n"
+"\n"
+"If you think that this is wrong, please [contact the support] (%s)."
+msgstr ""
+" \n"
+"\n"
+"(%s).[ اذا كنت تظن بأن هذا غير صحيح رحاءا [ اتصل بالاسناد \n"
+" %s  : العنوان الجديد سيكون   Mycitizen.net.لقد طلب شخص تغيير عنوان بريده "
+"الالكتروني على موقع\n"
+"\n"
+"، %s مرحبا "
+
+#: loco:5357f99fb7f9261b249a95a2
+msgid ""
+"Hello %s,\n"
+"\n"
+"Thank you for signing up at Mycitizen.net!\n"
+"To finish your registration click [here] (%s), or copy the following link to "
+"your browser:\n"
+"\n"
+"%s"
+msgstr ""
+" \n"
+"\n"
+"او انسخ الوصلة التالية الى برنامج تصفح الانترنيت, (%s) [ لاكمال التسجيل انقر "
+"[ هنا\n"
+" Mycitizen.net.شكرا لتسجيلك للاشتراك على موقع\n"
+"\n"
+"، %s مرحبا"
+
+#: loco:5357f99fb7f9261b249a95a1
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested a password change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your "
+"browser:\n"
+"\n"
+"%s"
+msgstr ""
+" \n"
+"\n"
+"او انسخ الوصلة التالية الى برنامج تصفح الانترنيت, (%s) [ لاكمال االطلب انقر "
+"[ هنا\n"
+" Mycitizen.net. لقد طلبت تغيير كلمة السر على موقع \n"
+"\n"
+"، %s مرحبا"
+
+#: loco:5357f99fb7f9261b249a95a0
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested an email change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your "
+"browser:\n"
+"\n"
+"%s"
+msgstr ""
+" \n"
+"\n"
+"او انسخ الوصلة التالية الى برنامج تصفح الانترنيت, (%s) [ لاكمال االطلب انقر "
+"[ هنا\n"
+" Mycitizen.net. لقد طلبت تغيير عنوان بريدك الالكتروني على موقع \n"
+"\n"
+"، %s مرحبا"
+
+#: loco:536b24628509cbb0c7fff4e4
+msgid "Here is an overview of what has happened since your last visit:"
+msgstr ":هذه نظرة عامة على الاحداث منذ زيارتك الاخيرة"
+
+#: loco:5357f99fb7f9261b249a95a3
+msgid ""
+"Here you can report the group if you think it has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+".هنا يمكنك الابلاغ عن المحاميع اذا كنت تظن بانها خرقت القوانين. البلاغات "
+"سيتم معالجتها من قبل وسطائنا"
+
+#: loco:5357f99fb7f9261b249a95a4
+msgid ""
+"Here you can report the resource if you think it has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+".هنا يمكنك الابلاغ عن المصدر اذا كنت تظن بانه خرق القوانين. البلاغات سيتم "
+"معالجتها من قبل وسطائنا"
+
+#: loco:5357f99fb7f9261b249a95a5
+msgid ""
+"Here you can report the user if you think her or she has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+".هنا يمكنك الابلاغ عن المستخدم اذا كنت تظن بانه خرق القوانين. البلاغات سيتم "
+"معالجتها من قبل وسطائنا"
+
+#: loco:5357f99fb7f9261b249a95a6
+msgid "Hidden group"
+msgstr "مجموعة خفية"
+
+#: loco:5357f99fb7f9261b249a95a7
+msgid "Hidden user"
+msgstr "مستخدم خفي"
+
+#: loco:5357f9a0b7f9261b249a9806
+msgid "home"
+msgstr "الصفحة الرئيسية"
+
+#: loco:5357f99fb7f9261b249a97aa
+msgid "Homepage:"
+msgstr ": الصفحة الرئيسية"
+
+#: loco:5357f99fb7f9261b249a97ab
+msgid "How to contact them"
+msgstr "كيفية الاتصال بهم"
+
+#: loco:5357f99fb7f9261b249a9719
+msgid "I am a group moderator."
+msgstr ".انا وسيط مجموعة"
+
+#: loco:5357f99fb7f9261b249a96b9
+msgid "I am a member."
+msgstr ".انا عضو"
+
+#: loco:5357f99fb7f9261b249a971a
+msgid "I am a resource moderator."
+msgstr ".انا وسيط مصدر"
+
+#: loco:5357f99fb7f9261b249a96c2
+msgid "I am not a member."
+msgstr ".انا لست عضو"
+
+#: loco:5357f99fb7f9261b249a96c4
+msgid "I am not subscribed."
+msgstr ".انا غير مشترك"
+
+#: loco:5357f99fb7f9261b249a96fa
+msgid "I am subscribed."
+msgstr ".انا مشترك"
+
+#: loco:5357f99fb7f9261b249a971b
+msgid "I am the owner."
+msgstr ".انا المالك"
+
+#: loco:5357f99fb7f9261b249a97ac
+msgid ""
+"If these recommendations are not precise, you could try to find better tags "
+"to describe your interests. You can change your tags on your profile page."
+msgstr ""
+"اذا كانت هذه التوصيات غير دقيقة، بامكانك محاولة ايجاد اصناف افضل لوصف "
+"اهتماماتك. بامكانك تغيير الاصناف على صفحة ملفك الشخصي"
+
+#: loco:5357f99fb7f9261b249a95a9
+msgid "If you are new here, please %s sign up %s."
+msgstr " %s التسجيل %s ما دمت هنا، يرجى"
+
+#: loco:5357f99fb7f9261b249a97ad
+msgid ""
+"If you need to upload a new file, close this window and click on 'Upload'."
+msgstr ".’اذا كنت بحاجة لتحميل ملف جديد، اعلق الشباك وانقر على ’ تحميل"
+
+#: loco:5357f99fb7f9261b249a96ec
+msgid "Image is too big! Max. size is for upload is 2048x2048"
+msgstr "2048x2048 حجم الصورة يفوق الحد المسموح! الحجم الاقصى للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a971c
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr "%s حجم الصورة يفوق الحد المسموح! الحجم الاقصى للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a95aa
+msgid "Image must be in JPEG or PNG format."
+msgstr "JPEG أو PNG الصورة يجب ان تكون بهيئة  ملف"
+
+#: loco:5357f99fb7f9261b249a971d
+msgid "Import resources from a file"
+msgstr "استيراد المصادر من ملف"
+
+#: loco:5357f99fb7f9261b249a95ab
+msgid "Import resources from file"
+msgstr "استيراد المصادر من ملف"
+
+#: loco:5357f99fb7f9261b249a96b4
+msgid "inactive"
+msgstr "معطل"
+
+#: loco:5357f99eb7f9261b249a9538
+msgid "(inappropriate language)"
+msgstr "( لغة غير لائقة)"
+
+#: loco:5357f9a0b7f9261b249a982a
+msgid ""
+"Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+"عليك اشمال  جميع المستخدمين الجدد، المجاميع والمصادر التي يسمح لك برؤيتها"
+
+#: loco:5357f99fb7f9261b249a95ac
+msgid "Information:"
+msgstr ": معلومات"
+
+#: loco:5357f9a0b7f9261b249a9807
+msgid "insert"
+msgstr "ادخال"
+
+#: loco:5357f99fb7f9261b249a96b5
+msgid "insert to resource"
+msgstr "ادخال للمصدر"
+
+#: loco:5357f99fb7f9261b249a95ad
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr "بهذا المصدر  %s  مستوى التخويل غير كافي لاشراك المجموعة"
+
+#: loco:5357f99fb7f9261b249a96f8
+msgid "is a product of"
+msgstr "هو منتوج من"
+
+#: loco:5357f99fb7f9261b249a95ae
+msgid "Is active"
+msgstr "يعمل"
+
+#: loco:53a55af4ff90b259b57a9afc
+msgid "j.n.Y"
+msgstr "j.n.Y"
+
+#: loco:5357f99fb7f9261b249a95b0
+msgid "Join group"
+msgstr "اشترك بمجموعة"
+
+#: loco:5357f9a0b7f9261b249a9808
+msgid "l, j F Y"
+msgstr "l, j F Y"
+
+#: loco:5357f9a0b7f9261b249a9809
+msgid "l, j F Y, g:ia T"
+msgstr "l, j F Y, g:ia T"
+
+#: loco:5357f99fb7f9261b249a95b4
+msgid "Language:"
+msgstr ":لغة"
+
+#: loco:5357f99fb7f9261b249a971e
+msgid "Language code"
+msgstr "رمز اللغة"
+
+#: loco:5357f99fb7f9261b249a95b5
+msgid "Last activity: "
+msgstr ":اخر فعالية"
+
+#: loco:5357f9a0b7f9261b249a9825
+msgid "Last seen:"
+msgstr ":اخر مشاهدة"
+
+#: loco:5357f9a0b7f9261b249a9824
+msgid "Last seen less than 10 mins ago."
+msgstr ".اخر مشاهدة قبل اقل من عشرة دقائف"
+
+#: loco:5357f9a0b7f9261b249a9823
+msgid "Last seen less than 5 mins ago."
+msgstr ".اخر مشاهدة قبل اقل من خمسة دقائف"
+
+#: loco:5357f99fb7f9261b249a95b6
+msgid "Leave group"
+msgstr "ترك المجموعة"
+
+#: loco:5357f99fb7f9261b249a96b6
+msgid "license"
+msgstr "رخصة"
+
+#: loco:5357f99fb7f9261b249a9753
+msgid "link to external resource"
+msgstr "انشئ وصلة لمصادر خارجية"
+
+#: loco:5357f99fb7f9261b249a95b7
+msgid "Link to invite new members"
+msgstr "انشئ وصلة لدعوة اعضاء جدد"
+
+#: loco:5357f99fb7f9261b249a9754
+msgid "live-video on Bambuser"
+msgstr " Bambuser لقطات فيديو مباشره"
+
+#: loco:5357f99fb7f9261b249a9789
+msgid "load more..."
+msgstr "...تحمل المزيد"
+
+#: loco:5357f99fb7f9261b249a95b8
+msgid "Loading chat.."
+msgstr "...تحميل الحوار"
+
+#: loco:5357f99fb7f9261b249a97b3
+msgid "Maintenance mode activated."
+msgstr ".تم تفعيل حالة الصيانة"
+
+#: loco:5357f99fb7f9261b249a97b4
+msgid "Maintenance mode active."
+msgstr ". حالة الصيانة فعالة"
+
+#: loco:5357f99fb7f9261b249a97b5
+msgid "Maintenance mode deactivated."
+msgstr ". تم تعطيل حالة الصيانة"
+
+#: loco:5357f99fb7f9261b249a95bb
+msgid ""
+"Make the group visible to everyone (world), only users of this website "
+"(registered) or to members of this group (members)."
+msgstr ""
+".(اجعل المجموعة مرئية للجميع (العالم)، فقط مستخدمي هذا الموقع (المسجلين) او "
+"اعضاء هذه المجموعة (اعضاء"
+
+#: loco:5357f99fb7f9261b249a95bc
+msgid ""
+"Make the resource visible to everyone (world), only users of this website "
+"(registered) or to subscribers of this resource (subscribers)."
+msgstr ""
+".(اجعل المجموعة مرئية للجميع (العالم)، فقط مستخدمي هذا الموقع (المسجلين) او "
+"المشتركين في هذا المصدر (مشتركين"
+
+#: loco:5357f99fb7f9261b249a95bd
+msgid "Manage members of this group"
+msgstr "ادارة افراد هذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a95be
+msgid "Manage subscribed resources"
+msgstr "ادارة المصادر المشتركة"
+
+#: loco:5357f99fb7f9261b249a9720
+msgid "Manage subscribers of this resource"
+msgstr "ادارة مشتركي هذا المصدر"
+
+#: loco:5357f99fb7f9261b249a96b7
+msgid "mark as read"
+msgstr "ضع اشارة مقروء"
+
+#: loco:5357f99fb7f9261b249a96b8
+msgid "mark as unread"
+msgstr "ضع اشارة غير مقروء"
+
+#: loco:5357f9a0b7f9261b249a980a
+msgid "max. once per day"
+msgstr "حد اقصى. مرة في اليوم"
+
+#: loco:5357f9a0b7f9261b249a980b
+msgid "max. once per hour"
+msgstr "حد اقصى. مرة في الساعة"
+
+#: loco:5357f9a0b7f9261b249a980c
+msgid "max. once per week"
+msgstr "حد اقصى. مرة في الاسبوع"
+
+#: loco:5357f99fb7f9261b249a95c1
+msgid "Maximum image size is %s"
+msgstr "%s اكبر حجم مقبول للصورة هو "
+
+#: loco:5357f99fb7f9261b249a95c3
+msgid "Media ID:"
+msgstr ": معرف المادة الصوتية المرئية"
+
+#: loco:5357f99fb7f9261b249a95c4
+msgid "Media type:"
+msgstr ": نوع المادة الصوتية المرئية"
+
+#: loco:5357f99fb7f9261b249a95c5
+msgid "Member of groups"
+msgstr "اعضاء مجاميع"
+
+#: loco:5357f99fb7f9261b249a95c7
+msgid "message"
+msgstr "رسالة"
+
+#: loco:5357f99fb7f9261b249a96dd
+msgid "Message not displayed because the user has been deactivated."
+msgstr "الرسالة لم يتم عرضها لان المستخدم قد تم تعطيله"
+
+#: loco:5357f9a0b7f9261b249a9830
+msgid "Message to all users"
+msgstr "رسالة الى كافة المستخدمين"
+
+#: loco:5357f99fb7f9261b249a96ba
+msgid "moderator"
+msgstr "وسيط"
+
+#: loco:5357f99fb7f9261b249a96bb
+msgid "moderators"
+msgstr "وسطاء"
+
+#: loco:5357f9a0b7f9261b249a980d
+msgid "month"
+msgstr "شهر"
+
+#: loco:5357f99fb7f9261b249a96bc
+msgid "more groups"
+msgstr "مجاميع اخرى"
+
+#: loco:5357f99fb7f9261b249a97b9
+msgid "More information and download"
+msgstr "المزيد من المعلومات والتحميل"
+
+#: loco:5357f99fb7f9261b249a96bd
+msgid "more resources"
+msgstr "المزيد من المصادر"
+
+#: loco:53a55ae1ff90b259b57a973e
+msgid "More tags"
+msgstr "اصناف اخرى"
+
+#: loco:5357f99fb7f9261b249a95ca
+msgid "More than one user with the same id found."
+msgstr ".تم ايجاد اكثر من مستخدم واحد يحمل نفس المعرف"
+
+#: loco:5357f99fb7f9261b249a96be
+msgid "more users"
+msgstr "المزيد من المستخدمين"
+
+#: loco:5357f9a0b7f9261b249a980e
+msgid "move down"
+msgstr "انتقل الى الاسفل"
+
+#: loco:5357f99fb7f9261b249a96bf
+msgid "move to trash"
+msgstr "انتقل الى المهملات"
+
+#: loco:5357f9a0b7f9261b249a980f
+msgid "move up"
+msgstr "انتقل الى الاعلى"
+
+#: loco:5357f99fb7f9261b249a97ba
+msgid "My Activity"
+msgstr "فعالتي"
+
+#: loco:5357f99fb7f9261b249a968f
+msgid "My Connections"
+msgstr "اتصالاتي"
+
+#: loco:5357f99fb7f9261b249a97bb
+msgid "My Events"
+msgstr "احداثي"
+
+#: loco:5357f99fb7f9261b249a96c0
+msgid "my friend"
+msgstr "صديقي"
+
+#: loco:5357f99fb7f9261b249a95cb
+msgid "My friends"
+msgstr "اصدقائي"
+
+#: loco:5357f99fb7f9261b249a95cc
+msgid "My Groups"
+msgstr "مجاميعي"
+
+#: loco:5357f99fb7f9261b249a95cd
+msgid "My Location"
+msgstr "موقعي"
+
+#: loco:5357f99fb7f9261b249a95cf
+msgid "My real position"
+msgstr "موقعي الحقيقي"
+
+#: loco:5357f99fb7f9261b249a97bc
+msgid "My Recommendations"
+msgstr "توصياتي"
+
+#: loco:5357f99fb7f9261b249a95ce
+msgid "My Resources"
+msgstr "مصادري"
+
+#: loco:5357f99fb7f9261b249a97bd
+msgctxt "No need to translate."
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: loco:5357f99fb7f9261b249a95d1
+msgid "Name:"
+msgstr ": الاسم"
+
+#: loco:5357f99fb7f9261b249a95d2
+msgid "Needs to be created."
+msgstr "يجب خلقها"
+
+#: loco:5357f9a0b7f9261b249a9827
+msgid "never online"
+msgstr "غير متواجد ابدا على الانترنيت"
+
+#: loco:5357f99fb7f9261b249a95d3
+msgid "New messages"
+msgstr "رسائل"
+
+#: loco:5357f99fb7f9261b249a97be
+msgid "New version:"
+msgstr ":اصدار جديد"
+
+#: loco:5357f9a0b7f9261b249a9810
+msgid "no"
+msgstr "كلا"
+
+#: loco:5357f9a0b7f9261b249a9811
+msgid "no alert"
+msgstr "لا تحذير"
+
+#: loco:5357f99fb7f9261b249a97bf
+msgid "No files."
+msgstr ".لا ملفات"
+
+#: loco:5357f99fb7f9261b249a96c1
+msgid "no friend"
+msgstr "لا يوجد اصدقاء"
+
+#: loco:5357f99fb7f9261b249a96de
+msgid "No messages"
+msgstr "لا توجد رسائل"
+
+#: loco:5357f99fb7f9261b249a97c0
+msgid "No problem found."
+msgstr ".لم يتم العثور على مشاكل"
+
+#: loco:5357f99fb7f9261b249a95d4
+msgid "No tags"
+msgstr "لا توجد اصناف"
+
+#: loco:5357f99fb7f9261b249a95d5
+msgid "Normal user"
+msgstr "مستخدم عادي"
+
+#: loco:5357f99fb7f9261b249a96c3
+msgid "not my friend"
+msgstr "ليس صديقي"
+
+#: loco:5357f99fb7f9261b249a97c1
+msgid "Note:"
+msgstr ": ملاحظة"
+
+#: loco:5357f99fb7f9261b249a95d6
+msgid "Nothing found."
+msgstr ".لم يتم العثور على شئ"
+
+#: loco:5357f99fb7f9261b249a96ed
+msgid "Nothing to display"
+msgstr "لا يوجد شيء للعرض"
+
+#: loco:53a55ae3ff90b259b57a9773
+msgid "Notice Board"
+msgstr "لوحة الاعلانات"
+
+#: loco:5357f9a0b7f9261b249a9831
+msgid "Noticeboard Messages"
+msgstr "رسائل لوحة الاعلانات"
+
+#: loco:5357f99fb7f9261b249a9722
+msgid "Notification from %s"
+msgstr "%s اعلام من "
+
+#: loco:5357f9a0b7f9261b249a97c2
+msgid "Notification Settings"
+msgstr "اعدادات الاعلام"
+
+#: loco:5357f99fb7f9261b249a9723
+msgid "Notify members:"
+msgstr ":اعلام الاعضاء"
+
+#: loco:5357f9a0b7f9261b249a9812
+msgid "now"
+msgstr "الان"
+
+#: loco:5357f99fb7f9261b249a9724
+msgid ""
+"Now is the best time to complete your profile. You can enter your name, your "
+"location and tags for your interests."
+msgstr ""
+".الان هو افضل وقت لاكمالك لصفحة ملفك الخاص. بامكانك ادخال اسمك، موقعك "
+"والاصناف التي تجذب انتباهك"
+
+#: loco:5357f9a0b7f9261b249a9822
+msgid "now online"
+msgstr "الان على شبكة الانترنيت"
+
+#: loco:5357f99fb7f9261b249a95d9
+msgid "Number of groups"
+msgstr "عدد المجاميع"
+
+#: loco:5357f99fb7f9261b249a95da
+msgid "Number of resources"
+msgstr "عدد المصادر"
+
+#: loco:53a55af5ff90b259b57a9b39
+msgid "number of susbcribers"
+msgstr "عدد المشتركين"
+
+#: loco:5357f99fb7f9261b249a95db
+msgid "Number of users"
+msgstr "عدد المستخدمين"
+
+#: loco:5357f99fb7f9261b249a96c5
+msgctxt "No need to translate."
+msgid "object_creation_min_time"
+msgstr "object_creation_min_time"
+
+#: loco:5357f9a0b7f9261b249a9813
+msgid "off"
+msgstr "مطفئ"
+
+#: loco:5357f99fb7f9261b249a95de
+msgid "On invitation only"
+msgstr "حصري للمدعوين فقط"
+
+#: loco:5357f99fb7f9261b249a95df
+msgid "Only administrators can visit this section!"
+msgstr "!المدراء فقط يحق لهم زيارة هذا القسم"
+
+#: loco:5357f99fb7f9261b249a95e0
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "فقط الحروف، الارقام ورمز الـ  '-' ، بطول اقصى مقداره 5"
+
+#: loco:5357f99fb7f9261b249a96c6
+msgid "only visible to friends"
+msgstr "ظاهر فقط للاصدقاء"
+
+#: loco:5357f99fb7f9261b249a96c7
+msgid "only visible to members"
+msgstr "ظاهر فقط للاعضاء"
+
+#: loco:5357f99fb7f9261b249a96c8
+msgid "only visible to registered users"
+msgstr "ظاهر فقط للمستخدمين المسجلين"
+
+#: loco:5357f9a0b7f9261b249a9814
+msgid "only visible to subscribers"
+msgstr "ظاهر فقط للمشتركين"
+
+#: loco:5357f9a0b7f9261b249a9815
+msgid "only visible to you"
+msgstr "ظاهر لك فقط"
+
+#: loco:5357f99fb7f9261b249a9755
+msgid "organization"
+msgstr "منظمة"
+
+#: loco:53a55af5ff90b259b57a9b4c
+msgid "other"
+msgstr "اخرى"
+
+#: loco:5357f9a0b7f9261b249a97c5
+msgid "Over one month old"
+msgstr "اكثر من شهر"
+
+#: loco:5357f9a0b7f9261b249a97c6
+msgid "Over six months old"
+msgstr "اكثر من ستة اشهر"
+
+#: loco:5357f9a0b7f9261b249a97c7
+msgid "Over two months old"
+msgstr "اكثر من شهرين"
+
+#: loco:5357f9a0b7f9261b249a9816
+msgid "own events"
+msgstr "فعالياتك انت"
+
+#: loco:5357f99fb7f9261b249a96c9
+msgid "owner"
+msgstr "مالك"
+
+#: loco:5357f9a0b7f9261b249a97c8
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: loco:5357f99fb7f9261b249a95e2
+msgid "Parent level:"
+msgstr ":مستوى الاصل"
+
+#: loco:5357f99fb7f9261b249a95e3
+msgid "Parent tag:"
+msgstr ":صنف الاصل"
+
+#: loco:5357f99fb7f9261b249a95e7
+msgid "Password:"
+msgstr ": كلمة السر"
+
+#: loco:5357f99fb7f9261b249a95e4
+msgid "Password again:"
+msgstr ": كلمة السر مرة اخرى"
+
+#: loco:5357f99fb7f9261b249a95e5
+msgid "Password change on Mycitizen.net"
+msgstr " Mycitizen.net تغيير كلمة السر على شبكة "
+
+#: loco:5357f99fb7f9261b249a95e6
+msgid "The password couldn't be changed! Please try again later."
+msgstr ".لم نتمكن من تغيير كلمة السر! يرجى المحاولة مرة اخرى في وقت لاحق"
+
+#: loco:5357f99fb7f9261b249a96e0
+msgid "Permission to create items"
+msgstr "تخويل لخلق مواد"
+
+#: loco:5357f99fb7f9261b249a95e8
+msgid "Phone:"
+msgstr ": هاتف"
+
+#: loco:5357f99fb7f9261b249a9725
+msgid "PHP max execution time"
+msgstr " PHPاقصى وقت تنفيذ للغة"
+
+#: loco:5357f99fb7f9261b249a9726
+msgid "PHP memory limit"
+msgstr "PHP الحد المسموح للذاكرة"
+
+#: loco:5357f99fb7f9261b249a9727
+msgid "PHP memory usage"
+msgstr "PHP استخدام الذاكرة"
+
+#: loco:5357f99fb7f9261b249a96df
+msgid "PHP Version"
+msgstr "PHP اصدار لغة "
+
+#: loco:5357f9a0b7f9261b249a9817
+msgid "pixel"
+msgstr "نقطة شاشة"
+
+#: loco:5357f99fb7f9261b249a976a
+msgid "Please answer the security question"
+msgstr "يرجى الاجابة على اسئلة التحقق من الشخصية"
+
+#: loco:5357f9a0b7f9261b249a97c9
+msgid "Please check now your profile and enter a description and tags."
+msgstr "يرجى فحص صفحة ملفك الشخصي وادخال وصف وصنف"
+
+#: loco:53a55ae4ff90b259b57a97b6
+msgid "Please enter some tags."
+msgstr "يرجى ادخال اوصاف"
+
+#: loco:5357f99fb7f9261b249a95e9
+msgid "Please enter some text."
+msgstr "يرجى الكتابة هنا"
+
+#: loco:5362190c8509cbb0c7ffaef9
+msgid "Please enter the new file name:"
+msgstr "يرجى ادخال الاسم الجديد للملف"
+
+#: loco:5357f9a0b7f9261b249a97ca
+msgid "Please enter the text!"
+msgstr "يرجى الكتابة هنا!"
+
+#: loco:5357f99fb7f9261b249a96ee
+msgid "Please enter your new password"
+msgstr "يرجى ادخال كلمة السر الجديدة لك"
+
+#: loco:5357f99fb7f9261b249a95ea
+msgid "Please give us some details."
+msgstr ".يرجى ادخال بعض التفاصيل"
+
+#: loco:5357f99fb7f9261b249a95eb
+msgid "Please go to the edit screen and generate a link."
+msgstr "يرجى الذهاب الى شاشة التحرير وتوليد وصلة"
+
+#: loco:5357f99fb7f9261b249a9728
+msgid ""
+"Please paste here the <u>underlined</u> part of the url for the media that "
+"you want to add:"
+msgstr ""
+" :كجزء من الوصلة المؤدية الى الفلم الذي ترغب باضافته  <u>underlined</u> يرجى "
+"لصق الـ"
+
+#: loco:5357f9a0b7f9261b249a97cb
+msgid "Please select a file"
+msgstr "يرجى اختيار ملف"
+
+#: loco:5360ab408509cbb0c7ff9de3
+msgid "Please select a recipient"
+msgstr "يرجى اختيار المستلم"
+
+#: loco:5357f99fb7f9261b249a95ec
+msgid "Please select first a part of the image."
+msgstr ".يرجى اختيار الجزء الاول من الصورة"
+
+#: loco:5357f9a0b7f9261b249a9826
+msgid "Please sign in first."
+msgstr ".يرجى التسجيل للدخول اولا"
+
+#: loco:5357f99fb7f9261b249a9770
+msgid "Please try again later."
+msgstr ".يرجى اعادة المحاولة لاحقا"
+
+#: loco:5357f99fb7f9261b249a96ef
+msgid "Please use only the English alphabet."
+msgstr ".يرجى استخدام الحروف الانكليزية فقط"
+
+#: loco:53664a338509cbb0c7ffbd4c
+msgid "Please welcome our new member: %s has joined this group."
+msgstr ".انظم الى هذه المجموعة %s : يرجى الترحيب بعضونا الجديد"
+
+#: loco:5357f99fb7f9261b249a95ee
+msgid "Post new comment"
+msgstr "انشر تعليق جديد"
+
+#: loco:5357f99fb7f9261b249a95ef
+msgid "Post reply"
+msgstr "انشر رد"
+
+#: loco:53a55af5ff90b259b57a9b53
+msgid "print"
+msgstr "اطبع"
+
+#: loco:5357f99fb7f9261b249a96e1
+msgid "Privacy policy"
+msgstr "سياسةالخصوصية"
+
+#: loco:53a55af6ff90b259b57a9b56
+msgid "private event"
+msgstr "حدث خصوصي"
+
+#: loco:5357f99fb7f9261b249a9756
+msgid "private messages"
+msgstr "رسالة خصوصية"
+
+#: loco:53a55ae4ff90b259b57a97da
+msgid ""
+"Private messaging has been disabled by the chat window. Reload page to re-"
+"enable"
+msgstr ""
+"الحوار الخصوصي تم تعطيله من قبل شباك الحوار. اعد تحميل الصفحة لتشغيله ثانية"
+
+#: loco:5357f9a0b7f9261b249a97cc
+msgid "Problem found"
+msgstr "هناك مشكلة"
+
+#: loco:53a55ae5ff90b259b57a97df
+msgid "Purge entire cache"
+msgstr "تفريغ الخزان بالكامل"
+
+#: loco:5357f9a0b7f9261b249a97cd
+msgid "Purge unconfirmed users"
+msgstr "تفريغ المستخدمين غير المصدق عليهم"
+
+#: loco:5357f9a0b7f9261b249a9818
+msgid "read or write messages"
+msgstr "قراءة او كتابة الرسائل"
+
+#: loco:53674f448509cbb0c7ffc658
+msgid "Read your messages in your [inbox] (%s)."
+msgstr ".(%s) [قراءة الرسائل في صندوق [البريد الوارد"
+
+#: loco:5357f99fb7f9261b249a95f0
+msgid "Reason:"
+msgstr ": السبب"
+
+#: loco:5357f99fb7f9261b249a9788
+msgid "Recent activity"
+msgstr "فعالية حديثة"
+
+#: loco:5386f384ff90b259b5790ed9
+msgid "Recent Activity"
+msgstr "فعالية حديثة"
+
+#: loco:53a55ae5ff90b259b57a97ed
+msgid "Recent activity at %s"
+msgstr "%s فعالية حديثة عند "
+
+#: loco:5357f9a0b7f9261b249a97ce
+msgid "Recommended Groups"
+msgstr "المجاميع الموصى بها"
+
+#: loco:5357f9a0b7f9261b249a97cf
+msgid "Recommended Resources"
+msgstr "المصادر الموصى بها"
+
+#: loco:5357f9a0b7f9261b249a97d0
+msgid "Recommended Users"
+msgstr "المستخدمون الموصى بهم"
+
+#: loco:5357f99fb7f9261b249a96ca
+msgid "regenerate image"
+msgstr "اعادة توليد الصورة"
+
+#: loco:53a55af6ff90b259b57a9b5f
+msgid "registered"
+msgstr "مسجل"
+
+#: loco:5357f99fb7f9261b249a95f3
+msgid ""
+"Registration has been successful. A message has been sent to your email with "
+"further instructions how to activate your account."
+msgstr ""
+".تمت عملية التسجيل بنجاح. لقد تم ارسال رسالة الى بريدك الالكتروني تحتوي "
+"تعليمات عن كيفية تشغيل حسابك"
+
+#: loco:5357f99fb7f9261b249a95f4
+msgid "Reject friendship request"
+msgstr "رفض طلب الصداقة"
+
+#: loco:5357f9a0b7f9261b249a97d1
+msgid "Release information:"
+msgstr ": نشر المعلومات"
+
+#: loco:5357f99fb7f9261b249a96f0
+msgid "Reload the chat."
+msgstr ".اعادة تحميل الحوار"
+
+#: loco:5357f99fb7f9261b249a9757
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: loco:53a55ae5ff90b259b57a9804
+msgid "Remove all faded items."
+msgstr ".ازالة جميع المواد المبهتة"
+
+#: loco:53a55af6ff90b259b57a9b62
+msgid "remove screenshot"
+msgstr "ازالة صورة الشاشة"
+
+#: loco:5357f99fb7f9261b249a9729
+msgid "Remove this message."
+msgstr "ازاة هذه الرسالة"
+
+#: loco:5357f99fb7f9261b249a96cb
+msgid "remove user from resource"
+msgstr "ازالة المستخدم من المصدر"
+
+#: loco:5357f99fb7f9261b249a95f6
+msgid "Repeat password:"
+msgstr ": اعد كلمة السر"
+
+#: loco:5357f99fb7f9261b249a96cc
+msgid "reply"
+msgstr "الرد"
+
+#: loco:5357f99fb7f9261b249a95f8
+msgid "Report about group %s, reason: %s"
+msgstr "%s : السبب  ،%s    ابلاغ عن المجموعة"
+
+#: loco:5357f99fb7f9261b249a95f9
+msgid "Report about resource %s, reason: %s"
+msgstr "%s : السبب  ،%s    ابلاغ عن المصدر"
+
+#: loco:5357f99fb7f9261b249a95fa
+msgid "Report about user %s, reason: %s"
+msgstr "%s : السبب  ،%s    ابلاغ عن المستخدم"
+
+#: loco:5357f99fb7f9261b249a95fb
+msgid "Report group"
+msgstr "الابلاغ عن مجموعة"
+
+#: loco:5357f99fb7f9261b249a95fc
+msgid "Report resource"
+msgstr "الابلاغ عن مصدر"
+
+#: loco:5357f99fb7f9261b249a95fd
+msgid "Report user"
+msgstr "الابلاغ عن مستخدم"
+
+#: loco:5357f99fb7f9261b249a95ff
+msgid "Request friendship"
+msgstr "طلب صداقة"
+
+#: loco:5357f99fb7f9261b249a9600
+msgid "Request friendship again"
+msgstr "طلب صداقة مجددا"
+
+#: loco:5357f99fb7f9261b249a9601
+msgid "Request new password"
+msgstr "طلب كلمة سر جديدة"
+
+#: loco:5357f99fb7f9261b249a972b
+msgid "Reset the filter and show the entire list."
+msgstr "تصفير المرشح وعرض القائمة كاملة"
+
+#: loco:5357f99fb7f9261b249a976e
+msgid ""
+"Reset the search.<ul><li>The first click resets the search on this page.</"
+"li><li>The second click resets the search on all pages. </li></ul>"
+msgstr ""
+". </li></ul> النقرة الثانية تصفر البحث في حميع الصفحات. </li><li>  قم بتصفير "
+"البحث. النقرة الاولى تصفر البحث في هذه الصفحة"
+
+#: loco:5357f9a0b7f9261b249a9819
+msgid "reset to initial selection"
+msgstr "تصفير الى الاختيار الاصلي"
+
+#: loco:5357f99fb7f9261b249a96f9
+msgid "resource"
+msgstr "مصدر"
+
+#: loco:5357f99fb7f9261b249a96f1
+msgid "Resource location on a map"
+msgstr "موقع المصدر على الخارطة"
+
+#: loco:5357f9a0b7f9261b249a97d3
+msgid "Resource name cannot be empty!"
+msgstr "!اسم المصدر لا يمكن ان يكون خاليا"
+
+#: loco:5357f99fb7f9261b249a9602
+msgid "Resource owner: "
+msgstr ": مالك المصدر"
+
+#: loco:5357f99fb7f9261b249a9603
+msgid "Resource status"
+msgstr "حالة المصدر"
+
+#: loco:5357f99fb7f9261b249a9604
+msgid "Resource type:"
+msgstr ": نوع المصدر"
+
+#: loco:5357f99fb7f9261b249a9605
+msgid "Resource updated"
+msgstr ": المصدر تم تجديده"
+
+#: loco:5357f99fb7f9261b249a96cd
+msgid "restore from trash"
+msgstr "اعادة من المهملات"
+
+#: loco:5357f99fb7f9261b249a96e2
+msgid "Restrict your search to a location"
+msgstr "حدد بحثك بمنطقة"
+
+#: loco:5357f99fb7f9261b249a972c
+msgid "Return to the home screen."
+msgstr "اعد الى الشاشة الاصلية"
+
+#: loco:5357f99fb7f9261b249a9607
+msgid "Revoke request"
+msgstr "الغاء الطلب"
+
+#: loco:53a55af6ff90b259b57a9b6d
+msgid "save"
+msgstr "احفظ"
+
+#: loco:53a55ae6ff90b259b57a983f
+msgid "Save as view"
+msgstr "حفظ كعرض"
+
+#: loco:53a55ae7ff90b259b57a9845
+msgid "Screenshot already exists."
+msgstr "صورة الشاشة موجودة مسبقا"
+
+#: loco:5357f99fb7f9261b249a972d
+msgid "Screenshot processing."
+msgstr "معالجة صورة الشاشة"
+
+#: loco:5357f99fb7f9261b249a960a
+msgid "Search Comments"
+msgstr "البحث في التعليقات"
+
+#: loco:5357f99fb7f9261b249a96e3
+msgid "Search for a place"
+msgstr "البحث في مكان"
+
+#: loco:5357f99fb7f9261b249a96e4
+msgid "Search for similar topics like your interests and around your location."
+msgstr "البحث عن مواضيع مشابهة لاهتماماتك محليا"
+
+#: loco:53a55af6ff90b259b57a9b70
+msgid "search for '%s'"
+msgstr " '%s' البحث عن "
+
+#: loco:5357f9a0b7f9261b249a97d7
+msgid "Searched around your location."
+msgstr "البحث محليا"
+
+#: loco:5357f9a0b7f9261b249a9828
+msgid "Searched globally because not enough was found around your location."
+msgstr "البحث عالميا لقلة ما وجد محليا"
+
+#: loco:5357f99fb7f9261b249a9767
+msgid "Security Question"
+msgstr "سؤال امني"
+
+#: loco:5357f99fb7f9261b249a960c
+msgid "See details about the user and respond to the request."
+msgstr "اطلع على تفاصيل هذا المستخدم واستجيب للطلب"
+
+#: loco:5357f99fb7f9261b249a960e
+msgid "Select a group for more details."
+msgstr "اختر مجموعة للحصول على مزيد من المعلومات"
+
+#: loco:5357f99fb7f9261b249a960f
+msgid "Select a language of this resource."
+msgstr "اختر اللغة لهذا المصدر"
+
+#: loco:5357f99fb7f9261b249a9610
+msgid "Select a language that will be used in this group for communication."
+msgstr "اختر اللغة التي سيتم استخدامها للتواصل مع هذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a9611
+msgid "Select a resource for more details."
+msgstr "اختر المصدر للحصول على تفاصيل اكثر"
+
+#: loco:5357f99fb7f9261b249a9612
+msgid "Select a tag"
+msgstr "اختر صنف"
+
+#: loco:5357f99fb7f9261b249a972e
+msgid "Select a tag that describes a topic that this group is about."
+msgstr ".اختر صنفا يصف الموضوع الذي تتناوله هذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a972f
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr ".اختر صنفا يصف الموضوع الذي يتناوله هذا المصدر"
+
+#: loco:5357f99fb7f9261b249a9730
+msgid "Select a tag that describes one of your interests."
+msgstr ".اختر صنفا يصف احد اهتماماتك"
+
+#: loco:5357f99fb7f9261b249a9613
+msgid "Select a time"
+msgstr "اختر الوقت"
+
+#: loco:5357f99fb7f9261b249a9614
+msgid "Select a user for more details."
+msgstr ".اختر مستخدما للحصول على المزيد من المعلومات"
+
+#: loco:5357f99fb7f9261b249a9615
+msgid ""
+"Select one or more groups to subscribe to this resource. Only groups are "
+"displayed that you own or where you have at least moderator permissions."
+msgstr ""
+".اختر واحدا او اكثر من المجاميع للاشتراك بهذا المصدر. المجاميع المعروضة هي "
+"فقط تلك التي تمتلكها او التي تمتلك فيها تخويل الوسيط على الاقل"
+
+#: loco:5357f99fb7f9261b249a9616
+msgid ""
+"Select one or more resources to unsubscribe. Only resources are displayed "
+"that this group is subscribed to. You can subscribe to resources on the "
+"detail page of a resource."
+msgstr ""
+".اختر واحدا او اكثر من المصادر لالغاء الاشتراك فيها. المصادر المعروضة هي فقط "
+"التي سبق لهذه المجموعة الاشتراك فيها. بامكانك الاشتراك في المصادر على صفحة "
+"التفاصيل الخاصة بالمصدر"
+
+#: loco:5357f99fb7f9261b249a960d
+msgid "Select Parent Level"
+msgstr "اختر مستوى الاصل"
+
+#: loco:5357f99fb7f9261b249a9617
+msgid "Selected Location"
+msgstr "اختر الموقع"
+
+#: loco:5357f99fb7f9261b249a9619
+msgid "Send a message to a friend"
+msgstr "ارسل رسالة الى صديق"
+
+#: loco:5357f9a0b7f9261b249a97d8
+msgid "Send a message to all members"
+msgstr "ارسل رسالة الى جميع الاعضاء"
+
+#: loco:5357f99fb7f9261b249a9763
+msgid "Send a private message to %s"
+msgstr "%s ارسل رسالة شخصية الى "
+
+#: loco:5357f9a0b7f9261b249a97d9
+msgid "Send them a local message."
+msgstr "ارسل لهم رسالة محلية"
+
+#: loco:5357f9a0b7f9261b249a97da
+msgid "Send them an email."
+msgstr ".ارسل لهم رسالة الكترونية"
+
+#: loco:53a55ae8ff90b259b57a9880
+msgid "Set up a cron on an external service:"
+msgstr ":على خدمة خارجية cron اعد"
+
+#: loco:5357f99fb7f9261b249a96ce
+msgid "Setup and Maintenance"
+msgstr "الاعداد والصيانة"
+
+#: loco:5357f99fb7f9261b249a976d
+msgid ""
+"Show only messages by senders with matching names.<ul><li>Type to search "
+"only on this page.</li><li>Type and press enter to search on all pages.</"
+"li></ul>"
+msgstr ""
+" . </li></ul>اكتب للبحث فقط في هذه الصفحة. اكتب ثم اضغط على مفتاح الادخال "
+"على جميع الصفحات  <ul><li> اعرض فقط الرسائل المرسلة من قبل مرسلين ذات اسماء "
+"مطابقة"
+
+#: loco:5357f99fb7f9261b249a96f2
+msgid "Show the location where you are right now."
+msgstr ".عرض الموقع الذي انت فيه حاليا"
+
+#: loco:5357f99fb7f9261b249a961c
+msgid "Sign in"
+msgstr "سجل للدخول"
+
+#: loco:5357f99fb7f9261b249a9769
+msgid "Sign in is disabled. Please try again later."
+msgstr ".تسجيل الدخول معطل. يرجى المحاولة لاحقا"
+
+#: loco:5357f9a0b7f9261b249a981a
+msgid "sign in with Facebook"
+msgstr "Facebook تسجيل الدخول عن طريق حساب"
+
+#: loco:5357f99fb7f9261b249a961d
+msgid "Sign out"
+msgstr "تسجيل الخروج"
+
+#: loco:5357f99fb7f9261b249a961e
+msgid "Sign up"
+msgstr "تسجيل الاشتراك"
+
+#: loco:5357f99fb7f9261b249a9768
+msgid "Sign up is disabled. Please try again later."
+msgstr ".تسجيل الاشتراك معطل. يرجى المحاولة لاحقا"
+
+#: loco:5357f99fb7f9261b249a96e5
+msgid "Similar to me"
+msgstr "شبيه بي"
+
+#: loco:5357f99fb7f9261b249a961f
+msgid "Software version:"
+msgstr ":اصدار البرامجيات"
+
+#: loco:5357f99fb7f9261b249a9783
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr ".حاول شخص الدخول الى حسابك باستخدام اسمك وكلمة سر خاطئة"
+
+#: loco:53a55ae8ff90b259b57a989b
+msgid "Sort by Last Activity"
+msgstr "فرز بواسطة اخر فعالية"
+
+#: loco:53a55ae8ff90b259b57a989e
+msgid "Sort by Name"
+msgstr "فرز بواسطة الاسم"
+
+#: loco:53a55ae8ff90b259b57a98a1
+msgid "Sort by Subscribers"
+msgstr "فرز بواسطة المشتركين"
+
+#: loco:5357f99fb7f9261b249a9758
+msgid "sound on Soundcloud"
+msgstr "Soundcloud الصوت على موقع "
+
+#: loco:5357f99eb7f9261b249a9539
+msgid "(spam)"
+msgstr "( بريد متطفل)"
+
+#: loco:5357f99fb7f9261b249a9620
+msgid "Specified user not found."
+msgstr ".لم يتم ايجاد المستخدم الذي تم تحديده"
+
+#: loco:5357f9a0b7f9261b249a97dc
+msgid ""
+"Stand by for scheduled maintenance in %s minutes and %s seconds. Please "
+"finish your activities."
+msgstr " .ثانية. يرجى انهاء فعالياتك %s دقيقة و %sتهيء للصيانة في "
+
+#: loco:5357f9a0b7f9261b249a97dd
+msgid "Start:"
+msgstr ":ابدأ"
+
+#: loco:5357f99fb7f9261b249a9623
+msgid "Subscribe as group"
+msgstr "اشترك كمجموعة"
+
+#: loco:5357f99fb7f9261b249a9624
+msgid "Subscribe to resource"
+msgstr "اشترك بمصدر"
+
+#: loco:5357f99fb7f9261b249a96cf
+msgid "subscribed"
+msgstr "مشترك"
+
+#: loco:5357f9a0b7f9261b249a981b
+msgid "subscribed events"
+msgstr "احداث مشترك بها"
+
+#: loco:5357f99fb7f9261b249a9625
+msgid "Subscribed Groups"
+msgstr "مجاميع مشتركة"
+
+#: loco:5357f99fb7f9261b249a9627
+msgid "Subscribed to resources"
+msgstr "مشتركين بمصادر"
+
+#: loco:5357f99fb7f9261b249a9626
+msgid "Subscribed Users"
+msgstr "مستخدمين مشتركين"
+
+#: loco:53a55af6ff90b259b57a9b79
+msgid "subscribers"
+msgstr "مشتركين"
+
+#: loco:5357f99fb7f9261b249a9629
+msgid "Subscriptions as group"
+msgstr "اشتراكات كمجموعة"
+
+#: loco:5357f9a0b7f9261b249a97df
+msgid "Success!"
+msgstr "!نجاح"
+
+#: loco:5357f99fb7f9261b249a962b
+msgid "Surname:"
+msgstr ":اللقب"
+
+#: loco:5357f99fb7f9261b249a962c
+msgid "System check"
+msgstr "فحص النظام"
+
+#: loco:5357f99fb7f9261b249a9732
+msgid "System check finished."
+msgstr ".انتهى فحص النظام"
+
+#: loco:5357f9a0b7f9261b249a97e2
+msgid "System check finished. Find the results below."
+msgstr ". انتهى فحص النظام. ستجد النتائج ادناه"
+
+#: loco:5357f99fb7f9261b249a962d
+msgid "System message: Warning!!!"
+msgstr "!!!رسالة من النطام: تحذير"
+
+#: loco:5357f99fb7f9261b249a9734
+msgid "System message: You've received a warning."
+msgstr ".رسالة من النطام: لقد حصلت على تحذير"
+
+#: loco:5357f99fb7f9261b249a9733
+msgid "System message: You've received a warning about your group."
+msgstr ".رسالة من النطام: لقد حصلت على تحذير بخصوص مجموعتك"
+
+#: loco:5357f99fb7f9261b249a962f
+msgid "Tag name:"
+msgstr ":اسم الصنف"
+
+#: loco:53a55ae9ff90b259b57a98d6
+msgid "Tag not found."
+msgstr ".الصنف غير موجود"
+
+#: loco:5357f99fb7f9261b249a9735
+msgid "Tag \"%s\" saved."
+msgstr ". تم خزنه \"%s\"الصنف"
+
+#: loco:53a55af6ff90b259b57a9b7c
+msgid "tag1, tag2, ..."
+msgstr " ... صنف 1، صنف 2،"
+
+#: loco:5357f99fb7f9261b249a96d0
+msgid "tag_name"
+msgstr "اسم الصنف"
+
+#: loco:5357f99fb7f9261b249a9631
+msgid "Tell us why you report this group, including examples:"
+msgstr ":اخبرنا عن سبب ابلاغك عن هذه المجموعة مع ذكر امثلة"
+
+#: loco:5357f99fb7f9261b249a9632
+msgid "Tell us why you report this resource, including examples:"
+msgstr ":اخبرنا عن سبب ابلاغك عن هذه المصدر مع ذكر امثلة"
+
+#: loco:5357f99fb7f9261b249a9633
+msgid "Tell us why you report this user, including examples:"
+msgstr ":اخبرنا عن سبب ابلاغك عن هذا المستخدم مع ذكر امثلة"
+
+#: loco:5357f99fb7f9261b249a978a
+msgid "Terms of Use"
+msgstr "شروط الاستخدام"
+
+#: loco:5357f99fb7f9261b249a9737
+msgid "Test locale"
+msgstr "فحص تحديدات اللغة والموقع"
+
+#: loco:5357f99fb7f9261b249a9738
+msgid "Test the import in a dry run"
+msgstr "فحص المستورد في تشغيل للفحص"
+
+#: loco:5357f99fb7f9261b249a9634
+msgid "Text:"
+msgstr ": الكتابة"
+
+#: loco:53a55af6ff90b259b57a9b81
+msgid "text information"
+msgstr "معلومات مكتوبة"
+
+#: loco:5357f99fb7f9261b249a9765
+msgid ""
+"The administrator asks you to answer a security question before you can "
+"enter."
+msgstr ".المدير يطلب منك الاجابة عن الاسئلة الامنية قبل السماح لك بالدخول"
+
+#: loco:5357f99fb7f9261b249a96f3
+msgid "The chat is only visible to group members."
+msgstr ".الحوار مرئي فقط لاعضاء المجموعة"
+
+#: loco:53a55aeaff90b259b57a98f0
+msgid "The email address has been succesfully changed."
+msgstr "هذا العنوان للبريد الالكتروني قد تم تغييره بنجاح"
+
+#: loco:53a55aeaff90b259b57a98f3
+msgid "The email address is not valid. Please check it and try again."
+msgstr ""
+".عنوان البريد الالكتروني غير صحيح. يرجى التأكد منه ثم المحاولة مرة اخرى لاحقا"
+
+#: loco:53a55aeaff90b259b57a98f6
+msgid "The email couldn't be changed!"
+msgstr "! لم نتمكن من تغيير عنوان البريد الالكتروني"
+
+#: loco:53a55aeaff90b259b57a98f9
+msgid "The event is in the future."
+msgstr ".الحدث في المستقبل"
+
+#: loco:53a55aeaff90b259b57a98fc
+msgid "The event is over."
+msgstr ".انتهى الحدث"
+
+#: loco:53a55aeaff90b259b57a98ff
+msgid "The event is upcoming."
+msgstr ".الحدث لايزال مقبلا"
+
+#: loco:5357f9a0b7f9261b249a981f
+msgid "The following items could be interesting for you:"
+msgstr ":المواد التالية قد تثير اهتمامك"
+
+#: loco:53664a438509cbb0c7ffbd4e
+msgid "%s has left the group. Good-bye!"
+msgstr "! قد ترك المجموعة. مع السلامة %s"
+
+#: loco:5357f99fb7f9261b249a977a
+msgid "The group added a resource."
+msgstr ".المجموعة اضافت مصدر"
+
+#: loco:5357f99fb7f9261b249a977b
+msgid "The group chat has new messages."
+msgstr "الحوار الجماعي يتضمن رسائل جديدة"
+
+#: loco:53664a018509cbb0c7ffbd48
+msgid "The group has subscribed to the resource %s."
+msgstr ".%s المجموعة اشتركت بالمصدر "
+
+#: loco:53664a168509cbb0c7ffbd4a
+msgid "The group has unsubscribed from the following resources:"
+msgstr ": المجموعة الغت الاشتراك من المصادر التالية"
+
+#: loco:5357f99fb7f9261b249a9781
+msgid "The group information was updated."
+msgstr ".تم تحديث معلومات المجموعة"
+
+#: loco:5357f9a0b7f9261b249a97e4
+msgid "The group unsubscribed from a resource."
+msgstr ".المجموعة الغت الاشتراك بمصدر"
+
+#: loco:5357f99fb7f9261b249a9780
+msgid "The group unsubscribed from the resource."
+msgstr ".المجموعة الغت الاشتراك بالمصدر"
+
+#: loco:5357f9a0b7f9261b249a97e5
+msgid "The group was updated."
+msgstr ".تم تحديث المجموعة"
+
+#: loco:5357f99fb7f9261b249a9739
+msgid "The image is too big! Max. size for upload is %s"
+msgstr "%s الصورة كبيرة! اقصى حجم مسموح للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a96f4
+msgid "The image is too big! Max. size is for upload is %s"
+msgstr "%s الصورة كبيرة! اقصى حجم مسموح للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a973a
+msgid "The image is too small! Min. size for upload is %s"
+msgstr "%s الصورة صغيرة! اصغر حجم مسموح للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a9635
+msgid "The image is too small. Minimum size is %s."
+msgstr "%s الصورة صغيرة! اصغر حجم مسموح للتحميل هو "
+
+#: loco:5357f99fb7f9261b249a9636
+msgid ""
+"The main language you want to use. You will still be able to see other "
+"languages."
+msgstr ".اللغة الرئيسية التي تود استخدامها. سيكون بامكانك رؤية لغات اخرى"
+
+#: loco:5357f99fb7f9261b249a9637
+msgid "The minimal length of your username is %s characters."
+msgstr ".رمز %s  اقل طول مسموح به لاسم المستخدم الخاص بك هو"
+
+#: loco:5357f99fb7f9261b249a976c
+msgid ""
+"The page you requested could not be found. Please correct the address, "
+"return to the previous page, or go back home."
+msgstr ""
+".الصفحة التي طلبتها لا يمكن ايجادها. يرجى تصحيح العنوان، العودة الى الصفحة "
+"السابقة، او العودة الى الصفحة الرئيسية"
+
+#: loco:53a55aebff90b259b57a991c
+msgid "The password couldn't be changed! Try again later."
+msgstr ".كلمة السر لم تغير! يرجى المحاولة مرة اخرى لاحقا"
+
+#: loco:53a55aebff90b259b57a991f
+msgid "The password has been successfully changed."
+msgstr ".تم تغيير كلمة السر بنجاح"
+
+#: loco:5357f9a0b7f9261b249a97e6
+msgid "The password is wrong."
+msgstr ". كلمة السر خاطئة"
+
+#: loco:5357f99fb7f9261b249a95f1
+msgid "The registration couldn't be finished! Link is not active anymore."
+msgstr ". لا يمكن اتمام عملية التسجيل! الوصلة لم تعد فعالة"
+
+#: loco:53a55aebff90b259b57a9926
+msgid "The registration couldn't be finished! The link is not active anymore."
+msgstr " .لا يمكن اتمام عملية التسجيل! الوصلة لم تعد فعالة"
+
+#: loco:5357f99fb7f9261b249a95f2
+msgid "The registration has been successful. You can now sign in."
+msgstr ".التسجيل تم بنجاح. بامكانك التسجيل للدخول"
+
+#: loco:5357f99fb7f9261b249a977c
+msgid "The resource has new comments."
+msgstr "المصدر لديه ملاحظات جديدة"
+
+#: loco:5357f99fb7f9261b249a9782
+msgid "The resource information was updated."
+msgstr ".تم تحديث معلومات المصدر"
+
+#: loco:5357f9a0b7f9261b249a97e7
+msgid "The resource was updated."
+msgstr ".المصدر تم تحديثه"
+
+#: loco:5357f9a0b7f9261b249a982c
+msgid "The screenshot has been removed."
+msgstr ".صورة الشاشة تم ازالتها"
+
+#: loco:5357f99fb7f9261b249a973b
+msgid "The tag cannot be its own parent."
+msgstr ".الصنف لا يمكن ان يكون اصل نفسه"
+
+#: loco:5357f99fb7f9261b249a9638
+msgid "The username cannot be changed."
+msgstr ".اسم المستخدم لا يمكن تغييره"
+
+#: loco:5357f99fb7f9261b249a973c
+msgid "There are unread reports:"
+msgstr ":هناك تقارير غير مقروءة"
+
+#: loco:5357f9a0b7f9261b249a97e8
+msgid ""
+"There has been an error sending the confirmation email. Please try again in "
+"a while."
+msgstr ""
+".حدث خلل اثناء ارسال الرسالة التأكيدية. يرجى المحاولة مرة اخرى بعد فترة"
+
+#: loco:53a55aebff90b259b57a9937
+msgid "There is a problem with your avatar."
+msgstr ".هناك خلل برمزك الشخصي"
+
+#: loco:5357f99fb7f9261b249a97ae
+msgid ""
+"These files are public. If you want to prevent others from seeing them, you "
+"should choose a file name that is hard to guess."
+msgstr ""
+".هذه الملفات هي عامة. اذا كنت تريد منع الاخرين من الاطلاع عليها، يجب ان "
+"تختار اسم للملف من الصعب حزره"
+
+#: loco:5357f9a0b7f9261b249a9832
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr ".هذه الرسائل سيتم عرضها في سيل الفعاليات لجميع المستخدمين"
+
+#: loco:53a55aecff90b259b57a9941
+msgid "This email address is already used for another account."
+msgstr ".عنوان للبريد الالكتروني هذا قد سبق استخدامه من قبل حساب اخر"
+
+#: loco:53a55aecff90b259b57a9944
+msgid "This email address is not registered in our system!"
+msgstr "!عنوان للبريد الالكتروني هذا غير مسجل في نظامنا"
+
+#: loco:53a55aecff90b259b57a9947
+msgid "This email address is not valid. Please check it and try again."
+msgstr ""
+".عنوان البريد الالكتروني هذا غير صحيح. يرجى التاكد منه والمحاولة مرة اخرى"
+
+#: loco:5357f99fb7f9261b249a963c
+msgid ""
+"This group can only be viewed by members. Users need to have the key below "
+"to become members."
+msgstr ""
+".هذه المجموعة يمكن الاطلاع عليها فقط من قبل اعضائها. المستخدمين يجب ان "
+"يمتلكوا المفتاح المعروض ادناه ليصبحوا اعضاء"
+
+#: loco:5357f99fb7f9261b249a973d
+msgid "This group contains wrong information."
+msgstr ".هذه المجموعة تحتوى معلومات خاطئة"
+
+#: loco:5357f99fb7f9261b249a963d
+msgid "This group doesn't have a key."
+msgstr ".هذه المجموعة لا تمتلك مفتاح"
+
+#: loco:5357f99fb7f9261b249a963e
+msgid "This group violates the rules of conduct."
+msgstr ".هذه المجموعة انتهكت قواعد السلوك المعتمدة"
+
+#: loco:5357f99fb7f9261b249a963f
+msgid "This group was created by mistake, or it is inactive."
+msgstr ".هذه المجموعة تم خلقها خطئا، او هي مجموعة معطلة"
+
+#: loco:5357f99fb7f9261b249a973e
+msgid "This is my group."
+msgstr ".هذه مجموعتي"
+
+#: loco:5357f99fb7f9261b249a9640
+msgid "This is my profile."
+msgstr ".هذه صفحة ملفي الخاص"
+
+#: loco:5357f99fb7f9261b249a973f
+msgid "This is my resource."
+msgstr ".هذا مصدري"
+
+#: loco:5357f99fb7f9261b249a9641
+msgid "This is not a real group but spam."
+msgstr ".هذه ليست مجموعة حقيقية بل بريد متطفل"
+
+#: loco:5357f99fb7f9261b249a9642
+msgid "This is not a real person but spam."
+msgstr ".هذا ليس شخص حقيقي بل بريد متطفل"
+
+#: loco:5357f99fb7f9261b249a9643
+msgid "This is not a real resource but spam."
+msgstr ".هذا ليس مصدر حقيقي بل بريد متطفل"
+
+#: loco:5357f99fb7f9261b249a9644
+msgid "This person violates the rules of conduct."
+msgstr ".هذا الشخص انتهك قواعد السلوك المعتمدة"
+
+#: loco:5357f9a0b7f9261b249a97e9
+msgid "This person was created by mistake."
+msgstr ".هذا الشخص تم خلقه خطئا"
+
+#: loco:5357f99fb7f9261b249a9645
+msgid "This person was created by mistake, or he/she is inactive."
+msgstr ".هذا الشخص تم خلقه خطئا، او هو معطل"
+
+#: loco:5357f99fb7f9261b249a9740
+msgid "This resource contains wrong information."
+msgstr ".هذا المصدر يحتوي معلومات خاطئة"
+
+#: loco:5357f99fb7f9261b249a9646
+msgid "This resource doesn't exist."
+msgstr ".هذا المصدر غير موجود"
+
+#: loco:5357f99fb7f9261b249a9647
+msgid "This resource violates the rules of conduct."
+msgstr ".هذا المصدر ينتهك قواعد السلوك المعتمدة"
+
+#: loco:5357f99fb7f9261b249a9648
+msgid "This resource was created by mistake, or it is inactive."
+msgstr ".المصدر تم خلقه خطئا او هو معطل"
+
+#: loco:5357f99fb7f9261b249a9649
+msgid "This user doesn't exist."
+msgstr ".المستخدم غير موجود"
+
+#: loco:53a55aecff90b259b57a996a
+msgid "This username is not registered in our system!"
+msgstr "!اسم المستخدم هذا غير مسجل في نظامنا"
+
+#: loco:5357f99fb7f9261b249a9741
+msgid "This was just a dry run - nothing was saved."
+msgstr ".هذا فقط تشغيل للفحص - لم يتم تخزين اي شيء"
+
+#: loco:5357f99fb7f9261b249a96f5
+msgid "Time:"
+msgstr ": الوقت"
+
+#: loco:5357f99fb7f9261b249a964b
+msgid "Time Zone"
+msgstr "المنطقة الزمنية"
+
+#: loco:5357f99fb7f9261b249a964d
+msgid "To:"
+msgstr ": الى"
+
+#: loco:5357f99fb7f9261b249a964c
+msgid "To this address we will send a request to confirm your registration."
+msgstr ".سيتم ارسال طلب لاثبات تسجيلك الى هذا العنوان الالكتروني"
+
+#: loco:5357f9a0b7f9261b249a981c
+msgid "today"
+msgstr "اليوم"
+
+#: loco:53a55af7ff90b259b57a9b86
+msgid "toggle chat window"
+msgstr "تبديل شباك الحوار"
+
+#: loco:53a55aedff90b259b57a997e
+msgid "Too many failed login attempts. Please try again later."
+msgstr ""
+".عدد المحاولات الفاشلة للدخول يفوق المسموح به. يرجى المحاولة مرة اخرى لاحقا"
+
+#: loco:53a55aedff90b259b57a9981
+msgid ""
+"Too many messages? You can change the schedule on your [profile page](%s)."
+msgstr ""
+".(%s) [ هل عدد الرسائل يفوق ما ترغب به؟ بامكانك تغيير الجدولة على  [صفحة "
+"ملفك الخاص"
+
+#: loco:5357f99fb7f9261b249a964e
+msgid "Top Groups"
+msgstr "المجاميع اللعليا"
+
+#: loco:5357f99fb7f9261b249a96d1
+msgid "top level"
+msgstr "المستوى العلوي"
+
+#: loco:5357f99fb7f9261b249a964f
+msgid "Top Resources"
+msgstr "المصادر العليا"
+
+#: loco:5357f99fb7f9261b249a9650
+msgid "Top Users"
+msgstr "اعلى مستخدمين"
+
+#: loco:5357f99fb7f9261b249a9759
+msgid "total"
+msgstr "مجموعة"
+
+#: loco:5357f99fb7f9261b249a9652
+msgid "Trash emptied."
+msgstr "تم افراغ المهملات"
+
+#: loco:5357f99fb7f9261b249a9653
+msgid "Try a different filter."
+msgstr ".جرب مرشح مختلف"
+
+#: loco:53a55aedff90b259b57a9998
+msgid "Type your text here."
+msgstr ".اكتب هنا"
+
+#: loco:5357f99fb7f9261b249a9657
+msgid "Unblock this user"
+msgstr "ارفع المنع عن هذا المستخدم"
+
+#: loco:5357f9a0b7f9261b249a981d
+msgid "unfinished registration"
+msgstr "تسجيل غير مكتمل"
+
+#: loco:5357f99fb7f9261b249a9659
+msgid "Unsubscribe from resource"
+msgstr "انهي الاشتراك بهذا المصدر"
+
+#: loco:5357f99fb7f9261b249a9744
+msgid "Update languages"
+msgstr "حدث اللغة"
+
+#: loco:5357f99fb7f9261b249a965b
+msgid "Upload Avatar:"
+msgstr ":تحميل الرمز الشخصي"
+
+#: loco:5357f99fb7f9261b249a965c
+msgid "Upload group image:"
+msgstr ":تحميل صورة المجموعة"
+
+#: loco:5357f99fb7f9261b249a9742
+msgid "URL doesn't seem to exist"
+msgstr "يبدو ان الوصلة غير موجودة"
+
+#: loco:5357f99fb7f9261b249a9655
+msgid "URL must start with http:// or https://!"
+msgstr "  !   http:// or https:// الوصلة يجب ان تبدأ بـ "
+
+#: loco:5357f99fb7f9261b249a9656
+msgid "URL to external source:"
+msgstr ":وصلة الى مصدر خارجي"
+
+#: loco:5357f99fb7f9261b249a96f6
+msgid "Use the filter to narrow down the list of items"
+msgstr "استخدم المرشح لتقليص قائمة المواد"
+
+#: loco:5357f99fb7f9261b249a96fb
+msgid "user"
+msgstr "مستخدم"
+
+#: loco:5357f99fb7f9261b249a9745
+msgid "User Forum:"
+msgstr ":منتدى المستخدمين"
+
+#: loco:5357f99fb7f9261b249a96e6
+msgid "User has been deactivated"
+msgstr "المستخدم تم تعطيله"
+
+#: loco:5357f99fb7f9261b249a9663
+msgid "User lost password"
+msgstr "المستخدم اضاع كلمة السر"
+
+#: loco:5357f99fb7f9261b249a9664
+msgid "User permissions"
+msgstr "ترخيصات المستخدم"
+
+#: loco:5357f99fb7f9261b249a9665
+msgid "User permissions changed."
+msgstr ".تغيرت ترخيصات المستخدم"
+
+#: loco:5357f99fb7f9261b249a96e7
+msgid "User role"
+msgstr "دور المستخدم"
+
+#: loco:5357f99fb7f9261b249a9666
+msgid "User signin"
+msgstr "تسجيل دخول المستخدم"
+
+#: loco:5357f99fb7f9261b249a9661
+msgid "User Signup"
+msgstr "تسجيل المستخدم"
+
+#: loco:5357f99fb7f9261b249a9662
+msgid "User status"
+msgstr "حالة المستخدم"
+
+#: loco:5357f99fb7f9261b249a9667
+msgid "User update"
+msgstr "تحديث المستخدم"
+
+#: loco:5357f99fb7f9261b249a9668
+msgid "User updated"
+msgstr "المستخدم تم تحديثه"
+
+#: loco:5357f99fb7f9261b249a9669
+msgid "User with the same name already exists."
+msgstr ".هناك مستخدم موجود مسبقا يحمل هذا الاسم"
+
+#: loco:5357f99fb7f9261b249a965d
+msgid "User %s accepted your friendship."
+msgstr ".قبل صداقتك %s المستخدم "
+
+#: loco:5357f99fb7f9261b249a965e
+msgid "User %s canceled your friendship."
+msgstr ".رفض صداقتك  %s المستخدم "
+
+#: loco:5357f99fb7f9261b249a965f
+msgid "User %s rejected your friendship."
+msgstr ".الغى صداقتك  %s المستخدم "
+
+#: loco:5357f99fb7f9261b249a9660
+msgid "User %s requested your friendship."
+msgstr ".رفض صداقتك  %s المستخدم "
+
+#: loco:5357f99fb7f9261b249a966c
+msgid "Username:"
+msgstr ":اسم المستخدم"
+
+#: loco:5357f99fb7f9261b249a966b
+msgid "Username cannot be empty!"
+msgstr "!اسم المستخدم لا يمكن ان يكون خاليا"
+
+#: loco:5357f99fb7f9261b249a966a
+msgid "User's location on a map"
+msgstr "موقع المستخدم على الخارطة"
+
+#: loco:53a55af7ff90b259b57a9b91
+msgid "video"
+msgstr "فيلم"
+
+#: loco:53a55aeeff90b259b57a99d7
+msgid "Video/Audio"
+msgstr "فيلم/ صوت"
+
+#: loco:53a55af7ff90b259b57a9b98
+msgid "video/audio"
+msgstr "فيلم/ صوت"
+
+#: loco:5357f99fb7f9261b249a975a
+msgid "video on Vimeo"
+msgstr " Vimeo فيلم على موقع "
+
+#: loco:5357f99fb7f9261b249a975b
+msgid "video on YouTube"
+msgstr " YouTube فيلم على موقع "
+
+#: loco:5357f99fb7f9261b249a9746
+msgid "View big screenshot"
+msgstr "عرض صورة شاشة مكبرة"
+
+#: loco:5357f99fb7f9261b249a966e
+msgid "View details."
+msgstr ".عرض تفاصيل"
+
+#: loco:5357f99fb7f9261b249a966f
+msgid "View group owner:"
+msgstr ":عرض صاحب المجموعة"
+
+#: loco:5357f9a0b7f9261b249a9821
+msgid "View profile"
+msgstr "عرض الملف الشخصي"
+
+#: loco:5357f99fb7f9261b249a9670
+msgid "View resource owner:"
+msgstr ":عرض صاحب المصدر"
+
+#: loco:5357f99fb7f9261b249a975c
+msgid "visbility 'friends'"
+msgstr "’ رؤية ’ الاصدقاء"
+
+#: loco:5357f99fb7f9261b249a975d
+msgid "visbility 'members'"
+msgstr "’ رؤية ’ الاعضاء"
+
+#: loco:5357f99fb7f9261b249a975e
+msgid "visbility 'registered'"
+msgstr "’ رؤية ’ مسجل"
+
+#: loco:5357f99fb7f9261b249a975f
+msgid "visbility 'susbcribed'"
+msgstr "’ رؤية ’ مشترك"
+
+#: loco:5357f99fb7f9261b249a9760
+msgid "visbility 'world'"
+msgstr "’ رؤية ’ عالم"
+
+#: loco:5357f99fb7f9261b249a9671
+msgid "Visibility:"
+msgstr " :رؤية "
+
+#: loco:5357f99fb7f9261b249a96d2
+msgid "visible to the world"
+msgstr "مرئي للعالم"
+
+#: loco:5357f9a0b7f9261b249a97ef
+msgid "Visit Homepage"
+msgstr "زر الصفحة الرئيسية"
+
+#: loco:5357f99fb7f9261b249a9673
+msgid ""
+"We have received complaints about inappropriate language in your resource. "
+"Please make necessary adjustments or your resource will be deactivated."
+msgstr ""
+".لقد وردتنا شكاوي بخصوص وجود لغة غير لائقة في مصدرك. يرجى اجراء التغييرات "
+"اللازمة والا تم تعطيل مصدرك"
+
+#: loco:5357f99fb7f9261b249a9672
+msgid ""
+"We have received complaints about inapproprite language in your group. "
+"Please make neccessary adjustments or your group will be deactivated."
+msgstr ""
+".لقد وردتنا شكاوي بخصوص وجود لغة غير لائقة في مجموعتك. يرجى اجراء التغييرات "
+"اللازمة والا تم تعطيل مصدرك"
+
+#: loco:5357f99fb7f9261b249a9674
+msgid ""
+"We have received complaints about you spaming other users. Please stop or "
+"your account will be deactivated."
+msgstr ""
+".لقد وردتنا شكاوي بخصوص قيامك بارسال البريد المتطفل الى المستخدمين الاخرين. "
+"يرجى الامتناع عن ذلك والا سيتم تعطيل حسابك"
+
+#: loco:5357f99fb7f9261b249a9675
+msgid ""
+"We have received complaints that you use inappropriate language. Please stop "
+"or your account will be deactivated."
+msgstr ""
+".لقد وردتنا شكاوي بخصوص استخدامك للغة غير لائقة. يرجى اجراء التغييرات "
+"اللازمة والا تم تعطيل مصدرك"
+
+#: loco:5357f99fb7f9261b249a9676
+msgid ""
+"We have received complaints that your group contains spam. Please delete "
+"inappropriate content or your group will be deactivated."
+msgstr ""
+".لقد وردتنا شكاوي بخصوص احتواء مجموعتك على البريد المتطفل. يرجى مسح "
+"المحتويات غير اللائقة والا سيتم تعطيل حسابك"
+
+#: loco:5357f99fb7f9261b249a9677
+msgid ""
+"We have received complaints that your resource contains spam. Please delete "
+"inappropriate content or your resource will be deactivated."
+msgstr ""
+"لقد وردتنا شكاوي بخصوص احتواء مصدرك على البريد المتطفل. يرجى مسح المحتوى غيى "
+"اللائق والا سيتم تعطيل المصدر"
+
+#: loco:5357f99fb7f9261b249a9771
+msgid ""
+"We have resent your confirmation email - just in case you didn't get it "
+"before."
+msgstr ". في حال عدم استلامك للرسالة التأكيدية -  لقد قمنا باعادة ارسالها لك"
+
+#: loco:5357f99fb7f9261b249a9747
+msgid "Web Statistics"
+msgstr "احصائيات شبكة الانترنيت"
+
+#: loco:5357f9a0b7f9261b249a981e
+msgid "week"
+msgstr "اسبوع"
+
+#: loco:53a55af7ff90b259b57a9ba9
+msgid "world"
+msgstr "عالم"
+
+#: loco:5357f99fb7f9261b249a9679
+msgid "Write some lines about your life, your work and your interests."
+msgstr ".اكتب بعض السطور عن حياتك، عملك، واهتماماتك"
+
+#: loco:5357f99fb7f9261b249a967a
+msgid "Wrong email format!"
+msgstr "! شكل عنوان البريد الالكتروني خاطئ"
+
+#: loco:5357f99fb7f9261b249a96d3
+msgid "wrote"
+msgstr "كتب"
+
+#: loco:5357f99fb7f9261b249a9761
+msgid "%s new messages"
+msgstr "رسائل جديدة %s"
+
+#: loco:53a55ad7ff90b259b57a9523
+msgid "%d result(s) found"
+msgstr "%s نتيجة تم ايجادها"
+
+#: loco:5357f99fb7f9261b249a978b
+msgid "%d user(s) purged."
+msgstr ".مستخدم تم ازالته %s "
+
+#: loco:53a55af7ff90b259b57a9bac
+msgid "yesterday"
+msgstr "امس"
+
+#: loco:5357f99fb7f9261b249a9773
+msgid "You accepted %s's friendship."
+msgstr ".%s لقد قبلت بصداقة "
+
+#: loco:5357f99fb7f9261b249a9748
+msgid "You are a moderator on this platform."
+msgstr ".انت وسيط في هذه القاعدة"
+
+#: loco:5357f99fb7f9261b249a967b
+msgid "You are already a member."
+msgstr ".انت عضو مسبق"
+
+#: loco:5357f99fb7f9261b249a9749
+msgid "You are an administrator on this platform."
+msgstr ".انت مدير على هذه القاعدة"
+
+#: loco:5357f9a0b7f9261b249a97f2
+msgid "You are not allowed to edit this group."
+msgstr ".لا يسمح لك بتحرير هذه المجموعة"
+
+#: loco:5357f9a0b7f9261b249a982b
+msgid "You are not allowed to edit this resource."
+msgstr ".لا يسمح لك بتحرير هذا المصدر"
+
+#: loco:5357f9a0b7f9261b249a97f3
+msgid "You are not allowed to edit this user."
+msgstr ".لا يسمح لك بتحرير هذا المستخدم"
+
+#: loco:5357f99fb7f9261b249a967c
+msgid "You are not allowed to see the members."
+msgstr ".لا يسمح لك بالاطلاع على الاعضاء"
+
+#: loco:5357f99fb7f9261b249a967d
+msgid "You are not allowed to see the memberships."
+msgstr ".لا يسمح لك بالاطلاع على الاشتراكات"
+
+#: loco:5357f99fb7f9261b249a967e
+msgid "You are not allowed to see the subscribed groups."
+msgstr ".لا يسمح لك بالاطلاع على المجاميع المشتركة"
+
+#: loco:5357f99fb7f9261b249a967f
+msgid "You are not allowed to see the subscribed users."
+msgstr ".لا يسمح لك بالاطلاع على المستخدمين المشتركين"
+
+#: loco:5357f99fb7f9261b249a9680
+msgid "You are not allowed to see the subscriptions."
+msgstr ".لا يسمح لك بالاطلاع على الاشتراكات"
+
+#: loco:5357f99fb7f9261b249a9681
+msgid "You are not allowed to view this group."
+msgstr ".لا يسمح لك بالاطلاع على هذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a9682
+msgid "You are not allowed to view this resource."
+msgstr ".لا يسمح لك بالاطلاع على هذا المصدر"
+
+#: loco:5357f99fb7f9261b249a9683
+msgid "You are not allowed to view this user."
+msgstr ".لا يسمح لك بالاطلاع على هذا المشترك"
+
+#: loco:5357f99fb7f9261b249a9684
+msgid "You can only send messages to friends."
+msgstr ".يمكنك ارسال الرسائل الى الاصدقاء فقط"
+
+#: loco:5357f9a0b7f9261b249a97f4
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr ""
+".يمكنك استلام رسالة بريد الكتروني عند وجود رسالة غير مقروءة في صندوق البريد "
+"الوارد لك"
+
+#: loco:53a55af0ff90b259b57a9a20
+msgid "You can reply only to friends."
+msgstr ".يمكنك الاجابة فقط على الاصدقاء"
+
+#: loco:5357f99fb7f9261b249a9775
+msgid "You canceled the friendship with %s."
+msgstr ". %s لقد الغيت صداقتك مع "
+
+#: loco:5357f99fb7f9261b249a977e
+msgid "You created a new group."
+msgstr ".لقد خلقت مجموعة جديدة"
+
+#: loco:5357f99fb7f9261b249a977d
+msgid "You created a new resource."
+msgstr ".لقد خلقت مصدر جديد"
+
+#: loco:5357f99fb7f9261b249a9685
+msgid "You currently block this user."
+msgstr ".لقد منعت هذا المستخدم"
+
+#: loco:5357f99fb7f9261b249a976b
+msgid ""
+"You do not have permission to view this page. Please try contact the web "
+"site administrator if you believe you should be able to view this page."
+msgstr ""
+".لست مخولا للاطلاع على هذه الصفحة. يرجى محاولة الاتصال بمدير الموقع "
+"الالكتروني اذا كنت تظن بانك مخول لمشاهدتها"
+
+#: loco:5357f9a0b7f9261b249a97f5
+msgid "You entered the wrong captcha."
+msgstr ". لم تدخل الحروف المرسومة بشكل صحيح"
+
+#: loco:5357f9a0b7f9261b249a97f6
+msgid ""
+"You first need to confirm your registration. Please check your email account "
+"and click on the link of the confirmation email."
+msgstr ""
+".عليك اولا التوثق من تسجيلك. يرجى فحص بريدك الالكتروني وانقر على الوصلة في "
+"الرسالة  التاكيدية"
+
+#: loco:536528108509cbb0c7ffb9ce
+msgid "You have 1 unread message!"
+msgstr "! لديك رسالة واحدة غير مقروءة"
+
+#: loco:5357f99fb7f9261b249a9686
+msgid "You have entered a wrong key."
+msgstr ".قمت بادخال مفتاح خاطئ"
+
+#: loco:5357f99fb7f9261b249a9687
+msgid "You have joined the group."
+msgstr ".لقد انضممت الى المجموعة"
+
+#: loco:53a55af0ff90b259b57a9a36
+msgid "You have just said that."
+msgstr ".لقد قلت ذلك لتوك"
+
+#: loco:536750938509cbb0c7ffc662
+msgid "You have unread messages at %s"
+msgstr "%s لديك رسائل غير مقروءة عند "
+
+#: loco:5357f99fb7f9261b249a9688
+msgid ""
+"You have no friends yet. You can start sending messages only after someone "
+"has accepted your friendship request."
+msgstr ""
+".ليس لديك اي اصدقاء بعد. بامكانك ارسال الرسائل فقط بعد قبول اخرين لطلب صداقتك"
+
+#: loco:5357f99fb7f9261b249a9689
+msgid "You have no permission to create a resource."
+msgstr ".لست مخولا لخلق مصدر"
+
+#: loco:5357f99fb7f9261b249a968a
+msgid "You have no permission to create groups."
+msgstr ". لست مخولا لخلق مجاميع"
+
+#: loco:5357f9a0b7f9261b249a97f7
+msgid "You have no permission to create public resources."
+msgstr ".لست مخولا لخلق مصادر عمومية"
+
+#: loco:5357f99fb7f9261b249a968b
+msgid "You have no permission to create resources."
+msgstr ".لست مخولا لخلق المصادر"
+
+#: loco:53657da28509cbb0c7ffb9d4
+msgid "You receive this email because you have signed up at %s."
+msgstr ".%s لقد استلمت هذه الرسالة لقيامك بالتسجيل في "
+
+#: loco:5357f9a0b7f9261b249a97f8
+msgid "You have %d unread messages!"
+msgstr "رسالة غير مقروءة  %d لديك"
+
+#: loco:5357f99fb7f9261b249a9776
+msgid "You joined the group."
+msgstr ".لقد انضممت الى المجموعة"
+
+#: loco:53a55af0ff90b259b57a9a44
+msgid "You just said that."
+msgstr ".لقد قلت ذلك لتوك"
+
+#: loco:5357f99fb7f9261b249a9778
+msgid "You left the group."
+msgstr ".لقد تركت المجموعة"
+
+#: loco:5357f99fb7f9261b249a968c
+msgid "You need to log in to send messages."
+msgstr ". لارسال الرسائل عليك التسجيل للدخول "
+
+#: loco:5357f99fb7f9261b249a968d
+msgid "You need to subscribe in order to comment."
+msgstr ". للتعليق عليك التسجيل "
+
+#: loco:5357f9a0b7f9261b249a97f9
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr ". \"%s\" لقد استلمت هذه الرسالة كعضو من مجموعة "
+
+#: loco:5357f99fb7f9261b249a9774
+msgid "You rejected %s's friendship."
+msgstr "%s لقد رفضت صداقة "
+
+#: loco:5357f99fb7f9261b249a968e
+msgid ""
+"You requested a change of your email address. A message with a link was sent "
+"to your old address. The new address will be activated once you confirmed "
+"the change."
+msgstr ""
+"لقد طلبت تغيير عنوان بريدك الالكتروني. سيتم ارسال رسالة الكترونية تحتوى على "
+"وصلة الى عنوان بريدك السابق. العنوان الجديد سيصبح فعالا بعد اثباتك التغيير."
+
+#: loco:5357f99fb7f9261b249a9772
+msgid "You requested %s's friendship."
+msgstr ".%s لقد طلبت صداقة "
+
+#: loco:5357f9a0b7f9261b249a9820
+msgid "You see only item that you are not connected to."
+msgstr ".المواد المعروضة هي فقط المواد التي لم ترتبط بها"
+
+#: loco:5357f9a0b7f9261b249a97fa
+msgid "You signed up."
+msgstr ".لقد اكملت عملية التسجيل"
+
+#: loco:5357f99fb7f9261b249a9777
+msgid "You subscribed to the resource."
+msgstr ".لقد اشتركت بالمصدر"
+
+#: loco:5357f99fb7f9261b249a9779
+msgid "You unsubscribed from the resource."
+msgstr ".لقد الغيت اشتراكك للمصدر"
+
+#: loco:5357f99fb7f9261b249a977f
+msgid "You updated your profile."
+msgstr ".لقد قمت بتحديث ملف صفحتك الشخصية"
+
+#: loco:5357f99fb7f9261b249a9691
+msgid ""
+"Your account has been deactivated. If you think that this is a mistake, "
+"please contact the support at %s."
+msgstr ""
+". %s لقد تم تعطيل حسابك. اذا كنت تظن بان هذا حدث خطئا، يرجى الاتصال بالاسناد "
+"عن طريق "
+
+#: loco:5357f99fb7f9261b249a9693
+msgid "Your email:"
+msgstr ": عنوان البريد الالكتروني"
+
+#: loco:53a55af1ff90b259b57a9a64
+msgid ""
+"Your email address or IP is known at www.stopforumspam.com as spam source "
+"and was blocked."
+msgstr ""
+". كمصدر للبريد المتطفل وتم صده  www.stopforumspam.com عنوان بريدك الالكتروني "
+"او عنوان حاسوبك مسجل لدى موقع"
+
+#: loco:5357f99fb7f9261b249a9692
+msgid ""
+"Your email address is known at www.stopforumspam.com as spam source and was "
+"blocked."
+msgstr ""
+" .كمصدر للبريد المتطفل وتم صده  www.stopforumspam.com عنوان بريدك الالكتروني "
+"مسجل لدى موقع"
+
+#: loco:5357f99fb7f9261b249a974a
+msgid ""
+"Your email or IP is known at www.stopforumspam.com as spam source and was "
+"blocked."
+msgstr ""
+" .كمصدر للبريد المتطفل وتم صده  www.stopforumspam.com بريدك الالكتروني او "
+"عنوان حاسوبك مسجل لدى موقع"
+
+#: loco:53a55af1ff90b259b57a9a69
+msgid "Your email or username:"
+msgstr ": عنوان بريدك الالكتروني او اسم المستخدم"
+
+#: loco:5357f9a0b7f9261b249a97fb
+msgid "Your Facebook account doesn't have an email address."
+msgstr ".لا يحتوى على عنوان بريد الكتروني  Facebook حسابك على موقع"
+
+#: loco:5357f99fb7f9261b249a9694
+msgid ""
+"Your image still needs to be cropped to the right dimensions before you can "
+"continue!"
+msgstr ""
+"!لا تزال صورتك بحاجة الى ازالة الحواف لتصبح بالحجم المقبول قبل السماح لك "
+"بالاستمرار"
+
+#: loco:5357f99fb7f9261b249a9695
+msgid "Your image still needs to be resized before you can continue!"
+msgstr "!صورتك لا تزال بحاجة الى تغيير الحجم قبل السماح لك بالاستمرار"
+
+#: loco:5357f99fb7f9261b249a9690
+msgid ""
+"Your IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr ""
+". كمصدر للبريد المتطفل وتم صده  www.stopforumspam.com  عنوان حاسوبك مسجل لدى "
+"موقع"
+
+#: loco:5357f99fb7f9261b249a9696
+msgid "Your message has been sent."
+msgstr ".تم ارسال رسالتك"
+
+#: loco:5357f9a0b7f9261b249a97fc
+msgid "Your message has been sent to the members of this group."
+msgstr ".تم ارسال رسالتك الى اعضاء هذه المجموعة"
+
+#: loco:5357f99fb7f9261b249a974b
+msgid "Your message was empty."
+msgstr ".رسالتك خالية"
+
+#: loco:5357f99fb7f9261b249a9697
+msgid "Your messages"
+msgstr "رسائلك"
+
+#: loco:5357f99fb7f9261b249a9698
+msgid "Your password has been successfully changed, you can now log in."
+msgstr ".كلمة السر الخاصة بك تغييرها بنجاح، تستطيع التسجيل للدخول"
+
+#: loco:5357f99fb7f9261b249a969a
+msgid ""
+"Your password must be at least 8 characters long and contain at least one "
+"lower-case letter, one upper-case letter and one number."
+msgstr ""
+".كلمة السرالخاصة بك يجب ان تتكون على الاقل من ثمانية رموز وتحتوي على الاقل "
+"على على حرف صغير واحد ، وحرف كبير واحد ورقم واحد"
+
+#: loco:5357f99fb7f9261b249a969e
+msgid "Your password must contain at least one lower-case letter."
+msgstr ".كلمة السر الخاصة بك يجب ان تحتوى على الاقل على حرف واحد صغير"
+
+#: loco:5357f99fb7f9261b249a969d
+msgid "Your password must contain at least one number."
+msgstr ".كلمة السر الخاصة بك يجب ان تحتوى على الاقل على رقم واحد"
+
+#: loco:5357f9a0b7f9261b249a97fd
+msgid "Your password must contain at least one small letter."
+msgstr ".كلمة السر الخاصة بك يجب ان تحتوى على الاقل على حرف صغير واحد"
+
+#: loco:5357f99fb7f9261b249a969c
+msgid "Your password must contain at least one upper-case letter."
+msgstr ".كلمة السر الخاصة بك يجب ان تحتوى على الاقل على حرف كبير واحد"
+
+#: loco:5357f99fb7f9261b249a969b
+msgid "Your password must contain at least %s characters."
+msgstr ".حرف %s  كلمة السر الخاصة بك يجب ان تحتوى على الاقل على"
+
+#: loco:53a55af2ff90b259b57a9a84
+msgid "Your password was changed."
+msgstr ".كلمة السر الخاصة بك تغيرت"
+
+#: loco:5357f99fb7f9261b249a969f
+msgid "Your passwords are different."
+msgstr ".كلمتي السر المدخلتين لا تتطابق"
+
+#: loco:5357f9a0b7f9261b249a982e
+msgid "Your permissions of the group were changed."
+msgstr ".ترخيصات للمجموعة تغيرت"
+
+#: loco:5357f9a0b7f9261b249a982f
+msgid "Your permissions of the resource were changed."
+msgstr ".ترخيصات للمصدر تغيرت"
+
+#: loco:5357f9a0b7f9261b249a97fe
+msgid "Your permissions only allow to create private resources."
+msgstr ".ترخيصاتك تسمح لك فقط بخلق مصادر خصوصية"
+
+#: loco:53a55af2ff90b259b57a9a8f
+msgid "Your profile was updated."
+msgstr ".تم تحديث صفحة ملفك الشخصي"
+
+#: loco:5357f99fb7f9261b249a96a0
+msgid "Your report has been received."
+msgstr ".تم استلام تقريرك"
+
+#: loco:5357f9a0b7f9261b249a97ff
+msgid "Your software is up to date."
+msgstr ".برامجياتك محدثة"
+
+#: loco:5357f99fb7f9261b249a96a1
+msgid ""
+"Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr ""
+"!اسم المستخدم يجب ان يتكون فقط من الاحرف، الارقام، الفراغات، علامة الطرح "
+"وعلامة الخط التحتي"
+
+#: loco:5357f9a0b7f9261b249a9800
+msgid "Your website, blog or Facebook profile."
+msgstr ". Facebook  موقعك الالكتروني، المنتدى الخاص بك أو صفحتك من "
+
+#: loco:53a55af2ff90b259b57a9a9a
+msgid "Yours,"
+msgstr "المخلص"
+
+#: loco:5357f99fb7f9261b249a96e8
+msgid "zoom in"
+msgstr "تكبير"
+
+#: loco:5357f99fb7f9261b249a96e9
+msgid "zoom out"
+msgstr "تصغير"
+
+#: loco:5357f99fb7f9261b249a96fc
+msgid "1"
+msgstr "1"
+
+#: loco:5357f99fb7f9261b249a96fd
+msgid "2"
+msgstr "2"
+
+#: loco:5357f99fb7f9261b249a96fe
+msgid "3"
+msgstr "3"
+
+#: loco:5357f99fb7f9261b249a96ff
+msgid "4"
+msgstr "4"
+
+#: loco:5357f99fb7f9261b249a9700
+msgid "5"
+msgstr "5"
+
+#: loco:5357f99fb7f9261b249a9701
+msgid "6"
+msgstr "6"
+
+#: loco:5357f99fb7f9261b249a9702
+msgid "7"
+msgstr "7"
+
+#: loco:5357f99fb7f9261b249a9703
+msgid "8"
+msgstr "8"
+
+#: loco:5357f99fb7f9261b249a9704
+msgid "9"
+msgstr "9"
+
+# There were errors exporting to PO file
+msgctxt "Loco"
+msgid "PO render errors"
+msgstr ""
+"a-message-from-your-group-x-at-x is a duplicate of a-message-from-your-group-"
+"s-at-s\n"
+"by-using-this-platform-you-accept-our-x-and-our-x is a duplicate of by-using-"
+"this-platform-you-accept-our-terms-of-use\n"
+"chat-window-turned-off. is a duplicate of chat-window-turned-off\n"
+"compose is a duplicate of Compose\n"
+"continue-to-this-group-x is a duplicate of continue-to-this-group-s.\n"
+"continue-to-this-resource-x is a duplicate of continue-to-this-resource-s.\n"
+"continue-to-this-user-x is a duplicate of continue-to-this-user-s.\n"
+"file-x-already-exists is a duplicate of file-s-already-exists.\n"
+"file-x-not-found is a duplicate of file-s-not-found.\n"
+"find-a-list-of-your-activities-on-your-home-page-x is a duplicate of find-a-"
+"list-of-your-activities-on-your-home-page\n"
+"find-more-information-on-the-page-of-the-group-x is a duplicate of find-more-"
+"information-at\n"
+"hello-x-somebody-has-requested-an-email-change-on- is a duplicate of hello-s-"
+"somebody-has-requested-an-email-change\n"
+"please-welcome-our-new-member-x-has-joined-this-gr is a duplicate of please-"
+"welcome-a-new-member-to-this-group\n"
+"read-your-messages-in-your-inbox-x is a duplicate of read-your-messages-in-"
+"your-inbox-s.\n"
+"the-email-address-couldnt-be-changed-the-link-is-n is a duplicate of email-"
+"couldnt-be-changed-link-is-not-active-anymor\n"
+"the-group-has-subscribed-to-the-resource-x is a duplicate of the-group-has-"
+"subscribed-to-the-following-resource\n"
+"the-password-couldnt-be-changed-please-try-again-l is a duplicate of "
+"password-couldnt-be-changed-try-again-later\n"
+"this-email-address-is-already-registered-with-anot is a duplicate of email-"
+"is-already-registered-to-another-account\n"
+"this-email-is-already-used-for-another-account is a duplicate of this-email-"
+"address-is-already-used-for-another-acc\n"
+"this-email-is-not-registered-in-our-system is a duplicate of this-email-"
+"address-is-not-registered-in-our-system\n"
+"this-email-is-not-valid-please-check-it-and-try-ag is a duplicate of this-"
+"email-address-is-not-valid-please-check-it-an\n"
+"too-many-emails-you-can-change-the-schedule-on-you is a duplicate of are-you-"
+"receiving-too-many-of-these-emails\n"
+"x-has-left-the-group-good-bye is a duplicate of the-following-member-has-"
+"left-the-group\n"
+"you-have-unread-messages-at-x is a duplicate of you-have-new-messages-at-s\n"
+"you-have-x-unread-messages is a duplicate of you-have-unread-messages\n"
+"you-receive-this-email-because-you-have-signed-up- is a duplicate of you-"
+"have-received-this-email-because-you-signed-up\n"
+"your-password-has-been-successfully-changed is a duplicate of the-password-"
+"has-been-successfully-changed"

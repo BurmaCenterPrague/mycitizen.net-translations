@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<help>
+    <login>
+        <![CDATA[
+        ři prvním použití této aplikace postupujte pomocí funkce "Začínáme", která Vám pomůže vybrat základní nastavení. Po dokončení nastavení se můžete přihlásit.<br /> Pokud jste se již zaregistrovali na webových stránkách, můžete použít stejné uživatelské jméno a heslo.<br /> Pokud zakliknete "Pamatuj si mě" nemusíte příště vkládat své přihlašovací údaje po odhlášení z ovládacího panelu.
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </login>
+    <get_started>
+        <![CDATA[
+        <div>
+<h2>Konfigurace</h2>
+<div>Před použitím aplikace je třeba ji připojit.<br /> Můžete buď zvolit nastavení ze seznamu nebo zadat adresu. Příklad adresy <em>www.example.com</em>, bez "http://" nebo "https://" a bez koncového lomítka. Pokud používáte nastavení ze seznamu, nechte textové pole prázdné.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </get_started>
+    <get_started_2>
+        <![CDATA[
+        <div>
+<h2>Preference</h2>
+<div>Vyberte jazyk uživatelského rozhraní a jednotky, které upřednostňujete (kilometry nebo míle).
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </get_started_2>
+    <get_started_3>
+        <![CDATA[
+        <div>
+<h2>Přihlásit nebo Registrovat</h2>
+<div>Pokud již máte účet, můžete se přihlásit. V opačném případě je třeba se zaregistrovat.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </get_started_3>
+    <register>
+        <![CDATA[
+        <div>
+<h2>Registrace</h2>
+<div>Zadejte uživatelské jméno, heslo a emailovou adresu. Než budete moci použít svůj účet na mycitizen.net, je třeba potvrdit odkaz, který přijde na Vaši emailovou adresu.<br /> Heslo musí mít minimálně 8 znaků a obsahovat kombinaci čísel, velkých a malých písmen.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </register>
+    <forgotten_password>
+        <![CDATA[
+        <h1>Nápověda</h1>
+<div>
+<h2>Zapomenuté heslo</h2>
+<div>Vložte emailovou adresu, se kterou jste se registrovali na mycitizen.net. Obdržíte email s odkazem. Po kliknutí na odkaz budete moci nastavit nové heslo.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </forgotten_password>
+    <main>
+        <![CDATA[
+        vatelé, Skupiny a Zdroje</h2>
+<div>Jedná se o hlavní stránku. Pokud je filtr vypnutý, zobrazí se seznam všech uživatelů, skupin a zdrojů. Je-li filtr zapnutý, zobrazí se pouze informace, které odpovídají nastavení filtru.<br /> Ve spodní části můžete otevřít {<FILTER>filtr}, {<DASHBOARD>ovládací panel} nebo Vaše {<MESSAGES>zprávy}. Barva tlačítka indikuje stav.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </main>
+    <filter>
+        <![CDATA[
+        <div>
+<h2>Filtr</h2>
+<div>Filtrem můžete upravovat seznam uživatelů, skupin a zdrojů. Existuje několik způsobů jak na to:<br />
+<ul>
+<li>Zakliknutím "Pouze moje spojení" bude seznam obsahovat Vaše přátele a skupiny, kterých jste členem, a zdroje, ke kterým máte přístup.</li>
+<li>Můžete zadat část názvu, označit, vybrat jazyk a pozici na mapě {<FILTER_MAP>Seřadit podle místa}. Seznam zobrazí pouze položky, které odpovídají všem kritériím. Funkci "seřadit podle místa" je možné použít pouze pokud je váš telefon připojený k internetu.</li>
+<li>Pokud kliknete na "Návrh", můžete si vytvořit vlastní seznam, který bude odpovídat Vašim potřebám.</li>
+<li>Tlačítko "vynulovat" vymaže všechna pole.</li>
+</ul>
+
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </filter>
+    <filter_map>
+        <![CDATA[
+        >Na této obrazovce můžete vybrat oblast vyhledávání na mapě.
+<ul>
+<li>Ukázat Vaši polohu, pokud je dostupná z GPS nebo sítě.</li>
+<li>Ukázat střed vybrané oblasti.</li>
+<li>Zapnout a označit střed vyhledávané oblasti. Vypnout a zpět k interaktivní mapě.</li>
+<li>Odstranit označení vyhledávané oblasti.</li>
+<li>Pomocí posuvníku změňte rádius vyhledávané oblasti.</li>
+</ul>
+Po dokončení nastavení oblasti vyhledávání se vraťte na obrazovku {<FILTER>filtr} a použijte filtr.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </filter_map>
+    <dashboard>
+        <![CDATA[
+        <div>
+<h2>Ovládací panel</h2>
+<div>Na ovládacím panelu najdete základní informace o stavu. Nejdůležitější je kvalita připojení.<br /> Máte také přístup k následujícím funkcím:
+        <ul>
+        <li>{<PROFILE>Úprava profilu}.</li>
+        <li>{<CREATE_GROUP>}Nová skupina - tato funkce je dostupná pouze pokud jste naším členem delší dobu.</li>
+<li>Nahrát data z nastavení</li>
+<li>Odhlásit se (a zapomněl/a jsem přihlašovací jméno a heslo). Pokud se chcete odhlásit a pamatovat přihlašovací údaje, použijte tlačítko "zpět" na Vašem mobilním telefonu.</li>
+        </ul>
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </dashboard>
+    <messages>
+        <![CDATA[
+        <div>
+<h2>Zprávy</h2>
+<div>Zprávy mají dva filtry, jeden pro nové a jeden pro smazané zprávy. Nové zprávy lze odeslat pouze z detailu stránky uživatele.
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </messages>
+    <user_detail>
+        <![CDATA[
+        <div>
+<h2>User Details</h2>
+Here you see the details of a user and whether he or she is online. On the top you find several menus:<br/>
+• tags<br/>
+• friends<br/>
+• memberships and subscribed resources<br/>
+• the location, if one has been set<br/>
+• messages between you and that user<br/>
+<br/>
+Depending on your own connection to that user, you will not be able to access all of these menus.<br/>
+<br/>
+If the user has saved a home page, you can get there by tapping on the avatar.<br/>
+If you keep the avatar pressed, you can see the link without going there.
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </user_detail>
+    <group_detail>
+        <![CDATA[
+        <div>
+<h2>Group Details</h2>
+Here you see the details of a group. On the top you find several menus:<br/>
+• tags<br/>
+• members and subscribed resources<br/>
+• the location, if one has been set<br/>
+• the group chat<br/>
+<br/>
+Depending on your own connection to that group, you will not be able to access all of these menus.
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </group_detail>
+    <resource_detail>
+        <![CDATA[
+        <div>
+<h2>Resource Details</h2>
+Here you see the details of a resource. On the top you find several menus:<br/>
+• tags<br/>
+• subscribed users and groups<br/>
+• the location, if one has been set<br/>
+• messages between you and that user<br/>
+<br/>
+Depending on your own connection to that resource, you will not be able to access all of these menus.<br/>
+<br/>
+By tapping on the resource icon you can launch a video or open an external link. YouTube videos can be viewed directly in the app.<br/>
+If you keep the icon pressed, you can see the link without going there.
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </resource_detail>
+    <profile>
+        <![CDATA[
+        <div>
+<h2>Můj profil</h2>
+<div>Zde můžete upravovat informace o sobě, jako je jméno, Váš popis, obrázek, označení (oblasti a témata, která Vás zajímají) a Vaši polohu. (Tato poloha bude viditelná ostatním uživatelům, ale nebudou moci vidět kde se nacházíte právě teď.)
+
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </profile>
+    <create_group>
+        <![CDATA[
+        <div>
+<h2>Creating a Group</h2>
+If you have the necessary permissions, you can create a group and become its owner.<br/>
+Since editing is currently not available via the mobile app, you need to make sure you enter all information during the creation.<br/>
+The group will be created once you leave the page.
+        
+    <br/><br/>{<https://mycitizen.net/manual:mobile#>Více informací}
+<br/><br/>{<ABOUT>O aplikaci}
+        </div>
+]]>
+    </create_group>
+    <about>
+        <![CDATA[
+        <div>
+<h2>O nás</h2>
+<p>Mycitizen.net je platforma poskytovaná zdarma místním komunitám pro podporu a zapojení občanů. Software webových stránek a mobilní aplikace jsou součástí neziskového projektu.</p>
+<div>O aplikaci viz
+    {{<https://mycitizen.net/manual:start>Nápověda}}
+    {{<https://mycitizen.net>mycitizen.net}} nebo v sekci
+    {{<http://"+DEPLOYMENT_URL+"/support>Časté dotazy}}.<br /><br /><br /> <strong>(c) 2013ff. Barmské centrum Praha</strong><br /><strong> Licence: GPLv3</strong><br /><br /><strong> Tento projekt je podporován Ministerstvem zahraničních věcí České Republiky z programu transformační spolupráce.</strong>
+        </div>
+]]>
+    </about>
+    <map>
+        <![CDATA[
+	<div>
+<h2>Using the map</h2>
+The map allows you to switch between your own location and the location of the viewed user, group or resource. For best accuracy, GPS must be enabled on your phone.<br/>
+Use the buttons + and - to zoom in or out.
+        
+        
+        </div>
+]]>
+    </map>
+</help>

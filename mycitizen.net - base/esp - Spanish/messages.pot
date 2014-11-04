@@ -1,0 +1,3846 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: mycitizen.net base\n"
+"Report-Msgid-Bugs-To: Chris\n"
+"POT-Creation-Date: Sat, 21 Jun 2014 11:15:32 +0100\n"
+"PO-Revision-Date: 2014-11-04 10:39+0100\n"
+"Last-Translator: Burma Center Prague <info@burma-center.org>\n"
+"Language-Team: \n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Project-Id: 1666\n"
+"X-Loco-Api-Version: 1.0.7\n"
+"X-Poedit-Bookmarks: 28,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#: loco:5357f99fb7f9261b249a9762
+msgid "1 new message"
+msgstr "1 mensaje nuevo"
+
+#: loco:5357f99fb7f9261b249a978c
+msgid "1 week"
+msgstr "1 semana"
+
+#: loco:5357f99eb7f9261b249a953d
+msgid "Add"
+msgstr "Añadir"
+
+#: loco:5357f99eb7f9261b249a9541
+msgid "Administration"
+msgstr "Administración"
+
+#: loco:5357f99eb7f9261b249a9544
+msgid "Administrator"
+msgstr "Administrador"
+
+#: loco:5357f99fb7f9261b249a9794
+msgid "Apr"
+msgstr "Abr"
+
+#: loco:5357f99eb7f9261b249a9549
+msgid "April"
+msgstr "Abril"
+
+#: loco:5357f99fb7f9261b249a9795
+msgid "Aug"
+msgstr "Ago"
+
+#: loco:5357f99eb7f9261b249a954a
+msgid "August"
+msgstr "Agosto"
+
+#: loco:5357f99fb7f9261b249a970d
+msgid "Chyba"
+msgstr "Chyba"
+
+#: loco:5357f99eb7f9261b249a9556
+msgid "Clear"
+msgstr "Borrar"
+
+#: loco:5357f99eb7f9261b249a955a
+msgid "Close"
+msgstr "Cerrar"
+
+#: loco:5357f99eb7f9261b249a955b
+msgid "Comments"
+msgstr "Comentarios"
+
+#: loco:53a55adaff90b259b57a95c9
+msgid "Compose"
+msgstr "Redactar"
+
+#: loco:5357f99fb7f9261b249a9796
+msgid "Continue"
+msgstr "Continuar"
+
+#: loco:5357f99fb7f9261b249a979c
+msgid "Dec"
+msgstr "Dic"
+
+#: loco:5357f99eb7f9261b249a9561
+msgid "December"
+msgstr "Diciembre"
+
+#: loco:53a55adbff90b259b57a960c
+msgid "Document"
+msgstr "Documento"
+
+#: loco:5357f99fb7f9261b249a9713
+msgid "Done"
+msgstr "Hecho"
+
+#: loco:5357f99fb7f9261b249a9576
+msgid "Enabled"
+msgstr "Habilitada"
+
+#: loco:5357f99fb7f9261b249a957b
+msgid "Error"
+msgstr "Error"
+
+#: loco:53a55addff90b259b57a964f
+msgid "Event"
+msgstr "Evento"
+
+#: loco:5357f99fb7f9261b249a97a6
+msgid "Feb"
+msgstr "Feb"
+
+#: loco:5357f99fb7f9261b249a9583
+msgid "February"
+msgstr "Febrero"
+
+#: loco:5357f99fb7f9261b249a9584
+msgid "Filter"
+msgstr "Filtrar"
+
+#: loco:5357f99fb7f9261b249a97a7
+msgid "Fri"
+msgstr "Vi"
+
+#: loco:5357f99fb7f9261b249a97a8
+msgid "Friday"
+msgstr "Viernes"
+
+#: loco:5357f99fb7f9261b249a958a
+msgid "Friends"
+msgstr "Amigos"
+
+#: loco:5357f99fb7f9261b249a959f
+msgid "Groups"
+msgstr "Grupos"
+
+#: loco:5357f99fb7f9261b249a95a8
+msgid "Hours"
+msgstr "Horario"
+
+#: loco:53a55ae0ff90b259b57a96dc
+msgid "Information"
+msgstr "Información"
+
+#: loco:5357f99fb7f9261b249a97af
+msgid "Interests"
+msgstr "Intereses"
+
+#: loco:5357f99fb7f9261b249a97b0
+msgid "Jan"
+msgstr "Ene"
+
+#: loco:5357f99fb7f9261b249a95af
+msgid "January"
+msgstr "Enero"
+
+#: loco:5357f99fb7f9261b249a97b1
+msgid "Jul"
+msgstr "Jul"
+
+#: loco:5357f99fb7f9261b249a95b1
+msgid "July"
+msgstr "Julio"
+
+#: loco:5357f99fb7f9261b249a97b2
+msgid "Jun"
+msgstr "Jun"
+
+#: loco:5357f99fb7f9261b249a95b2
+msgid "June"
+msgstr "Junio"
+
+#: loco:5357f99fb7f9261b249a95b3
+msgid "Language"
+msgstr "Idioma"
+
+#: loco:5357f99fb7f9261b249a95b9
+msgid "Location"
+msgstr "Ubicación"
+
+#: loco:5357f99fb7f9261b249a95ba
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: loco:5357f99fb7f9261b249a971f
+msgid "Mailbox"
+msgstr "Buzón"
+
+#: loco:5357f99fb7f9261b249a95bf
+msgid "Map"
+msgstr "Mapa"
+
+#: loco:5357f99fb7f9261b249a97b6
+msgid "Mar"
+msgstr "Mar"
+
+#: loco:5357f99fb7f9261b249a95c0
+msgid "March"
+msgstr "Marzo"
+
+#: loco:5357f99fb7f9261b249a95c2
+msgid "May"
+msgstr "Mayo"
+
+#: loco:5357f99fb7f9261b249a95c6
+msgid "Members"
+msgstr "Miembros"
+
+#: loco:53a55ae1ff90b259b57a9731
+msgid "Messages"
+msgstr "Mensajes"
+
+#: loco:5357f99fb7f9261b249a95c8
+msgid "Minutes"
+msgstr "Minutos"
+
+#: loco:5357f99fb7f9261b249a95c9
+msgid "Moderator"
+msgstr "Moderador"
+
+#: loco:5357f99fb7f9261b249a97b7
+msgid "Mon"
+msgstr "Lu"
+
+#: loco:5357f99fb7f9261b249a97b8
+msgid "Monday"
+msgstr "Lunes"
+
+#: loco:5357f99fb7f9261b249a9787
+msgid "Month"
+msgstr "Mes"
+
+#: loco:5357f99fb7f9261b249a95d0
+msgid "Name"
+msgstr "Nombre"
+
+#: loco:5357f99fb7f9261b249a9721
+msgid "Normal"
+msgstr "Normal"
+
+#: loco:5357f9a0b7f9261b249a97c3
+msgid "Nov"
+msgstr "Nov"
+
+#: loco:5357f99fb7f9261b249a95d7
+msgid "November"
+msgstr "Noviembre"
+
+#: loco:5357f99fb7f9261b249a95d8
+msgid "Now"
+msgstr "Ahora"
+
+#: loco:5357f9a0b7f9261b249a97c4
+msgid "Oct"
+msgstr "Oct"
+
+#: loco:5357f99fb7f9261b249a95dc
+msgid "October"
+msgstr "Octubre"
+
+#: loco:5357f99fb7f9261b249a95dd
+msgid "On"
+msgstr "Activado"
+
+#: loco:53a55ae3ff90b259b57a978c
+msgid "Organization"
+msgstr "Organización"
+
+#: loco:53a55ae3ff90b259b57a978f
+msgid "Other"
+msgstr "Otro"
+
+#: loco:5357f99fb7f9261b249a95e1
+msgid "Owner"
+msgstr "Propietario"
+
+#: loco:5357f99fb7f9261b249a95ed
+msgid "Post"
+msgstr "Publicar"
+
+#: loco:5357f99fb7f9261b249a9764
+msgid "Quote"
+msgstr "Quote"
+
+#: loco:5357f9a0b7f9261b249a97d2
+msgid "Reload"
+msgstr "Cargar de nuevo"
+
+#: loco:5357f99fb7f9261b249a95f5
+msgid "Remove"
+msgstr "Eliminar"
+
+#: loco:5357f99fb7f9261b249a95f7
+msgid "Replies"
+msgstr "Respuestas"
+
+#: loco:5357f99fb7f9261b249a95fe
+msgid "Reports"
+msgstr "Denuncias"
+
+#: loco:5357f99fb7f9261b249a972a
+msgid "Reset"
+msgstr "Restablecer"
+
+#: loco:5357f99fb7f9261b249a9606
+msgid "Resources"
+msgstr "Recursos"
+
+#: loco:5357f9a0b7f9261b249a97d4
+msgid "Result"
+msgstr "Resultados"
+
+#: loco:5357f99fb7f9261b249a9608
+msgid "Role"
+msgstr "Función"
+
+#: loco:5357f9a0b7f9261b249a97d5
+msgid "Sat"
+msgstr "Sa"
+
+#: loco:5357f9a0b7f9261b249a97d6
+msgid "Saturday"
+msgstr "Sábado"
+
+#: loco:53a55ae7ff90b259b57a9842
+msgid "Screenshot"
+msgstr "Captura de pantalla"
+
+#: loco:5357f99fb7f9261b249a9609
+msgid "Search"
+msgstr "Buscar"
+
+#: loco:5357f99fb7f9261b249a960b
+msgid "Seconds"
+msgstr "Segundos"
+
+#: loco:5357f99fb7f9261b249a9618
+msgid "Send"
+msgstr "Enviar"
+
+#: loco:5357f9a0b7f9261b249a97db
+msgid "Sep"
+msgstr "Sep"
+
+#: loco:5357f99fb7f9261b249a961a
+msgid "September"
+msgstr "Septiembre"
+
+#: loco:5357f99fb7f9261b249a961b
+msgid "Settings"
+msgstr "Ajustes"
+
+#: loco:5357f99fb7f9261b249a9731
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: loco:5357f99fb7f9261b249a9621
+msgid "Status"
+msgstr "Estado"
+
+#: loco:5357f9a0b7f9261b249a97de
+msgid "Submit"
+msgstr "Enviar"
+
+#: loco:5357f99fb7f9261b249a9622
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: loco:5357f99fb7f9261b249a9628
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: loco:5357f9a0b7f9261b249a97e0
+msgid "Sun"
+msgstr "Do"
+
+#: loco:5357f9a0b7f9261b249a97e1
+msgid "Sunday"
+msgstr "Domingo"
+
+#: loco:5357f99fb7f9261b249a962a
+msgid "Surname"
+msgstr "Apellido/s"
+
+#: loco:5357f99fb7f9261b249a962e
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: loco:5357f99fb7f9261b249a9630
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: loco:5357f99fb7f9261b249a9736
+msgid "Test"
+msgstr "Comprobar"
+
+#: loco:5357f9a0b7f9261b249a97e3
+msgid "Text"
+msgstr "Texto"
+
+#: loco:5357f9a0b7f9261b249a97ea
+msgid "Thu"
+msgstr "Ju"
+
+#: loco:5357f9a0b7f9261b249a97eb
+msgid "Thursday"
+msgstr "Jueves"
+
+#: loco:5357f99fb7f9261b249a964a
+msgid "Time"
+msgstr "Fecha y hora"
+
+#: loco:5357f99fb7f9261b249a9784
+msgid "Today"
+msgstr "Hoy"
+
+#: loco:5357f9a0b7f9261b249a97ec
+msgid "Topics"
+msgstr "Temas"
+
+#: loco:5357f99fb7f9261b249a9651
+msgid "Trash"
+msgstr "Papelera"
+
+#: loco:5357f9a0b7f9261b249a97ed
+msgid "Tue"
+msgstr "Ma"
+
+#: loco:5357f9a0b7f9261b249a97ee
+msgid "Tuesday"
+msgstr "Martes"
+
+#: loco:5357f99fb7f9261b249a9654
+msgid "Type"
+msgstr "Tipo"
+
+#: loco:5357f99fb7f9261b249a9743
+msgid "Unread"
+msgstr "Sin leer"
+
+#: loco:5357f99fb7f9261b249a9658
+msgid "Unsubscribe"
+msgstr "Cancelar suscripción"
+
+#: loco:5357f99fb7f9261b249a965a
+msgid "Update"
+msgstr "Actualizar"
+
+#: loco:5357f99fb7f9261b249a966d
+msgid "Users"
+msgstr "Usuarios"
+
+#: loco:5357f9a0b7f9261b249a97f0
+msgid "Wed"
+msgstr "Mi"
+
+#: loco:5357f9a0b7f9261b249a97f1
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: loco:5357f99fb7f9261b249a9786
+msgid "Week"
+msgstr "Semana"
+
+#: loco:5357f99fb7f9261b249a9678
+msgid "Welcome"
+msgstr "¡Hola,"
+
+#: loco:5357f99fb7f9261b249a9785
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: loco:536750bc8509cbb0c7ffc664
+msgid "A message from your group %s at %s"
+msgstr "Un mensaje del grupo %s a las %s"
+
+#: loco:5357f99fb7f9261b249a978d
+msgid "A message from your group %s"
+msgstr "Un mensaje del grupo %s"
+
+#: loco:5357f99fb7f9261b249a978e
+msgid "A new chat message was posted in the group."
+msgstr "Se ha publicado un nuevo mensaje de chat en el grupo."
+
+#: loco:5357f99fb7f9261b249a978f
+msgid "A new group was created."
+msgstr "Se ha creado un nuevo grupo."
+
+#: loco:5357f99fb7f9261b249a9790
+msgid "A new resource was created."
+msgstr "Se ha creado un nuevo recurso."
+
+#: loco:5357f9a0b7f9261b249a9829
+msgid "A new user has signed up."
+msgstr "Se ha registrado un nuevo usuario."
+
+#: loco:5357f99eb7f9261b249a953a
+msgid "Accept friendship"
+msgstr "Aceptar amistad"
+
+#: loco:5357f99eb7f9261b249a953b
+msgid "Accept friendship request"
+msgstr "Aceptar solicitud de amistad"
+
+#: loco:5357f99fb7f9261b249a9791
+msgid "Access Denied"
+msgstr "Acceso denegado"
+
+#: loco:5357f99eb7f9261b249a953c
+msgid "Access level"
+msgstr "Nivel de acceso"
+
+#: loco:5357f99fb7f9261b249a96a2
+msgid "active"
+msgstr "activo"
+
+#: loco:5357f99fb7f9261b249a9705
+msgid "Add a Tag"
+msgstr "Añadir etiqueta"
+
+#: loco:5357f99fb7f9261b249a96a3
+msgid "add new tag"
+msgstr "añadir nueva etiqueta"
+
+#: loco:5357f99eb7f9261b249a953e
+msgid "Add or remove tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: loco:5357f99eb7f9261b249a953f
+msgid "Add tag"
+msgstr "Añadir etiqueta"
+
+#: loco:5357f99fb7f9261b249a9706
+msgid "Add the tags one by one."
+msgstr "Añade las etiquetas de una en una."
+
+#: loco:53a55ad8ff90b259b57a9556
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: loco:5357f99eb7f9261b249a9540
+msgid "Address cannot be found."
+msgstr "No se ha podido encontrar la dirección."
+
+#: loco:5357f99fb7f9261b249a96a4
+msgid "administators"
+msgstr "administradores"
+
+#: loco:5357f99fb7f9261b249a9707
+msgid "Administration - Create new tag"
+msgstr "Administración: Crear nueva etiqueta"
+
+#: loco:53a55ad8ff90b259b57a955f
+msgid "Administration - Noticeboard"
+msgstr "Administración: Tablón de anuncios"
+
+#: loco:5357f99fb7f9261b249a9708
+msgid "Administration - Reports"
+msgstr "Administración: Denuncias"
+
+#: loco:5357f99eb7f9261b249a9542
+msgid "Administration - Settings"
+msgstr "Administración: Ajustes"
+
+#: loco:5357f99eb7f9261b249a9543
+msgid "Administration - Setup and Maintenance"
+msgstr "Administración: Configuración y mantenimiento"
+
+#: loco:5357f99fb7f9261b249a9709
+msgid "Administration - Tags"
+msgstr "Administración: Etiquetas"
+
+#: loco:5357f99fb7f9261b249a970a
+msgid "Administration - Web Statistics"
+msgstr "Administración: Estadísticas de la web"
+
+#: loco:5357f99fb7f9261b249a96a5
+msgid "administrator"
+msgstr "administrador"
+
+#: loco:5357f99eb7f9261b249a9545
+msgid "Administrator with id 1 cannot be changed"
+msgstr "No se puede cambiar el administrador con el Id. 1"
+
+#: loco:5357f99fb7f9261b249a974c
+msgid "administrators"
+msgstr "administradores"
+
+#: loco:5357f99fb7f9261b249a9792
+msgid "Alarm:"
+msgstr "Alarma:"
+
+#: loco:5357f99fb7f9261b249a96a6
+msgid "all"
+msgstr "todos"
+
+#: loco:5357f99fb7f9261b249a9793
+msgid "All-day event"
+msgstr "El evento dura todo el día"
+
+#: loco:5357f99fb7f9261b249a96a7
+msgid "all resources"
+msgstr "todos los recursos"
+
+#: loco:5357f99fb7f9261b249a96a8
+msgid "all tags"
+msgstr "todas las etiquetas"
+
+#: loco:5357f99eb7f9261b249a9546
+msgid "Already have an account? Sign in below."
+msgstr "¿Ya tienes una cuenta? Inicia sesión debajo."
+
+#: loco:5357f99eb7f9261b249a9547
+msgid "An email has been sent to you with further instructions."
+msgstr "Te hemos enviado un correo electrónico con más instrucciones."
+
+#: loco:5357f99fb7f9261b249a96ea
+msgid ""
+"AND: Find only items where <i>all</i> conditions are met.<br />OR: Find "
+"items where <i>any</i> of the selected conditions are met."
+msgstr ""
+"AND: recupera resultados que cumplen <i>todos</i> los criterios de búsqueda."
+"<br />OR: recupera resultados que cumplen <i>cualquiera</i> de los criterios "
+"seleccionados."
+
+#: loco:5357f99eb7f9261b249a9548
+msgid "Apply Filter"
+msgstr "Aplicar filtro"
+
+#: loco:5357f99fb7f9261b249a970b
+msgid "Apply the filter and show the results."
+msgstr "Aplica el filtro y muestra los resultados."
+
+#: loco:53651c318509cbb0c7ffb9cb
+msgid ""
+"Too many emails? You can change the schedule on your [profile page](%s)."
+msgstr ""
+"¿Recibes muchos correos electrónicos? Puedes cambiar la frecuencia en tu "
+"[página de perfil](%s)."
+
+#: loco:5357f99fb7f9261b249a9766
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: loco:53a55af2ff90b259b57a9aab
+msgid "audio"
+msgstr "audio"
+
+#: loco:5357f99fb7f9261b249a96a9
+msgid "auto reload"
+msgstr "cargar automáticamente"
+
+#: loco:5357f99eb7f9261b249a954b
+msgid ""
+"Automatically reload in regular intervals if something new has been posted."
+msgstr ""
+"Vuelve a cargar la página automáticamente en intervalos regulares por si se "
+"ha publicado algo nuevo."
+
+#: loco:5357f99fb7f9261b249a970c
+msgid ""
+"Avatars are small images that will be visible with your name. Here you can "
+"upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr ""
+"Los avatares son pequeñas imágenes que aparecen junto al nombre. Aquí puedes "
+"cargar tu avatar (mín. %s, máx. %s). En el siguiente paso puedes recortar la "
+"imagen."
+
+#: loco:5357f9a0b7f9261b249a9801
+msgid "back"
+msgstr "volver"
+
+#: loco:5357f99eb7f9261b249a954c
+msgid "Back to list of groups."
+msgstr "Volver a la lista de grupos."
+
+#: loco:5357f99eb7f9261b249a954d
+msgid "Back to list of users."
+msgstr "Volver a la lista de usuarios."
+
+#: loco:5357f99fb7f9261b249a96d4
+msgid "Back to the list of messages"
+msgstr "Volver a la lista de mensajes"
+
+#: loco:5357f99fb7f9261b249a96d5
+msgid "Back to the list of reports"
+msgstr "Volver a la lista de denuncias"
+
+#: loco:5357f99fb7f9261b249a96d6
+msgid "Back to the list of resources"
+msgstr "Volver a la lista de recursos"
+
+#: loco:5357f99fb7f9261b249a974d
+msgid "banned"
+msgstr "bloqueado"
+
+#: loco:53a55ad9ff90b259b57a9594
+msgid "Basic Information"
+msgstr "Información básica"
+
+#: loco:5357f99eb7f9261b249a954e
+msgid ""
+"Below you can add details: Describe the topics of this resource by one or "
+"more tags. These information will help other users to find your resource."
+msgstr ""
+"Puedes añadir más información debajo. Describe con una o más etiquetas los "
+"temas de este recurso. Esta información ayudará al resto de usuarios a "
+"encontrar tu recurso."
+
+#: loco:5386f268ff90b259b5790ed7
+msgid "browse"
+msgstr "buscar"
+
+#: loco:53a55ad9ff90b259b57a9599
+msgid "Browse Resources"
+msgstr "Buscar recursos"
+
+#: loco:53a55ad9ff90b259b57a959c
+msgid ""
+"By using this platform you accept our Terms of Use and our Privacy policy."
+msgstr ""
+"Al utilizar este plataforma estás aceptando nuestras Condiciones de uso y "
+"Política de privacidad."
+
+#: loco:5357f99fb7f9261b249a96aa
+msgid "cancel and return"
+msgstr "cancelar y volver"
+
+#: loco:5357f99eb7f9261b249a954f
+msgid "Cancel friendship"
+msgstr "Eliminar de mis amigos"
+
+#: loco:5357f99eb7f9261b249a9550
+msgid "Cancel subscription"
+msgstr "Cancelar suscripción"
+
+#: loco:5357f99eb7f9261b249a9551
+msgid "Cannot find what you are searching?"
+msgstr "¿No encuentras lo que estabas buscando?"
+
+#: loco:53a55af3ff90b259b57a9ab8
+msgid "center"
+msgstr "centrar"
+
+#: loco:5357f99fb7f9261b249a974e
+msgid "change"
+msgstr "cambiar"
+
+#: loco:5357f99eb7f9261b249a9552
+msgid "Change lost password"
+msgstr "Cambiar la contraseña perdida"
+
+#: loco:5357f99eb7f9261b249a9553
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: loco:5357f99eb7f9261b249a9554
+msgid "Change the filter"
+msgstr "Cambiar filtro"
+
+#: loco:5357f99fb7f9261b249a974f
+msgid "chat messages"
+msgstr "mensajes de chat"
+
+#: loco:53a55adaff90b259b57a95ab
+msgid "Chat window turned off."
+msgstr "La ventana del chat está desactivada."
+
+#: loco:53a55adaff90b259b57a95ae
+msgid "Chat window turned on."
+msgstr "La ventana del chat está activada."
+
+#: loco:536f6e848509cbb0c70013e7
+msgid "Chat window turned on. If you don't see it, please refresh the page."
+msgstr "La ventana del chat está activada. Si no la ves, actualiza la página."
+
+#: loco:5357f99eb7f9261b249a9555
+msgid "Choose from the menus above."
+msgstr "Selecciona una opción de los menús de arriba."
+
+#: loco:53a55af3ff90b259b57a9abf
+msgid "clean up"
+msgstr "limpiar"
+
+#: loco:5357f99eb7f9261b249a9557
+msgid "Clear Filter"
+msgstr "Borrar filtro"
+
+#: loco:5357f99fb7f9261b249a96ab
+msgid "clear map"
+msgstr "borrar mapa"
+
+#: loco:5357f99eb7f9261b249a9558
+msgid "Click here if you forgot your password."
+msgstr "Haz clic aquí si has olvidado la contraseña."
+
+#: loco:5357f99fb7f9261b249a970e
+msgid "Click here to continue"
+msgstr "Haz clic aquí para continuar"
+
+#: loco:5357f99eb7f9261b249a9559
+msgid "Click inside the image and select your avatar."
+msgstr "Haz clic en la imagen para seleccionar el avatar."
+
+#: loco:5357f99fb7f9261b249a96eb
+msgid ""
+"Click inside the map to set the center. Click a second time to set the "
+"search radius."
+msgstr ""
+"Haz clic en el mapa para marcar el centro. Haz clic otra vez para establecer "
+"el radio de búsqueda."
+
+#: loco:5357f99fb7f9261b249a970f
+msgid ""
+"Click inside the map to set the location. If the location is already set, "
+"you first need to clear the map: <b class='icon-clear'></b>."
+msgstr ""
+"Haz clic en el mapa para señalar la ubicación. Si ya está señalada, hay que "
+"borrar el mapa primero: <b class='icon-clear'></b>."
+
+#: loco:536247358509cbb0c7ffaf00
+msgid "click to rename"
+msgstr "haz clic para remombrar"
+
+#: loco:53a55adaff90b259b57a95bf
+msgid "Click to subscribe."
+msgstr "Haz clic para suscribirte."
+
+#: loco:53a55adaff90b259b57a95c2
+msgid "Click to unsubscribe."
+msgstr "Haz clic para cancelar la suscripción."
+
+#: loco:5357f9a0b7f9261b249a9802
+msgid "close"
+msgstr "cerrar"
+
+#: loco:5357f99eb7f9261b249a955c
+msgid "Comments are only visible when you are signed in."
+msgstr "Los comentarios solo son visibles cuando has iniciado sesión."
+
+#: loco:5357f99eb7f9261b249a955d
+msgid "Connect filters with"
+msgstr "Conectar filtros con"
+
+#: loco:53674f5f8509cbb0c7ffc65c
+msgid "Continue to this [group] (%s)."
+msgstr "Continuar a [grupo] (%s)."
+
+#: loco:53674f678509cbb0c7ffc65e
+msgid "Continue to this [resource] (%s)."
+msgstr "Continuar a [recurso] (%s)."
+
+#: loco:53674f548509cbb0c7ffc65a
+msgid "Continue to this [user] (%s)."
+msgstr "Continuar a [usuario] (%s)."
+
+#: loco:5357f99eb7f9261b249a955e
+msgid ""
+"Copy this link and send it to people who you would like to join. This link "
+"is like a key to this group."
+msgstr ""
+"Copia este enlace y envíalo a quien quieres que se una al grupo. El enlace "
+"es como una clave de acceso al grupo."
+
+#: loco:5357f99fb7f9261b249a96ac
+msgid "create"
+msgstr "crear"
+
+#: loco:5357f99fb7f9261b249a9799
+msgid "Create a new event?"
+msgstr "¿Quieres crear un nuevo evento?"
+
+#: loco:5357f99fb7f9261b249a9797
+msgid "Create Group"
+msgstr "Crear grupo"
+
+#: loco:5357f99eb7f9261b249a955f
+msgid "Create new group"
+msgstr "Crear nuevo grupo"
+
+#: loco:5357f99eb7f9261b249a9560
+msgid "Create new resource"
+msgstr "Crear nuevo recurso"
+
+#: loco:5357f99fb7f9261b249a9798
+msgid "Create Resource"
+msgstr "Crear recurso"
+
+#: loco:5357f99fb7f9261b249a9750
+msgid "creation rights removed"
+msgstr "eliminados derechos de creación"
+
+#: loco:53a55adbff90b259b57a95e5
+msgid "Cron URL:"
+msgstr "URL del cronómetro:"
+
+#: loco:53a55af3ff90b259b57a9acc
+msgid "crop and resize"
+msgstr "cortar y redimensionar"
+
+#: loco:53a55af3ff90b259b57a9acf
+msgid "d.m.Y H:i:s"
+msgstr "d/m/Y H:i:s"
+
+#: loco:5357f99fb7f9261b249a9710
+msgid "Database error."
+msgstr "Error de la base de datos."
+
+#: loco:5357f99fb7f9261b249a979a
+msgid "Database size"
+msgstr "Tamaño de la base de datos"
+
+#: loco:5357f9a0b7f9261b249a9803
+msgid "day"
+msgstr "día"
+
+#: loco:5357f99fb7f9261b249a96ad
+msgid "deactivated"
+msgstr "desactivado"
+
+#: loco:5357f99fb7f9261b249a979b
+msgid "Dear %s"
+msgstr "Hola, %s:"
+
+#: loco:5357f9a0b7f9261b249a9804
+msgid "delete"
+msgstr "borrar"
+
+#: loco:5357f99eb7f9261b249a9562
+msgid "Describe in few sentences what this group is about."
+msgstr "Describe en unas líneas el propósito de este grupo."
+
+#: loco:5357f99eb7f9261b249a9563
+msgid "Describe in few sentences what this resource is about."
+msgstr "Describe en unas líneas de qué trata el recurso."
+
+#: loco:5357f99eb7f9261b249a9564
+msgid "Description:"
+msgstr "Descripción:"
+
+#: loco:5357f99fb7f9261b249a96ae
+msgid "detail"
+msgstr "detalle"
+
+#: loco:5357f99fb7f9261b249a96d8
+msgid "Details of the group"
+msgstr "Detalles del grupo"
+
+#: loco:5357f99fb7f9261b249a96d9
+msgid "Details of the resource"
+msgstr "Detalles del recurso"
+
+#: loco:5357f99fb7f9261b249a96da
+msgid "Details of the user"
+msgstr "Detalles del usuario"
+
+#: loco:5357f99fb7f9261b249a979d
+msgid "Different end time"
+msgstr "Fecha y hora de finalización diferentes"
+
+#: loco:5357f99eb7f9261b249a9565
+msgid "Discover new groups"
+msgstr "Encuentra nuevos grupos"
+
+#: loco:5357f99eb7f9261b249a9566
+msgid "Discover new resources"
+msgstr "Encuentra nuevos recursos"
+
+#: loco:5357f99eb7f9261b249a9567
+msgid "Discover new users"
+msgstr "Encuentra nuevos usuarios"
+
+#: loco:5357f99fb7f9261b249a979e
+msgid "Do you really want to delete this file?"
+msgstr "¿Estás seguro de que quieres borrar este archivo?"
+
+#: loco:5357f99fb7f9261b249a9711
+msgid "Do you really want to delete this message?"
+msgstr "¿Estás seguro de que quieres borrar este mensaje?"
+
+#: loco:5357f99eb7f9261b249a9568
+msgid ""
+"Do you want be visible to everyone (world), only to registered users "
+"(registered) or only to your friends (friends)?"
+msgstr ""
+"¿Quieres que tu perfil sea visible para todo el mundo (público), solo para "
+"usuarios registrados (registrados) o solo para tus amigos (amigos)?"
+
+#: loco:5357f99fb7f9261b249a9751
+msgid "document"
+msgstr "documento"
+
+#: loco:5357f99fb7f9261b249a9712
+msgid "Documentation:"
+msgstr "Documentación:"
+
+#: loco:5357f99fb7f9261b249a9714
+msgid "Done importing resources. Error writing log file."
+msgstr ""
+"Finalizada la importación de recursos. Error al escribir el archivo de "
+"registro."
+
+#: loco:5357f99fb7f9261b249a9715
+msgid "Done importing resources. Please check the log file."
+msgstr ""
+"Finalizada la importación de recursos. Comprueba el archivo de registro."
+
+#: loco:5357f99fb7f9261b249a9716
+msgid "Done updating locales."
+msgstr "Finalizada la actualización de la configuración regional."
+
+#: loco:5357f99eb7f9261b249a9569
+msgid "Download the mobile application"
+msgstr "Descárgate la aplicación móvil"
+
+#: loco:5357f99fb7f9261b249a96af
+msgid "edit"
+msgstr "editar"
+
+#: loco:5357f99fb7f9261b249a9597
+msgid "Edit Group"
+msgstr "Editar grupo"
+
+#: loco:5357f99fb7f9261b249a976f
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+#: loco:5357f99fb7f9261b249a979f
+msgid "Edit Resource"
+msgstr "Editar recurso"
+
+#: loco:5357f99eb7f9261b249a956a
+msgid "Edit the group image"
+msgstr "Modificar la imagen del grupo"
+
+#: loco:5357f99eb7f9261b249a956b
+msgid "Edit the location"
+msgstr "Modificar la ubicación"
+
+#: loco:5357f99eb7f9261b249a956c
+msgid "Edit your avatar"
+msgstr "Editar el avatar"
+
+#: loco:5357f99eb7f9261b249a956d
+msgid "Edit your location"
+msgstr "Modificar la ubicación"
+
+#: loco:5357f99fb7f9261b249a9574
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: loco:5357f99eb7f9261b249a956e
+msgid "Email change on Mycitizen.net"
+msgstr "Cambiar dirección de correo electrónico de Mycitizen.net"
+
+#: loco:5357f99fb7f9261b249a956f
+msgid "The email address couldn't be changed!"
+msgstr "No se pudo cambiar la dirección de correo."
+
+#: loco:5357f99fb7f9261b249a9570
+msgid "The email address couldn't be changed! The link is not active anymore."
+msgstr ""
+"No se pudo cambiar la dirección de correo. El enlace ya no está activo."
+
+#: loco:5357f99fb7f9261b249a97a0
+msgid "Email has been succesfully changed."
+msgstr "La dirección de correo electrónico se ha cambiado correctamente."
+
+#: loco:5357f99fb7f9261b249a9571
+msgid "Email has been successfully changed."
+msgstr "La dirección de correo electrónico se ha cambiado correctamente."
+
+#: loco:5357f99fb7f9261b249a97a1
+msgid "This email address is already registered with another account."
+msgstr ""
+"Esta dirección de correo electrónico ya está registrada con otra cuenta."
+
+#: loco:5357f99fb7f9261b249a97a2
+msgid "Emails on unread messages:"
+msgstr "Enviar correos de mensajes no leídos:"
+
+#: loco:5357f99fb7f9261b249a9575
+msgid "Empty Trash"
+msgstr "Vaciar papelera"
+
+#: loco:5357f99fb7f9261b249a97a3
+msgid "End:"
+msgstr "Finaliza:"
+
+#: loco:5357f99fb7f9261b249a9577
+msgid ""
+"Enter a key that will be used for inviting members into this group. Use "
+"letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr ""
+"Introduce una clave de acceso para invitar a miembros al grupo. Utiliza "
+"letras, números y \"-\" (longitud mínima de 5 caracteres)."
+
+#: loco:5357f99fb7f9261b249a9578
+msgid "Enter a name for the group."
+msgstr "Introduce un nombre para el grupo."
+
+#: loco:5357f99fb7f9261b249a9579
+msgid "Enter a name for the resource."
+msgstr "Introduce un nombre para el recurso."
+
+#: loco:5357f99fb7f9261b249a957a
+msgid "Entered passwords are not the same."
+msgstr "Las contraseñas no coinciden."
+
+#: loco:5357f99eb7f9261b249a9537
+msgid "(error)"
+msgstr "(error)"
+
+#: loco:5357f99fb7f9261b249a957c
+msgid "Error deleting image from cache."
+msgstr "Error al borrar la imagen de la caché."
+
+#: loco:5357f99fb7f9261b249a957d
+msgid "Error loading chat. Are you logged in?"
+msgstr "Error al cargar el chat. ¿Has iniciado sesión?"
+
+#: loco:53a55addff90b259b57a9645
+msgid "Error processing screenshot."
+msgstr "Error al procesar la captura de pantalla."
+
+#: loco:5357f99fb7f9261b249a957e
+msgid "Error recreating image."
+msgstr "Error al volver a generar la imagen."
+
+#: loco:53a55addff90b259b57a9648
+msgid "Error sending message."
+msgstr "Error al enviar el mensaje."
+
+#: loco:5357f99fb7f9261b249a957f
+msgid "Error submitting form."
+msgstr "Error al enviar el formulario."
+
+#: loco:5357f99fb7f9261b249a9580
+msgid "Error writing image: "
+msgstr "Error al escribir la imagen:"
+
+#: loco:5357f99fb7f9261b249a9752
+msgid "event"
+msgstr "evento"
+
+#: loco:5357f99fb7f9261b249a9581
+msgid "Event description:"
+msgstr "Descripción del evento:"
+
+#: loco:5357f99fb7f9261b249a97a4
+msgid "Event Details"
+msgstr "Detalles del evento"
+
+#: loco:5357f99fb7f9261b249a97a5
+msgid "Event end time:"
+msgstr "Fecha y hora de finalización:"
+
+#: loco:5357f99fb7f9261b249a9582
+msgid "Event time:"
+msgstr "Fecha y hora del evento:"
+
+#: loco:53a55af3ff90b259b57a9ade
+msgid "external link"
+msgstr "enlace externo"
+
+#: loco:53a55af3ff90b259b57a9ae1
+msgid "fade or unfade"
+msgstr "atenuar o mostrar"
+
+#: loco:53a55addff90b259b57a9664
+msgid "File Browser"
+msgstr "Buscador de archivos"
+
+#: loco:536246d58509cbb0c7ffaefd
+msgid "File '%s' already exists."
+msgstr "El archivo '%s' ya existe."
+
+#: loco:536246c58509cbb0c7ffaefb
+msgid "File '%s' not found."
+msgstr "No se ha encontrado el archivo '%s'."
+
+#: loco:5357f9a0b7f9261b249a982d
+msgid "Files of %s"
+msgstr "Archivos de %s"
+
+#: loco:5357f99fb7f9261b249a9585
+msgid "Filter by name"
+msgstr "Filtrar por nombre"
+
+#: loco:5357f99fb7f9261b249a9586
+msgid "Filter is off."
+msgstr "El filtro está desactivado."
+
+#: loco:5357f99fb7f9261b249a9587
+msgid "Filter is on."
+msgstr "El filtro está activado."
+
+#: loco:536b24958509cbb0c7fff4e6
+msgid "Find a list of your activities [on your home page] (%s)."
+msgstr "Encuentra una lista de tus actividades [en tu página de inicio] (%s)."
+
+#: loco:5357f99fb7f9261b249a9717
+msgid "Find more information [on the page of the group] (%s)."
+msgstr "Encuentra más información [en la página del grupo] (%s)."
+
+#: loco:53674f6e8509cbb0c7ffc660
+msgid "Find more information [here] (%s)."
+msgstr "Encuentra más información [aquí] (%s)."
+
+#: loco:5357f99fb7f9261b249a9588
+msgid "Finish your registration at Mycitizen.net"
+msgstr "Finaliza el registro en Mycitizen.net"
+
+#: loco:5357f99fb7f9261b249a9589
+msgid "Finished cropping and resizing."
+msgstr "Se ha recortado y redimensionado la imagen."
+
+#: loco:5357f99fb7f9261b249a9718
+msgid "Found unused locale '%s', removing from database."
+msgstr ""
+"Se ha encontrado el paquete de idioma sin usar '%s', se va a eliminar de la "
+"base de datos."
+
+#: loco:5357f99fb7f9261b249a96b0
+msgid "friend"
+msgstr "amigo"
+
+#: loco:5357f99fb7f9261b249a958b
+msgid "Friendship accepted"
+msgstr "Solicitud de amistad aceptada"
+
+#: loco:5357f99fb7f9261b249a958c
+msgid "Friendship canceled"
+msgstr "Eliminado de tus amigos"
+
+#: loco:5357f99fb7f9261b249a958d
+msgid "Friendship request"
+msgstr "Solicitud de amistad"
+
+#: loco:5357f99fb7f9261b249a958e
+msgid "Friendship request rejected."
+msgstr "Solicitud de amistad rechazada."
+
+#: loco:5357f99fb7f9261b249a958f
+msgid "Friendship request sent."
+msgstr "Solicitud de amistad enviada."
+
+#: loco:5357f99fb7f9261b249a96b1
+msgid "from_email"
+msgstr "from_email"
+
+#: loco:5357f9a0b7f9261b249a9805
+msgid "g:ia"
+msgstr "G:i"
+
+#: loco:5357f99fb7f9261b249a96db
+msgid "GD (images) supported"
+msgstr "Soporta GD (imágenes)"
+
+#: loco:5357f99fb7f9261b249a96dc
+msgid "Gettext supported"
+msgstr "Soporta gettext"
+
+#: loco:5357f99fb7f9261b249a9590
+msgid "Given group does not exist."
+msgstr "El grupo no existe."
+
+#: loco:5357f99fb7f9261b249a9591
+msgid "Go to resource"
+msgstr "Ir al recurso"
+
+#: loco:53a55af4ff90b259b57a9ae8
+msgid "go to '%s'"
+msgstr "ir a '%s'"
+
+#: loco:53a55af4ff90b259b57a9aeb
+msgid "go to your profile"
+msgstr "ir a tu perfil"
+
+#: loco:5357f99fb7f9261b249a96b2
+msgid "gps_default_latitude"
+msgstr "gps_default_latitude"
+
+#: loco:5357f99fb7f9261b249a96b3
+msgid "gps_default_longitude"
+msgstr "gps_default_longitude"
+
+#: loco:5357f99fb7f9261b249a96f7
+msgid "group"
+msgstr "grupo"
+
+#: loco:5357f99fb7f9261b249a9596
+msgid "Group chat"
+msgstr "Chat del grupo"
+
+#: loco:5357f99fb7f9261b249a9598
+msgid "Group key:"
+msgstr "Clave del grupo:"
+
+#: loco:5357f99fb7f9261b249a9599
+msgid "Group location on a map"
+msgstr "La ubicación del grupo en el mapa"
+
+#: loco:5357f99fb7f9261b249a959a
+msgid "Group members"
+msgstr "Miembros del grupo"
+
+#: loco:5357f99fb7f9261b249a97a9
+msgid "Group name cannot be empty!"
+msgstr "¡El grupo tiene que tener un nombre!"
+
+#: loco:5357f99fb7f9261b249a959b
+msgid "Group owner: "
+msgstr "Propietario del grupo:"
+
+#: loco:5357f99fb7f9261b249a959c
+msgid "Group resources"
+msgstr "Recursos del grupo"
+
+#: loco:5357f99fb7f9261b249a959d
+msgid "Group status"
+msgstr "Estado del grupo"
+
+#: loco:5357f99fb7f9261b249a959e
+msgid "Group updated"
+msgstr "Se ha actualizado la información del grupo"
+
+#: loco:5357f99fb7f9261b249a9592
+msgid "Group %s has not been subscribed to resource."
+msgstr "El grupo %s no se ha suscrito al recurso."
+
+#: loco:5357f99fb7f9261b249a9593
+msgid "Group %s is already subscribed."
+msgstr "El grupo %s ya está suscrito."
+
+#: loco:5357f99fb7f9261b249a9594
+msgid "Group %s subscribed to this resource."
+msgstr "El grupo %s se ha suscrito al recurso."
+
+#: loco:5357f99fb7f9261b249a9595
+msgid "Group %s unsubscribed from resource."
+msgstr "El grupo %s ha cancelado la suscripción al recurso."
+
+#: loco:536510928509cbb0c7ffb9c9
+msgid ""
+"Hello %s,\n"
+"\n"
+"Somebody has requested an email change on Mycitizen.net. The new email will "
+"be: %s\n"
+"\n"
+"If you think that this is wrong, please [contact the support] (%s)."
+msgstr ""
+"Hola, %s:\n"
+"\n"
+"Alguien ha solicitado un cambio de correo electrónico en Mycitizen.net. La "
+"nueva dirección de correo es: %s\n"
+"\n"
+"Si crees que es un error, [contacta con la asistencia técnica] (%s)."
+
+#: loco:5357f99fb7f9261b249a95a2
+msgid ""
+"Hello %s,\n"
+"\n"
+"Thank you for signing up at Mycitizen.net!\n"
+"To finish your registration click [here] (%s), or copy the following link to "
+"your browser:\n"
+"\n"
+"%s"
+msgstr ""
+"Hola, %s:\n"
+"\n"
+"¡Gracias por registrarte en Mycitizen.net!\n"
+"Para finalizar el registro, haz clic [aquí] (%s) o copia este enlace en el "
+"explorador:\n"
+"\n"
+"%s"
+
+#: loco:5357f99fb7f9261b249a95a1
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested a password change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your "
+"browser:\n"
+"\n"
+"%s"
+msgstr ""
+"Hola, %s:\n"
+"\n"
+"Has solicitado un cambio de contraseña en Mycitizen.net.\n"
+"Para finalizar la solicitud, haz clic [aquí] (%s) o copia este enlace en el "
+"explorador:\n"
+"\n"
+"%s"
+
+#: loco:5357f99fb7f9261b249a95a0
+msgid ""
+"Hello %s,\n"
+"\n"
+"You have requested an email change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your "
+"browser:\n"
+"\n"
+"%s"
+msgstr ""
+"Hola, %s:\n"
+"\n"
+"Has solicitado un cambio de correo electrónico en Mycitizen.net.\n"
+"Para finalizar la solicitud, haz clic [aquí] (%s) o copia este enlace en el "
+"explorador:\n"
+"\n"
+"%s"
+
+#: loco:536b24628509cbb0c7fff4e4
+msgid "Here is an overview of what has happened since your last visit:"
+msgstr "Esto es lo que ha pasado desde tu última visita:"
+
+#: loco:5357f99fb7f9261b249a95a3
+msgid ""
+"Here you can report the group if you think it has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+"Aquí puedes denunciar al grupo si crees que ha infringido las normas. Los "
+"moderadores se ocuparán de las denuncias. "
+
+#: loco:5357f99fb7f9261b249a95a4
+msgid ""
+"Here you can report the resource if you think it has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+"Aquí puedes denunciar al recurso si crees que ha infringido las normas. Los "
+"moderadores se ocuparán de las denuncias."
+
+#: loco:5357f99fb7f9261b249a95a5
+msgid ""
+"Here you can report the user if you think her or she has violated the rules. "
+"Reports will be processed by our moderators."
+msgstr ""
+"Aquí puedes denunciar al usuario si crees que ha infringido las normas. Los "
+"moderadores se ocuparán de las denuncias. "
+
+#: loco:5357f99fb7f9261b249a95a6
+msgid "Hidden group"
+msgstr "Grupo oculto"
+
+#: loco:5357f99fb7f9261b249a95a7
+msgid "Hidden user"
+msgstr "Usuario oculto"
+
+#: loco:5357f9a0b7f9261b249a9806
+msgid "home"
+msgstr "inicio"
+
+#: loco:5357f99fb7f9261b249a97aa
+msgid "Homepage:"
+msgstr "Página web:"
+
+#: loco:5357f99fb7f9261b249a97ab
+msgid "How to contact them"
+msgstr "Forma de contacto"
+
+#: loco:5357f99fb7f9261b249a9719
+msgid "I am a group moderator."
+msgstr "Soy moderador del grupo."
+
+#: loco:5357f99fb7f9261b249a96b9
+msgid "I am a member."
+msgstr "Soy miembro."
+
+#: loco:5357f99fb7f9261b249a971a
+msgid "I am a resource moderator."
+msgstr "Soy moderador del grupo."
+
+#: loco:5357f99fb7f9261b249a96c2
+msgid "I am not a member."
+msgstr "No soy miembro."
+
+#: loco:5357f99fb7f9261b249a96c4
+msgid "I am not subscribed."
+msgstr "No me he suscrito."
+
+#: loco:5357f99fb7f9261b249a96fa
+msgid "I am subscribed."
+msgstr "Me he suscrito."
+
+#: loco:5357f99fb7f9261b249a971b
+msgid "I am the owner."
+msgstr "Soy el propietario."
+
+#: loco:5357f99fb7f9261b249a97ac
+msgid ""
+"If these recommendations are not precise, you could try to find better tags "
+"to describe your interests. You can change your tags on your profile page."
+msgstr ""
+"Si las recomendaciones no son precisas, puedes utilizar otras etiquetas que "
+"definan mejor tus intereses. Puedes cambiar las etiquetas en la página del "
+"perfil."
+
+#: loco:5357f99fb7f9261b249a95a9
+msgid "If you are new here, please %s sign up %s."
+msgstr "Si eres nuevo, %s regístrate %s."
+
+#: loco:5357f99fb7f9261b249a97ad
+msgid ""
+"If you need to upload a new file, close this window and click on 'Upload'."
+msgstr ""
+"Si tienes que cargar un nuevo archivo, cierra esta ventana y haz clic en "
+"\"Cargar\"."
+
+#: loco:5357f99fb7f9261b249a96ec
+msgid "Image is too big! Max. size is for upload is 2048x2048"
+msgstr "¡La imagen es muy grande! El tamaño máximo es de 2048x2048"
+
+#: loco:5357f99fb7f9261b249a971c
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr "¡La imagen es muy grande! El tamaño máximo es de %s"
+
+#: loco:5357f99fb7f9261b249a95aa
+msgid "Image must be in JPEG or PNG format."
+msgstr "La imagen debe estar en formato JPEG o PNG."
+
+#: loco:5357f99fb7f9261b249a971d
+msgid "Import resources from a file"
+msgstr "Importar recursos de un archivo"
+
+#: loco:5357f99fb7f9261b249a95ab
+msgid "Import resources from file"
+msgstr "Importar recursos de archivo"
+
+#: loco:5357f99fb7f9261b249a96b4
+msgid "inactive"
+msgstr "inactivo"
+
+#: loco:5357f99eb7f9261b249a9538
+msgid "(inappropriate language)"
+msgstr "(lenguaje inapropiado)"
+
+#: loco:5357f9a0b7f9261b249a982a
+msgid ""
+"Include all new users, groups and resources that you are allowed to view."
+msgstr ""
+"Incluir todos los nuevos usuarios, grupos y recursos que tengo permiso para "
+"ver."
+
+#: loco:5357f99fb7f9261b249a95ac
+msgid "Information:"
+msgstr "Información:"
+
+#: loco:5357f9a0b7f9261b249a9807
+msgid "insert"
+msgstr "insertar"
+
+#: loco:5357f99fb7f9261b249a96b5
+msgid "insert to resource"
+msgstr "insertar en el recurso"
+
+#: loco:5357f99fb7f9261b249a95ad
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr ""
+"No tienes permisos suficientes para suscribir el grupo %s a este recurso."
+
+#: loco:5357f99fb7f9261b249a96f8
+msgid "is a product of"
+msgstr "es obra de"
+
+#: loco:5357f99fb7f9261b249a95ae
+msgid "Is active"
+msgstr "¿Está activo?"
+
+#: loco:53a55af4ff90b259b57a9afc
+msgid "j.n.Y"
+msgstr "j/n/Y"
+
+#: loco:5357f99fb7f9261b249a95b0
+msgid "Join group"
+msgstr "Unirse al grupo"
+
+#: loco:5357f9a0b7f9261b249a9808
+msgid "l, j F Y"
+msgstr "l, j de F de Y"
+
+#: loco:5357f9a0b7f9261b249a9809
+msgid "l, j F Y, g:ia T"
+msgstr "l, j de F de Y, G:i T"
+
+#: loco:5357f99fb7f9261b249a95b4
+msgid "Language:"
+msgstr "Idioma:"
+
+#: loco:5357f99fb7f9261b249a971e
+msgid "Language code"
+msgstr "Código de idioma"
+
+#: loco:5357f99fb7f9261b249a95b5
+msgid "Last activity: "
+msgstr "Fecha de última actividad:"
+
+#: loco:5357f9a0b7f9261b249a9825
+msgid "Last seen:"
+msgstr "Última conexión:"
+
+#: loco:5357f9a0b7f9261b249a9824
+msgid "Last seen less than 10 mins ago."
+msgstr "Última conexión hace menos de 10 minutos."
+
+#: loco:5357f9a0b7f9261b249a9823
+msgid "Last seen less than 5 mins ago."
+msgstr "Última conexión hace menos de 5 minutos."
+
+#: loco:5357f99fb7f9261b249a95b6
+msgid "Leave group"
+msgstr "Abandonar el grupo"
+
+#: loco:5357f99fb7f9261b249a96b6
+msgid "license"
+msgstr "licencia"
+
+#: loco:5357f99fb7f9261b249a9753
+msgid "link to external resource"
+msgstr "enlace a recurso externo"
+
+#: loco:5357f99fb7f9261b249a95b7
+msgid "Link to invite new members"
+msgstr "Enlace para invitar a nuevos miembros"
+
+#: loco:5357f99fb7f9261b249a9754
+msgid "live-video on Bambuser"
+msgstr "transmisión en directo de Bambuser"
+
+#: loco:5357f99fb7f9261b249a9789
+msgid "load more..."
+msgstr "cargar más..."
+
+#: loco:5357f99fb7f9261b249a95b8
+msgid "Loading chat.."
+msgstr "Cargando chat..."
+
+#: loco:5357f99fb7f9261b249a97b3
+msgid "Maintenance mode activated."
+msgstr "Modo de mantenimiento activado."
+
+#: loco:5357f99fb7f9261b249a97b4
+msgid "Maintenance mode active."
+msgstr "Modo de mantenimiento activo."
+
+#: loco:5357f99fb7f9261b249a97b5
+msgid "Maintenance mode deactivated."
+msgstr "Modo de mantenimiento desactivado."
+
+#: loco:5357f99fb7f9261b249a95bb
+msgid ""
+"Make the group visible to everyone (world), only users of this website "
+"(registered) or to members of this group (members)."
+msgstr ""
+"Haz que el grupo sea visible para todos (público), solo para usuarios de la "
+"página (registrados) o para miembros de este grupo (miembros)."
+
+#: loco:5357f99fb7f9261b249a95bc
+msgid ""
+"Make the resource visible to everyone (world), only users of this website "
+"(registered) or to subscribers of this resource (subscribers)."
+msgstr ""
+"Haz que el recurso sea visible para todos (público), solo para usuarios de "
+"la página (registrados) o para suscriptores del recurso (suscriptores)."
+
+#: loco:5357f99fb7f9261b249a95bd
+msgid "Manage members of this group"
+msgstr "Administrar miembros del grupo"
+
+#: loco:5357f99fb7f9261b249a95be
+msgid "Manage subscribed resources"
+msgstr "Administrar suscripción a recursos"
+
+#: loco:5357f99fb7f9261b249a9720
+msgid "Manage subscribers of this resource"
+msgstr "Administrar suscriptores del recurso"
+
+#: loco:5357f99fb7f9261b249a96b7
+msgid "mark as read"
+msgstr "marcar como leído"
+
+#: loco:5357f99fb7f9261b249a96b8
+msgid "mark as unread"
+msgstr "marcar como no leído"
+
+#: loco:5357f9a0b7f9261b249a980a
+msgid "max. once per day"
+msgstr "máx. uno al día"
+
+#: loco:5357f9a0b7f9261b249a980b
+msgid "max. once per hour"
+msgstr "máx. uno cada hora"
+
+#: loco:5357f9a0b7f9261b249a980c
+msgid "max. once per week"
+msgstr "máx. uno a la semana"
+
+#: loco:5357f99fb7f9261b249a95c1
+msgid "Maximum image size is %s"
+msgstr "El tamaño máximo de la imagen es de %s"
+
+#: loco:5357f99fb7f9261b249a95c3
+msgid "Media ID:"
+msgstr "ID de recurso multimedia:"
+
+#: loco:5357f99fb7f9261b249a95c4
+msgid "Media type:"
+msgstr "Plataforma multimedia:"
+
+#: loco:5357f99fb7f9261b249a95c5
+msgid "Member of groups"
+msgstr "Pertenencia a grupos"
+
+#: loco:5357f99fb7f9261b249a95c7
+msgid "message"
+msgstr "mensaje"
+
+#: loco:5357f99fb7f9261b249a96dd
+msgid "Message not displayed because the user has been deactivated."
+msgstr "No se muestra el mensaje porque se ha desactivado el usuario."
+
+#: loco:5357f9a0b7f9261b249a9830
+msgid "Message to all users"
+msgstr "Mensaje a todos los usuarios"
+
+#: loco:5357f99fb7f9261b249a96ba
+msgid "moderator"
+msgstr "moderador"
+
+#: loco:5357f99fb7f9261b249a96bb
+msgid "moderators"
+msgstr "moderadores"
+
+#: loco:5357f9a0b7f9261b249a980d
+msgid "month"
+msgstr "mes"
+
+#: loco:5357f99fb7f9261b249a96bc
+msgid "more groups"
+msgstr "más grupos"
+
+#: loco:5357f99fb7f9261b249a97b9
+msgid "More information and download"
+msgstr "Más información y descarga"
+
+#: loco:5357f99fb7f9261b249a96bd
+msgid "more resources"
+msgstr "más recursos"
+
+#: loco:53a55ae1ff90b259b57a973e
+msgid "More tags"
+msgstr "Más etiquetas"
+
+#: loco:5357f99fb7f9261b249a95ca
+msgid "More than one user with the same id found."
+msgstr "Se ha encontrado más de un usuario con el mismo Id."
+
+#: loco:5357f99fb7f9261b249a96be
+msgid "more users"
+msgstr "más usuarios"
+
+#: loco:5357f9a0b7f9261b249a980e
+msgid "move down"
+msgstr "bajar"
+
+#: loco:5357f99fb7f9261b249a96bf
+msgid "move to trash"
+msgstr "mover a la papelera"
+
+#: loco:5357f9a0b7f9261b249a980f
+msgid "move up"
+msgstr "subir"
+
+#: loco:5357f99fb7f9261b249a97ba
+msgid "My Activity"
+msgstr "Mi actividad"
+
+#: loco:5357f99fb7f9261b249a968f
+msgid "My Connections"
+msgstr "Mis conexiones"
+
+#: loco:5357f99fb7f9261b249a97bb
+msgid "My Events"
+msgstr "Mis eventos"
+
+#: loco:5357f99fb7f9261b249a96c0
+msgid "my friend"
+msgstr "mi amigo"
+
+#: loco:5357f99fb7f9261b249a95cb
+msgid "My friends"
+msgstr "Mis amigos"
+
+#: loco:5357f99fb7f9261b249a95cc
+msgid "My Groups"
+msgstr "Mis grupos"
+
+#: loco:5357f99fb7f9261b249a95cd
+msgid "My Location"
+msgstr "Mi ubicación"
+
+#: loco:5357f99fb7f9261b249a95cf
+msgid "My real position"
+msgstr "Mi ubicación real"
+
+#: loco:5357f99fb7f9261b249a97bc
+msgid "My Recommendations"
+msgstr "Mis recomendaciones"
+
+#: loco:5357f99fb7f9261b249a95ce
+msgid "My Resources"
+msgstr "Mis recursos"
+
+#: loco:5357f99fb7f9261b249a97bd
+msgctxt "No need to translate."
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#: loco:5357f99fb7f9261b249a95d1
+msgid "Name:"
+msgstr "Nombre:"
+
+#: loco:5357f99fb7f9261b249a95d2
+msgid "Needs to be created."
+msgstr "Tiene que crearse."
+
+#: loco:5357f9a0b7f9261b249a9827
+msgid "never online"
+msgstr "nunca en línea"
+
+#: loco:5357f99fb7f9261b249a95d3
+msgid "New messages"
+msgstr "Mensajes nuevos"
+
+#: loco:5357f99fb7f9261b249a97be
+msgid "New version:"
+msgstr "Nueva versión:"
+
+#: loco:5357f9a0b7f9261b249a9810
+msgid "no"
+msgstr "no"
+
+#: loco:5357f9a0b7f9261b249a9811
+msgid "no alert"
+msgstr "sin alerta"
+
+#: loco:5357f99fb7f9261b249a97bf
+msgid "No files."
+msgstr "No hay archivos."
+
+#: loco:5357f99fb7f9261b249a96c1
+msgid "no friend"
+msgstr "no sois amigos"
+
+#: loco:5357f99fb7f9261b249a96de
+msgid "No messages"
+msgstr "No hay mensajes"
+
+#: loco:5357f99fb7f9261b249a97c0
+msgid "No problem found."
+msgstr "No se ha encontrado ningún problema."
+
+#: loco:5357f99fb7f9261b249a95d4
+msgid "No tags"
+msgstr "No hay etiquetas"
+
+#: loco:5357f99fb7f9261b249a95d5
+msgid "Normal user"
+msgstr "Usuario normal"
+
+#: loco:5357f99fb7f9261b249a96c3
+msgid "not my friend"
+msgstr "no es mi amigo"
+
+#: loco:5357f99fb7f9261b249a97c1
+msgid "Note:"
+msgstr "Nota:"
+
+#: loco:5357f99fb7f9261b249a95d6
+msgid "Nothing found."
+msgstr "No hay resultados."
+
+#: loco:5357f99fb7f9261b249a96ed
+msgid "Nothing to display"
+msgstr "No hay nada que mostrar"
+
+#: loco:53a55ae3ff90b259b57a9773
+msgid "Notice Board"
+msgstr "Tablón de anuncios"
+
+#: loco:5357f9a0b7f9261b249a9831
+msgid "Noticeboard Messages"
+msgstr "Mensajes del tablón de anuncios"
+
+#: loco:5357f99fb7f9261b249a9722
+msgid "Notification from %s"
+msgstr "Una notificación de %s"
+
+#: loco:5357f9a0b7f9261b249a97c2
+msgid "Notification Settings"
+msgstr "Ajustes de notificaciones"
+
+#: loco:5357f99fb7f9261b249a9723
+msgid "Notify members:"
+msgstr "Notificar a los miembros:"
+
+#: loco:5357f9a0b7f9261b249a9812
+msgid "now"
+msgstr "ahora"
+
+#: loco:5357f99fb7f9261b249a9724
+msgid ""
+"Now is the best time to complete your profile. You can enter your name, your "
+"location and tags for your interests."
+msgstr ""
+"Ahora es el mejor momento para completar tu perfil. Introduce tu nombre, "
+"ubicación y añade etiquetas con tus intereses."
+
+#: loco:5357f9a0b7f9261b249a9822
+msgid "now online"
+msgstr "en línea ahora"
+
+#: loco:5357f99fb7f9261b249a95d9
+msgid "Number of groups"
+msgstr "Número de grupos"
+
+#: loco:5357f99fb7f9261b249a95da
+msgid "Number of resources"
+msgstr "Número de recursos"
+
+#: loco:53a55af5ff90b259b57a9b39
+msgid "number of susbcribers"
+msgstr "número de suscriptores"
+
+#: loco:5357f99fb7f9261b249a95db
+msgid "Number of users"
+msgstr "número de usuarios"
+
+#: loco:5357f99fb7f9261b249a96c5
+msgctxt "No need to translate."
+msgid "object_creation_min_time"
+msgstr "object_creation_min_time"
+
+#: loco:5357f9a0b7f9261b249a9813
+msgid "off"
+msgstr "ninguno"
+
+#: loco:5357f99fb7f9261b249a95de
+msgid "On invitation only"
+msgstr "Solo con invitación"
+
+#: loco:5357f99fb7f9261b249a95df
+msgid "Only administrators can visit this section!"
+msgstr "Solo los administradores pueden visitar esta sección."
+
+#: loco:5357f99fb7f9261b249a95e0
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "Solo letras, números y \"-\" (longitud mínima de 5 caracteres)."
+
+#: loco:5357f99fb7f9261b249a96c6
+msgid "only visible to friends"
+msgstr "solo visible para amigos"
+
+#: loco:5357f99fb7f9261b249a96c7
+msgid "only visible to members"
+msgstr "solo visible para miembros"
+
+#: loco:5357f99fb7f9261b249a96c8
+msgid "only visible to registered users"
+msgstr "solo visible para usuarios registrados"
+
+#: loco:5357f9a0b7f9261b249a9814
+msgid "only visible to subscribers"
+msgstr "solo visible para suscriptores"
+
+#: loco:5357f9a0b7f9261b249a9815
+msgid "only visible to you"
+msgstr "solo visible para ti"
+
+#: loco:5357f99fb7f9261b249a9755
+msgid "organization"
+msgstr "organización"
+
+#: loco:53a55af5ff90b259b57a9b4c
+msgid "other"
+msgstr "otro"
+
+#: loco:5357f9a0b7f9261b249a97c5
+msgid "Over one month old"
+msgstr "Hace más de un mes"
+
+#: loco:5357f9a0b7f9261b249a97c6
+msgid "Over six months old"
+msgstr "Hace más de seis meses"
+
+#: loco:5357f9a0b7f9261b249a97c7
+msgid "Over two months old"
+msgstr "Hace más de dos meses"
+
+#: loco:5357f9a0b7f9261b249a9816
+msgid "own events"
+msgstr "eventos organizados por mí"
+
+#: loco:5357f99fb7f9261b249a96c9
+msgid "owner"
+msgstr "propietario"
+
+#: loco:5357f9a0b7f9261b249a97c8
+msgid "Page Not Found"
+msgstr "No se encontró la página"
+
+#: loco:5357f99fb7f9261b249a95e2
+msgid "Parent level:"
+msgstr "Nivel primario:"
+
+#: loco:5357f99fb7f9261b249a95e3
+msgid "Parent tag:"
+msgstr "Etiqueta primaria:"
+
+#: loco:5357f99fb7f9261b249a95e7
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: loco:5357f99fb7f9261b249a95e4
+msgid "Password again:"
+msgstr "Repite la contraseña:"
+
+#: loco:5357f99fb7f9261b249a95e5
+msgid "Password change on Mycitizen.net"
+msgstr "Cambiar de contraseña en Mycitizen.net"
+
+#: loco:5357f99fb7f9261b249a95e6
+msgid "The password couldn't be changed! Please try again later."
+msgstr "No se ha podido cambiar la contraseña. Inténtalo de nuevo más tarde."
+
+#: loco:5357f99fb7f9261b249a96e0
+msgid "Permission to create items"
+msgstr "Permiso para crear elementos"
+
+#: loco:5357f99fb7f9261b249a95e8
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: loco:5357f99fb7f9261b249a9725
+msgid "PHP max execution time"
+msgstr "Tiempo máx. de ejecución de PHP"
+
+#: loco:5357f99fb7f9261b249a9726
+msgid "PHP memory limit"
+msgstr "Límite de memoria de PHP"
+
+#: loco:5357f99fb7f9261b249a9727
+msgid "PHP memory usage"
+msgstr "Uso de memoria de PHP"
+
+#: loco:5357f99fb7f9261b249a96df
+msgid "PHP Version"
+msgstr "Versión de PHP"
+
+#: loco:5357f9a0b7f9261b249a9817
+msgid "pixel"
+msgstr "píxel"
+
+#: loco:5357f99fb7f9261b249a976a
+msgid "Please answer the security question"
+msgstr "Responde a la pregunta de seguridad"
+
+#: loco:5357f9a0b7f9261b249a97c9
+msgid "Please check now your profile and enter a description and tags."
+msgstr "Revisa tu perfil e introduce una descripción y etiquetas."
+
+#: loco:53a55ae4ff90b259b57a97b6
+msgid "Please enter some tags."
+msgstr "Selecciona alguna etiqueta."
+
+#: loco:5357f99fb7f9261b249a95e9
+msgid "Please enter some text."
+msgstr "Escribe algo."
+
+#: loco:5362190c8509cbb0c7ffaef9
+msgid "Please enter the new file name:"
+msgstr "Introduce el nuevo nombre del archivo:"
+
+#: loco:5357f9a0b7f9261b249a97ca
+msgid "Please enter the text!"
+msgstr "Introduce el texto."
+
+#: loco:5357f99fb7f9261b249a96ee
+msgid "Please enter your new password"
+msgstr "Introduce la nueva contraseña"
+
+#: loco:5357f99fb7f9261b249a95ea
+msgid "Please give us some details."
+msgstr "Danos detalles."
+
+#: loco:5357f99fb7f9261b249a95eb
+msgid "Please go to the edit screen and generate a link."
+msgstr "Ve a la pantalla de edición y genera un enlace."
+
+#: loco:5357f99fb7f9261b249a9728
+msgid ""
+"Please paste here the <u>underlined</u> part of the url for the media that "
+"you want to add:"
+msgstr ""
+"Pega en este campo la parte <u>subrayada</u> del url del archivo multimedia "
+"que quieras añadir:"
+
+#: loco:5357f9a0b7f9261b249a97cb
+msgid "Please select a file"
+msgstr "Selecciona un archivo"
+
+#: loco:5360ab408509cbb0c7ff9de3
+msgid "Please select a recipient"
+msgstr "Selecciona un destinatario"
+
+#: loco:5357f99fb7f9261b249a95ec
+msgid "Please select first a part of the image."
+msgstr "Selecciona primero una parte de la imagen."
+
+#: loco:5357f9a0b7f9261b249a9826
+msgid "Please sign in first."
+msgstr "Inicia sesión primero."
+
+#: loco:5357f99fb7f9261b249a9770
+msgid "Please try again later."
+msgstr "Inténtalo de nuevo más tarde."
+
+#: loco:5357f99fb7f9261b249a96ef
+msgid "Please use only the English alphabet."
+msgstr "Utiliza solo el alfabeto inglés."
+
+#: loco:53664a338509cbb0c7ffbd4c
+msgid "Please welcome our new member: %s has joined this group."
+msgstr "Dale la bienvenida a un nuevo miembro: %s se ha unido al grupo."
+
+#: loco:5357f99fb7f9261b249a95ee
+msgid "Post new comment"
+msgstr "Publicar un nuevo comentario"
+
+#: loco:5357f99fb7f9261b249a95ef
+msgid "Post reply"
+msgstr "Publicar una respuesta"
+
+#: loco:53a55af5ff90b259b57a9b53
+msgid "print"
+msgstr "imprimir"
+
+#: loco:5357f99fb7f9261b249a96e1
+msgid "Privacy policy"
+msgstr "Política de privacidad"
+
+#: loco:53a55af6ff90b259b57a9b56
+msgid "private event"
+msgstr "evento privado"
+
+#: loco:5357f99fb7f9261b249a9756
+msgid "private messages"
+msgstr "mensajes privados"
+
+#: loco:53a55ae4ff90b259b57a97da
+msgid ""
+"Private messaging has been disabled by the chat window. Reload page to re-"
+"enable"
+msgstr ""
+"La ventana de chat ha desactivado los mensajes privados. Carga la página de "
+"nuevo para activarlos."
+
+#: loco:5357f9a0b7f9261b249a97cc
+msgid "Problem found"
+msgstr "Se ha encontrado un problema"
+
+#: loco:53a55ae5ff90b259b57a97df
+msgid "Purge entire cache"
+msgstr "Limpiar toda la caché"
+
+#: loco:5357f9a0b7f9261b249a97cd
+msgid "Purge unconfirmed users"
+msgstr "Eliminar usuarios sin confirmar"
+
+#: loco:5357f9a0b7f9261b249a9818
+msgid "read or write messages"
+msgstr "lee o escribe mensajes"
+
+#: loco:53674f448509cbb0c7ffc658
+msgid "Read your messages in your [inbox] (%s)."
+msgstr "Lee los mensajes de tu [bandeja de entrada] (%s)."
+
+#: loco:5357f99fb7f9261b249a95f0
+msgid "Reason:"
+msgstr "Motivo:"
+
+#: loco:5357f99fb7f9261b249a9788
+msgid "Recent activity"
+msgstr "Actividad reciente"
+
+#: loco:5386f384ff90b259b5790ed9
+msgid "Recent Activity"
+msgstr "Actividad reciente"
+
+#: loco:53a55ae5ff90b259b57a97ed
+msgid "Recent activity at %s"
+msgstr "Actividad reciente a las %"
+
+#: loco:5357f9a0b7f9261b249a97ce
+msgid "Recommended Groups"
+msgstr "Grupos recomendados"
+
+#: loco:5357f9a0b7f9261b249a97cf
+msgid "Recommended Resources"
+msgstr "Recursos recomendados"
+
+#: loco:5357f9a0b7f9261b249a97d0
+msgid "Recommended Users"
+msgstr "Usuarios recomendados"
+
+#: loco:5357f99fb7f9261b249a96ca
+msgid "regenerate image"
+msgstr "volver a generar imagen"
+
+#: loco:53a55af6ff90b259b57a9b5f
+msgid "registered"
+msgstr "registrados"
+
+#: loco:5357f99fb7f9261b249a95f3
+msgid ""
+"Registration has been successful. A message has been sent to your email with "
+"further instructions how to activate your account."
+msgstr ""
+"El proceso de registro ha finalizado correctamente. Te hemos enviado un "
+"correo electrónico con instrucciones para activar la cuenta."
+
+#: loco:5357f99fb7f9261b249a95f4
+msgid "Reject friendship request"
+msgstr "Rechazar solicitud de amistad"
+
+#: loco:5357f9a0b7f9261b249a97d1
+msgid "Release information:"
+msgstr "Información de la versión:"
+
+#: loco:5357f99fb7f9261b249a96f0
+msgid "Reload the chat."
+msgstr "Vuelve a cargar el chat."
+
+#: loco:5357f99fb7f9261b249a9757
+msgid "Remember me"
+msgstr "Recuerda mis datos"
+
+#: loco:53a55ae5ff90b259b57a9804
+msgid "Remove all faded items."
+msgstr "Elimina todos los resultados atenuados."
+
+#: loco:53a55af6ff90b259b57a9b62
+msgid "remove screenshot"
+msgstr "eliminar captura de pantalla"
+
+#: loco:5357f99fb7f9261b249a9729
+msgid "Remove this message."
+msgstr "Eliminar este mensaje."
+
+#: loco:5357f99fb7f9261b249a96cb
+msgid "remove user from resource"
+msgstr "eliminar el usuario del recurso"
+
+#: loco:5357f99fb7f9261b249a95f6
+msgid "Repeat password:"
+msgstr "Repetir contraseña:"
+
+#: loco:5357f99fb7f9261b249a96cc
+msgid "reply"
+msgstr "responder"
+
+#: loco:5357f99fb7f9261b249a95f8
+msgid "Report about group %s, reason: %s"
+msgstr "Denuncia sobre el grupo %s. Motivo: %s"
+
+#: loco:5357f99fb7f9261b249a95f9
+msgid "Report about resource %s, reason: %s"
+msgstr "Denuncia sobre el recurso %s. Motivo: %s"
+
+#: loco:5357f99fb7f9261b249a95fa
+msgid "Report about user %s, reason: %s"
+msgstr "Denuncia sobre el usuario %s. Motivo: %s"
+
+#: loco:5357f99fb7f9261b249a95fb
+msgid "Report group"
+msgstr "Denunciar grupo"
+
+#: loco:5357f99fb7f9261b249a95fc
+msgid "Report resource"
+msgstr "Denunciar recurso"
+
+#: loco:5357f99fb7f9261b249a95fd
+msgid "Report user"
+msgstr "Denunciar usuario"
+
+#: loco:5357f99fb7f9261b249a95ff
+msgid "Request friendship"
+msgstr "Enviar solicitud de amistad"
+
+#: loco:5357f99fb7f9261b249a9600
+msgid "Request friendship again"
+msgstr "Volver a enviar solicitud de amistad"
+
+#: loco:5357f99fb7f9261b249a9601
+msgid "Request new password"
+msgstr "Solicitar nueva contraseña"
+
+#: loco:5357f99fb7f9261b249a972b
+msgid "Reset the filter and show the entire list."
+msgstr "Restablece el filtro y muestra la lista completa."
+
+#: loco:5357f99fb7f9261b249a976e
+msgid ""
+"Reset the search.<ul><li>The first click resets the search on this page.</"
+"li><li>The second click resets the search on all pages. </li></ul>"
+msgstr ""
+"Restablece la búsqueda.<ul><li>Con un clic se restablece la búsqueda en esta "
+"página.</li><li>Con el segundo clic se restablece la búsqueda en todas las "
+"páginas. </li></ul>"
+
+#: loco:5357f9a0b7f9261b249a9819
+msgid "reset to initial selection"
+msgstr "restablecer la selección inicial"
+
+#: loco:5357f99fb7f9261b249a96f9
+msgid "resource"
+msgstr "recurso"
+
+#: loco:5357f99fb7f9261b249a96f1
+msgid "Resource location on a map"
+msgstr "La ubicación del recurso en el mapa"
+
+#: loco:5357f9a0b7f9261b249a97d3
+msgid "Resource name cannot be empty!"
+msgstr "¡El recurso tiene que tener nombre!"
+
+#: loco:5357f99fb7f9261b249a9602
+msgid "Resource owner: "
+msgstr "Propietario del recurso:"
+
+#: loco:5357f99fb7f9261b249a9603
+msgid "Resource status"
+msgstr "Estado del recurso"
+
+#: loco:5357f99fb7f9261b249a9604
+msgid "Resource type:"
+msgstr "Tipo de recurso:"
+
+#: loco:5357f99fb7f9261b249a9605
+msgid "Resource updated"
+msgstr "Recurso actualizado"
+
+#: loco:5357f99fb7f9261b249a96cd
+msgid "restore from trash"
+msgstr "restaurar de la papelera"
+
+#: loco:5357f99fb7f9261b249a96e2
+msgid "Restrict your search to a location"
+msgstr "Restringe la búsqueda a una ubicación"
+
+#: loco:5357f99fb7f9261b249a972c
+msgid "Return to the home screen."
+msgstr "Volver a la página de inicio."
+
+#: loco:5357f99fb7f9261b249a9607
+msgid "Revoke request"
+msgstr "Cancelar solicitud de amistad"
+
+#: loco:53a55af6ff90b259b57a9b6d
+msgid "save"
+msgstr "guardar"
+
+#: loco:53a55ae6ff90b259b57a983f
+msgid "Save as view"
+msgstr "Guardar como vista"
+
+#: loco:53a55ae7ff90b259b57a9845
+msgid "Screenshot already exists."
+msgstr "La captura de pantalla ya existe."
+
+#: loco:5357f99fb7f9261b249a972d
+msgid "Screenshot processing."
+msgstr "Procesando la captura de pantalla..."
+
+#: loco:5357f99fb7f9261b249a960a
+msgid "Search Comments"
+msgstr "Buscar comentarios"
+
+#: loco:5357f99fb7f9261b249a96e3
+msgid "Search for a place"
+msgstr "Buscar un lugar"
+
+#: loco:5357f99fb7f9261b249a96e4
+msgid "Search for similar topics like your interests and around your location."
+msgstr "Buscar temas similares, como tus intereses y cerca de tu ubicación."
+
+#: loco:53a55af6ff90b259b57a9b70
+msgid "search for '%s'"
+msgstr "buscar \"%s\""
+
+#: loco:5357f9a0b7f9261b249a97d7
+msgid "Searched around your location."
+msgstr "Búsqueda cerca de tu ubicación."
+
+#: loco:5357f9a0b7f9261b249a9828
+msgid "Searched globally because not enough was found around your location."
+msgstr ""
+"Búsqueda global porque no se encontraron suficientes resultados cerca de tu "
+"ubicación."
+
+#: loco:5357f99fb7f9261b249a9767
+msgid "Security Question"
+msgstr "Pregunta de seguridad"
+
+#: loco:5357f99fb7f9261b249a960c
+msgid "See details about the user and respond to the request."
+msgstr "Ver información del usuario y responder a la solictud."
+
+#: loco:5357f99fb7f9261b249a960e
+msgid "Select a group for more details."
+msgstr "Selecciona un grupo para más información."
+
+#: loco:5357f99fb7f9261b249a960f
+msgid "Select a language of this resource."
+msgstr "Selecciona el idioma de este recurso."
+
+#: loco:5357f99fb7f9261b249a9610
+msgid "Select a language that will be used in this group for communication."
+msgstr "Selecciona el idioma de comunicación de este grupo."
+
+#: loco:5357f99fb7f9261b249a9611
+msgid "Select a resource for more details."
+msgstr "Selecciona un recurso para más información."
+
+#: loco:5357f99fb7f9261b249a9612
+msgid "Select a tag"
+msgstr "Seleccionar una etiqueta"
+
+#: loco:5357f99fb7f9261b249a972e
+msgid "Select a tag that describes a topic that this group is about."
+msgstr "Selecciona una etiqueta que describa uno de los temas de este grupo."
+
+#: loco:5357f99fb7f9261b249a972f
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr "Selecciona una etiqueta que describa uno de los temas de este recurso."
+
+#: loco:5357f99fb7f9261b249a9730
+msgid "Select a tag that describes one of your interests."
+msgstr "Selecciona una etiqueta que describa uno de tus intereses."
+
+#: loco:5357f99fb7f9261b249a9613
+msgid "Select a time"
+msgstr "Seleccionar una fecha y hora"
+
+#: loco:5357f99fb7f9261b249a9614
+msgid "Select a user for more details."
+msgstr "Selecciona el usuario para más información."
+
+#: loco:5357f99fb7f9261b249a9615
+msgid ""
+"Select one or more groups to subscribe to this resource. Only groups are "
+"displayed that you own or where you have at least moderator permissions."
+msgstr ""
+"Selecciona uno o más grupos para que se suscriban a este recurso. Solo se "
+"muestran los grupos de los que eres propietario o de los que tienes al menos "
+"permiso de moderador."
+
+#: loco:5357f99fb7f9261b249a9616
+msgid ""
+"Select one or more resources to unsubscribe. Only resources are displayed "
+"that this group is subscribed to. You can subscribe to resources on the "
+"detail page of a resource."
+msgstr ""
+"Selecciona uno o más recursos de los que quieras cancelar la suscripción. "
+"Solo se muestran los recursos a los que está suscrito el grupo. Puedes "
+"suscribirte a un recurso en la página de detalles del recurso."
+
+#: loco:5357f99fb7f9261b249a960d
+msgid "Select Parent Level"
+msgstr "Seleccionar nivel primario"
+
+#: loco:5357f99fb7f9261b249a9617
+msgid "Selected Location"
+msgstr "Ubicación seleccionada"
+
+#: loco:5357f99fb7f9261b249a9619
+msgid "Send a message to a friend"
+msgstr "Envía un mensaje a un amigo"
+
+#: loco:5357f9a0b7f9261b249a97d8
+msgid "Send a message to all members"
+msgstr "Envía un mensaje a todos los miembros"
+
+#: loco:5357f99fb7f9261b249a9763
+msgid "Send a private message to %s"
+msgstr "Envía un mensaje privado a %s"
+
+#: loco:5357f9a0b7f9261b249a97d9
+msgid "Send them a local message."
+msgstr "Enviarles un mensaje a la plataforma."
+
+#: loco:5357f9a0b7f9261b249a97da
+msgid "Send them an email."
+msgstr "Enviarles un correo electrónico."
+
+#: loco:53a55ae8ff90b259b57a9880
+msgid "Set up a cron on an external service:"
+msgstr "Utiliza un cronómetro de un servicio externo:"
+
+#: loco:5357f99fb7f9261b249a96ce
+msgid "Setup and Maintenance"
+msgstr "Configuración y mantenimiento"
+
+#: loco:5357f99fb7f9261b249a976d
+msgid ""
+"Show only messages by senders with matching names.<ul><li>Type to search "
+"only on this page.</li><li>Type and press enter to search on all pages.</"
+"li></ul>"
+msgstr ""
+"Muestra solo los mensajes de remitentes cuyo nombre coincida con el "
+"introducido.<ul><li>Escribe para buscar solo en esta página.</li><li>Escribe "
+"y pulsa Intro para buscar en todas las páginas.</li></ul>"
+
+#: loco:5357f99fb7f9261b249a96f2
+msgid "Show the location where you are right now."
+msgstr "Muestra la ubicación en la que te encuentras ahora."
+
+#: loco:5357f99fb7f9261b249a961c
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#: loco:5357f99fb7f9261b249a9769
+msgid "Sign in is disabled. Please try again later."
+msgstr "El inicio de sesión está desactivado. Inténtalo de nuevo más tarde."
+
+#: loco:5357f9a0b7f9261b249a981a
+msgid "sign in with Facebook"
+msgstr "iniciar sesión con Facebook"
+
+#: loco:5357f99fb7f9261b249a961d
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+#: loco:5357f99fb7f9261b249a961e
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: loco:5357f99fb7f9261b249a9768
+msgid "Sign up is disabled. Please try again later."
+msgstr "El registro está desactivado. Inténtalo de nuevo más tarde."
+
+#: loco:5357f99fb7f9261b249a96e5
+msgid "Similar to me"
+msgstr "Similares a mí"
+
+#: loco:5357f99fb7f9261b249a961f
+msgid "Software version:"
+msgstr "Versión de software:"
+
+#: loco:5357f99fb7f9261b249a9783
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr ""
+"Alguien ha tratado de iniciar sesión con tu nombre y una contraseña "
+"incorrecta."
+
+#: loco:53a55ae8ff90b259b57a989b
+msgid "Sort by Last Activity"
+msgstr "Ordenar por última actividad"
+
+#: loco:53a55ae8ff90b259b57a989e
+msgid "Sort by Name"
+msgstr "Ordenar por nombre"
+
+#: loco:53a55ae8ff90b259b57a98a1
+msgid "Sort by Subscribers"
+msgstr "Ordenar por suscriptores"
+
+#: loco:5357f99fb7f9261b249a9758
+msgid "sound on Soundcloud"
+msgstr "audio de Soundcloud"
+
+#: loco:5357f99eb7f9261b249a9539
+msgid "(spam)"
+msgstr "(spam)"
+
+#: loco:5357f99fb7f9261b249a9620
+msgid "Specified user not found."
+msgstr "No se ha encontrado el usuario especificado."
+
+#: loco:5357f9a0b7f9261b249a97dc
+msgid ""
+"Stand by for scheduled maintenance in %s minutes and %s seconds. Please "
+"finish your activities."
+msgstr ""
+"Parada programada por tareas de mantenimiento en %s minutos y %s segundos. "
+"Finaliza tus actividades."
+
+#: loco:5357f9a0b7f9261b249a97dd
+msgid "Start:"
+msgstr "Empieza:"
+
+#: loco:5357f99fb7f9261b249a9623
+msgid "Subscribe as group"
+msgstr "Suscribirse como grupo"
+
+#: loco:5357f99fb7f9261b249a9624
+msgid "Subscribe to resource"
+msgstr "Suscribirse a recurso"
+
+#: loco:5357f99fb7f9261b249a96cf
+msgid "subscribed"
+msgstr "suscrito"
+
+#: loco:5357f9a0b7f9261b249a981b
+msgid "subscribed events"
+msgstr "eventos a los que me he suscrito"
+
+#: loco:5357f99fb7f9261b249a9625
+msgid "Subscribed Groups"
+msgstr "Grupos suscritos"
+
+#: loco:5357f99fb7f9261b249a9627
+msgid "Subscribed to resources"
+msgstr "Suscripciones a recursos"
+
+#: loco:5357f99fb7f9261b249a9626
+msgid "Subscribed Users"
+msgstr "Usuarios suscritos"
+
+#: loco:53a55af6ff90b259b57a9b79
+msgid "subscribers"
+msgstr "suscriptores"
+
+#: loco:5357f99fb7f9261b249a9629
+msgid "Subscriptions as group"
+msgstr "Suscripciones del grupo"
+
+#: loco:5357f9a0b7f9261b249a97df
+msgid "Success!"
+msgstr "¡Bien!"
+
+#: loco:5357f99fb7f9261b249a962b
+msgid "Surname:"
+msgstr "Apellido/s:"
+
+#: loco:5357f99fb7f9261b249a962c
+msgid "System check"
+msgstr "Comprobación del sistema"
+
+#: loco:5357f99fb7f9261b249a9732
+msgid "System check finished."
+msgstr "Finalizada la comprobación del sistema."
+
+#: loco:5357f9a0b7f9261b249a97e2
+msgid "System check finished. Find the results below."
+msgstr "Finalizada la comprobación del sistema. Los resultados están debajo."
+
+#: loco:5357f99fb7f9261b249a962d
+msgid "System message: Warning!!!"
+msgstr "Mensaje del sistema: ¡Advertencia!"
+
+#: loco:5357f99fb7f9261b249a9734
+msgid "System message: You've received a warning."
+msgstr "Mensaje del sistema: Has recibido una advertencia."
+
+#: loco:5357f99fb7f9261b249a9733
+msgid "System message: You've received a warning about your group."
+msgstr "Mensaje del sistema: Has recibido una advertencia de tu grupo."
+
+#: loco:5357f99fb7f9261b249a962f
+msgid "Tag name:"
+msgstr "Nombre de la etiqueta:"
+
+#: loco:53a55ae9ff90b259b57a98d6
+msgid "Tag not found."
+msgstr "No se ha encontrado la etiqueta."
+
+#: loco:5357f99fb7f9261b249a9735
+msgid "Tag \"%s\" saved."
+msgstr "Se ha guardado la etiqueta \"%s\"."
+
+#: loco:53a55af6ff90b259b57a9b7c
+msgid "tag1, tag2, ..."
+msgstr "etiqueta1, etiqueta2, ..."
+
+#: loco:5357f99fb7f9261b249a96d0
+msgid "tag_name"
+msgstr "tag_name"
+
+#: loco:5357f99fb7f9261b249a9631
+msgid "Tell us why you report this group, including examples:"
+msgstr "Cuéntanos por qué vas a denunciar al grupo, con ejemplos:"
+
+#: loco:5357f99fb7f9261b249a9632
+msgid "Tell us why you report this resource, including examples:"
+msgstr "Cuéntanos por qué vas a denunciar el recurso, con ejemplos:"
+
+#: loco:5357f99fb7f9261b249a9633
+msgid "Tell us why you report this user, including examples:"
+msgstr "Cuéntanos por qué vas a denunciar al usuario, con ejemplos:"
+
+#: loco:5357f99fb7f9261b249a978a
+msgid "Terms of Use"
+msgstr "Condiciones de uso"
+
+#: loco:5357f99fb7f9261b249a9737
+msgid "Test locale"
+msgstr "Comprobar configuración regional"
+
+#: loco:5357f99fb7f9261b249a9738
+msgid "Test the import in a dry run"
+msgstr "Realiza una ejecución de prueba de la importación"
+
+#: loco:5357f99fb7f9261b249a9634
+msgid "Text:"
+msgstr "Texto:"
+
+#: loco:53a55af6ff90b259b57a9b81
+msgid "text information"
+msgstr "información textual"
+
+#: loco:5357f99fb7f9261b249a9765
+msgid ""
+"The administrator asks you to answer a security question before you can "
+"enter."
+msgstr ""
+"El administrador te pide que respondas a una pregunta de seguridad antes de "
+"poder entrar."
+
+#: loco:5357f99fb7f9261b249a96f3
+msgid "The chat is only visible to group members."
+msgstr "El chat es solo visible para los miembros del grupo."
+
+#: loco:53a55aeaff90b259b57a98f0
+msgid "The email address has been succesfully changed."
+msgstr "La dirección de correo electrónico se ha cambiado correctamente."
+
+#: loco:53a55aeaff90b259b57a98f3
+msgid "The email address is not valid. Please check it and try again."
+msgstr ""
+"La dirección de correo electrónico no es válida. Compruébala e inténtalo de "
+"nuevo."
+
+#: loco:53a55aeaff90b259b57a98f6
+msgid "The email couldn't be changed!"
+msgstr "No se pudo cambiar la dirección de correo electrónico."
+
+#: loco:53a55aeaff90b259b57a98f9
+msgid "The event is in the future."
+msgstr "Evento futuro."
+
+#: loco:53a55aeaff90b259b57a98fc
+msgid "The event is over."
+msgstr "El evento ha terminado."
+
+#: loco:53a55aeaff90b259b57a98ff
+msgid "The event is upcoming."
+msgstr "Evento próximo."
+
+#: loco:5357f9a0b7f9261b249a981f
+msgid "The following items could be interesting for you:"
+msgstr "Puede que esto sea de tu interés:"
+
+#: loco:53664a438509cbb0c7ffbd4e
+msgid "%s has left the group. Good-bye!"
+msgstr "%s ha abandonado el grupo. ¡Adiós!"
+
+#: loco:5357f99fb7f9261b249a977a
+msgid "The group added a resource."
+msgstr "El grupo ha añadido un recurso."
+
+#: loco:5357f99fb7f9261b249a977b
+msgid "The group chat has new messages."
+msgstr "El chat del grupo tiene nuevos mensajes."
+
+#: loco:53664a018509cbb0c7ffbd48
+msgid "The group has subscribed to the resource %s."
+msgstr "El grupo se ha suscrito al recurso %s."
+
+#: loco:53664a168509cbb0c7ffbd4a
+msgid "The group has unsubscribed from the following resources:"
+msgstr "El grupo ha cancelado la suscripción de los siguientes recursos:"
+
+#: loco:5357f99fb7f9261b249a9781
+msgid "The group information was updated."
+msgstr "Se ha actualizado la información del grupo."
+
+#: loco:5357f9a0b7f9261b249a97e4
+msgid "The group unsubscribed from a resource."
+msgstr "El grupo ha cancelado la suscripción a un recurso."
+
+#: loco:5357f99fb7f9261b249a9780
+msgid "The group unsubscribed from the resource."
+msgstr "El grupo ha cancelado la suscripción al recurso."
+
+#: loco:5357f9a0b7f9261b249a97e5
+msgid "The group was updated."
+msgstr "Se ha actualizado el grupo."
+
+#: loco:5357f99fb7f9261b249a9739
+msgid "The image is too big! Max. size for upload is %s"
+msgstr "¡La imagen es muy grande! El tamaño máximo es de %s"
+
+#: loco:5357f99fb7f9261b249a96f4
+msgid "The image is too big! Max. size is for upload is %s"
+msgstr "¡La imagen es muy grande! El tamaño máximo es de %s"
+
+#: loco:5357f99fb7f9261b249a973a
+msgid "The image is too small! Min. size for upload is %s"
+msgstr "¡La imagen es muy pequeña! El tamaño mínimo es de %s"
+
+#: loco:5357f99fb7f9261b249a9635
+msgid "The image is too small. Minimum size is %s."
+msgstr "¡La imagen es muy pequeña! El tamaño mínimo es de %s"
+
+#: loco:5357f99fb7f9261b249a9636
+msgid ""
+"The main language you want to use. You will still be able to see other "
+"languages."
+msgstr ""
+"El idioma principal que quieres usar. Podrás seguir viendo otros idiomas."
+
+#: loco:5357f99fb7f9261b249a9637
+msgid "The minimal length of your username is %s characters."
+msgstr "La longitud mínima del nombre de usuario es de %s caracteres."
+
+#: loco:5357f99fb7f9261b249a976c
+msgid ""
+"The page you requested could not be found. Please correct the address, "
+"return to the previous page, or go back home."
+msgstr ""
+"No se ha encontrado la página solicitada. Corrige la dirección, vuelve a la "
+"página anterior o bien a la página de inicio."
+
+#: loco:53a55aebff90b259b57a991c
+msgid "The password couldn't be changed! Try again later."
+msgstr "No se ha podido cambiar la contraseña. Inténtalo de nuevo más tarde."
+
+#: loco:53a55aebff90b259b57a991f
+msgid "The password has been successfully changed."
+msgstr "La contraseña se ha cambiado correctamente."
+
+#: loco:5357f9a0b7f9261b249a97e6
+msgid "The password is wrong."
+msgstr "La contraseña es errónea."
+
+#: loco:5357f99fb7f9261b249a95f1
+msgid "The registration couldn't be finished! Link is not active anymore."
+msgstr ""
+"No se pudo terminar el proceso de registro. El enlace ya no está activo."
+
+#: loco:53a55aebff90b259b57a9926
+msgid "The registration couldn't be finished! The link is not active anymore."
+msgstr ""
+"No se pudo terminar el proceso de registro. El enlace ya no está activo."
+
+#: loco:5357f99fb7f9261b249a95f2
+msgid "The registration has been successful. You can now sign in."
+msgstr "El registro se ha completado correctamente. Ya puedes iniciar sesión."
+
+#: loco:5357f99fb7f9261b249a977c
+msgid "The resource has new comments."
+msgstr "Hay nuevos comentarios en el recurso."
+
+#: loco:5357f99fb7f9261b249a9782
+msgid "The resource information was updated."
+msgstr "Se ha actualizado la información del recurso."
+
+#: loco:5357f9a0b7f9261b249a97e7
+msgid "The resource was updated."
+msgstr "Se ha actualizado el recurso."
+
+#: loco:5357f9a0b7f9261b249a982c
+msgid "The screenshot has been removed."
+msgstr "Se ha eliminado la captura de pantalla."
+
+#: loco:5357f99fb7f9261b249a973b
+msgid "The tag cannot be its own parent."
+msgstr "La etiqueta no puede ser su propia etiqueta primaria."
+
+#: loco:5357f99fb7f9261b249a9638
+msgid "The username cannot be changed."
+msgstr "El nombre de usuario no se puede cambiar."
+
+#: loco:5357f99fb7f9261b249a973c
+msgid "There are unread reports:"
+msgstr "Hay denuncias sin leer:"
+
+#: loco:5357f9a0b7f9261b249a97e8
+msgid ""
+"There has been an error sending the confirmation email. Please try again in "
+"a while."
+msgstr ""
+"Error al enviar el correo de confirmación. Inténtalo de nuevo más tarde."
+
+#: loco:53a55aebff90b259b57a9937
+msgid "There is a problem with your avatar."
+msgstr "Hay un problema con el avatar."
+
+#: loco:5357f99fb7f9261b249a97ae
+msgid ""
+"These files are public. If you want to prevent others from seeing them, you "
+"should choose a file name that is hard to guess."
+msgstr ""
+"Estos archivos son públicos. Si no quieres que los demás los vean, ponles un "
+"nombre que sea difícil de adivinar."
+
+#: loco:5357f9a0b7f9261b249a9832
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr ""
+"Estos mensajes aparecerán en el registro de actividad de todos los usuarios."
+
+#: loco:53a55aecff90b259b57a9941
+msgid "This email address is already used for another account."
+msgstr "Esta dirección de correo electrónico ya se utiliza para otra cuenta."
+
+#: loco:53a55aecff90b259b57a9944
+msgid "This email address is not registered in our system!"
+msgstr ""
+"¡Esta dirección de correo electrónico no está registrada en nuestro sistema!"
+
+#: loco:53a55aecff90b259b57a9947
+msgid "This email address is not valid. Please check it and try again."
+msgstr ""
+"La dirección de correo electrónico no es válida. Compruébala e inténtalo de "
+"nuevo."
+
+#: loco:5357f99fb7f9261b249a963c
+msgid ""
+"This group can only be viewed by members. Users need to have the key below "
+"to become members."
+msgstr ""
+"Solo los miembros pueden ver el grupo. Los usuarios necesitan tener la clave "
+"de acceso de abajo para convertirse en miembros."
+
+#: loco:5357f99fb7f9261b249a973d
+msgid "This group contains wrong information."
+msgstr "El grupo contiene información errónea."
+
+#: loco:5357f99fb7f9261b249a963d
+msgid "This group doesn't have a key."
+msgstr "El grupo no tiene clave."
+
+#: loco:5357f99fb7f9261b249a963e
+msgid "This group violates the rules of conduct."
+msgstr "El grupo infringe las normas de conducta."
+
+#: loco:5357f99fb7f9261b249a963f
+msgid "This group was created by mistake, or it is inactive."
+msgstr "El grupo se creó por error o se encuentra inactivo."
+
+#: loco:5357f99fb7f9261b249a973e
+msgid "This is my group."
+msgstr "Este es mi grupo."
+
+#: loco:5357f99fb7f9261b249a9640
+msgid "This is my profile."
+msgstr "Este es mi perfil."
+
+#: loco:5357f99fb7f9261b249a973f
+msgid "This is my resource."
+msgstr "Este es mi recurso."
+
+#: loco:5357f99fb7f9261b249a9641
+msgid "This is not a real group but spam."
+msgstr "No es un grupo real, es spam."
+
+#: loco:5357f99fb7f9261b249a9642
+msgid "This is not a real person but spam."
+msgstr "No es una persona de verdad, es spam."
+
+#: loco:5357f99fb7f9261b249a9643
+msgid "This is not a real resource but spam."
+msgstr "No es un recurso real, es spam."
+
+#: loco:5357f99fb7f9261b249a9644
+msgid "This person violates the rules of conduct."
+msgstr "Esta persona está infringiendo las normas de conducta."
+
+#: loco:5357f9a0b7f9261b249a97e9
+msgid "This person was created by mistake."
+msgstr "Este usuario se creó por error."
+
+#: loco:5357f99fb7f9261b249a9645
+msgid "This person was created by mistake, or he/she is inactive."
+msgstr "Este usuario se creó por error o se encuentra inactivo."
+
+#: loco:5357f99fb7f9261b249a9740
+msgid "This resource contains wrong information."
+msgstr "El recurso contiene información errónea."
+
+#: loco:5357f99fb7f9261b249a9646
+msgid "This resource doesn't exist."
+msgstr "El recurso no existe."
+
+#: loco:5357f99fb7f9261b249a9647
+msgid "This resource violates the rules of conduct."
+msgstr "El recurso infringe las normas de conducta."
+
+#: loco:5357f99fb7f9261b249a9648
+msgid "This resource was created by mistake, or it is inactive."
+msgstr "El recurso se creó por error o se encuentra inactivo."
+
+#: loco:5357f99fb7f9261b249a9649
+msgid "This user doesn't exist."
+msgstr "El usuario no existe."
+
+#: loco:53a55aecff90b259b57a996a
+msgid "This username is not registered in our system!"
+msgstr "El nombre de usuario no está registrado en el sistema."
+
+#: loco:5357f99fb7f9261b249a9741
+msgid "This was just a dry run - nothing was saved."
+msgstr "Ejecución de prueba: no se ha guardado nada."
+
+#: loco:5357f99fb7f9261b249a96f5
+msgid "Time:"
+msgstr "Fecha y hora:"
+
+#: loco:5357f99fb7f9261b249a964b
+msgid "Time Zone"
+msgstr "Huso horario"
+
+#: loco:5357f99fb7f9261b249a964d
+msgid "To:"
+msgstr "Para:"
+
+#: loco:5357f99fb7f9261b249a964c
+msgid "To this address we will send a request to confirm your registration."
+msgstr ""
+"Enviaremos a esta dirección una solicitud de confirmación del registro."
+
+#: loco:5357f9a0b7f9261b249a981c
+msgid "today"
+msgstr "hoy"
+
+#: loco:53a55af7ff90b259b57a9b86
+msgid "toggle chat window"
+msgstr "mostrar/ocultar chat"
+
+#: loco:53a55aedff90b259b57a997e
+msgid "Too many failed login attempts. Please try again later."
+msgstr ""
+"Has tratado de iniciar sesión muchas veces. Inténtalo de nuevo más tarde."
+
+#: loco:53a55aedff90b259b57a9981
+msgid ""
+"Too many messages? You can change the schedule on your [profile page](%s)."
+msgstr ""
+"¿Recibes muchos mensajes? Cambia la frecuencia en tu [página de perfil] (%s)."
+
+#: loco:5357f99fb7f9261b249a964e
+msgid "Top Groups"
+msgstr "Grupos destacados"
+
+#: loco:5357f99fb7f9261b249a96d1
+msgid "top level"
+msgstr "nivel superior"
+
+#: loco:5357f99fb7f9261b249a964f
+msgid "Top Resources"
+msgstr "Recursos destacados"
+
+#: loco:5357f99fb7f9261b249a9650
+msgid "Top Users"
+msgstr "Usuarios destacados"
+
+#: loco:5357f99fb7f9261b249a9759
+msgid "total"
+msgstr "total"
+
+#: loco:5357f99fb7f9261b249a9652
+msgid "Trash emptied."
+msgstr "Papelera vacía."
+
+#: loco:5357f99fb7f9261b249a9653
+msgid "Try a different filter."
+msgstr "Prueba con otro filtro."
+
+#: loco:53a55aedff90b259b57a9998
+msgid "Type your text here."
+msgstr "Escribe el texto aquí."
+
+#: loco:5357f99fb7f9261b249a9657
+msgid "Unblock this user"
+msgstr "Desbloquear usuario"
+
+#: loco:5357f9a0b7f9261b249a981d
+msgid "unfinished registration"
+msgstr "registro sin finalizar"
+
+#: loco:5357f99fb7f9261b249a9659
+msgid "Unsubscribe from resource"
+msgstr "Cancelar suscripción al recurso"
+
+#: loco:5357f99fb7f9261b249a9744
+msgid "Update languages"
+msgstr "Actualizar idiomas"
+
+#: loco:5357f99fb7f9261b249a965b
+msgid "Upload Avatar:"
+msgstr "Cargar avatar:"
+
+#: loco:5357f99fb7f9261b249a965c
+msgid "Upload group image:"
+msgstr "Cargar imagen del grupo:"
+
+#: loco:5357f99fb7f9261b249a9742
+msgid "URL doesn't seem to exist"
+msgstr "El URL no existe"
+
+#: loco:5357f99fb7f9261b249a9655
+msgid "URL must start with http:// or https://!"
+msgstr "¡El URL debe empezar por http:// o https://!"
+
+#: loco:5357f99fb7f9261b249a9656
+msgid "URL to external source:"
+msgstr "URL a fuente externa:"
+
+#: loco:5357f99fb7f9261b249a96f6
+msgid "Use the filter to narrow down the list of items"
+msgstr "Utiliza el filtro para restringir la lista de elementos"
+
+#: loco:5357f99fb7f9261b249a96fb
+msgid "user"
+msgstr "usuario"
+
+#: loco:5357f99fb7f9261b249a9745
+msgid "User Forum:"
+msgstr "Foro del usuario:"
+
+#: loco:5357f99fb7f9261b249a96e6
+msgid "User has been deactivated"
+msgstr "El usuario se ha desactivado"
+
+#: loco:5357f99fb7f9261b249a9663
+msgid "User lost password"
+msgstr "Contraseña perdida del usuario"
+
+#: loco:5357f99fb7f9261b249a9664
+msgid "User permissions"
+msgstr "Permisos del usuario"
+
+#: loco:5357f99fb7f9261b249a9665
+msgid "User permissions changed."
+msgstr "Se han modificado los permisos del usuario."
+
+#: loco:5357f99fb7f9261b249a96e7
+msgid "User role"
+msgstr "Función del usuario"
+
+#: loco:5357f99fb7f9261b249a9666
+msgid "User signin"
+msgstr "Inicio de sesión del usuario"
+
+#: loco:5357f99fb7f9261b249a9661
+msgid "User Signup"
+msgstr "Registro del usuario"
+
+#: loco:5357f99fb7f9261b249a9662
+msgid "User status"
+msgstr "Estado del usuario"
+
+#: loco:5357f99fb7f9261b249a9667
+msgid "User update"
+msgstr "Actualización del usuario"
+
+#: loco:5357f99fb7f9261b249a9668
+msgid "User updated"
+msgstr "Usuario actualizado"
+
+#: loco:5357f99fb7f9261b249a9669
+msgid "User with the same name already exists."
+msgstr "Ya existe un usuario con el mismo nombre."
+
+#: loco:5357f99fb7f9261b249a965d
+msgid "User %s accepted your friendship."
+msgstr "El usuario %s ha aceptado tu solicitud de amistad."
+
+#: loco:5357f99fb7f9261b249a965e
+msgid "User %s canceled your friendship."
+msgstr "El usuario %s te ha eliminado de sus amigos."
+
+#: loco:5357f99fb7f9261b249a965f
+msgid "User %s rejected your friendship."
+msgstr "El usuario %s ha rechazado tu solicitud de amistad."
+
+#: loco:5357f99fb7f9261b249a9660
+msgid "User %s requested your friendship."
+msgstr "El usuario %s te ha enviado una solicitud de amistad."
+
+#: loco:5357f99fb7f9261b249a966c
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: loco:5357f99fb7f9261b249a966b
+msgid "Username cannot be empty!"
+msgstr "¡El campo nombre de usuario no puede estar vacío!"
+
+#: loco:5357f99fb7f9261b249a966a
+msgid "User's location on a map"
+msgstr "La ubicación del usuario en el mapa"
+
+#: loco:53a55af7ff90b259b57a9b91
+msgid "video"
+msgstr "vídeo"
+
+#: loco:53a55aeeff90b259b57a99d7
+msgid "Video/Audio"
+msgstr "Vídeo/Audio"
+
+#: loco:53a55af7ff90b259b57a9b98
+msgid "video/audio"
+msgstr "vídeo/audio"
+
+#: loco:5357f99fb7f9261b249a975a
+msgid "video on Vimeo"
+msgstr "vídeo de Vimeo"
+
+#: loco:5357f99fb7f9261b249a975b
+msgid "video on YouTube"
+msgstr "vídeo de YouTube"
+
+#: loco:5357f99fb7f9261b249a9746
+msgid "View big screenshot"
+msgstr "Ver la captura de pantalla en grande"
+
+#: loco:5357f99fb7f9261b249a966e
+msgid "View details."
+msgstr "Ver detalles."
+
+#: loco:5357f99fb7f9261b249a966f
+msgid "View group owner:"
+msgstr "Ver propietario del grupo:"
+
+#: loco:5357f9a0b7f9261b249a9821
+msgid "View profile"
+msgstr "Ver perfil"
+
+#: loco:5357f99fb7f9261b249a9670
+msgid "View resource owner:"
+msgstr "Ver propietario del recurso:"
+
+#: loco:5357f99fb7f9261b249a975c
+msgid "visbility 'friends'"
+msgstr "visibilidad 'amigos'"
+
+#: loco:5357f99fb7f9261b249a975d
+msgid "visbility 'members'"
+msgstr "visibilidad 'miembros'"
+
+#: loco:5357f99fb7f9261b249a975e
+msgid "visbility 'registered'"
+msgstr "visibilidad 'registrados'"
+
+#: loco:5357f99fb7f9261b249a975f
+msgid "visbility 'susbcribed'"
+msgstr "visibilidad 'suscritos'"
+
+#: loco:5357f99fb7f9261b249a9760
+msgid "visbility 'world'"
+msgstr "visibilidad 'público'"
+
+#: loco:5357f99fb7f9261b249a9671
+msgid "Visibility:"
+msgstr "Visibilidad:"
+
+#: loco:5357f99fb7f9261b249a96d2
+msgid "visible to the world"
+msgstr "público"
+
+#: loco:5357f9a0b7f9261b249a97ef
+msgid "Visit Homepage"
+msgstr "Visitar página"
+
+#: loco:5357f99fb7f9261b249a9673
+msgid ""
+"We have received complaints about inappropriate language in your resource. "
+"Please make necessary adjustments or your resource will be deactivated."
+msgstr ""
+"Nos han llegado quejas sobre lenguaje inapropiado en tu recurso. Realiza las "
+"modificaciones pertinentes o desactivaremos el recurso."
+
+#: loco:5357f99fb7f9261b249a9672
+msgid ""
+"We have received complaints about inapproprite language in your group. "
+"Please make neccessary adjustments or your group will be deactivated."
+msgstr ""
+"Nos han llegado quejas sobre lenguaje inapropiado en tu grupo. Realiza las "
+"modificaciones pertinentes o desactivaremos el grupo."
+
+#: loco:5357f99fb7f9261b249a9674
+msgid ""
+"We have received complaints about you spaming other users. Please stop or "
+"your account will be deactivated."
+msgstr ""
+"Nos han llegado quejas de spam a otros usuarios. Te rogamos que dejes de "
+"hacerlo o desactivaremos tu cuenta."
+
+#: loco:5357f99fb7f9261b249a9675
+msgid ""
+"We have received complaints that you use inappropriate language. Please stop "
+"or your account will be deactivated."
+msgstr ""
+"Nos han llegado quejas de que utilizas lenguaje inapropiado. Te rogamos que "
+"dejes de hacerlo o desactivaremos tu cuenta."
+
+#: loco:5357f99fb7f9261b249a9676
+msgid ""
+"We have received complaints that your group contains spam. Please delete "
+"inappropriate content or your group will be deactivated."
+msgstr ""
+"Nos han llegado quejas de que en tu grupo hay spam. Borra el contenido "
+"inapropiado o desactivaremos tu grupo."
+
+#: loco:5357f99fb7f9261b249a9677
+msgid ""
+"We have received complaints that your resource contains spam. Please delete "
+"inappropriate content or your resource will be deactivated."
+msgstr ""
+"Nos han llegado quejas de que en tu recurso hay spam. Borra el contenido "
+"inapropiado o desactivaremos tu recurso."
+
+#: loco:5357f99fb7f9261b249a9771
+msgid ""
+"We have resent your confirmation email - just in case you didn't get it "
+"before."
+msgstr ""
+"Te hemos vuelto a enviar el correo de confirmación por si no lo habías "
+"recibido antes."
+
+#: loco:5357f99fb7f9261b249a9747
+msgid "Web Statistics"
+msgstr "Estadísticas de la web"
+
+#: loco:5357f9a0b7f9261b249a981e
+msgid "week"
+msgstr "semana"
+
+#: loco:53a55af7ff90b259b57a9ba9
+msgid "world"
+msgstr "público"
+
+#: loco:5357f99fb7f9261b249a9679
+msgid "Write some lines about your life, your work and your interests."
+msgstr "Escribe unas líneas acerca de tu vida, tu trabajo y tus intereses."
+
+#: loco:5357f99fb7f9261b249a967a
+msgid "Wrong email format!"
+msgstr "Formato de correo electrónico incorrecto"
+
+#: loco:5357f99fb7f9261b249a96d3
+msgid "wrote"
+msgstr "escribió"
+
+#: loco:5357f99fb7f9261b249a9761
+msgid "%s new messages"
+msgstr "%s mensajes nuevos"
+
+#: loco:53a55ad7ff90b259b57a9523
+msgid "%d result(s) found"
+msgstr "Resultados encontrados: %d"
+
+#: loco:5357f99fb7f9261b249a978b
+msgid "%d user(s) purged."
+msgstr "Usuarios eliminados: %d."
+
+#: loco:53a55af7ff90b259b57a9bac
+msgid "yesterday"
+msgstr "ayer"
+
+#: loco:5357f99fb7f9261b249a9773
+msgid "You accepted %s's friendship."
+msgstr "Has aceptado la solicitud de amistad de %s."
+
+#: loco:5357f99fb7f9261b249a9748
+msgid "You are a moderator on this platform."
+msgstr "Eres moderador en esta plataforma."
+
+#: loco:5357f99fb7f9261b249a967b
+msgid "You are already a member."
+msgstr "Ya perteneces a este grupo."
+
+#: loco:5357f99fb7f9261b249a9749
+msgid "You are an administrator on this platform."
+msgstr "Eres administrador en esta plataforma."
+
+#: loco:5357f9a0b7f9261b249a97f2
+msgid "You are not allowed to edit this group."
+msgstr "No tienes permiso para editar este grupo."
+
+#: loco:5357f9a0b7f9261b249a982b
+msgid "You are not allowed to edit this resource."
+msgstr "No tienes permiso para editar este recurso."
+
+#: loco:5357f9a0b7f9261b249a97f3
+msgid "You are not allowed to edit this user."
+msgstr "No tienes permiso para editar este usuario."
+
+#: loco:5357f99fb7f9261b249a967c
+msgid "You are not allowed to see the members."
+msgstr "No tienes permiso para ver a los miembros."
+
+#: loco:5357f99fb7f9261b249a967d
+msgid "You are not allowed to see the memberships."
+msgstr "No tienes permiso para ver quién pertence al grupo."
+
+#: loco:5357f99fb7f9261b249a967e
+msgid "You are not allowed to see the subscribed groups."
+msgstr "No tienes permiso para ver los grupos suscritos."
+
+#: loco:5357f99fb7f9261b249a967f
+msgid "You are not allowed to see the subscribed users."
+msgstr "No tienes permiso para ver a los usuarios suscritos."
+
+#: loco:5357f99fb7f9261b249a9680
+msgid "You are not allowed to see the subscriptions."
+msgstr "No tienes permiso para ver las suscripciones."
+
+#: loco:5357f99fb7f9261b249a9681
+msgid "You are not allowed to view this group."
+msgstr "No tienes permiso para ver este grupo."
+
+#: loco:5357f99fb7f9261b249a9682
+msgid "You are not allowed to view this resource."
+msgstr "No tienes permiso para ver este recurso."
+
+#: loco:5357f99fb7f9261b249a9683
+msgid "You are not allowed to view this user."
+msgstr "No tienes permiso para ver a este usuario."
+
+#: loco:5357f99fb7f9261b249a9684
+msgid "You can only send messages to friends."
+msgstr "Solo puedes mandar mensajes a amigos."
+
+#: loco:5357f9a0b7f9261b249a97f4
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr ""
+"Puedes recibir un correo electrónico cuando haya mensajes sin leer en la "
+"bandeja de entrada."
+
+#: loco:53a55af0ff90b259b57a9a20
+msgid "You can reply only to friends."
+msgstr "Solo puedes responder a amigos."
+
+#: loco:5357f99fb7f9261b249a9775
+msgid "You canceled the friendship with %s."
+msgstr "Has eliminado a %s de tus amigos."
+
+#: loco:5357f99fb7f9261b249a977e
+msgid "You created a new group."
+msgstr "Has creado un nuevo grupo."
+
+#: loco:5357f99fb7f9261b249a977d
+msgid "You created a new resource."
+msgstr "Has creado un nuevo recurso."
+
+#: loco:5357f99fb7f9261b249a9685
+msgid "You currently block this user."
+msgstr "Tienes bloqueado a este usuario."
+
+#: loco:5357f99fb7f9261b249a976b
+msgid ""
+"You do not have permission to view this page. Please try contact the web "
+"site administrator if you believe you should be able to view this page."
+msgstr ""
+"No tienes permiso para ver esta página. Contacta con el administrador del "
+"sitio si crees que deberías poder ver la página."
+
+#: loco:5357f9a0b7f9261b249a97f5
+msgid "You entered the wrong captcha."
+msgstr "Has introducido el captcha incorrecto."
+
+#: loco:5357f9a0b7f9261b249a97f6
+msgid ""
+"You first need to confirm your registration. Please check your email account "
+"and click on the link of the confirmation email."
+msgstr ""
+"Es necesario que confirmes el registro primero. Comprueba tu cuenta de "
+"correo y haz clic en el enlace que aparece en el correo de confirmación."
+
+#: loco:536528108509cbb0c7ffb9ce
+msgid "You have 1 unread message!"
+msgstr "¡Tienes 1 mensaje sin leer!"
+
+#: loco:5357f99fb7f9261b249a9686
+msgid "You have entered a wrong key."
+msgstr "Has introducido una clave errónea."
+
+#: loco:5357f99fb7f9261b249a9687
+msgid "You have joined the group."
+msgstr "Te has unido al grupo."
+
+#: loco:53a55af0ff90b259b57a9a36
+msgid "You have just said that."
+msgstr "Acabas de decirlo."
+
+#: loco:536750938509cbb0c7ffc662
+msgid "You have unread messages at %s"
+msgstr "Tienes mensajes sin leer en %s"
+
+#: loco:5357f99fb7f9261b249a9688
+msgid ""
+"You have no friends yet. You can start sending messages only after someone "
+"has accepted your friendship request."
+msgstr ""
+"Aún no tienes amigos. Solo puedes enviar mensajes una vez que alguien haya "
+"aceptado tu solicitud de amistad."
+
+#: loco:5357f99fb7f9261b249a9689
+msgid "You have no permission to create a resource."
+msgstr "No tienes permiso para crear un recurso."
+
+#: loco:5357f99fb7f9261b249a968a
+msgid "You have no permission to create groups."
+msgstr "No tienes permiso para crear grupos."
+
+#: loco:5357f9a0b7f9261b249a97f7
+msgid "You have no permission to create public resources."
+msgstr "No tienes permiso para crear recursos públicos."
+
+#: loco:5357f99fb7f9261b249a968b
+msgid "You have no permission to create resources."
+msgstr "No tienes permiso para crear recursos."
+
+#: loco:53657da28509cbb0c7ffb9d4
+msgid "You receive this email because you have signed up at %s."
+msgstr "Has recibido este correo electrónico porque te has registrado en %s."
+
+#: loco:5357f9a0b7f9261b249a97f8
+msgid "You have %d unread messages!"
+msgstr "¡Tienes %d mensajes sin leer!"
+
+#: loco:5357f99fb7f9261b249a9776
+msgid "You joined the group."
+msgstr "Te has unido al grupo."
+
+#: loco:53a55af0ff90b259b57a9a44
+msgid "You just said that."
+msgstr "Acabas de decirlo."
+
+#: loco:5357f99fb7f9261b249a9778
+msgid "You left the group."
+msgstr "Has abandonado el grupo."
+
+#: loco:5357f99fb7f9261b249a968c
+msgid "You need to log in to send messages."
+msgstr "Tienes que iniciar sesión para mandar mensajes."
+
+#: loco:5357f99fb7f9261b249a968d
+msgid "You need to subscribe in order to comment."
+msgstr "Tienes que suscribirte para comentar."
+
+#: loco:5357f9a0b7f9261b249a97f9
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr "Has recibido este mensaje como miembro del grupo \"%s\"."
+
+#: loco:5357f99fb7f9261b249a9774
+msgid "You rejected %s's friendship."
+msgstr "Has rechazado la solicitud de amistad de %s."
+
+#: loco:5357f99fb7f9261b249a968e
+msgid ""
+"You requested a change of your email address. A message with a link was sent "
+"to your old address. The new address will be activated once you confirmed "
+"the change."
+msgstr ""
+"Has solicitado cambiar tu dirección de correo electrónico. Te hemos enviado "
+"a tu antigua dirección un correo con un enlace. La nueva dirección se "
+"activará una vez confirmes el cambio."
+
+#: loco:5357f99fb7f9261b249a9772
+msgid "You requested %s's friendship."
+msgstr "Has enviado una solicitud de amistad a %s."
+
+#: loco:5357f9a0b7f9261b249a9820
+msgid "You see only item that you are not connected to."
+msgstr ""
+"Solo aparecen usuarios, grupos y recursos a los que no estás conectado."
+
+#: loco:5357f9a0b7f9261b249a97fa
+msgid "You signed up."
+msgstr "Te has registrado."
+
+#: loco:5357f99fb7f9261b249a9777
+msgid "You subscribed to the resource."
+msgstr "Te has suscrito al recurso."
+
+#: loco:5357f99fb7f9261b249a9779
+msgid "You unsubscribed from the resource."
+msgstr "Has cancelado la suscripción al recurso."
+
+#: loco:5357f99fb7f9261b249a977f
+msgid "You updated your profile."
+msgstr "Has actualizado el perfil."
+
+#: loco:5357f99fb7f9261b249a9691
+msgid ""
+"Your account has been deactivated. If you think that this is a mistake, "
+"please contact the support at %s."
+msgstr ""
+"Tu cuenta se ha desactivado. Si crees que ha sido un error, ponte en "
+"contacto con la asistencia técnica en %s."
+
+#: loco:5357f99fb7f9261b249a9693
+msgid "Your email:"
+msgstr "Tu correo electrónico:"
+
+#: loco:53a55af1ff90b259b57a9a64
+msgid ""
+"Your email address or IP is known at www.stopforumspam.com as spam source "
+"and was blocked."
+msgstr ""
+"Tu dirección de correo electrónico o IP está registrada en www.stopforumspam."
+"com como spam y se ha bloqueado."
+
+#: loco:5357f99fb7f9261b249a9692
+msgid ""
+"Your email address is known at www.stopforumspam.com as spam source and was "
+"blocked."
+msgstr ""
+"Tu dirección de correo electrónico está registrada en www.stopforumspam.com "
+"como spam y se ha bloqueado."
+
+#: loco:5357f99fb7f9261b249a974a
+msgid ""
+"Your email or IP is known at www.stopforumspam.com as spam source and was "
+"blocked."
+msgstr ""
+"Tu dirección de correo electrónico o IP está registrada en www.stopforumspam."
+"com como spam y se ha bloqueado."
+
+#: loco:53a55af1ff90b259b57a9a69
+msgid "Your email or username:"
+msgstr "Tu correo electrónico o nombre de usuario:"
+
+#: loco:5357f9a0b7f9261b249a97fb
+msgid "Your Facebook account doesn't have an email address."
+msgstr "Tu cuenta de Facebook no tiene dirección de correo electrónico."
+
+#: loco:5357f99fb7f9261b249a9694
+msgid ""
+"Your image still needs to be cropped to the right dimensions before you can "
+"continue!"
+msgstr "Para continuar, recorta la imagen al tamaño adecuado."
+
+#: loco:5357f99fb7f9261b249a9695
+msgid "Your image still needs to be resized before you can continue!"
+msgstr "Para continuar, cambia el tamaño de la imagen."
+
+#: loco:5357f99fb7f9261b249a9690
+msgid ""
+"Your IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr ""
+"Tu IP está registrada en www.stopforumspam.com como spam y se ha bloqueado."
+
+#: loco:5357f99fb7f9261b249a9696
+msgid "Your message has been sent."
+msgstr "Se ha enviado el mensaje."
+
+#: loco:5357f9a0b7f9261b249a97fc
+msgid "Your message has been sent to the members of this group."
+msgstr "Se ha enviado el mensaje a los miembros del grupo."
+
+#: loco:5357f99fb7f9261b249a974b
+msgid "Your message was empty."
+msgstr "El mensaje estaba vacío."
+
+#: loco:5357f99fb7f9261b249a9697
+msgid "Your messages"
+msgstr "Tus mensajes"
+
+#: loco:5357f99fb7f9261b249a9698
+msgid "Your password has been successfully changed, you can now log in."
+msgstr "Tu contraseña se ha cambiado correctamente, ya puedes iniciar sesión."
+
+#: loco:5357f99fb7f9261b249a969a
+msgid ""
+"Your password must be at least 8 characters long and contain at least one "
+"lower-case letter, one upper-case letter and one number."
+msgstr ""
+"La longitud de la contraseña debe ser al menos de 8 caracteres. La "
+"contraseña debe contener al menos una letra en minúsculas, una letra en "
+"mayúsculas y un número."
+
+#: loco:5357f99fb7f9261b249a969e
+msgid "Your password must contain at least one lower-case letter."
+msgstr "La contraseña debe contener al menos una letra en minúsculas."
+
+#: loco:5357f99fb7f9261b249a969d
+msgid "Your password must contain at least one number."
+msgstr "La contraseña debe contener al menos un número."
+
+#: loco:5357f9a0b7f9261b249a97fd
+msgid "Your password must contain at least one small letter."
+msgstr "La contraseña debe contener al menos una letra en minúsculas."
+
+#: loco:5357f99fb7f9261b249a969c
+msgid "Your password must contain at least one upper-case letter."
+msgstr "La contraseña debe contener al menos una letra en mayúsculas."
+
+#: loco:5357f99fb7f9261b249a969b
+msgid "Your password must contain at least %s characters."
+msgstr "La longitud de la contraseña debe ser al menos de %s caracteres."
+
+#: loco:53a55af2ff90b259b57a9a84
+msgid "Your password was changed."
+msgstr "Se ha cambiado la contraseña."
+
+#: loco:5357f99fb7f9261b249a969f
+msgid "Your passwords are different."
+msgstr "Las contraseñas no coinciden."
+
+#: loco:5357f9a0b7f9261b249a982e
+msgid "Your permissions of the group were changed."
+msgstr "Se han modificado tus permisos del grupo."
+
+#: loco:5357f9a0b7f9261b249a982f
+msgid "Your permissions of the resource were changed."
+msgstr "Se han modificado tus permisos del recurso."
+
+#: loco:5357f9a0b7f9261b249a97fe
+msgid "Your permissions only allow to create private resources."
+msgstr "Solo puedes crear recursos privados con tus permisos."
+
+#: loco:53a55af2ff90b259b57a9a8f
+msgid "Your profile was updated."
+msgstr "Se ha actualizado tu perfil."
+
+#: loco:5357f99fb7f9261b249a96a0
+msgid "Your report has been received."
+msgstr "Se ha recibido tu denuncia."
+
+#: loco:5357f9a0b7f9261b249a97ff
+msgid "Your software is up to date."
+msgstr "El software está actualizado."
+
+#: loco:5357f99fb7f9261b249a96a1
+msgid ""
+"Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr ""
+"El nombre de usuario solo puede contener letras, números, espacio, guion o "
+"guion bajo."
+
+#: loco:5357f9a0b7f9261b249a9800
+msgid "Your website, blog or Facebook profile."
+msgstr "Tu página web, blog o perfil de Facebook."
+
+#: loco:53a55af2ff90b259b57a9a9a
+msgid "Yours,"
+msgstr "Atentamente,"
+
+#: loco:5357f99fb7f9261b249a96e8
+msgid "zoom in"
+msgstr "acercar"
+
+#: loco:5357f99fb7f9261b249a96e9
+msgid "zoom out"
+msgstr "alejar"
+
+#: loco:5357f99fb7f9261b249a96fc
+msgid "1"
+msgstr "1"
+
+#: loco:5357f99fb7f9261b249a96fd
+msgid "2"
+msgstr "2"
+
+#: loco:5357f99fb7f9261b249a96fe
+msgid "3"
+msgstr "3"
+
+#: loco:5357f99fb7f9261b249a96ff
+msgid "4"
+msgstr "4"
+
+#: loco:5357f99fb7f9261b249a9700
+msgid "5"
+msgstr "5"
+
+#: loco:5357f99fb7f9261b249a9701
+msgid "6"
+msgstr "6"
+
+#: loco:5357f99fb7f9261b249a9702
+msgid "7"
+msgstr "7"
+
+#: loco:5357f99fb7f9261b249a9703
+msgid "8"
+msgstr "8"
+
+#: loco:5357f99fb7f9261b249a9704
+msgid "9"
+msgstr "9"
+
+# There were errors exporting to PO file
+msgctxt "Loco"
+msgid "PO render errors"
+msgstr ""
+"a-message-from-your-group-x-at-x is a duplicate of a-message-from-your-group-"
+"s-at-s\n"
+"by-using-this-platform-you-accept-our-x-and-our-x is a duplicate of by-using-"
+"this-platform-you-accept-our-terms-of-use\n"
+"chat-window-turned-off. is a duplicate of chat-window-turned-off\n"
+"compose is a duplicate of Compose\n"
+"continue-to-this-group-x is a duplicate of continue-to-this-group-s.\n"
+"continue-to-this-resource-x is a duplicate of continue-to-this-resource-s.\n"
+"continue-to-this-user-x is a duplicate of continue-to-this-user-s.\n"
+"file-x-already-exists is a duplicate of file-s-already-exists.\n"
+"file-x-not-found is a duplicate of file-s-not-found.\n"
+"find-a-list-of-your-activities-on-your-home-page-x is a duplicate of find-a-"
+"list-of-your-activities-on-your-home-page\n"
+"find-more-information-on-the-page-of-the-group-x is a duplicate of find-more-"
+"information-at\n"
+"hello-x-somebody-has-requested-an-email-change-on- is a duplicate of hello-s-"
+"somebody-has-requested-an-email-change\n"
+"please-welcome-our-new-member-x-has-joined-this-gr is a duplicate of please-"
+"welcome-a-new-member-to-this-group\n"
+"read-your-messages-in-your-inbox-x is a duplicate of read-your-messages-in-"
+"your-inbox-s.\n"
+"the-email-address-couldnt-be-changed-the-link-is-n is a duplicate of email-"
+"couldnt-be-changed-link-is-not-active-anymor\n"
+"the-group-has-subscribed-to-the-resource-x is a duplicate of the-group-has-"
+"subscribed-to-the-following-resource\n"
+"the-password-couldnt-be-changed-please-try-again-l is a duplicate of "
+"password-couldnt-be-changed-try-again-later\n"
+"this-email-address-is-already-registered-with-anot is a duplicate of email-"
+"is-already-registered-to-another-account\n"
+"this-email-is-already-used-for-another-account is a duplicate of this-email-"
+"address-is-already-used-for-another-acc\n"
+"this-email-is-not-registered-in-our-system is a duplicate of this-email-"
+"address-is-not-registered-in-our-system\n"
+"this-email-is-not-valid-please-check-it-and-try-ag is a duplicate of this-"
+"email-address-is-not-valid-please-check-it-an\n"
+"too-many-emails-you-can-change-the-schedule-on-you is a duplicate of are-you-"
+"receiving-too-many-of-these-emails\n"
+"x-has-left-the-group-good-bye is a duplicate of the-following-member-has-"
+"left-the-group\n"
+"you-have-unread-messages-at-x is a duplicate of you-have-new-messages-at-s\n"
+"you-have-x-unread-messages is a duplicate of you-have-unread-messages\n"
+"you-receive-this-email-because-you-have-signed-up- is a duplicate of you-"
+"have-received-this-email-because-you-signed-up\n"
+"your-password-has-been-successfully-changed is a duplicate of the-password-"
+"has-been-successfully-changed"

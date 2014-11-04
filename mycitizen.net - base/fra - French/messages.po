@@ -1,0 +1,4512 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: mycitizen.net base\n"
+"Language: fr\n"
+
+#. GroupPresenter.php:824
+#. ResourcePresenter.php:930
+#. UserPresenter.php:391
+#: 
+msgid "(error)"
+msgstr "(erreur)"
+
+#. GroupPresenter.php:825
+#. ResourcePresenter.php:931
+#. UserPresenter.php:392
+#: 
+msgid "(inappropriate language)"
+msgstr "(langage inappproprié)"
+
+#. GroupPresenter.php:823
+#. ResourcePresenter.php:929
+#. UserPresenter.php:390
+#: 
+msgid "(spam)"
+msgstr "(spam)"
+
+#. detail.phtml:133
+#: 
+msgid "Accept friendship"
+msgstr "Accepter en ami"
+
+#. default.phtml:126
+#. default.phtml:143
+#. detail.phtml:139
+#: 
+msgid "Accept friendship request"
+msgstr "Accepter la demande en ami"
+
+#. AddTagComponent_Group.phtml:59
+#. AddTagComponent_Resource.phtml:59
+#. AddTagComponent_User.phtml:58
+#. ContainerTreeSelectControl.phtml:66
+#. AdministrationPresenter.php:86
+#: 
+msgid "Add"
+msgstr "Ajouter"
+
+#. edit.phtml:51
+#. edit.phtml:38
+#. edit.phtml:71
+#: 
+msgid "Add or remove tags"
+msgstr "Ajouter ou supprimer des tags"
+
+#. AdministrationPresenter.php:169
+#: 
+msgid "Add tag"
+msgstr "Ajouter un tag"
+
+#. MapContainer.phtml:63
+#. MapControl.phtml:63
+#: 
+msgid "Address cannot be found."
+msgstr "Adresse introuvable."
+
+#. @layout.phtml:154
+#. default.phtml:111
+#. default.phtml:121
+#. default.phtml:158
+#: 
+msgid "Administration"
+msgstr "Administration"
+
+#. settings.phtml:0
+#: 
+msgid "Administration - Settings"
+msgstr "Administration - Paramètres"
+
+#. setupmaintenance.phtml:0
+#: 
+msgid "Administration - Setup and Maintenance"
+msgstr "Administration - Réglages et maintenance"
+
+#. UserPresenter.php:1184
+#. UserPresenter.php:1189
+#: 
+msgid "Administrator"
+msgstr "Administrateur"
+
+#. UserPresenter.php:1224
+#: 
+msgid "Administrator with id 1 cannot be changed"
+msgstr "Administrateur avec l'identifiant 1 ne peut pas être modifié"
+
+#. login.phtml:9
+#: 
+msgid "Already have an account? Sign in below."
+msgstr "Vous possédez déjà un compte ? Connectez-vous ci-dessous."
+
+#. UserPresenter.php:433
+#: 
+msgid "An email has been sent to you with further instructions."
+msgstr "Un mail vous a été envoyé avec les instructions à suivre."
+
+#. ExternalFilter.php:202
+#: 
+msgid "Apply Filter"
+msgstr "Appliquer le filtre."
+
+#. edit.phtml:14
+#: 
+msgid "April"
+msgstr "Avril"
+
+#. edit.phtml:14
+#: 
+msgid "August"
+msgstr "Aou"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "Automatically reload in regular intervals if something new has been posted."
+msgstr "Rafraîchir la page automatiquement si un nouveau message a été posté."
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of groups."
+msgstr "Retour à la liste des groupes."
+
+#. detail.phtml:3
+#: 
+msgid "Back to list of users."
+msgstr "Retour à la liste des utilisateurs."
+
+#. edit.phtml:48
+#: 
+msgid "Below you can add details: Describe the topics of this group by one or more tags. If your group is located in a particular town, you can mark it on a map. These information will help other users to find your group."
+msgstr ""
+
+#. default.phtml:150
+#. detail.phtml:146
+#: 
+msgid "Cancel friendship"
+msgstr "Supprimer l'ami"
+
+#. detail.phtml:127
+#: 
+msgid "Cancel subscription"
+msgstr "Supprimer la souscription"
+
+#. ListerControlMain_body.phtml:532
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Cannot find what you are searching?"
+msgstr "Vous ne trouvez pas ce que vous recherchez ?"
+
+#. changelostpassword.phtml:0
+#: 
+msgid "Change lost password"
+msgstr "Modifier le mot de passe oublié"
+
+#. UserPresenter.php:285
+#. UserPresenter.php:313
+#. changepassword.phtml:0
+#. edit.phtml:59
+#: 
+msgid "Change password"
+msgstr "Modifier le mot de passe"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_groups.phtml:229
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#. ListerControlMain_users.phtml:205
+#: 
+msgid "Change the filter"
+msgstr "Modifier le filtre"
+
+#. ChatLister_body.phtml:4
+#. detail.phtml:339
+#. messages.phtml:13
+#: 
+msgid "Clear"
+msgstr "Effacer"
+
+#. ExternalFilter.php:201
+#: 
+msgid "Clear Filter"
+msgstr "Réinitialiser les filtres"
+
+#. login.phtml:22
+#: 
+msgid "Click here if you forgot your password."
+msgstr "Cliquez ici si vous avez perdu votre mot de passe."
+
+#. edit.phtml:20
+#. edit.phtml:18
+#: 
+msgid "Click inside the image and select your avatar."
+msgstr "Cliquez sur l'image et sélectionnez votre avatar."
+
+#. detail.phtml:312
+#: 
+msgid "Comments"
+msgstr "Commentaires"
+
+#. detail.phtml:388
+#: 
+msgid "Comments are only visible when you are signed in."
+msgstr "Les commentaires sont visibles uniquement quand vous êtes connecté."
+
+#. ExternalFilter.php:168
+#: 
+msgid "Connect filters with"
+msgstr "Assembler les filtres avec"
+
+#. detail.phtml:117
+#: 
+msgid "Copy this link and send it to people who you would like to join. This link is like a key to this group."
+msgstr "Copiez ce lien et envoyez-le aux personnes que vous aimeriez voir dans votre groupe. Ce lien est une invitation à rejoindre ce groupe."
+
+#. GroupPresenter.php:465
+#. create.phtml:0
+#: 
+msgid "Create new group"
+msgstr "Créer un nouveau groupe."
+
+#. ResourcePresenter.php:477
+#: 
+msgid "Create new resource"
+msgstr "Créer une nouvelle ressource."
+
+#. edit.phtml:14
+#: 
+msgid "December"
+msgstr "Décembre"
+
+#. GroupPresenter.php:457
+#: 
+msgid "Describe in few sentences what this group is about."
+msgstr "Décrivez ce groupe en quelques phrases."
+
+#. ResourcePresenter.php:410
+#: 
+msgid "Describe in few sentences what this resource is about."
+msgstr "Decrivez cette ressource en quelques phrase."
+
+#. GroupPresenter.php:457
+#. ResourcePresenter.php:410
+#. UserPresenter.php:637
+#: 
+msgid "Description:"
+msgstr "Description :"
+
+#. default.phtml:66
+#: 
+msgid "Discover new groups"
+msgstr "Découvrir de nouveaux groupes"
+
+#. default.phtml:73
+#: 
+msgid "Discover new resources"
+msgstr "Découvrir de nouvelles ressources"
+
+#. default.phtml:59
+#: 
+msgid "Discover new users"
+msgstr "Découvrir de nouveaux utilisateurs"
+
+#. UserPresenter.php:635
+#: 
+msgid "Do you want be visible to everyone (world), only to registered users (registered) or only to your friends (friends)?"
+msgstr "Voulez- vous être visible par tout le monde (public), seulement les utilisateurs enregistrés (utilisateurs) ou seulement vos amis (amis) ?"
+
+#. edit.phtml:12
+#: 
+msgid "Edit the group image"
+msgstr "Modifier l'image du groupe"
+
+#. edit.phtml:35
+#. edit.phtml:24
+#: 
+msgid "Edit the location"
+msgstr "Modifier la localisation"
+
+#. edit.phtml:10
+#: 
+msgid "Edit your avatar"
+msgstr "Modifier votre avatar"
+
+#. edit.phtml:32
+#: 
+msgid "Edit your location"
+msgstr "Modifier votre emplacement"
+
+#. User.php:331
+#: 
+msgid "Email change on Mycitizen.net"
+msgstr "Changement d'email sur Mycitizen.net"
+
+#. UserPresenter.php:112
+#. UserPresenter.php:125
+#: 
+msgid "Email has been successfully changed."
+msgstr "L'adresse email a été modifiée avec succès."
+
+#. UserPresenter.php:470
+#. UserPresenter.php:634
+#: 
+msgid "Email:"
+msgstr "Email :"
+
+#. ListerControlMain.php:642
+#: 
+msgid "Empty Trash"
+msgstr "Vider la corbeille."
+
+#. GroupUserListerControl.phtml:19
+#. ResourceListerControl.phtml:11
+#. default.phtml:113
+#. default.phtml:123
+#. default.phtml:165
+#: 
+msgid "Enabled"
+msgstr "Activé"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Enter a key that will be used for inviting members into this group. Use letters, numbers and \"-\", with a minimum lenght of 5."
+msgstr "Entrez un mot de passe, il va être utilisé pour inviter des personnes dans ce groupe. Utiliser des letttres, des nombres et \\"-\\", avec une longueur minimum de 5."
+
+#. GroupPresenter.php:454
+#: 
+msgid "Enter a name for the group."
+msgstr "Entrer un nom pour le groupe."
+
+#. ResourcePresenter.php:405
+#: 
+msgid "Enter a name for the resource."
+msgstr "Entrer un nom pour cette ressource."
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Entered passwords are not the same."
+msgstr "Les deux mots de passe saisis ne sont pas identiques."
+
+#. RestServer.php:433
+#: 
+msgid "Error"
+msgstr "Erreur"
+
+#. BasePresenter.php:211
+#: 
+msgid "Error deleting image from cache."
+msgstr "Erreur lors de la suppression de l'image du cache."
+
+#. ChatLister_body.phtml:95
+#. ChatLister_body.phtml:130
+#. ChatLister_body.phtml:136
+#: 
+msgid "Error loading chat. Are you logged in?"
+msgstr "Erreur lors du chargement de la messagerie. Êtes-vous connecté ?"
+
+#. GroupListerControl.php:82
+#. GroupListerControl.php:113
+#. GroupUserListerControl.php:58
+#. GroupUserListerControl.php:98
+#. ListerControlMain.php:366
+#. ListerControlMain.php:416
+#. ListerControlMain.php:457
+#. MapControl.php:62
+#. ResourceGroupListerControl.php:45
+#. ResourceGroupListerControl.php:81
+#. ResourceListerControl.php:42
+#. ResourceListerControl.php:77
+#. ResourceMemberListerControl.php:45
+#. ResourceMemberListerControl.php:81
+#. TagListerControl.php:161
+#. UserListerControl.php:67
+#. UserListerControl.php:108
+#. AdministrationPresenter.php:87
+#. AdministrationPresenter.php:217
+#. GroupPresenter.php:226
+#. GroupPresenter.php:486
+#. GroupPresenter.php:759
+#. GroupPresenter.php:801
+#. GroupPresenter.php:885
+#. ResourcePresenter.php:193
+#. ResourcePresenter.php:242
+#. ResourcePresenter.php:482
+#. ResourcePresenter.php:867
+#. ResourcePresenter.php:907
+#. UserPresenter.php:271
+#. UserPresenter.php:286
+#. UserPresenter.php:314
+#. UserPresenter.php:346
+#. UserPresenter.php:418
+#. UserPresenter.php:476
+#. UserPresenter.php:568
+#. UserPresenter.php:640
+#. UserPresenter.php:1090
+#. UserPresenter.php:1203
+#: 
+msgid "Error submitting form."
+msgstr "Erreur lors de la soumission du formulaire."
+
+#. BasePresenter.php:279
+#: 
+msgid "Error writing image: "
+msgstr "Erreur lors de l'enregistrement de l'image :"
+
+#. ResourcePresenter.php:428
+#: 
+msgid "Event description:"
+msgstr "Description de l'évènement :"
+
+#. ResourcePresenter.php:431
+#: 
+msgid "Event time:"
+msgstr "Date de l'évènement :"
+
+#. edit.phtml:14
+#: 
+msgid "February"
+msgstr "Février"
+
+#. GroupListerControl.php:112
+#. MapControl.php:61
+#. TagListerControl.php:160
+#: 
+msgid "Filter"
+msgstr "Filtrer"
+
+#. ChatLister_body.phtml:3
+#. detail.phtml:338
+#. messages.phtml:12
+#: 
+msgid "Filter by name"
+msgstr "Trier par nom"
+
+#. ListerControlMain.php:100
+#: 
+msgid "Filter is off."
+msgstr "Le filtre est désactivé."
+
+#. User.php:258
+#: 
+msgid "Finish your registration at Mycitizen.net"
+msgstr "Terminer votre inscription à Mycitizen.net"
+
+#. GroupPresenter.php:1135
+#. UserPresenter.php:1499
+#: 
+msgid "Finished cropping and resizing."
+msgstr "Redimensionnement et découpage de l'image terminés."
+
+#. ListerControlMain_body.phtml:27
+#. ListerControlMain_users.phtml:22
+#: 
+msgid "Friends"
+msgstr "Amis"
+
+#. StaticModel.php:44
+#: 
+msgid "Friendship accepted"
+msgstr "Demande en ami acceptée"
+
+#. StaticModel.php:52
+#: 
+msgid "Friendship canceled"
+msgstr "Demande en ami annulée"
+
+#. StaticModel.php:40
+#: 
+msgid "Friendship request"
+msgstr "Demande en ami"
+
+#. StaticModel.php:48
+#. default.phtml:110
+#: 
+msgid "Friendship request rejected"
+msgstr ""
+
+#. detail.phtml:118
+#: 
+msgid "Friendship request rejected."
+msgstr "Demande en ami refusée."
+
+#. default.phtml:105
+#: 
+msgid "Friendship request sent"
+msgstr ""
+
+#. detail.phtml:113
+#: 
+msgid "Friendship request sent."
+msgstr "Demande en ami envoyée."
+
+#. GroupPresenter.php:25
+#: 
+msgid "Given group does not exist."
+msgstr "Ce groupe n'existe pas."
+
+#. detail.phtml:173
+#. detail.phtml:178
+#. detail.phtml:183
+#. detail.phtml:188
+#: 
+msgid "Go to resource"
+msgstr "Aller à la ressource"
+
+#. GroupPresenter.php:956
+#: 
+msgid "Group %s has not been subscribed to resource."
+msgstr "Le groupe %s n'est pas inscrit à la ressource."
+
+#. ResourcePresenter.php:316
+#: 
+msgid "Group %s is already subscribed."
+msgstr "Le groupe %s est déjà inscrit."
+
+#. ResourcePresenter.php:314
+#: 
+msgid "Group %s subscribed to this resource."
+msgstr "Le groupe %s est déjà inscrit à cette ressource."
+
+#. GroupPresenter.php:954
+#: 
+msgid "Group %s unsubscribed from resource."
+msgstr "Le groupe %s est désinscrit de cette ressource."
+
+#. detail.phtml:199
+#: 
+msgid "Group chat"
+msgstr "Messagerie de groupe"
+
+#. edit.phtml:0
+#: 
+msgid "Edit Group"
+msgstr "Modifier le groupe"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Group key:"
+msgstr "Mot de passe du groupe :"
+
+#. detail.phtml:161
+#: 
+msgid "Group location on a map"
+msgstr "Localisation du groupe sur une carte"
+
+#. default.phtml:126
+#. detail.phtml:172
+#: 
+msgid "Group members"
+msgstr "Membres du groupe"
+
+#. detail.phtml:104
+#: 
+msgid "Group owner: "
+msgstr "Propriétaire du groupe :"
+
+#. default.phtml:137
+#. detail.phtml:183
+#: 
+msgid "Group resources"
+msgstr "Ressources du groupe"
+
+#. GroupPresenter.php:526
+#: 
+msgid "Group updated"
+msgstr "Groupe mis à jour"
+
+#. BasePresenter.php:89
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Groups"
+msgstr "Groupes"
+
+#. detail.phtml:48
+#: 
+msgid "Here you can report the group if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "Vous pouvez rapporter un groupe si vous pensez qu'il ne respecte pas les règles. Les rapports seront examinés par nos modérateurs."
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the resource if you think it has violated the rules. Reports will be processed by our moderators."
+msgstr "Vous pouvez rapporter une ressource si vous pensez que cela ne respecte pas les règles. Les rapports seront examinés par nos modérateurs."
+
+#. detail.phtml:51
+#: 
+msgid "Here you can report the user if you think her or she has violated the rules. Reports will be processed by our moderators."
+msgstr "Vous pouvez rapporter un(e) utilisateur si vous pensez qu'il / elle ne respecte pas les règles. Les rapports seront examinés par nos modérateurs."
+
+#. ListerControlMain_groups.phtml:69
+#: 
+msgid "Hidden group"
+msgstr "Groupe masqué"
+
+#. ListerControlMain_users.phtml:64
+#: 
+msgid "Hidden user"
+msgstr "Utilisateur masqué"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Image must be in JPEG or PNG format."
+msgstr "L'image doit être au format JPEG ou PNG."
+
+#. ResourcePresenter.php:439
+#: 
+msgid "Information:"
+msgstr "Information :"
+
+#. ResourcePresenter.php:260
+#: 
+msgid "Insufficient permissions to subscribe group %s to this resource."
+msgstr "Vous n'avez pas la permission d'inscrire le groupe %s à cette ressource."
+
+#. ListerControlMain_body.phtml:20
+#. ListerControlMain_groups.phtml:18
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:16
+#: 
+msgid "Is active"
+msgstr "Est actif"
+
+#. edit.phtml:14
+#: 
+msgid "January"
+msgstr "Janvier"
+
+#. default.phtml:93
+#. detail.phtml:130
+#: 
+msgid "Join group"
+msgstr "Rejoindre le groupe"
+
+#. edit.phtml:14
+#: 
+msgid "July"
+msgstr "Juillet"
+
+#. edit.phtml:14
+#: 
+msgid "June"
+msgstr "Juin"
+
+#. ExternalFilter.php:189
+#: 
+msgid "Language"
+msgstr "Langue"
+
+#. GroupPresenter.php:456
+#. ResourcePresenter.php:408
+#. UserPresenter.php:636
+#: 
+msgid "Language:"
+msgstr "Langue :"
+
+#. detail.phtml:32
+#. detail.phtml:34
+#. detail.phtml:35
+#: 
+msgid "Last activity:"
+msgstr ""
+
+#. default.phtml:104
+#. detail.phtml:134
+#: 
+msgid "Leave group"
+msgstr "Quitter le groupe"
+
+#. detail.phtml:114
+#: 
+msgid "Link to invite new members"
+msgstr "Lien pour inviter de nouveaux membres"
+
+#. ChatLister_body.phtml:159
+#: 
+msgid "Loading chat.."
+msgstr "Chargement de la messagerie ..."
+
+#. MapControl.php:60
+#: 
+msgid "Location"
+msgstr "Emplacement"
+
+#. GroupPresenter.php:455
+#: 
+msgid "Make the group visible to everyone (world), only users of this website (registered) or to members of this group (members)."
+msgstr "Rendre le groupe visible pour tout le monde (public), seulement les utilisateurs enregistrés sur ce site (utilisateurs) ou aux membres de ce groupe (pmembres)."
+
+#. ResourcePresenter.php:407
+#: 
+msgid "Make the resource visible to everyone (world), only users of this website (registered) or to subscribers of this resource (subscribers)."
+msgstr "Rendre la ressource visible par tout le monde (public), seulement les utilisateurs enregistrés sur ce site (utilisateurs) ou aux membres de ce groupe (membres)."
+
+#. edit.phtml:85
+#: 
+msgid "Manage members of this group"
+msgstr "Gérer les membres de ce groupe"
+
+#. edit.phtml:90
+#: 
+msgid "Manage subscribed resources"
+msgstr "Gérer les inscriptions aux ressources"
+
+#. ExternalFilter.phtml:112
+#: 
+msgid "Map"
+msgstr "Carte"
+
+#. edit.phtml:14
+#: 
+msgid "March"
+msgstr "Mars"
+
+#. GroupPresenter.php:458
+#. UserPresenter.php:638
+#: 
+msgid "Maximum image size is %s"
+msgstr "La taille maximale de l'image est de %s"
+
+#. edit.phtml:14
+#: 
+msgid "May"
+msgstr "Mai"
+
+#. ResourcePresenter.php:474
+#: 
+msgid "Media ID:"
+msgstr "Identifiant du média :"
+
+#. ResourcePresenter.php:473
+#: 
+msgid "Media type:"
+msgstr "Type du média :"
+
+#. default.phtml:188
+#. detail.phtml:167
+#: 
+msgid "Member of groups"
+msgstr "Membre des groupes :"
+
+#. ListerControlMain_body.phtml:29
+#. ListerControlMain_groups.phtml:23
+#: 
+msgid "Members"
+msgstr "Membres"
+
+#. UserPresenter.php:1183
+#: 
+msgid "Moderator"
+msgstr "Modérateur"
+
+#. User.php:22
+#: 
+msgid "More than one user with the same id found."
+msgstr "Plus d'un utilisateur avec le même identifiant trouvé."
+
+#. default.phtml:56
+#: 
+msgid "My Friends"
+msgstr ""
+
+#. default.phtml:63
+#: 
+msgid "My Groups"
+msgstr "Mes groupes"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:351
+#: 
+msgid "My Location"
+msgstr "Ma position"
+
+#. default.phtml:70
+#: 
+msgid "My Resources"
+msgstr "Mes ressources"
+
+#. detail.phtml:192
+#: 
+msgid "My friends"
+msgstr "Mes amis"
+
+#. MapContainer.phtml:31
+#. MapContainer.phtml:283
+#. MapControl.phtml:32
+#: 
+msgid "My real position"
+msgstr "Ma position réelle"
+
+#. ExternalFilter.php:172
+#. GroupListerControl.php:105
+#. Groupresourcewidget_body.phtml:8
+#. GroupUserListerControl.php:83
+#. GroupUserListerControl.phtml:10
+#. ListerControlMain_body.phtml:9
+#. ListerControlMain_groups.phtml:8
+#. ListerControlMain_resources.phtml:8
+#. ListerControlMain_users.phtml:8
+#. ResourceListerControl.php:68
+#. ResourceListerControl.phtml:8
+#. ResourceMemberListerControl.php:66
+#. TagListerControl.php:159
+#. UserListerControl.php:93
+#. UserListerControl.phtml:11
+#: 
+msgid "Name"
+msgstr "Nom"
+
+#. GroupPresenter.php:454
+#. ResourcePresenter.php:405
+#. UserPresenter.php:630
+#: 
+msgid "Name:"
+msgstr "Nom :"
+
+#. edit.phtml:15
+#. edit.phtml:16
+#. edit.phtml:13
+#. edit.phtml:14
+#: 
+msgid "Needs to be created."
+msgstr "À besoin d'être crée."
+
+#. BasePresenter.php:47
+#. BasePresenter.php:47
+#. BasePresenter.php:151
+#. BasePresenter.php:151
+#: 
+msgid "New messages"
+msgstr "Nouveaux messages"
+
+#. ListerControlMain.php:359
+#. UserPresenter.php:1182
+#: 
+msgid "Normal user"
+msgstr "Utilisateur normal"
+
+#. ListerControlMain_groups.phtml:218
+#. ListerControlMain_resources.phtml:241
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing found."
+msgstr "Pas de résultat."
+
+#. edit.phtml:14
+#: 
+msgid "November"
+msgstr "Novembre"
+
+#. edit.phtml:14
+#: 
+msgid "October"
+msgstr "Octobre"
+
+#. default.phtml:91
+#: 
+msgid "On invitation only"
+msgstr "Sur invitation uniquement"
+
+#. AdministrationPresenter.php:44
+#. AdministrationPresenter.php:75
+#: 
+msgid "Only administrators can visit this section!"
+msgstr "Seuls les administrateurs peuvent visiter cette partie !"
+
+#. GroupPresenter.php:461
+#: 
+msgid "Only letters, numbers and '-', with a minimum lenght of 5."
+msgstr "Uniquement des lettres, des nombres et '-', avec une longueur minimum de 5."
+
+#. Groupresourcewidget_body.phtml:35
+#. ListerControlMain_body.phtml:284
+#. ListerControlMain_body.phtml:317
+#. ListerControlMain_groups.phtml:99
+#. ListerControlMain_groups.phtml:128
+#. ListerControlMain_resources.phtml:117
+#. ListerControlMain_resources.phtml:150
+#. ListerControlMain_users.phtml:76
+#. ListerControlMain_users.phtml:105
+#: 
+msgid "Owner"
+msgstr "Propriétaire"
+
+#. TagListerControl.php:123
+#: 
+msgid "Parent level:"
+msgstr "Niveau parent :"
+
+#. AdministrationPresenter.php:85
+#: 
+msgid "Parent tag:"
+msgstr "Tag parent :"
+
+#. UserPresenter.php:284
+#. UserPresenter.php:312
+#: 
+msgid "Password again:"
+msgstr "Mot de passe (à nouveau) :"
+
+#. User.php:298
+#: 
+msgid "Password change on Mycitizen.net"
+msgstr "Mot de passe modifié sur Mycitizen.net"
+
+#. UserPresenter.php:269
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#. UserPresenter.php:632
+#: 
+msgid "Phone:"
+msgstr "Téléphone :"
+
+#. GroupPresenter.php:224
+#: 
+msgid "Please enter some text."
+msgstr "Merci d'entrer du texte."
+
+#. GroupPresenter.php:799
+#. ResourcePresenter.php:905
+#. UserPresenter.php:344
+#: 
+msgid "Please give us some details."
+msgstr "Merci de nous donner quelques détails."
+
+#. detail.phtml:119
+#: 
+msgid "Please go to the edit screen and generate a link."
+msgstr "Veuillez aller sur l'ecran des modifications et générer un lien."
+
+#. @layout.phtml:92
+#: 
+msgid "Please select first a part of the image."
+msgstr "Veuillez d'abord sélectionner une partie de l'image."
+
+#. ResourcePresenter.php:192
+#: 
+msgid "Post"
+msgstr "Message"
+
+#. detail.phtml:322
+#: 
+msgid "Post new comment"
+msgstr "Ajouter un nouveau commentaire"
+
+#. detail.phtml:320
+#: 
+msgid "Post reply"
+msgstr "Répondre"
+
+#. GroupPresenter.php:798
+#. ResourcePresenter.php:904
+#. UserPresenter.php:343
+#: 
+msgid "Reason:"
+msgstr "Raison :"
+
+#. UserPresenter.php:103
+#: 
+msgid "The registration couldn't be finished! Link is not active anymore."
+msgstr "L'inscription a échoué ! Le lien n'est plus actif."
+
+#. UserPresenter.php:99
+#: 
+msgid "The registration has been successful. You can now sign in."
+msgstr "L'inscription est réussie ! Vous pouvez maintenant vous connecter."
+
+#. UserPresenter.php:530
+#: 
+msgid "Registration has been successful. A message has been sent to your email with further instructions how to activate your account."
+msgstr "L'inscription a été un succès. Un message a été envoyé à votre adresse email avec les instructions pour activer votre compte."
+
+#. default.phtml:144
+#. detail.phtml:140
+#: 
+msgid "Reject friendship request"
+msgstr "Demande en ami rejetée"
+
+#. TagListerControl.php:125
+#: 
+msgid "Remove"
+msgstr "Supprimer"
+
+#. UserPresenter.php:472
+#: 
+msgid "Repeat password:"
+msgstr "Répéter le mot de passe :"
+
+#. detail.phtml:310
+#: 
+msgid "Replies"
+msgstr "Réponses"
+
+#. GroupPresenter.php:829
+#: 
+msgid "Report about group %s, reason: %s"
+msgstr "Signaler le groupe %s, raison : %s"
+
+#. ResourcePresenter.php:935
+#: 
+msgid "Report about resource %s, reason: %s"
+msgstr "Signaler la ressource %s, raison : %s"
+
+#. UserPresenter.php:397
+#: 
+msgid "Report about user %s, reason: %s"
+msgstr "Signaler l'utilisateur %s, raison : %s"
+
+#. detail.phtml:40
+#: 
+msgid "Report group"
+msgstr "Signaler le groupe"
+
+#. detail.phtml:43
+#: 
+msgid "Report resource"
+msgstr "Signaler la ressource"
+
+#. detail.phtml:43
+#: 
+msgid "Report user"
+msgstr "Signaler l'utilisateur"
+
+#. AdministrationPresenter.php:193
+#: 
+msgid "Reports"
+msgstr "Rapports"
+
+#. default.phtml:99
+#. detail.phtml:108
+#: 
+msgid "Request friendship"
+msgstr "Demander en ami"
+
+#. UserPresenter.php:417
+#: 
+msgid "Request new password"
+msgstr "Demander un nouveau mot de passe"
+
+#. detail.phtml:110
+#: 
+msgid "Resource owner: "
+msgstr "Propriétaire de la ressource :"
+
+#. ResourcePresenter.php:406
+#: 
+msgid "Resource type:"
+msgstr "Type de la ressource :"
+
+#. ResourcePresenter.php:531
+#: 
+msgid "Resource updated"
+msgstr "Ressource mise à jour"
+
+#. BasePresenter.php:108
+#. default.phtml:0
+#. default.phtml:35
+#: 
+msgid "Resources"
+msgstr "Ressources"
+
+#. default.phtml:105
+#. default.phtml:110
+#. detail.phtml:113
+#. detail.phtml:118
+#: 
+msgid "Revoke request"
+msgstr "Annuler la requête"
+
+#. ListerControlMain_body.phtml:16
+#. ListerControlMain_groups.phtml:14
+#. ListerControlMain_resources.phtml:15
+#. ListerControlMain_users.phtml:13
+#: 
+msgid "Role"
+msgstr "Rôle"
+
+#. detail.phtml:335
+#: 
+msgid "Search Comments"
+msgstr "Rechercher dans les commentaires"
+
+#. detail.phtml:167
+#: 
+msgid "See details about the user and respond to the request."
+msgstr "Regarder les détails de l'utilisateur et répondre à sa requête."
+
+#. ContainerTreeSelectControl.phtml:22
+#: 
+msgid "Select Parent Level"
+msgstr "Sélectionner un niveau parent"
+
+#. default.phtml:121
+#: 
+msgid "Select a group for more details."
+msgstr "Sélectionner un groupe pour plus de détails."
+
+#. ResourcePresenter.php:408
+#: 
+msgid "Select a language of this resource."
+msgstr "Sélectionner une langue pour cette ressource."
+
+#. GroupPresenter.php:456
+#: 
+msgid "Select a language that will be used in this group for communication."
+msgstr "Sélectionner une langue qui sera utilisée dans ce groupe pour communiquer."
+
+#. default.phtml:131
+#: 
+msgid "Select a resource for more details."
+msgstr "Sélectionner une ressource pour plus de détails."
+
+#. AddTagComponent_Group.phtml:22
+#. AddTagComponent_Resource.phtml:22
+#. AddTagComponent_User.phtml:22
+#: 
+msgid "Select a tag"
+msgstr "Sélectionner un tag"
+
+#. default.phtml:182
+#: 
+msgid "Select a user for more details."
+msgstr "Sélectionner un utilisateur pour plus de détails."
+
+#. detail.phtml:136
+#: 
+msgid "Select one or more groups to subscribe to this resource. Only groups are displayed that you own or where you have at least moderator permissions."
+msgstr "Sélectionner un ou plusieurs groupes à inscrire à cette ressource. Les seuls groupes affichés sont ceux que vous possédés ou ceux dont vous avez les droits de modérateurs."
+
+#. detail.phtml:143
+#: 
+msgid "Select one or more resources to unsubscribe. Only resources are displayed that this group is subscribed to. You can subscribe to resources on the detail page of a resource."
+msgstr "Sélectionner une ou plusieurs ressources auxquelles se désinscrire. Seules les ressources auxquelles ce groupe est inscrit sont affichées. Vous pouvez vous inscrire à une ressource sur sa page détaillée."
+
+#. MapContainer.phtml:331
+#: 
+msgid "Selected Location"
+msgstr "Sélectionner la position"
+
+#. AdministrationPresenter.php:216
+#. GroupPresenter.php:228
+#. GroupPresenter.php:800
+#. ResourcePresenter.php:906
+#. UserPresenter.php:345
+#. UserPresenter.php:567
+#. UserPresenter.php:1089
+#: 
+msgid "Send"
+msgstr "Envoyer"
+
+#. messages.phtml:4
+#: 
+msgid "Send a message to a friend"
+msgstr "Envoyer un message à un ami"
+
+#. edit.phtml:14
+#: 
+msgid "September"
+msgstr "Septembre"
+
+#. AdministrationPresenter.php:176
+#: 
+msgid "Settings"
+msgstr "Paramètres"
+
+#. UserPresenter.php:270
+#. @layout.phtml:145
+#: 
+msgid "Sign in"
+msgstr "S'enregistrer"
+
+#. @layout.phtml:141
+#. login.phtml:4
+#: 
+msgid "Sign out"
+msgstr "Se déconnecter"
+
+#. UserPresenter.php:475
+#. @layout.phtml:146
+#: 
+msgid "Sign up"
+msgstr "Se connecter"
+
+#. settings.phtml:8
+#: 
+msgid "Software version:"
+msgstr "Version du logiciel :"
+
+#. User.php:26
+#: 
+msgid "Specified user not found."
+msgstr "L'utilisateur spécifié n'a pas été trouvé."
+
+#. ExternalFilter.php:182
+#. UserListerControl.phtml:22
+#: 
+msgid "Status"
+msgstr "Status"
+
+#. ResourcePresenter.php:241
+#. detail.phtml:121
+#: 
+msgid "Subscribe"
+msgstr "S'inscrire"
+
+#. detail.phtml:134
+#: 
+msgid "Subscribe as group"
+msgstr "Souscrire en tant que groupe"
+
+#. default.phtml:104
+#: 
+msgid "Subscribe to resource"
+msgstr "Souscrire à la ressource"
+
+#. default.phtml:147
+#. detail.phtml:297
+#: 
+msgid "Subscribed Groups"
+msgstr "groupes enregistrés"
+
+#. default.phtml:136
+#. detail.phtml:286
+#: 
+msgid "Subscribed Users"
+msgstr "Utilisateurs abonnés"
+
+#. default.phtml:199
+#. detail.phtml:178
+#: 
+msgid "Subscribed to resources"
+msgstr "Abonné aux ressources"
+
+#. ListerControlMain_body.phtml:31
+#. ListerControlMain_resources.phtml:25
+#: 
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#. detail.phtml:141
+#: 
+msgid "Subscriptions as group"
+msgstr "Abonnements en tant que groupe"
+
+#. UserPresenter.php:631
+#: 
+msgid "Surname:"
+msgstr "Prénom :"
+
+#. setupmaintenance.phtml:15
+#: 
+msgid "System check"
+msgstr "Vérification du système"
+
+#. AddTagComponent_Group.phtml:28
+#. AddTagComponent_Resource.phtml:28
+#: 
+msgid "Tag"
+msgstr "Tag"
+
+#. TagListerControl.php:121
+#. AdministrationPresenter.php:84
+#: 
+msgid "Tag name:"
+msgstr "Nom du tag :"
+
+#. AddTagComponent_User.phtml:27
+#. ExternalFilter.phtml:78
+#. AdministrationPresenter.php:162
+#: 
+msgid "Tags"
+msgstr "Tags"
+
+#. GroupPresenter.php:799
+#: 
+msgid "Tell us why you report this group, including examples:"
+msgstr "Expliquez nous pourquoi vous signalez ce groupe, en incluant des exemples :"
+
+#. ResourcePresenter.php:905
+#: 
+msgid "Tell us why you report this resource, including examples:"
+msgstr "Expliquez nous pourquoi vous signalez cette ressource, en incluant des exemples :"
+
+#. UserPresenter.php:344
+#: 
+msgid "Tell us why you report this user, including examples:"
+msgstr "Expliquez nous pourquoi vous signalez cet utilisateur, en incluant des exemples :"
+
+#. ResourcePresenter.php:449
+#. UserPresenter.php:1087
+#: 
+msgid "Text:"
+msgstr "Texte :"
+
+#. GroupPresenter.php:193
+#. UserPresenter.php:208
+#: 
+msgid "The image is too small. Minimum size is %s."
+msgstr "L'image est trop petite ! La taille minimale est %s"
+
+#. UserPresenter.php:636
+#: 
+msgid "The main language you want to use. You will still be able to see other languages."
+msgstr "La langue principale que vous voulez utilisez. Vous pourrez toujours voir les autres langues."
+
+#. UserPresenter.php:469
+#: 
+msgid "The minimal length of your username is %s characters."
+msgstr "La taille minimale de votre pseudo est de %s caractères."
+
+#. UserPresenter.php:628
+#: 
+msgid "The username cannot be changed."
+msgstr "Le nom d'utilisateur ne peut être modifié."
+
+#. detail.phtml:115
+#: 
+msgid "This group can only be viewed by members. Users need to have the key below to become members."
+msgstr "Ce groupe peut être vu uniquement par des membres. Les utilisateurs doivent utiliser le mot de passe ci-dessous pour devenir membres."
+
+#. GroupPresenter.php:1175
+#: 
+msgid "This group doesn't have a key."
+msgstr "Ce groupe n'a pas de mot de passe."
+
+#. GroupPresenter.php:795
+#: 
+msgid "This group violates the rules of conduct."
+msgstr "Ce groupe enfreint les conditions d'utilisations."
+
+#. detail.phtml:10
+#: 
+msgid "This is my profile."
+msgstr "C'est mon profil."
+
+#. GroupPresenter.php:793
+#: 
+msgid "This is not a real group but spam."
+msgstr "Ce n'est pas un vrai groupe mais du spam."
+
+#. UserPresenter.php:338
+#: 
+msgid "This is not a real person but spam."
+msgstr "Ce n'est pas une vraie personne mais du spam."
+
+#. ResourcePresenter.php:899
+#: 
+msgid "This is not a real resource but spam."
+msgstr "Ce n'est pas une vraie ressource mais du spam."
+
+#. UserPresenter.php:340
+#: 
+msgid "This person violates the rules of conduct."
+msgstr "Cette personne enfreint les conditions d'utilisation."
+
+#. ResourcePresenter.php:18
+#: 
+msgid "This resource doesn't exist."
+msgstr "Cette ressource n'existe pas."
+
+#. ResourcePresenter.php:901
+#: 
+msgid "This resource violates the rules of conduct."
+msgstr "Cette ressource enfreint les conditions d'utilisation."
+
+#. UserPresenter.php:27
+#: 
+msgid "This user doesn't exist."
+msgstr "Cet utilisateur n'existe pas."
+
+#. UserPresenter.php:470
+#: 
+msgid "To this address we will send a request to confirm your registration."
+msgstr "Nous enverrons une requête à cette adresse email pour vérifier votre enregistrement."
+
+#. UserPresenter.php:1086
+#: 
+msgid "To:"
+msgstr "A :"
+
+#. default.phtml:84
+#: 
+msgid "Top Groups"
+msgstr "Top Groupes"
+
+#. default.phtml:88
+#: 
+msgid "Top Resources"
+msgstr "Top ressources"
+
+#. default.phtml:80
+#: 
+msgid "Top Users"
+msgstr "Top utilisateurs"
+
+#. ExternalFilter.php:180
+#: 
+msgid "Trash"
+msgstr "Corbeille"
+
+#. ListerControlMain.php:657
+#: 
+msgid "Trash emptied."
+msgstr "Corbeille vidée."
+
+#. ListerControlMain_groups.phtml:279
+#. ListerControlMain_resources.phtml:303
+#. ListerControlMain_users.phtml:256
+#: 
+msgid "Try a different filter."
+msgstr "Essayer un filtre différent."
+
+#. ExternalFilter.php:191
+#. ResourceListerControl.php:75
+#: 
+msgid "Type"
+msgstr "Type"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL must start with http:// or https://!"
+msgstr "L'URL doit commencer par http:// or https:// !"
+
+#. ResourcePresenter.php:430
+#. ResourcePresenter.php:441
+#. ResourcePresenter.php:451
+#. ResourcePresenter.php:459
+#: 
+msgid "URL to external source:"
+msgstr "URL vers un site externe :"
+
+#. default.phtml:120
+#. detail.phtml:127
+#: 
+msgid "Unblock this user"
+msgstr "Débloquer cet utilisateur"
+
+#. GroupPresenter.php:884
+#: 
+msgid "Unsubscribe"
+msgstr "Se désincrire"
+
+#. default.phtml:114
+#: 
+msgid "Unsubscribe from resource"
+msgstr "Se désinscrire de la ressource"
+
+#. GroupListerControl.php:81
+#. GroupUserListerControl.php:57
+#. ListerControlMain.php:365
+#. ListerControlMain.php:415
+#. ListerControlMain.php:456
+#. ResourceGroupListerControl.php:44
+#. ResourceListerControl.php:41
+#. ResourceMemberListerControl.php:44
+#. TagListerControl.php:124
+#. UserListerControl.php:66
+#. GroupPresenter.php:482
+#. GroupPresenter.php:758
+#. ResourcePresenter.php:480
+#. ResourcePresenter.php:866
+#. UserPresenter.php:654
+#. UserPresenter.php:1201
+#: 
+msgid "Update"
+msgstr "Mise à jour"
+
+#. UserPresenter.php:638
+#: 
+msgid "Upload Avatar:"
+msgstr "Charger un avatar :"
+
+#. GroupPresenter.php:458
+#: 
+msgid "Upload group image:"
+msgstr "Charger une image pour le groupe :"
+
+#. StaticModel.php:43
+#: 
+msgid "User %s accepted your friendship."
+msgstr "L'utilisateur %s a accepté votre demande en ami."
+
+#. StaticModel.php:51
+#: 
+msgid "User %s canceled your friendship."
+msgstr "L'utilisateur %s a annulé votre demande en ami."
+
+#. StaticModel.php:47
+#: 
+msgid "User %s rejected your friendship."
+msgstr "L'utilisateur %s a rejeté votre demande en ami."
+
+#. StaticModel.php:39
+#: 
+msgid "User %s requested your friendship."
+msgstr "L'utilisateur %s vous demande en ami."
+
+#. register.phtml:0
+#: 
+msgid "User Signup"
+msgstr "Enregistrement de l'utilisateur"
+
+#. lostpassword.phtml:0
+#: 
+msgid "User lost password"
+msgstr "Mot de passe de l'utilisateur perdu"
+
+#. UserPresenter.php:1237
+#: 
+msgid "User permissions changed."
+msgstr "Autorisations de l'utilisateur modifiée."
+
+#. login.phtml:0
+#: 
+msgid "User signin"
+msgstr "Inscription de l'utilisateur"
+
+#. edit.phtml:0
+#: 
+msgid "User update"
+msgstr "Mise à jour de l'utilisateur"
+
+#. UserPresenter.php:720
+#: 
+msgid "User updated"
+msgstr "Utilisateur mis à jour"
+
+#. UserPresenter.php:492
+#: 
+msgid "User with the same name already exists."
+msgstr "Un utilisateur avec le même nom existe déjà."
+
+#. detail.phtml:156
+#: 
+msgid "User's location on a map"
+msgstr "Position de l'utilisateur sur une carte."
+
+#. UserPresenter.php:469
+#: 
+msgid "Username cannot be empty!"
+msgstr "Le nom d'utilisateur ne peut pas être vide !"
+
+#. UserPresenter.php:268
+#. UserPresenter.php:469
+#. UserPresenter.php:625
+#: 
+msgid "Username:"
+msgstr "Nom d'utilisateur :"
+
+#. BasePresenter.php:82
+#. default.phtml:0
+#. default.phtml:39
+#: 
+msgid "Users"
+msgstr "Utilisateurs"
+
+#. detail.phtml:104
+#: 
+msgid "View group owner:"
+msgstr "Voir le profil du propriétaire du groupe :"
+
+#. detail.phtml:110
+#: 
+msgid "View resource owner:"
+msgstr "Voir le profil du proprietaire de la ressource :"
+
+#. GroupPresenter.php:455
+#. ResourcePresenter.php:407
+#. UserPresenter.php:635
+#: 
+msgid "Visibility:"
+msgstr "Visibilité :"
+
+#. AdministrationPresenter.php:319
+#: 
+msgid "We have received complaints about inappropriate language in your resource. Please make necessary adjustments or your resource will be deactivated."
+msgstr "Nous avons reçu des plaintes indiquant que votre ressource utilise un langage inapproprié. Merci de prendre les mesures nécessaires ou votre ressource sera désactivée."
+
+#. AdministrationPresenter.php:281
+#: 
+msgid "We have received complaints about you spaming other users. Please stop or your account will be deactivated."
+msgstr "Nous avons reçu des plaintes indiquant que vous envoyez des spams aux autres utilisateurs. Merci d'arrêter ou votre compte sera désactivé."
+
+#. AdministrationPresenter.php:287
+#: 
+msgid "We have received complaints that you use inappropriate language. Please stop or your account will be deactivated."
+msgstr "Nous avons reçu des plaintes indiquant que vous utilisez un langage inapproprié. Merci d'arrêter ou votre compte sera désactivé."
+
+#. AdministrationPresenter.php:293
+#: 
+msgid "We have received complaints that your group contains spam. Please delete inappropriate content or your group will be deactivated."
+msgstr "Nous avons reçu des plaintes concernant votre groupe qui contiendrait des spams. Merci d'effacer tout contenu inapproprié ou votre groupe sera désactivé."
+
+#. AdministrationPresenter.php:313
+#: 
+msgid "We have received complaints that your resource contains spam. Please delete inappropriate content or your resource will be deactivated."
+msgstr "Nous avons reçu des plaintes concernant votre ressource, qui contiendrait des spams. Merci d'effacer tout contenu inapproprié ou votre ressource sera désactivée."
+
+#. default.phtml:42
+#: 
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#. UserPresenter.php:637
+#: 
+msgid "Write some lines about your life, your work and your interests."
+msgstr "Écrivez quelques lignes sur votre vie, votre travail et vos intérêts."
+
+#. UserPresenter.php:470
+#: 
+msgid "Wrong email format!"
+msgstr "Format d'adresse email non valide !"
+
+#. GroupPresenter.php:1164
+#: 
+msgid "You are already a member."
+msgstr "Vous êtes déjà un membre."
+
+#. default.phtml:130
+#. detail.phtml:176
+#: 
+msgid "You are not allowed to see the members."
+msgstr "Vous n'êtes pas autorisé à voir les membres."
+
+#. default.phtml:192
+#. detail.phtml:171
+#: 
+msgid "You are not allowed to see the memberships."
+msgstr "Vous n'êtes pas autorisé à voir les membres abonnés."
+
+#. default.phtml:151
+#. detail.phtml:301
+#: 
+msgid "You are not allowed to see the subscribed groups."
+msgstr "Vous n'êtes pas autorisé à voir les groupes abonnés."
+
+#. default.phtml:140
+#. detail.phtml:290
+#: 
+msgid "You are not allowed to see the subscribed users."
+msgstr "Vous n'êtes pas autorisé à voir les utilisateurs abonnés."
+
+#. default.phtml:141
+#. detail.phtml:187
+#. default.phtml:203
+#. detail.phtml:182
+#: 
+msgid "You are not allowed to see the subscriptions."
+msgstr "Vous n'êtes pas autorisé à voir les abonnements."
+
+#. GroupPresenter.php:29
+#: 
+msgid "You are not allowed to view this group."
+msgstr "Vous n'êtes pas autorisé à voir ce groupe."
+
+#. ResourcePresenter.php:22
+#: 
+msgid "You are not allowed to view this resource."
+msgstr "Vous n'êtes pas autorisé à voir cette ressource."
+
+#. UserPresenter.php:31
+#: 
+msgid "You are not allowed to view this user."
+msgstr "Vous n'êtes pas autorisé à voir cet utilisateur."
+
+#. detail.phtml:210
+#: 
+msgid "You can only send messages to friends."
+msgstr "Vous pouvez uniquement recevoir des messages de vos amis."
+
+#. detail.phtml:123
+#: 
+msgid "You currently block this user."
+msgstr "Vous avez bloqué cet utilisateur."
+
+#. GroupPresenter.php:1181
+#: 
+msgid "You have entered a wrong key."
+msgstr "Vous avez entré un mot de passe incorrect."
+
+#. GroupPresenter.php:1191
+#: 
+msgid "You have joined the group."
+msgstr "Vous avez rejoint le groupe."
+
+#. messages.phtml:6
+#: 
+msgid "You have no friends yet. You can start sending messages only after someone has accepted your friendship request."
+msgstr "Vous n'avez pas encore d'amis. Vous pourrez envoyer des messages uniquement quand quelqu'un aura accepté votre demande d'ami."
+
+#. GroupPresenter.php:124
+#. GroupPresenter.php:506
+#: 
+msgid "You have no permission to create groups."
+msgstr "Vous n'avez pas la permission de créer des groupes."
+
+#. detail.phtml:212
+#: 
+msgid "You need to log in to send messages."
+msgstr "Vous devez vous connecter pour envoyer des messages."
+
+#. detail.phtml:326
+#: 
+msgid "You need to subscribe in order to comment."
+msgstr "Vous devez vous connecter pour commenter."
+
+#. UserPresenter.php:696
+#: 
+msgid "You requested a change of your email address. A message with a link was sent to your old address. The new address will be activated once you confirmed the change."
+msgstr "Vous avez demandé un changement d'adresse email. Un message avec un lien a été envoyé à votre ancienne adresse email. La nouvelle adresse va être utilisée une fois que vous aurez confirmé le changement."
+
+#. default.phtml:53
+#: 
+msgid "My Connections"
+msgstr "Mes connections"
+
+#. BasePresenter.php:29
+#: 
+msgid "Your account has been deactivated. If you think that this is a mistake, please contact the support at %s."
+msgstr "Votre compte a été désactivé. Si vous pensez que cela est une erreur, merci de contacter le support à %s."
+
+#. UserPresenter.php:416
+#: 
+msgid "Your email:"
+msgstr "Votre adresse email :"
+
+#. GroupPresenter.php:210
+#. UserPresenter.php:225
+#: 
+msgid "Your image still needs to be cropped to the right dimensions before you can continue!"
+msgstr "Votre image doit être rognée avant que vous puissiez continuer !"
+
+#. GroupPresenter.php:203
+#. UserPresenter.php:218
+#: 
+msgid "Your image still needs to be resized before you can continue!"
+msgstr "Votre image doit être redimensionnée avant que vous puissiez continuer !"
+
+#. messages.phtml:0
+#. messages.phtml:10
+#: 
+msgid "Your messages"
+msgstr "Vos messages"
+
+#. UserPresenter.php:298
+#: 
+msgid "Your password has been successfully changed, you can now log in."
+msgstr "Votre mot de passe a été modifié, vous pouvez maintenant vous connecter."
+
+#. UserPresenter.php:471
+#: 
+msgid "Your password must be at least 8 characters long and contain at least one lower-case letter, one upper-case letter and one number."
+msgstr "Votre mot de passe doit avoir au moins 8 caractères et contenir au moins une lettre miniscule, une lettre majuscule et un chiffre."
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least %s characters."
+msgstr "Votre mot de passe doit contenir au moins %s caractères."
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one upper-case letter."
+msgstr "Votre mot de passe doit contenir au moins une majuscule."
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one number."
+msgstr "Votre mot de passe doit contenir au moins un chiffre."
+
+#. UserPresenter.php:283
+#. UserPresenter.php:311
+#. UserPresenter.php:471
+#: 
+msgid "Your password must contain at least one lower-case letter."
+msgstr "Votre mot de passe doit contenir au moins une lettre minuscule."
+
+#. UserPresenter.php:472
+#: 
+msgid "Your passwords are different."
+msgstr "Les mots de passe sont différents."
+
+#. GroupPresenter.php:840
+#. ResourcePresenter.php:946
+#. UserPresenter.php:409
+#: 
+msgid "Your report has been received."
+msgstr "Votre rapport a été envoyé."
+
+#. UserPresenter.php:469
+#: 
+msgid "Your username can only contain letters, numbers, space, dash and underscore!"
+msgstr "Votre nom d'utilisateur doit contenir uniquement des lettres, des chiffres, des espaces, des tirets et des tirets bas (underscore) !"
+
+#. ExternalFilter.php:175
+#: 
+msgid "active"
+msgstr "actif"
+
+#. GroupPresenter.php:272
+#. ResourcePresenter.php:355
+#. UserPresenter.php:552
+#. UserPresenter.php:556
+#: 
+msgid "add new tag"
+msgstr "Ajouter un nouveau tag"
+
+#. ListerControlMain_body.phtml:247
+#. ListerControlMain_body.phtml:265
+#. ListerControlMain_groups.phtml:83
+#. ListerControlMain_resources.phtml:102
+#: 
+msgid "administrator"
+msgstr "administrateur"
+
+#. ExternalFilter.php:174
+#. ExternalFilter.php:187
+#: 
+msgid "all"
+msgstr "tout"
+
+#. ExternalFilter.php:157
+#: 
+msgid "all resources"
+msgstr "Toutes les ressources"
+
+#. ExternalFilter.php:193
+#: 
+msgid "all tags"
+msgstr "Tous les tags"
+
+#. ChatLister_body.phtml:10
+#: 
+msgid "auto reload"
+msgstr "Rafraîchissement automatique"
+
+#. edit.phtml:7
+#. edit.phtml:31
+#. edit.phtml:5
+#: 
+msgid "cancel and return"
+msgstr "Annuler et revenir en arrière"
+
+#. MapContainer.phtml:324
+#. MapControl.phtml:345
+#: 
+msgid "clear map"
+msgstr "Réinitialiser la carte"
+
+#. BasePresenter.php:100
+#. BasePresenter.php:118
+#: 
+msgid "create"
+msgstr "créer"
+
+#. setupmaintenance.phtml:30
+#. setupmaintenance.phtml:36
+#. setupmaintenance.phtml:42
+#: 
+msgid "deactivated"
+msgstr "désactivé"
+
+#. ResourceListerControl.phtml:37
+#. default.phtml:52
+#. detail.phtml:37
+#. default.phtml:63
+#. detail.phtml:40
+#. default.phtml:53
+#. detail.phtml:40
+#: 
+msgid "edit"
+msgstr "Modifier"
+
+#. AdministrationPresenter.php:60
+#: 
+msgid "from_email"
+msgstr ""
+
+#. AdministrationPresenter.php:62
+#: 
+msgid "gps_default_latitude"
+msgstr ""
+
+#. AdministrationPresenter.php:64
+#: 
+msgid "gps_default_longitude"
+msgstr ""
+
+#. ExternalFilter.php:176
+#: 
+msgid "inactive"
+msgstr "inactif"
+
+#. @layout.phtml:197
+#: 
+msgid "license"
+msgstr ""
+
+#. ListerControlMain_body.phtml:449
+#. ListerControlMain_messages.phtml:93
+#: 
+msgid "mark as read"
+msgstr "marquer comme lu"
+
+#. ListerControlMain_body.phtml:453
+#. ListerControlMain_messages.phtml:94
+#: 
+msgid "mark as unread"
+msgstr "marquer comme non lu"
+
+#. default.phtml:58
+#: 
+msgid "I am a member."
+msgstr "Je suis un membre."
+
+#. ChatLister_ajax.phtml:30
+#. ListerControlMain_body.phtml:251
+#. ListerControlMain_body.phtml:269
+#. ListerControlMain_groups.phtml:87
+#. ListerControlMain_resources.phtml:106
+#: 
+msgid "moderator"
+msgstr "Modérateur"
+
+#. setupmaintenance.phtml:27
+#: 
+msgid "moderators"
+msgstr "Modérateurs"
+
+#. ListerControlMain_body.phtml:541
+#. ListerControlMain_groups.phtml:285
+#: 
+msgid "more groups"
+msgstr "Plus de groupes"
+
+#. ListerControlMain_body.phtml:543
+#. ListerControlMain_resources.phtml:308
+#: 
+msgid "more resources"
+msgstr "Plus de ressources"
+
+#. ListerControlMain_body.phtml:539
+#. ListerControlMain_users.phtml:262
+#: 
+msgid "more users"
+msgstr "Plus d'utilisateurs"
+
+#. ListerControlMain_body.phtml:441
+#. ListerControlMain_messages.phtml:73
+#: 
+msgid "move to trash"
+msgstr "Déplacer vers la corbeille"
+
+#. detail.phtml:12
+#: 
+msgid "my friend"
+msgstr "mon ami"
+
+#. default.phtml:62
+#: 
+msgid "no friend"
+msgstr "Pas d'ami"
+
+#. default.phtml:60
+#: 
+msgid "I am not a member."
+msgstr "Je ne suis pas un membre."
+
+#. detail.phtml:12
+#: 
+msgid "not my friend"
+msgstr "pas mon ami"
+
+#. default.phtml:72
+#: 
+msgid "I am not subscribed."
+msgstr "Je ne suis pas inscrit."
+
+#. AdministrationPresenter.php:66
+#: 
+msgid "object_creation_min_time"
+msgstr ""
+
+#. default.phtml:81
+#. detail.phtml:26
+#. default.phtml:72
+#. detail.phtml:22
+#: 
+msgid "only visible to friends"
+msgstr "Visible uniquement par vos amis"
+
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "only visible to members"
+msgstr "Visible uniquement pour les membres"
+
+#. default.phtml:66
+#. detail.phtml:16
+#. default.phtml:79
+#. detail.phtml:24
+#. default.phtml:70
+#. detail.phtml:20
+#: 
+msgid "only visible to registered users"
+msgstr "Visible uniquement par les utilisateurs enregistrés"
+
+#. detail.phtml:27
+#. detail.phtml:31
+#: 
+msgid "regenerate image"
+msgstr "Régénérer l'image"
+
+#. ChatLister_ajax.phtml:39
+#. ListerControlMain_body.phtml:198
+#. ListerControlMain_messages.phtml:113
+#: 
+msgid "reply"
+msgstr "répondre"
+
+#. ListerControlMain_body.phtml:445
+#. ListerControlMain_messages.phtml:77
+#: 
+msgid "restore from trash"
+msgstr "Restaurer depuis la corbeille"
+
+#. ExternalFilter.php:197
+#: 
+msgid "tag_name"
+msgstr ""
+
+#. ContainerTreeSelectControl.phtml:27
+#. ContainerTreeSelectControl.phtml:29
+#: 
+msgid "top level"
+msgstr "top niveau"
+
+#. default.phtml:64
+#. detail.phtml:14
+#. default.phtml:77
+#. detail.phtml:22
+#. default.phtml:68
+#. detail.phtml:18
+#: 
+msgid "visible to the world"
+msgstr "Visible par tout le monde"
+
+#. detail.phtml:5
+#: 
+msgid "Back to the list of messages"
+msgstr "Retour à la liste des messages"
+
+#. detail.phtml:7
+#: 
+msgid "Back to the list of reports"
+msgstr "Retour à la liste des rapports"
+
+#. detail.phtml:9
+#: 
+msgid "Back to the list of resources"
+msgstr "Retour à la liste des ressources"
+
+#. edit.phtml:38
+#: 
+msgid "Below you can add details: Describe the topics of this resource by one or more tags. These information will help other users to find your resource."
+msgstr "Vous pouvez ajouter des détails ci-dessous : Décrivez le sujet de cette ressource en ajoutant un ou des tags. Ces informations vont aider les autres utilisateurs à trouver votre ressource."
+
+#. detail.phtml:0
+#: 
+msgid "Details of the group"
+msgstr "Détails du groupe"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the resource"
+msgstr "Détails de la ressource"
+
+#. detail.phtml:0
+#: 
+msgid "Details of the user"
+msgstr "Détails de l'utilisateur"
+
+#. setupmaintenance.phtml:24
+#: 
+msgid "GD (images) supported"
+msgstr "GD (images) supportées"
+
+#. ChatLister_ajax.phtml:47
+#. ListerControlMain_messages.phtml:112
+#: 
+msgid "Message not displayed because the user has been deactivated."
+msgstr "Le message n'est pas affiché car l'utilisateur a été désactivé."
+
+#. ListerControlMain_messages.phtml:119
+#: 
+msgid "No messages"
+msgstr "Pas de message"
+
+#. setupmaintenance.phtml:18
+#: 
+msgid "PHP Version"
+msgstr ""
+
+#. default.phtml:169
+#. detail.phtml:173
+#: 
+msgid "Permission to create items"
+msgstr "Permission de créer un objet"
+
+#. @layout.phtml:211
+#: 
+msgid "Privacy policy"
+msgstr "Politique de confidentialité"
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Restrict your search to a location"
+msgstr "Restreindre la recherche à une position"
+
+#. MapContainer.phtml:328
+#. MapControl.phtml:395
+#: 
+msgid "Search for a place"
+msgstr "Rechercher un endroit"
+
+#. ExternalFilter.phtml:149
+#: 
+msgid "Search for similar topics like your interests and around your location."
+msgstr "Rechercher des sujets similaires à votre intérêt et proche de votre position."
+
+#. ExternalFilter.php:207
+#: 
+msgid "Similar to me"
+msgstr "Similaire"
+
+#. ChatLister_ajax.phtml:43
+#. ListerControlMain_messages.phtml:108
+#: 
+msgid "User has been deactivated"
+msgstr "L'utilisateur a été désactivé"
+
+#. default.phtml:160
+#. detail.phtml:164
+#: 
+msgid "User role"
+msgstr "Rôle de l'utilisateur"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom in"
+msgstr "zoom avant"
+
+#. MapControl.phtml:406
+#. MapControl.phtml:411
+#: 
+msgid "zoom out"
+msgstr "zoom arrière"
+
+#. ExternalFilter.phtml:139
+#: 
+msgid "AND: Find only items where <i>all</i> conditions are met.<br />OR: Find items where <i>any</i> of the selected conditions are met."
+msgstr ""
+
+#. ExternalFilter.phtml:117
+#: 
+msgid "Click inside the map to set the center. Click a second time to set the search radius."
+msgstr "Cliquez à l'intérieur de la carte pour fixer le centre. Cliquer une seconde fois pour fixer le rayon de recherche."
+
+#. ListerControlMain_groups.phtml:217
+#. ListerControlMain_resources.phtml:252
+#. ListerControlMain_users.phtml:194
+#: 
+msgid "Nothing to display"
+msgstr "Rien à afficher"
+
+#. changepassword.phtml:3
+#: 
+msgid "Please enter your new password"
+msgstr "Merci d'entrer votre nouveau mot de passe"
+
+#. UserPresenter.php:474
+#: 
+msgid "Please use only the English alphabet."
+msgstr "Merci d'utiliser uniquement l'alphabet anglais."
+
+#. ChatLister_body.phtml:9
+#: 
+msgid "Reload the chat."
+msgstr "Recharger la messagerie."
+
+#. detail.phtml:156
+#: 
+msgid "Resource location on a map"
+msgstr "Position de la ressource sur une carte"
+
+#. MapControl.phtml:380
+#. MapControl.phtml:381
+#: 
+msgid "Show the location where you are right now."
+msgstr "Afficher la position où vous êtes actuellement."
+
+#. detail.phtml:224
+#: 
+msgid "The chat is only visible to group members."
+msgstr "La messagerie est visible uniquement pour les membres du groupe."
+
+#. detail.phtml:222
+#: 
+msgid "Time:"
+msgstr "Heure :"
+
+#. default.phtml:6
+#. default.phtml:6
+#. default.phtml:6
+#: 
+msgid "Use the filter to narrow down the list of items"
+msgstr "Utiliser les filtres pour réduire le nombre de résultats."
+
+#. MapControl.php:42
+#: 
+msgid "group"
+msgstr "groupe"
+
+#. @layout.phtml:224
+#: 
+msgid "is a product of"
+msgstr "est un produit de"
+
+#. MapControl.php:43
+#: 
+msgid "resource"
+msgstr "ressource"
+
+#. detail.phtml:18
+#: 
+msgid "I am subscribed."
+msgstr "Je suis inscrit."
+
+#. MapControl.php:41
+#: 
+msgid "user"
+msgstr "Utilisateur"
+
+#. tag.phtml:21
+#: 
+msgid "Add a Tag"
+msgstr "Ajouter un tag"
+
+#. edit.phtml:68
+#. edit.phtml:107
+#. edit.phtml:85
+#: 
+msgid "Add the tags one by one."
+msgstr "Ajouter des tags un par un."
+
+#. tag.phtml:15
+#: 
+msgid "Administration - Create new tag"
+msgstr "Administration - Créer un nouveau tag"
+
+#. reports.phtml:14
+#: 
+msgid "Administration - Reports"
+msgstr "Administration - Rapports"
+
+#. tags.phtml:15
+#: 
+msgid "Administration - Tags"
+msgstr "Administration - Tags"
+
+#. piwik.phtml:14
+#: 
+msgid "Administration - Web Statistics"
+msgstr "Administration - Statistiques Web"
+
+#. ExternalFilter.phtml:70
+#: 
+msgid "Apply the filter and show the results."
+msgstr "Appliquer le filtre et montrer les résultats."
+
+#. GroupPresenter.php:485
+#: 
+msgid "Avatars are small images that will be visible with your group. Here you can upload an avatar for your group (min. %s, max. %s). In the next step you can crop it."
+msgstr ""
+
+#. UserPresenter.php:646
+#: 
+msgid "Avatars are small images that will be visible with your name. Here you can upload your avatar (min. %s, max. %s). In the next step you can crop it."
+msgstr "Un avatar est une petite image visible à côté de votre nom. Ici vous pouvez télécharger votre avatar (min. %s, max. %s). À la prochaine étape, vous pourrez modifier sa taille."
+
+#. default.phtml:64
+#: 
+msgid "Click here to continue"
+msgstr "Cliquez ici pour continuer."
+
+#. MapControl.phtml:394
+#: 
+msgid "Click inside the map to set the location. If the location is already set, you first need to clear the map: <b class='icon-clear'></b>."
+msgstr "Cliquez à l'intérieur de la carte pour fixer le centre. Si un centre est déjà fixé, vous devez d'abord réinitialiser la carte <b class='icon-clear'></b>."
+
+#. AdministrationPresenter.php:523
+#: 
+msgid "Database error."
+msgstr "Erreur de la base de données."
+
+#. ChatLister_ajax.phtml:163
+#. ListerControlMain_messages.phtml:208
+#: 
+msgid "Do you really want to delete this message?"
+msgstr "Voulez-vous vraiment supprimer ce message ?"
+
+#. setupmaintenance.phtml:112
+#: 
+msgid "Documentation:"
+msgstr "Documentation :"
+
+#. ContainerTreeSelectControl.phtml:66
+#: 
+msgid "Done"
+msgstr "Fait"
+
+#. AdministrationPresenter.php:732
+#: 
+msgid "Done importing resources. Error writing log file."
+msgstr "Importation des ressources effectuée. Erreur dans l'écriture du journal."
+
+#. AdministrationPresenter.php:734
+#: 
+msgid "Done importing resources. Please check the log file."
+msgstr "Importation des ressources effectuées. Vérifiez le journal."
+
+#. AdministrationPresenter.php:528
+#: 
+msgid "Done updating locales."
+msgstr "Mise à jour des lieux terminées"
+
+#. @layout.phtml:168
+#: 
+msgid "Download the mobile application"
+msgstr "Télécharger l'application mobile"
+
+#. AdministrationPresenter.php:520
+#: 
+msgid "Found unused locale '%s', removing from database."
+msgstr "Une ressource inutilisée a ete trouvée '%s', suppression de la base de données."
+
+#. ListerControlMain_groups.phtml:82
+#: 
+msgid "I am a group moderator."
+msgstr "Je suis le modérateur d'un groupe."
+
+#. ListerControlMain_resources.phtml:106
+#: 
+msgid "I am a resource moderator."
+msgstr "Je suis le modérateur d'une ressource."
+
+#. ListerControlMain_groups.phtml:78
+#. ListerControlMain_resources.phtml:102
+#: 
+msgid "I am the owner."
+msgstr "Je suis le propriétaire."
+
+#. UserPresenter.php:721
+#: 
+msgid "Image is too big! Max. size is for upload is %s"
+msgstr "L'image est trop grande ! La taille maximale est de %s"
+
+#. setupmaintenance.phtml:28
+#: 
+msgid "Import resources from a file"
+msgstr "Importer des ressources depuis un fichier"
+
+#. ExternalFilter.php:195
+#: 
+msgid "Mailbox"
+msgstr "Messagerie"
+
+#. edit.phtml:145
+#: 
+msgid "Manage subscribers of this resource"
+msgstr "Gérer les membres inscrits à cette ressource"
+
+#. ListerControlMain.php:386
+#: 
+msgid "Normal"
+msgstr "Normal"
+
+#. BasePresenter.php:420
+#: 
+msgid "Notification from %s"
+msgstr "Notifications de %s"
+
+#. default.phtml:64
+#: 
+msgid "Now is the best time to complete your profile. You can enter your name, your location and tags for your interests."
+msgstr "C'est le meilleur moment pour compléter votre profil. Vous pouvez entrer votre nom, votre ville et les tags de vos intérêts."
+
+#. setupmaintenance.phtml:64
+#: 
+msgid "PHP max execution time"
+msgstr ""
+
+#. setupmaintenance.phtml:67
+#: 
+msgid "PHP memory limit"
+msgstr ""
+
+#. setupmaintenance.phtml:72
+#: 
+msgid "PHP memory usage"
+msgstr ""
+
+#. ResourcePresenter.php:548
+#: 
+msgid "Please paste here the <u>underlined</u> part of the url for the media that you want to add:"
+msgstr "Copiez ici la partie <u>soulignée</u> de l'url pour le média que vous voulez ajouter :"
+
+#. ChatLister_ajax.phtml:33
+#. ListerControlMain_messages.phtml:77
+#: 
+msgid "Remove this message."
+msgstr "Supprimer ce message."
+
+#. TagListerControl.php:175
+#: 
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#. ExternalFilter.phtml:80
+#: 
+msgid "Reset the filter and show the entire list."
+msgstr "Réinitialiser les filtres et afficher toute la liste."
+
+#. @layout.phtml:199
+#: 
+msgid "Return to the home screen."
+msgstr "Retourner a la page d'accueil."
+
+#. ResourcePresenter.php:645
+#. ResourcePresenter.php:675
+#: 
+msgid "Screenshot processing."
+msgstr "Capture d'écran en cours d'analyse."
+
+#. AddTagComponent_Group.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this group is about."
+msgstr "Sélectionner un tag décrivant un sujet sur le groupe."
+
+#. AddTagComponent_Resource.phtml:23
+#: 
+msgid "Select a tag that describes a topic that this resource is about."
+msgstr "Sélectionner un tag décrivant un sujet sur la ressource."
+
+#. AddTagComponent_User.phtml:23
+#: 
+msgid "Select a tag that describes one of your interests."
+msgstr "Sélectionner un tag décrivant un de vos centres d'intérêt"
+
+#. AdministrationPresenter.php:238
+#. setupmaintenance.phtml:20
+#: 
+msgid "Setup and Maintenance"
+msgstr "Configuration et maintenance"
+
+#. AdministrationPresenter.php:187
+#: 
+msgid "Statistics"
+msgstr "Statistiques"
+
+#. StaticModel.php:83
+#: 
+msgid "System message:  You've received a warning about your resource."
+msgstr ""
+
+#. StaticModel.php:78
+#: 
+msgid "System message: You've received a warning about your group."
+msgstr "Message du système : vous avez reçu un avertissement sur votre groupe."
+
+#. StaticModel.php:73
+#: 
+msgid "System message: You've received a warning."
+msgstr "Message du système : vous avez reçu un avertissement."
+
+#. AdministrationPresenter.php:130
+#: 
+msgid "Tag \"%s\" saved."
+msgstr "Tag \\"%s\\" sauvegardé."
+
+#. setupmaintenance.phtml:41
+#: 
+msgid "Test the import in a dry run"
+msgstr "Test de l'import à vide"
+
+#. GroupPresenter.php:547
+#. UserPresenter.php:723
+#: 
+msgid "The image is too small! Min. size for upload is %s"
+msgstr "L'image est trop petite ! La taille minimale de chargement est %s"
+
+#. AdministrationPresenter.php:109
+#: 
+msgid "The tag cannot be its own parent."
+msgstr "Le tag ne peut pas être son propre parent."
+
+#. default.phtml:61
+#: 
+msgid "There are unread reports:"
+msgstr "Il y a des rapports non lus :"
+
+#. GroupPresenter.php:824
+#: 
+msgid "This group contains wrong information."
+msgstr "Ce groupe contient des informations erronées."
+
+#. default.phtml:107
+#. detail.phtml:114
+#: 
+msgid "This is my group."
+msgstr "C'est mon groupe."
+
+#. default.phtml:119
+#. detail.phtml:109
+#: 
+msgid "This is my resource."
+msgstr "Ce sont mes ressources."
+
+#. ResourcePresenter.php:1072
+#: 
+msgid "This resource contains wrong information."
+msgstr "Cette ressource contient des informations erronées."
+
+#. AdministrationPresenter.php:737
+#: 
+msgid "This was just a dry run - nothing was saved."
+msgstr "Il s'agit d'un test, rien n'a été enregistré."
+
+#. ResourcePresenter.php:650
+#: 
+msgid "URL doesn't seem to exist"
+msgstr "L'URL n'existe pas."
+
+#. ExternalFilter.php:194
+#: 
+msgid "Unread"
+msgstr "Non lu"
+
+#. setupmaintenance.phtml:46
+#: 
+msgid "Update languages"
+msgstr "Mettre à jour les langues"
+
+#. setupmaintenance.phtml:115
+#: 
+msgid "User Forum:"
+msgstr "Forum utilisateur :"
+
+#. ResourcePresenter.php:236
+#: 
+msgid "View big screenshot"
+msgstr "Voir la capture d'écran en grand"
+
+#. AdministrationPresenter.php:355
+#: 
+msgid "We have received complaints about inappropriate language in your group. Please make neccessary adjustments or your group will be deactivated."
+msgstr ""
+
+#. AdministrationPresenter.php:197
+#: 
+msgid "Web Statistics"
+msgstr "Statistiques web"
+
+#. BasePresenter.php:97
+#: 
+msgid "You are a moderator on this platform."
+msgstr "Vous êtes un modérateur sur cette plateforme."
+
+#. BasePresenter.php:98
+#: 
+msgid "You are an administrator on this platform."
+msgstr "Vous êtes un administrateur sur cette plateforme."
+
+#. UserPresenter.php:527
+#: 
+msgid "Your email or IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "Votre adresse email ou IP est reconnue par www.stopforumspam.com comme une source de spam et a été bloquée."
+
+#. default.phtml:27
+#: 
+msgid "administrators"
+msgstr "administrateurs"
+
+#. default.phtml:39
+#: 
+msgid "banned"
+msgstr "banni"
+
+#. ContainerTreeSelectControl.phtml:2
+#: 
+msgid "change"
+msgstr "changer"
+
+#. default.phtml:96
+#: 
+msgid "chat messages"
+msgstr "Messages de la discussion"
+
+#. default.phtml:33
+#: 
+msgid "creation rights removed"
+msgstr "Droits de création retirés."
+
+#. ResourcePresenter.php:180
+#: 
+msgid "document"
+msgstr "document"
+
+#. ResourcePresenter.php:178
+#: 
+msgid "event"
+msgstr "Évènement"
+
+#. ResourcePresenter.php:181
+#: 
+msgid "link to external resource"
+msgstr "Lien vers une ressource externe"
+
+#. ResourcePresenter.php:188
+#: 
+msgid "live-video on Bambuser"
+msgstr "vidéo live sur Bambuser"
+
+#. ResourcePresenter.php:177
+#: 
+msgid "message"
+msgstr "message"
+
+#. ResourcePresenter.php:179
+#: 
+msgid "organization"
+msgstr "organisation"
+
+#. default.phtml:93
+#: 
+msgid "private messages"
+msgstr "messages privés"
+
+#. ResourcePresenter.php:185
+#: 
+msgid "sound on Soundcloud"
+msgstr "musique sur Soundcloud"
+
+#. default.phtml:24
+#. default.phtml:55
+#. default.phtml:74
+#: 
+msgid "total"
+msgstr "total"
+
+#. ResourcePresenter.php:187
+#: 
+msgid "video on Vimeo"
+msgstr "vidéo sur Vimeo"
+
+#. ResourcePresenter.php:186
+#: 
+msgid "video on YouTube"
+msgstr "vidéo sur Youtube"
+
+#. default.phtml:48
+#: 
+msgid "visbility 'friends'"
+msgstr "visibilité 'amis'"
+
+#. default.phtml:67
+#: 
+msgid "visbility 'members'"
+msgstr "visibilité 'membres'"
+
+#. default.phtml:45
+#. default.phtml:64
+#. default.phtml:83
+#: 
+msgid "visbility 'registered'"
+msgstr "visibilité 'utilisateur'"
+
+#. default.phtml:86
+#: 
+msgid "visbility 'susbcribed'"
+msgstr "visibilité 'inscrit'"
+
+#. default.phtml:42
+#. default.phtml:61
+#. default.phtml:80
+#: 
+msgid "visbility 'world'"
+msgstr "visibilité public'"
+
+#: 
+msgid "%s new messages"
+msgstr "%s nouveaux messages"
+
+#: 
+msgid "1 new message"
+msgstr "1 nouveau message"
+
+#: 
+msgid "Quote"
+msgstr "Citation"
+
+#: 
+msgid "The administrator asks you to answer a security question before you can enter."
+msgstr "L'administrateur exige que vous répondiez à la question de sécurité avant de pouvoir entrer."
+
+#: 
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#: 
+msgid "Security Question"
+msgstr "Question de sécurité"
+
+#: 
+msgid "Sign up is disabled. Please try again later."
+msgstr "La fonction 'Se connecter' est désactivée. Merci de réessayer plus tard."
+
+#: 
+msgid "Sign in is disabled. Please try again later."
+msgstr "La fonction 'S'enregistrer' est désactivée. Merci de réessayer plus tard."
+
+#: 
+msgid "Please answer the security question"
+msgstr "Veuillez répondre à la question de sécurité"
+
+#: 
+msgid "You do not have permission to view this page. Please try contact the web site administrator if you believe you should be able to view this page."
+msgstr "Vous n'avez pas la permission de regarder cette page. Merci de contacter l'administrateur du site si vous pensez avoir les droits pour voir cette page."
+
+#: 
+msgid "The page you requested could not be found. Please correct the address, return to the previous page, or go back home."
+msgstr "La page que vous avez demandé n'a pas pu etre trouvée. Merci de vérifier l'adresse, de revenir à la page précédente, ou de revenir à la page d'accueil."
+
+#: 
+msgid "Show only messages by senders with matching names.<ul><li>Type to search only on this page.</li><li>Type and press enter to search on all pages.</li></ul>"
+msgstr "Afficher uniquement les messages dont les expéditeurs ont un nom correspondant.<ul><li>Tapez pour rechercher uniquement sur cette page.</li><li>Tapez et appuyez sur entrée pour rechercher sur toutes les pages.</li></ul>"
+
+#: 
+msgid "Edit profile"
+msgstr "Modifier le profil"
+
+#: 
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: 
+msgid "We have resent your confirmation email - just in case you didn't get it before."
+msgstr "Nous avons renvoyé votre email de confirmation - au cas où vous ne l'auriez pas eu la première fois."
+
+#: 
+msgid "You canceled the friendship with %s."
+msgstr "Vous avez annulé votre amitié avec %s."
+
+#: 
+msgid "You joined the group."
+msgstr "Vous avez rejoint le groupe."
+
+#: 
+msgid "You subscribed to the resource."
+msgstr "Vous vous êtes inscrit à la ressource."
+
+#: 
+msgid "You left the group."
+msgstr "Vous avez quitté le groupe."
+
+#: 
+msgid "You unsubscribed from the resource."
+msgstr "Vous vous êtes désinscrit de la ressource."
+
+#: 
+msgid "The group added a resource."
+msgstr "Le groupe a rajouté une ressource."
+
+#: 
+msgid "The resource has new comments."
+msgstr "La ressource a de nouveaux commentaires."
+
+#: 
+msgid "Somebody tried to login with your name and a wrong password."
+msgstr "Quelqu'un a essayé de se connecter en utilisant votre nom et un mot de passe erroné."
+
+#: 
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: 
+msgid "Yesterday"
+msgstr "Hier"
+
+#: 
+msgid "Week"
+msgstr "Semaine"
+
+#: 
+msgid "Month"
+msgstr "Mois"
+
+#: 
+msgid "Recent activity"
+msgstr "Activité récente"
+
+#: 
+msgid "load more..."
+msgstr "Plus de contenu ..."
+
+#: 
+msgid "Terms of Use"
+msgstr "Conditions d'utilisation"
+
+#. AdministrationPresenter.php:678
+#: 
+msgid "%d user(s) purged."
+msgstr "%d utilisateur(s) nettoyé(s)."
+
+#. ResourcePresenter.php:180
+#. ResourcePresenter.php:245
+#. ResourcePresenter.php:646
+#: 
+msgid "1 week"
+msgstr "1 semaine"
+
+#. GroupPresenter.php:1071
+#. GroupPresenter.php:1080
+#: 
+msgid "A message from your group %s"
+msgstr "Un message de votre groupe %s"
+
+#. HomePagePresenter.php:541
+#: 
+msgid "A new chat message was posted in the group."
+msgstr "Un nouveau message a été publié dans votre groupe %s."
+
+#. HomePagePresenter.php:543
+#: 
+msgid "A new group was created."
+msgstr "Un nouveau groupe a été crée."
+
+#. HomePagePresenter.php:544
+#: 
+msgid "A new resource was created."
+msgstr "Une nouvelle ressource a été créee."
+
+#. 403.phtml:14
+#. 403.phtml:18
+#: 
+msgid "Access Denied"
+msgstr "Accès refusé"
+
+#. BasePresenter.php:286
+#: 
+msgid "0"
+msgstr ""
+
+#. ResourcePresenter.php:648
+#. detail.phtml:265
+#: 
+msgid "Alarm:"
+msgstr "Alarme :"
+
+#. ResourcePresenter.php:629
+#: 
+msgid "All day event"
+msgstr ""
+
+#. HomePagePresenter.php:628
+#. default.phtml:126
+#. detail.phtml:260
+#: 
+msgid "All-day event"
+msgstr "Évènement de la journée"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Apr"
+msgstr "Avr"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Aug"
+msgstr "Août"
+
+#. UserPresenter.php:916
+#: 
+msgid "Continue"
+msgstr "Continuer"
+
+#. create.phtml:13
+#: 
+msgid "Create Group"
+msgstr "Créer un groupe."
+
+#. create.phtml:13
+#: 
+msgid "Create Resource"
+msgstr "Créer une ressource."
+
+#. default.phtml:174
+#: 
+msgid "Create a new event?"
+msgstr "Créer un nouvel évènement ?"
+
+#. setupmaintenance.phtml:34
+#: 
+msgid "Database size"
+msgstr "Taille de la base de données"
+
+#. StaticModel.php:137
+#. BasePresenter.php:647
+#: 
+msgid "Dear %s"
+msgstr "Cher/Chère %s"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Dec"
+msgstr "Dec"
+
+#. ResourcePresenter.php:633
+#: 
+msgid "Different end time"
+msgstr "Temps de fin différent"
+
+#. browse.phtml:46
+#: 
+msgid "Do you really want to delete this file?"
+msgstr "Voulez-vous vraiment supprimer ce fichier ?"
+
+#. edit.phtml:13
+#: 
+msgid "Edit Resource"
+msgstr "Modifier la ressource"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "Emails on unread messages:"
+msgstr "Envoyer un email pour les messages non lus :"
+
+#. default.phtml:121
+#. detail.phtml:255
+#: 
+msgid "End:"
+msgstr "Fin :"
+
+#. detail.phtml:247
+#: 
+msgid "Event Details"
+msgstr "Détails de l'évènement"
+
+#. ResourcePresenter.php:634
+#: 
+msgid "Event end time:"
+msgstr "Date de fin de l'évènement :"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Feb"
+msgstr "Fev"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Fri"
+msgstr "Ven"
+
+#. default.phtml:197
+#: 
+msgid "Friday"
+msgstr "Vendredi"
+
+#. GroupPresenter.php:552
+#: 
+msgid "Group name cannot be empty!"
+msgstr "Le nom du groupe ne peut être vide !"
+
+#. UserPresenter.php:1072
+#: 
+msgid "Homepage:"
+msgstr "Page d'accueil :"
+
+#. GroupPresenter.php:1036
+#: 
+msgid "How to contact them"
+msgstr "Comment les contacter"
+
+#. default.phtml:134
+#: 
+msgid "If these recommendations are not precise, you could try to find better tags to describe your interests. You can change your tags on your profile page."
+msgstr "Si ces propositions ne correspondent pas à vos attentes, vous pouvez essayer de trouver de meilleurs tags pour décrire vos intérêts. Vous pouvez changer vos tags sur votre page de profil."
+
+#. browse.phtml:83
+#: 
+msgid "If you need to upload a new file, close this window and click on 'Upload'."
+msgstr "Si vous avez besoin de télécharger un nouveau fichier, fermez cette fenêtre et cliquez sur 'Télécharger'."
+
+#. browse.phtml:84
+#: 
+msgid "These files are public. If you want to prevent others from seeing them, you should choose a file name that is hard to guess."
+msgstr "Ces fichiers sont publics. Si vous voulez éviter que d'autres ne les voient, vous devriez choisir un nom de fichier difficile à deviner."
+
+#. detail.phtml:100
+#: 
+msgid "Interests"
+msgstr "Intérêts"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jan"
+msgstr "Jan"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jul"
+msgstr "Jul"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Jun"
+msgstr "Jui"
+
+#. AdministrationPresenter.php:429
+#: 
+msgid "Maintenance mode activated."
+msgstr "Profil de maintenance activé."
+
+#. BasePresenter.php:88
+#: 
+msgid "Maintenance mode active."
+msgstr "Profil de maintenance actif."
+
+#. AdministrationPresenter.php:422
+#: 
+msgid "Maintenance mode deactivated."
+msgstr "Profil de maintenance désactivé."
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Mar"
+msgstr "Mar"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Mon"
+msgstr "Lun"
+
+#. default.phtml:196
+#: 
+msgid "Monday"
+msgstr "Lundi"
+
+#. setupmaintenance.phtml:80
+#: 
+msgid "More information and download"
+msgstr "Plus d'informations et de téléchargements"
+
+#. default.phtml:84
+#: 
+msgid "My Activity"
+msgstr "Mon activité"
+
+#. default.phtml:85
+#: 
+msgid "My Events"
+msgstr "Mes évènements"
+
+#. default.phtml:83
+#: 
+msgid "My Recommendations"
+msgstr "Mes recommandations"
+
+#. setupmaintenance.phtml:31
+#: 
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+#. setupmaintenance.phtml:74
+#: 
+msgid "New version:"
+msgstr "Nouvelle version :"
+
+#. browse.phtml:122
+#: 
+msgid "No files."
+msgstr "Pas de fichier."
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "No problem found."
+msgstr "Pas de problème trouvé."
+
+#. detail.phtml:107
+#. detail.phtml:122
+#. detail.phtml:121
+#: 
+msgid "No tags"
+msgstr "Pas de tag"
+
+#. browse.phtml:84
+#: 
+msgid "Note:"
+msgstr "Note :"
+
+#. messages.phtml:47
+#. messages.phtml:51
+#: 
+msgid "Notification Settings"
+msgstr "Paramètres des notifications"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Nov"
+msgstr "Nov"
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Oct"
+msgstr "Oct"
+
+#. setupmaintenance.phtml:153
+#: 
+msgid "Over one month old"
+msgstr "Daté de plus d'un mois"
+
+#. setupmaintenance.phtml:155
+#: 
+msgid "Over six months old"
+msgstr "Daté de plus de six mois"
+
+#. setupmaintenance.phtml:154
+#: 
+msgid "Over two months old"
+msgstr "Daté de plus de deux mois"
+
+#. 404.phtml:14
+#. 404.phtml:18
+#: 
+msgid "Page Not Found"
+msgstr "Page introuvable"
+
+#. UserPresenter.php:2197
+#: 
+msgid "Please check now your profile and enter a description and tags."
+msgstr "Merci de vérifier votre profil et d'entrer une description et des tags."
+
+#. UserPresenter.php:788
+#. UserPresenter.php:914
+#: 
+msgid "Please enter the text!"
+msgstr "Merci d'entrer du texte !"
+
+#. browse.phtml:74
+#: 
+msgid "Please select a file"
+msgstr "Merci de sélectionner un fichier"
+
+#. setupmaintenance.phtml:136
+#. setupmaintenance.phtml:141
+#: 
+msgid "Problem found"
+msgstr "Problème trouvé"
+
+#. setupmaintenance.phtml:152
+#: 
+msgid "Purge unconfirmed users"
+msgstr "Supprimer les utilisateurs non confirmés"
+
+#. @layout.phtml:232
+#: 
+msgid "Recent Activity"
+msgstr "Activité récente"
+
+#. default.phtml:120
+#: 
+msgid "Recommended Groups"
+msgstr "Groupes recommandés"
+
+#. default.phtml:127
+#: 
+msgid "Recommended Resources"
+msgstr "Ressources recommandées"
+
+#. default.phtml:113
+#: 
+msgid "Recommended Users"
+msgstr "Utilisateurs recommandés"
+
+#. setupmaintenance.phtml:77
+#: 
+msgid "Release information:"
+msgstr "Information de sortie :"
+
+#. messages.phtml:46
+#: 
+msgid "Reload"
+msgstr "Recharger"
+
+#. ResourcePresenter.php:592
+#: 
+msgid "Resource name cannot be empty!"
+msgstr "Le nom de la ressource ne peut être vide !"
+
+#. setupmaintenance.phtml:146
+#: 
+msgid "Result"
+msgstr "Résultat"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sat"
+msgstr "Sam"
+
+#. default.phtml:197
+#: 
+msgid "Saturday"
+msgstr "Samedi"
+
+#. ListerControlMain_groups.phtml:19
+#. ListerControlMain_resources.phtml:19
+#. ListerControlMain_users.phtml:19
+#: 
+msgid "Searched around your location."
+msgstr "Rechercher autour de votre position."
+
+#. detail.phtml:229
+#. detail.phtml:231
+#: 
+msgid "Send a message to all members"
+msgstr "Envoyer un message à tous les membres"
+
+#. GroupPresenter.php:1032
+#: 
+msgid "Send them a local message."
+msgstr "Envoyer un message local."
+
+#. GroupPresenter.php:1033
+#: 
+msgid "Send them an email."
+msgstr "Envoyer un email."
+
+#. default.phtml:195
+#. create.phtml:33
+#. create.phtml:50
+#. edit.phtml:33
+#. edit.phtml:48
+#: 
+msgid "Sep"
+msgstr "Sep"
+
+#. BasePresenter.php:80
+#: 
+msgid "Stand by for scheduled maintenance in %s minutes and %s seconds. Please finish your activities."
+msgstr "Maintenance programmée dans %s minutes et %s secondes. Merci de fermer votre session."
+
+#. default.phtml:119
+#. detail.phtml:253
+#: 
+msgid "Start:"
+msgstr "Démarrer :"
+
+#. AdministrationPresenter.php:391
+#: 
+msgid "Submit"
+msgstr "Soumettre"
+
+#. UserPresenter.php:2196
+#: 
+msgid "Success!"
+msgstr "Réussi !"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Sun"
+msgstr "Dim"
+
+#. default.phtml:196
+#: 
+msgid "Sunday"
+msgstr "Dimanche"
+
+#. AdministrationPresenter.php:656
+#: 
+msgid "System check finished. Find the results below."
+msgstr "Vérification du système terminée. Les résultats sont affichés ci-dessous."
+
+#. GroupPresenter.php:1037
+#: 
+msgid "Text"
+msgstr "Texte"
+
+#. HomePagePresenter.php:546
+#: 
+msgid "The group unsubscribed from a resource."
+msgstr "Le groupe s'est désinscrit d'une ressource."
+
+#. HomePagePresenter.php:547
+#: 
+msgid "The group was updated."
+msgstr "Le groupe a été mis à jour."
+
+#. UserAuthenticator.php:42
+#: 
+msgid "The password is wrong."
+msgstr "Le mot de passe est incorrect."
+
+#. HomePagePresenter.php:548
+#: 
+msgid "The resource was updated."
+msgstr "La ressource a été mise à jour."
+
+#. UserPresenter.php:897
+#: 
+msgid "There has been an error sending the confirmation email. Please try again in a while."
+msgstr "Il y a eu une erreur lors de l'envoi de l'email de confirmation. Merci de réessayer plus tard."
+
+#. UserPresenter.php:601
+#: 
+msgid "This person was created by mistake."
+msgstr "Cette personne a été créée par erreur."
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Thu"
+msgstr "Jeu"
+
+#. default.phtml:197
+#: 
+msgid "Thursday"
+msgstr "Jeudi"
+
+#. detail.phtml:86
+#. detail.phtml:101
+#: 
+msgid "Topics"
+msgstr "Sujets"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Tue"
+msgstr "Mar"
+
+#. default.phtml:196
+#: 
+msgid "Tuesday"
+msgstr "Mardi"
+
+#. detail.phtml:189
+#: 
+msgid "Visit Homepage"
+msgstr "Visiter la page d'accueil"
+
+#. default.phtml:198
+#. create.phtml:34
+#. create.phtml:51
+#. edit.phtml:34
+#. edit.phtml:49
+#: 
+msgid "Wed"
+msgstr "Mer"
+
+#. default.phtml:196
+#: 
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#. HomePagePresenter.php:518
+#: 
+msgid "You accepted %s's friendship."
+msgstr "Vous avez accepté %s en ami."
+
+#. GroupPresenter.php:1282
+#: 
+msgid "You are not allowed to edit this group."
+msgstr "Vous n'êtes pas autorisé à modifier ce groupe."
+
+#. UserPresenter.php:1970
+#: 
+msgid "You are not allowed to edit this user."
+msgstr "Vous n'êtes pas autorisé à modifier cet utilisateur."
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "You can receive an email when you have unread messages in your inbox."
+msgstr "Vous pourrez recevoir un email quand vous aurez lu les messages de votre boîte de réception."
+
+#. UserPresenter.php:822
+#. UserPresenter.php:945
+#: 
+msgid "You entered the wrong captcha."
+msgstr "Vous avez entré le mauvais captcha."
+
+#. BasePresenter.php:120
+#: 
+msgid "You first need to confirm your registration. Please check your email account and click on the link of the confirmation email."
+msgstr "Vous devez d'abord confirmer votre inscription. Merci de vérifier votre compte email et de cliquer sur le lien dans l'email de confirmation."
+
+#. ResourcePresenter.php:771
+#: 
+msgid "You have no permission to create public resources."
+msgstr "Vous n'avez pas la permission de créer des ressources publiques."
+
+#. BasePresenter.php:609
+#: 
+msgid "You receive this message as a member of the group \"%s\"."
+msgstr "Vous recevez ce message car vous êtes membre du groupe \\"%s\\"."
+
+#. HomePagePresenter.php:525
+#: 
+msgid "You rejected %s's friendship."
+msgstr "Vous avez rejeté la demande d'ami de %s."
+
+#. HomePagePresenter.php:511
+#: 
+msgid "You requested %s's friendship."
+msgstr "Vous avez demandé %s en ami."
+
+#. HomePagePresenter.php:505
+#: 
+msgid "You signed up."
+msgstr "Vous vous êtes enregistré."
+
+#. UserPresenter.php:2091
+#: 
+msgid "Your Facebook account doesn't have an email address."
+msgstr "Votre compte Facebook n'a pas d'adresse email."
+
+#. GroupPresenter.php:1101
+#: 
+msgid "Your message has been sent to the members of this group."
+msgstr "Votre message a été envoyé aux autres membres de ce groupe."
+
+#. UserPresenter.php:783
+#: 
+msgid "Your password must contain at least one small letter."
+msgstr "Votre mot de passe doit contenir au moins une minuscule."
+
+#. ResourcePresenter.php:569
+#: 
+msgid "Your permissions only allow to create private resources."
+msgstr "Vos droits vous permettent uniquement de créer des ressources privées."
+
+#. setupmaintenance.phtml:84
+#: 
+msgid "Your software is up to date."
+msgstr "Votre logiciel est à jour."
+
+#. UserPresenter.php:1072
+#: 
+msgid "Your website, blog or Facebook profile."
+msgstr "Votre site web, blog ou profil Facebook."
+
+#. 403.phtml:27
+#. 404.phtml:27
+#: 
+msgid "back"
+msgstr "retour"
+
+#. browse.phtml:78
+#: 
+msgid "close"
+msgstr "fermer"
+
+#. default.phtml:193
+#: 
+msgid "day"
+msgstr "jour"
+
+#. browse.phtml:103
+#: 
+msgid "delete"
+msgstr "supprimer"
+
+#. HomePagePresenter.php:632
+#. HomePagePresenter.php:635
+#: 
+msgid "g:ia"
+msgstr "g:ia"
+
+#. 403.phtml:28
+#. 404.phtml:28
+#: 
+msgid "home"
+msgstr "Accueil"
+
+#. browse.phtml:107
+#: 
+msgid "insert"
+msgstr "insérer"
+
+#. ResourcePresenter.php:163
+#. ResourcePresenter.php:164
+#. ResourcePresenter.php:228
+#. ResourcePresenter.php:229
+#: 
+msgid "l, j F Y"
+msgstr "l, j F Y"
+
+#. ResourcePresenter.php:166
+#. ResourcePresenter.php:167
+#. ResourcePresenter.php:231
+#. ResourcePresenter.php:232
+#: 
+msgid "l, j F Y, g:ia T"
+msgstr "l, j F Y, g:ia T"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per day"
+msgstr "maximum une fois par jour"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per hour"
+msgstr "maximum une fois pas heure"
+
+#. UserPresenter.php:481
+#. UserPresenter.php:1069
+#: 
+msgid "max. once per week"
+msgstr "maximum une fois par semaine"
+
+#. default.phtml:191
+#: 
+msgid "month"
+msgstr "mois"
+
+#. TagListerControl.phtml:49
+#: 
+msgid "move down"
+msgstr "Déplacer vers le bas"
+
+#. TagListerControl.phtml:48
+#: 
+msgid "move up"
+msgstr "Déplacer vers le haut"
+
+#. UserPresenter.php:1069
+#: 
+msgid "no"
+msgstr "non"
+
+#. ResourcePresenter.php:171
+#. ResourcePresenter.php:236
+#. ResourcePresenter.php:637
+#: 
+msgid "no alert"
+msgstr "Pas d'alerte"
+
+#. create.phtml:19
+#. create.phtml:22
+#. edit.phtml:19
+#. edit.phtml:22
+#: 
+msgid "now"
+msgstr "maintenant"
+
+#. UserPresenter.php:481
+#: 
+msgid "off"
+msgstr ""
+
+#. default.phtml:98
+#. detail.phtml:46
+#: 
+msgid "only visible to subscribers"
+msgstr "Visibles uniquement par les utilisateurs inscrits"
+
+#. default.phtml:96
+#. detail.phtml:44
+#: 
+msgid "only visible to you"
+msgstr "Visible uniquement par vous"
+
+#. default.phtml:151
+#: 
+msgid "own events"
+msgstr "Mes évènements"
+
+#. browse.phtml:109
+#: 
+msgid "pixel"
+msgstr "pixel"
+
+#. @layout.phtml:201
+#: 
+msgid "read or write messages"
+msgstr "Lire ou écrire des messages"
+
+#. create.phtml:20
+#. edit.phtml:20
+#: 
+msgid "reset to initial selection"
+msgstr "Réinitialiser au paramètre de recherche initial"
+
+#. login.phtml:49
+#. register.phtml:37
+#: 
+msgid "sign in with Facebook"
+msgstr "S'inscrire avec Facebook"
+
+#. default.phtml:152
+#: 
+msgid "subscribed events"
+msgstr "évènements enregistrés"
+
+#. default.phtml:190
+#: 
+msgid "today"
+msgstr "aujourd'hui"
+
+#. default.phtml:38
+#: 
+msgid "unfinished registration"
+msgstr "Enregistrement non terminé"
+
+#. default.phtml:192
+#: 
+msgid "week"
+msgstr "semaine"
+
+#: 
+msgid "The following items could be interesting for you:"
+msgstr "Les objets suivants pourraient vous intéresser :"
+
+#: 
+msgid "You see only item that you are not connected to."
+msgstr "Vous voyez uniquement les objets auxquels vous n'êtes pas connecté."
+
+#: 
+msgid "now online"
+msgstr "En ligne maintenant"
+
+#: 
+msgid "Last seen less than 5 mins ago."
+msgstr "Vu il y a moins de 5 minutes."
+
+#: 
+msgid "Last seen less than 10 mins ago."
+msgstr "Vu il y a moins de 10 minutes."
+
+#: 
+msgid "Last seen:"
+msgstr "Vu récemment :"
+
+#: 
+msgid "never online"
+msgstr "jamais en ligne"
+
+#: 
+msgid "Searched globally because not enough was found around your location."
+msgstr "Rechercher plus largement car rien n'a été trouvé à proximité de votre position."
+
+#: 
+msgid "A new user has signed up."
+msgstr "Un nouvel utilisateur s'est enregistré."
+
+#: 
+msgid "Include all new users, groups and resources that you are allowed to view."
+msgstr "Inclure tous les nouveaux utilisateurs, groupes et ressources que vous êtes autorisé a voir."
+
+#: 
+msgid "Your permissions of the group were changed."
+msgstr "Vos droits sur le groupe ont été modifiés."
+
+#: 
+msgid "Your permissions of the resource were changed."
+msgstr "Vos droits sur cette ressource ont été modifiés."
+
+#: 
+msgid "Message to all users"
+msgstr "Message à tous les utilisateurs."
+
+#: 
+msgid "Noticeboard Messages"
+msgstr "Messages du tableau de notification"
+
+#: 
+msgid "These messages will be displayed in the activity stream of all users."
+msgstr "Ces messages seront affichés dans le fil d'activité de tous les utilisateurs."
+
+#. ResourcePresenter.php:474
+#: 
+msgid "%d result(s) found"
+msgstr "%d résultat(s) trouvé(s)"
+
+#. Group.php:693
+#: 
+msgid "%s has left the group. Good-bye!"
+msgstr "%s a quitté le groupe. Au revoir !"
+
+#. Cron.php:235
+#: 
+msgid "A message from your group %s at %s"
+msgstr "Un message de votre groupe %s à %s"
+
+#. edit.phtml:60
+#. edit.phtml:113
+#. edit.phtml:83
+#: 
+msgid "Additional Information"
+msgstr "Informations supplémentaires"
+
+#. noticeboard.phtml:13
+#: 
+msgid "Administration - Noticeboard"
+msgstr "Administration - Tableau de notifications"
+
+#. edit.phtml:22
+#. edit.phtml:97
+#. edit.phtml:21
+#: 
+msgid "Basic Information"
+msgstr "Information de base"
+
+#. browse.phtml:13
+#. browse.phtml:194
+#: 
+msgid "Browse Resources"
+msgstr "Parcourir les ressources"
+
+#. @layout.phtml:345
+#: 
+msgid "By using this platform you accept our Terms of Use and our Privacy policy."
+msgstr "En utilisant cette plateforme vous acceptez nos conditions d'utilisation et notre politique de confidentialité."
+
+#. BasePresenter.php:86
+#: 
+msgid "Chat window turned off."
+msgstr "Messagerie désactivée."
+
+#. BasePresenter.php:86
+#: 
+msgid "Chat window turned on."
+msgstr "Messagerie activée."
+
+#. browse.phtml:102
+#. browse.phtml:104
+#: 
+msgid "Click to subscribe."
+msgstr "Cliquez pour vous inscrire."
+
+#. browse.phtml:102
+#. browse.phtml:104
+#: 
+msgid "Click to unsubscribe."
+msgstr "Cliquez pour vous désinscrire."
+
+#. popup_chat.phtml:59
+#: 
+msgid "Compose"
+msgstr "Écrire"
+
+#. Cron.php:158
+#: 
+msgid "Continue to this [group] (%s)."
+msgstr "Continuer vers ce [groupe] (%s)."
+
+#. Cron.php:164
+#: 
+msgid "Continue to this [resource] (%s)."
+msgstr "Continuer vers cette [ressource] (%s)."
+
+#. Cron.php:152
+#: 
+msgid "Continue to this [user] (%s)."
+msgstr "Continuer vers cet [utilisateur] (%s)."
+
+#. setupmaintenance.phtml:104
+#: 
+msgid "Cron URL:"
+msgstr "Cron URL:"
+
+#. browse.phtml:206
+#: 
+msgid "Document"
+msgstr "Document"
+
+#. ResourcePresenter.php:1129
+#: 
+msgid "Error processing screenshot."
+msgstr "Erreur lors du traitement de la capture d'écran."
+
+#. BasePresenter.php:1376
+#. UserPresenter.php:2007
+#: 
+msgid "Error sending message."
+msgstr "Erreur lors de l'envoi du message."
+
+#. browse.phtml:204
+#: 
+msgid "Event"
+msgstr "Évènement"
+
+#. BasePresenter.php:898
+#: 
+msgid "File '%s' already exists."
+msgstr "Le fichier '%s' existe déjà."
+
+#. BasePresenter.php:847
+#. BasePresenter.php:894
+#: 
+msgid "File '%s' not found."
+msgstr "Fichier '%s' introuvable."
+
+#. browse.phtml:18
+#: 
+msgid "File Browser"
+msgstr "Explorateur de fichiers"
+
+#. Cron.php:92
+#: 
+msgid "Find a list of your activities [on your home page] (%s)."
+msgstr "Trouver une liste de vos activités [sur votre page d'accueil] (%s)."
+
+#. Cron.php:238
+#: 
+msgid "Find more information [on the page of the group] (%s)."
+msgstr "Trouver plus d'informations [sur votre page de groupe] (%s)."
+
+#. User.php:618
+#: 
+msgid "Hello %s,\n"
+"\n"
+"Somebody has requested an email change on Mycitizen.net. The new email will be: %s\n"
+"\n"
+"If you think that this is wrong, please [contact the support] (%s)."
+msgstr "Bonjour %s,\n Quelqu'un a demandé un changement d'adresse email sur Mycitizen.net. La nouvelle adresse mail sera: %s\n\nSi vous pensez qu'il s'agit d'une erreur, veuillez [contacter le support technique] (%s)."
+
+#. User.php:454
+#: 
+msgid "Hello %s,\n"
+"\n"
+"Thank you for signing up at Mycitizen.net!\n"
+"To finish your registration click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "Bonjour %s,\n\nMerci de vous être enregistré sur Mycitizen.net!\nPour finaliser votre inscription, cliquez [ici] (%s), ou copiez le lien suivant dans votre navigateur :\n\n%s"
+
+#. User.php:552
+#: 
+msgid "Hello %s,\n"
+"\n"
+"You have requested a password change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "Bonjour %s,\n\nVous avez demandé un changement de mot de passe sur Mycitizen.net.\nPour finaliser votre demande, cliquez [ici] (%s), ou copiez le lien suivant dans votre navigateur :\n\n%s"
+
+#. User.php:608
+#: 
+msgid "Hello %s,\n"
+"\n"
+"You have requested an email change on Mycitizen.net.\n"
+"To finish your request click [here] (%s), or copy the following link to your browser:\n"
+"\n"
+"%s"
+msgstr "Bonjour %s,\n\nVous avez demandé un changement d'adresse email sur Mycitizen.net.\nPour finaliser votre demande, cliquez [ici] (%s), ou copiez le lien suivant dans votre navigateur :\n\n%s"
+
+#. Cron.php:89
+#: 
+msgid "Here is an overview of what has happened since your last visit:"
+msgstr "Voici un résumé des évènements depuis votre dernière visite :"
+
+#. detail.phtml:234
+#. detail.phtml:240
+#. detail.phtml:275
+#: 
+msgid "Information"
+msgstr "Information"
+
+#. detail.phtml:40
+#. detail.phtml:55
+#: 
+msgid "Last activity: "
+msgstr "Dernière activité :"
+
+#. default.phtml:92
+#: 
+msgid "Messages"
+msgstr "Messages"
+
+#. ListerControlMain.php:402
+#: 
+msgid "More tags"
+msgstr "Plus de tags"
+
+#. ResourcePresenter.php:345
+#. ResourcePresenter.php:472
+#: 
+msgid "Nothing found"
+msgstr ""
+
+#. AdministrationPresenter.php:366
+#: 
+msgid "Notice Board"
+msgstr "Tableau de notifications"
+
+#. browse.phtml:205
+#: 
+msgid "Organization"
+msgstr "Organisation"
+
+#. browse.phtml:208
+#: 
+msgid "Other"
+msgstr "Autre"
+
+#. ResourcePresenter.php:345
+#. browse.phtml:74
+#. browse.phtml:262
+#: 
+msgid "Please enter some tags."
+msgstr "Merci d'entrer des tags."
+
+#. browse.phtml:42
+#: 
+msgid "Please enter the new file name:"
+msgstr "Merci d'entrer un nouveau nom de fichier :"
+
+#. popup_chat.phtml:373
+#. BasePresenter.php:1429
+#. UserPresenter.php:1768
+#. messages.phtml:290
+#: 
+msgid "Please select a recipient"
+msgstr "Merci de sélectionner un destinataire"
+
+#. Group.php:692
+#: 
+msgid "Please welcome our new member: %s has joined this group."
+msgstr "Merci d'accueillir notre nouveau membre : %s a rejoint ce groupe."
+
+#. detail.phtml:266
+#. messages.phtml:19
+#: 
+msgid "Private messaging has been disabled by the chat window. Reload page to re-enable"
+msgstr "La messagerie privée a été désactivée par la fenêtre de conversation. Rechargez la page pour la réactiver."
+
+#. setupmaintenance.phtml:142
+#: 
+msgid "Purge entire cache"
+msgstr "Vider le cache"
+
+#. Cron.php:67
+#: 
+msgid "Read your messages in your [inbox] (%s)."
+msgstr "Lire les messages de votre [boîte de réception] (%s)."
+
+#. Cron.php:171
+#: 
+msgid "Recent activity at %s"
+msgstr "Activité récente à %s"
+
+#. browse.phtml:256
+#: 
+msgid "Remove all faded items."
+msgstr "Supprimer tous les objets non permanents."
+
+#. ChatLister_body.phtml:19
+#: 
+msgid "Reset the search.<ul><li>The first click resets the search on this page.</li><li>The second click resets the search on all pages. </li></ul>"
+msgstr "Réinitialiser la recherche.<ul><li>Le premier clic réinitialise la recherche sur cette page.</li><li>Le deuxième clic réinitialise la recherche sur toutes les pages. </li></ul>"
+
+#. browse.phtml:225
+#: 
+msgid "Save as view"
+msgstr "Sauvegarder en tant que vue"
+
+#. detail.phtml:210
+#. detail.phtml:216
+#. detail.phtml:222
+#. detail.phtml:228
+#: 
+msgid "Screenshot"
+msgstr "Capture d'écran"
+
+#. ResourcePresenter.php:1131
+#: 
+msgid "Screenshot already exists."
+msgstr "Le capture d'écran existe déjà."
+
+#. ResourcePresenter.php:1092
+#: 
+msgid "Screenshot processing"
+msgstr ""
+
+#. setupmaintenance.phtml:107
+#: 
+msgid "Set up a cron on an external service:"
+msgstr "Mettre en place un CRON sur un service externe :"
+
+#. browse.phtml:219
+#: 
+msgid "Sort by Last Activity"
+msgstr "Trier par dernière activité"
+
+#. browse.phtml:218
+#: 
+msgid "Sort by Name"
+msgstr "Trier par nom"
+
+#. browse.phtml:220
+#: 
+msgid "Sort by Subscribers"
+msgstr "Trier par utilisateurs inscrits"
+
+#. BasePresenter.php:1248
+#: 
+msgid "Tag not found."
+msgstr "Tag non trouvé."
+
+#. popup_chat.phtml:36
+#: 
+msgid "The chat window is not available."
+msgstr ""
+
+#. UserPresenter.php:288
+#. UserPresenter.php:292
+#: 
+msgid "The email address couldn't be changed! The link is not active anymore."
+msgstr "L'adresse email n'a pu être modifiée ! Le lien n'est plus actif."
+
+#. UserPresenter.php:282
+#. UserPresenter.php:313
+#: 
+msgid "The email address has been succesfully changed."
+msgstr "L'adresse email a été modifiée avec succès."
+
+#. UserPresenter.php:1009
+#: 
+msgid "The email address is not valid. Please check it and try again."
+msgstr "L'adresse email n'est pas valide. Merci de la vérifier et d'essayer à nouveau."
+
+#. UserPresenter.php:316
+#: 
+msgid "The email couldn't be changed!"
+msgstr "L'adresse email n'a pu être modifiée !"
+
+#. default.phtml:81
+#. detail.phtml:248
+#: 
+msgid "The event is in the future."
+msgstr "L'évènement aura lieu dans le futur."
+
+#. default.phtml:82
+#. detail.phtml:249
+#: 
+msgid "The event is over."
+msgstr "L'évènement est déjà terminé."
+
+#. default.phtml:80
+#. detail.phtml:247
+#: 
+msgid "The event is upcoming."
+msgstr "L'évènement aura bientôt lieu."
+
+#. Group.php:691
+#: 
+msgid "The group has subscribed to the resource %s."
+msgstr "Le groupe s'est inscrit à la ressource %s."
+
+#. Group.php:699
+#: 
+msgid "The group has unsubscribed from the following resources:"
+msgstr "Le groupe s'est désinscrit des ressources suivantes :"
+
+#. UserPresenter.php:826
+#: 
+msgid "The password couldn't be changed! Please try again later."
+msgstr "Le mot de passe n'a pas pu être modifié ! Veillez réessayer plus tard."
+
+#. UserPresenter.php:773
+#: 
+msgid "The password couldn't be changed! Try again later."
+msgstr "Le mot de passe n'a pas pu être modifié ! Réessayez plus tard."
+
+#. UserPresenter.php:820
+#. UserPresenter.php:822
+#: 
+msgid "The password has been successfully changed."
+msgstr "Votre mot de passe a été modifié."
+
+#. UserPresenter.php:247
+#. UserPresenter.php:251
+#: 
+msgid "The registration couldn't be finished! The link is not active anymore."
+msgstr "L'inscription a échoué ! Le lien n'est plus actif."
+
+#. UserPresenter.php:396
+#: 
+msgid "There is a problem with your avatar."
+msgstr "Il y a un problème avec votre avatar."
+
+#. UserPresenter.php:1002
+#. UserPresenter.php:2143
+#: 
+msgid "This email address is already registered with another account."
+msgstr "Cette adresse email est déjà utilisée pour un autre compte."
+
+#. UserPresenter.php:1226
+#: 
+msgid "This email address is already used for another account."
+msgstr "Cette adresse email est déjà utilisée pour un autre compte."
+
+#. UserPresenter.php:727
+#: 
+msgid "This email address is not registered in our system!"
+msgstr "Cette adresse email n'est pas enregistrée dans notre système !"
+
+#. UserPresenter.php:1230
+#: 
+msgid "This email address is not valid. Please check it and try again."
+msgstr "Cette adresse email n'est pas valide. Merci de la vérifier et essayer à nouveau."
+
+#. UserPresenter.php:715
+#: 
+msgid "This username is not registered in our system!"
+msgstr "Ce nom d'utilisateur n'est pas enregistré !"
+
+#. Cron.php:146
+#. Cron.php:170
+#: 
+msgid "Too many emails? You can change the schedule on your [profile page](%s)."
+msgstr "Trop de messages ? Vous pouvez changer votre calendrier sur votre [profil](%s)."
+
+#. UserPresenter.php:170
+#. UserPresenter.php:201
+#. UserPresenter.php:444
+#. UserPresenter.php:510
+#. UserPresenter.php:525
+#. UserPresenter.php:570
+#. UserPresenter.php:703
+#. UserPresenter.php:762
+#. UserPresenter.php:967
+#. UserPresenter.php:1078
+#: 
+msgid "Too many failed login attempts. Please try again later."
+msgstr "Trop de connexion sans succès. Merci de réessayer plus tard."
+
+#. Cron.php:245
+#: 
+msgid "Too many messages? You can change the schedule on your [profile page](%s)."
+msgstr "Trop de messages ? Vous pouvez changer votre calendrier sur votre [profil](%s)."
+
+#. popup_chat.phtml:21
+#. detail.phtml:263
+#. detail.phtml:276
+#. messages.phtml:38
+#: 
+msgid "Type your text here."
+msgstr "Tapez votre texte ici."
+
+#. browse.phtml:207
+#: 
+msgid "Video/Audio"
+msgstr "Vidéo/Audio"
+
+#. ListerControlMain_messages.phtml:194
+#. PMLister_ajax.phtml:128
+#. PMLister_ajax_slim.phtml:128
+#: 
+msgid "You can reply only to friends."
+msgstr "Vous ne pouvez répondre qu'à vos amis."
+
+#. Cron.php:64
+#: 
+msgid "You have %d unread messages!"
+msgstr "Vous avez %d messages non lus !"
+
+#. Cron.php:62
+#: 
+msgid "You have 1 unread message!"
+msgstr "Vous avez un message non lu !"
+
+#. BasePresenter.php:1391
+#. UserPresenter.php:2022
+#: 
+msgid "You have just said that."
+msgstr "Vous venez juste de dire ça."
+
+#. Cron.php:147
+#: 
+msgid "You have unread messages at %s"
+msgstr "Vous avez des messages non lus à %s"
+
+#. ResourcePresenter.php:614
+#: 
+msgid "You just said that."
+msgstr "Vous venez juste de dire ça."
+
+#. StaticModel.php:427
+#: 
+msgid "You receive this email because you have signed up at %s."
+msgstr "Vous recevez cet email car vous êtes inscrit à %s."
+
+#. UserPresenter.php:2149
+#: 
+msgid "Your email address or IP is known at www.stopforumspam.com as spam source and was blocked."
+msgstr "Votre adresse email ou IP est reconnue par www.stopforumspam.com comme une source de spam et a été bloquée."
+
+#. UserPresenter.php:680
+#: 
+msgid "Your email or username:"
+msgstr "Votre email ou nom d'utilisateur :"
+
+#. Activity.php:344
+#: 
+msgid "Your password was changed."
+msgstr "Votre mot de passe a été modifié."
+
+#. Activity.php:339
+#: 
+msgid "Your profile was updated."
+msgstr "Votre profil a été mis à jour."
+
+#. StaticModel.php:435
+#. StaticModel.php:442
+#: 
+msgid "Yours,"
+msgstr "Cordialement,"
+
+#. ListerControlMain.php:377
+#: 
+msgid "audio"
+msgstr "audio"
+
+#. BasePresenter.php:493
+#: 
+msgid "browse"
+msgstr "parcourir"
+
+#. MapControl.php:68
+#: 
+msgid "center"
+msgstr "centrer"
+
+#. browse.phtml:256
+#: 
+msgid "clean up"
+msgstr "Réinitialiser"
+
+#. browse.phtml:94
+#: 
+msgid "click to rename"
+msgstr "Cliquez pour renommer."
+
+#. edit.phtml:44
+#. edit.phtml:43
+#: 
+msgid "crop and resize"
+msgstr "recadrer et redimensionner"
+
+#. WidgetPresenter.php:533
+#: 
+msgid "d.m.Y H:i:s"
+msgstr "d.m.Y H:i:s"
+
+#. browse.phtml:114
+#: 
+msgid "external link"
+msgstr "Lien externe"
+
+#. browse.phtml:109
+#: 
+msgid "fade or unfade"
+msgstr "Réaliser un fondu ou annuler le fondu"
+
+#. ListerControlMain.php:166
+#. ListerControlMain.php:172
+#. ListerControlMain.php:178
+#. StaticModel.php:282
+#. StaticModel.php:288
+#. StaticModel.php:294
+#. StaticModel.php:345
+#. StaticModel.php:351
+#. StaticModel.php:357
+#. BasePresenter.php:292
+#. BasePresenter.php:298
+#. BasePresenter.php:304
+#: 
+msgid "go to '%s'"
+msgstr "Allez à '%s'"
+
+#. @layout.phtml:239
+#: 
+msgid "go to your profile"
+msgstr "Aller à votre profil."
+
+#. BasePresenter.php:1165
+#. GroupPresenter.php:59
+#. ResourcePresenter.php:74
+#. UserPresenter.php:90
+#. UserPresenter.php:1497
+#: 
+msgid "j.n.Y"
+msgstr "j.n.Y"
+
+#. browse.phtml:99
+#: 
+msgid "number of susbcribers"
+msgstr "Nombres d'inscrits"
+
+#. Resource.php:528
+#: 
+msgid "other"
+msgstr "autre"
+
+#. browse.phtml:255
+#: 
+msgid "print"
+msgstr "imprimer"
+
+#. ResourcePresenter.php:851
+#: 
+msgid "private event"
+msgstr "évènement privé"
+
+#. ResourcePresenter.php:856
+#: 
+msgid "registered"
+msgstr "enregistré"
+
+#. edit.phtml:174
+#: 
+msgid "remove screenshot"
+msgstr "Supprimer les captures d'écran"
+
+#. browse.phtml:227
+#: 
+msgid "save"
+msgstr "sauvegarder"
+
+#. ListerControlMain.php:184
+#. StaticModel.php:300
+#. StaticModel.php:363
+#. BasePresenter.php:310
+#: 
+msgid "search for '%s'"
+msgstr "Rechercher pour '%s'"
+
+#. ResourcePresenter.php:857
+#: 
+msgid "subscribers"
+msgstr "abonnés"
+
+#. browse.phtml:19
+#. browse.phtml:72
+#: 
+msgid "tag1, tag2, ..."
+msgstr "tag1, tag2, ..."
+
+#. Resource.php:526
+#: 
+msgid "text information"
+msgstr "information du texte"
+
+#. @layout.phtml:240
+#: 
+msgid "toggle chat window"
+msgstr "Basculer vers la fenêtre de discussion"
+
+#. ListerControlMain.php:377
+#: 
+msgid "video"
+msgstr "vidéo"
+
+#. Resource.php:527
+#: 
+msgid "video/audio"
+msgstr "vidéo/audio"
+
+#. ResourcePresenter.php:855
+#: 
+msgid "world"
+msgstr "monde"
+
+#. User.php:1131
+#: 
+msgid "yesterday"
+msgstr "Hier"
+
+#: 
+msgid "We have contacted the server. Please wait.."
+msgstr ""
+
+#: 
+msgid "Hidden:"
+msgstr ""
+
+#: 
+msgid "You invited %s to a group."
+msgstr ""
+
+#: 
+msgid "%s invited you to a group."
+msgstr ""
+
+#: 
+msgid "Your friend %s invites you to the group %s."
+msgstr ""
+
+#: 
+msgid "An invitation was sent to your friend %s."
+msgstr ""
+
+#: 
+msgid "Read"
+msgstr ""
+

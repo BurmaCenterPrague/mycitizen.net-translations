@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<help>
+    <login>
+<![CDATA[
+
+	<h2>Signing In</h2>
+<div>
+ The first time you use this app, you need to proceed with "Get Started" where you choose your basic settings. Once these steps are finished, you can continue to sign in.<br/>
+ If you are already registered on the web site of the same deployment, you can use the same username and password.<br/>
+ If you check "Remember me" you won't have to enter these details next time again, until you sign out from the Dashboard.<br/>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#login">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+</div>
+]]>
+    </login>
+    <get_started>
+        <![CDATA[
+
+	<h2>Preferences</h2>
+<div>
+Select the language for the user interface. You may have to restart the app after changing the language.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#get_started">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </get_started>
+    <get_started_2>
+<![CDATA[
+
+	<h2>Selecting a Deployment</h2>
+<div>
+Before you use this app, you need to connect it to a deployment.<br/>
+You may either select a deployment from the list, or you type in the address. The pattern of the address is <em>www.example.com</em>, without "http://" or "https://" and without trailing slash. If you use a deployment from the list, keep the textfield empty.
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#get_started_2">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+</div>
+]]>
+    </get_started_2>
+    <get_started_3>
+<![CDATA[
+
+	<h2>Sign In or Sign Up</h2>
+<div>
+If you already have an account at the selected deployment, then you can continue to sign in. Otherwise, you will first have to create a new account.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#get_started_3">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </get_started_3>
+    <register>
+<![CDATA[
+
+	<h2>Sign Up</h2>
+<div>
+Enter a username, a password and your email address. Before you can use your account on mycitizen.net, you will first need to confirm a link in an email that will come to your address.<br/>
+The password must be at least 8 characters long and contain a mix of numbers, upper case letters and lower case letters.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#register">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </register>
+    <forgotten_password>
+<![CDATA[
+
+	<h2>Forgotten Password</h2>
+<div>
+Enter the email address that you have used with your account at mycitizen.net. You will receive an email with a link, which you need to click to reset your password and create a new one.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#forgotten_password">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </forgotten_password>
+    <main>
+<![CDATA[
+
+	<h2>Users, Groups and Resources</h2>
+<div>
+This is the main screen. If the filter is off, you see all users, groups and resources. If the filter is on, you see only those that match the filter settings.<br/>
+At the bottom you can open the <a href="net.mycitizen.mcn://filter">filter</a>, the <a href="net.mycitizen.mcn://dashboard">dashboard</a> or your <a href="net.mycitizen.mcn://messages">messages</a>. The color of these button indicates their status.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#main">More information</a>
+	<br/><br/><a href=net.mycitizen.mcn://about">About this app</a>
+]]>
+    </main>
+    <filter>
+<![CDATA[
+
+	<h2>Filter</h2>
+<div>
+The filter affects the lists of users, groups and resources. There are several ways how to use it:<br/>
+
+• By checking "Only my connections", the list will only show your friends, the groups where you are a member, and resources that you are subscribed to.<br/>
+• You can enter a part of the name, select tags, a language and a position on the map if you want to <a href="net.mycitizen.mcn://filter_map">filter by location</a>. The lists will then display only items that match all of the criteria. The function "filter by location" is only available if your phone is connected to the Internet.<br/>
+• If you click on "Suggest", then the filter will be set according to your own profile. The lists will therefore show items that are similar to your own interests.<br/>
+• The button "reset" clears all fields.<br/>
+<br/>
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#filter">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </filter>
+    <filter_map>
+<![CDATA[
+
+	<h2>Filter by Location</h2>
+<div>
+On this screen you can select a seach area on the map.
+
+• Show your own location, if available from GPS or networks.<br/>
+• Show the center of the selected search area.<br/>
+• Turn on to set a marker for the center of the search area. Turn off to return to moving and zooming the map.<br/>
+• Remove the marker of the search area.<br/>
+• Use the slider to change the radius of the search area.<br/>
+<br/>
+When you have finished setting the search area, return to the {<FILTER>filter} screen and apply the filter.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#filter_map">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </filter_map>
+    <dashboard>
+<![CDATA[
+
+	<h2>Dashboard</h2>
+<div>
+On the Dashboard you find basic status information. The most important is the connection quality, displayed as red (offline), yellow (slow connection) or green (fast connection).
+While you are offline, you cannot load fresh data. With a slow connection, you will retrieve all images with reduced quality.<br/>
+<br/>
+You also can access the following functions:<br/>
+• <a href="net.mycitizen.mcn://profile">Edit your profile</a><br/>
+• <a href="net.mycitizen.mcn://create_group">Create a group</a> (only available after you are registered for a sufficient time)<br/>
+• Reload data from deployment<br/>
+• Sign out. If you just want to quit and remain logged in, use the phone's "back" function.<br/>
+<br/>
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#dashboard">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </dashboard>
+    <messages>
+<![CDATA[
+
+	<h2>Messages</h2>
+<div>
+The message pane has two filters that show only new and only trashed messages. If you like to send a new message, you need to start from the detail page of the recipient.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#messages">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </messages>
+    <user_detail>
+<![CDATA[
+
+	<h2>User Details</h2>
+<div>
+Here you see the details of a user and whether he or she is online. On the top you find several menus:<br/>
+• tags<br/>
+• friends<br/>
+• memberships and subscribed resources<br/>
+• the location, if one has been set<br/>
+• messages between you and that user<br/>
+<br/>
+Depending on your own connection to that user, you will not be able to access all of these menus.<br/>
+<br/>
+If the user has saved a home page, you can get there by tapping on the avatar.<br/>
+If you keep the avatar pressed, you can see the link without going there.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#user_detail">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </user_detail>
+    <group_detail>
+<![CDATA[
+
+	<h2>Group Details</h2>
+<div>
+Here you see the details of a group. On the top you find several menus:<br/>
+• tags<br/>
+• members and subscribed resources<br/>
+• the location, if one has been set<br/>
+• the group chat<br/>
+<br/>
+Depending on your own connection to that group, you will not be able to access all of these menus.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#group_detail">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </group_detail>
+    <resource_detail>
+<![CDATA[
+
+	<h2>Resource Details</h2>
+<div>
+Here you see the details of a resource. On the top you find several menus:<br/>
+• tags<br/>
+• subscribed users and groups<br/>
+• the location, if one has been set<br/>
+• messages between you and that user<br/>
+<br/>
+Depending on your own connection to that resource, you will not be able to access all of these menus.<br/>
+<br/>
+By tapping on the resource icon you can launch a video or open an external link. YouTube videos can be viewed directly in the app.<br/>
+If you keep the icon pressed, you can see the link without going there.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#resource_detail">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </resource_detail>
+    <profile>
+<![CDATA[
+
+	<h2>My Profile</h2>
+<div>
+Here you can edit your personal information like name or description, your portrait, your tags (interests or topics that you are interested in) and your location. (This location will be visible to other users - they won't be able to see where you actually are right now.)<br/>
+The information will be saved when you leave this section.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#profile">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </profile>
+    <create_group>
+<![CDATA[
+
+	<h2>Creating a Group</h2>
+<div>
+If you have the necessary permissions, you can create a group and become its owner.<br/>
+Since editing is currently not available via the mobile app, you need to make sure you enter all information during the creation.<br/>
+The group will be created once you leave the page.
+</div>
+	<br/><br/><a href="https://mycitizen.net/manual:mobile#create_group">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </create_group>
+    <map>
+<![CDATA[
+
+	<h2>Using the map</h2>
+<div>
+The map allows you to switch between your own location and the location of the viewed user, group or resource. For best accuracy, GPS must be enabled on your phone.<br/>
+Use the buttons + and - to zoom in or out.
+</div>
+<br/><br/><a href="https://mycitizen.net/manual:mobile#map">More information</a>
+	<br/><br/><a href="net.mycitizen.mcn://about">About this app</a>
+]]>
+    </map>
+    <about>
+<![CDATA[
+	<div>
+	<h2>About</h2>
+Mycitizen.net is a free platform for local communities to support citizen engagement. The software for web and mobile is part of a non-profit project.<br />
+If you need more help, check out the <a href="https://mycitizen.net/manual:start">manuals</a> of <a href="https://mycitizen.net">mycitizen.net</a> or <a href="{SUPPORT_URL}">ask a question</a>.
+<br/><br/><br/>
+(c) 2013ff. Burma Center Prague<br/>
+License: GPLv3<br/>
+Software version: {VERSION}. <a href="https://mycitizen.net/mobile:start">More information about the app</a><br/>
+<br/><br/>
+This project is supported from the resources of the Ministry of Foreign Affairs of the Czech Republic within its Transition Promotion Program.
+</div>
+]]>
+    </about>
+</help>
